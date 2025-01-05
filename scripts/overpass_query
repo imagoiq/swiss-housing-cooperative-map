@@ -1,10 +1,10 @@
 [out:json][timeout:25000];
+area["name:en"="Switzerland"]->.ch;
 (
-  nwr["owner:type"="cooperative"]["building"~"^(residental|apartments)$"]({{bbox}});
-  nwr["owner:type"="cooperative"]["landuse"="residential"]({{bbox}});
-  nwr["operator:type"="cooperative"]["building"~"^(residental|apartments)$"]({{bbox}});
-  nwr["operator:type"="cooperative"]["landuse"="residential"]({{bbox}});
+nwr(area.ch)["owner:type"="cooperative"]["building"~"^(residental|apartments)$"];
+nwr(area.ch)["owner:type"="cooperative"]["landuse"="residential"];
+nwr(area.ch)["operator:type"="cooperative"]["building"~"^(residental|apartments)$"];
+nwr(area.ch)["operator:type"="cooperative"]["landuse"="residential"];
 );
-
 (._;>;);
 out body;

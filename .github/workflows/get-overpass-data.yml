@@ -3,7 +3,6 @@
 name: Get overpass data
 
 env:
-  overpass_query: 'https://overpass.osm.ch/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0A%28%0A%20%20nwr%5B%22owner%3Atype%22%3D%22cooperative%22%5D%5B%22building%22~%22%5E%28residental%7Capartments%29%24%22%5D%2846.160809861457125%2C6.098785400390625%2C46.976504510552%2C7.230377197265624%29%3B%0A%20%20nwr%5B%22owner%3Atype%22%3D%22cooperative%22%5D%5B%22landuse%22%3D%22residential%22%5D%2846.160809861457125%2C6.098785400390625%2C46.976504510552%2C7.230377197265624%29%3B%0A%20%20nwr%5B%22operator%3Atype%22%3D%22cooperative%22%5D%5B%22building%22~%22%5E%28residental%7Capartments%29%24%22%5D%2846.160809861457125%2C6.098785400390625%2C46.976504510552%2C7.230377197265624%29%3B%0A%20%20nwr%5B%22operator%3Atype%22%3D%22cooperative%22%5D%5B%22landuse%22%3D%22residential%22%5D%2846.160809861457125%2C6.098785400390625%2C46.976504510552%2C7.230377197265624%29%3B%0A%29%3B%0A%0A%28._%3B%3E%3B%29%3B%0Aout%20body%3B'
   cooperative_geo_filename: 'cooperative_habitation_suisse.geojson'
 
 # Controls when the workflow will run
@@ -12,7 +11,7 @@ on:
   workflow_dispatch:
   # Every week, at 6 am on Sunday
   schedule:
-   - cron: '0 6 * * 0'
+    - cron: '0 6 * * 0'
 
 jobs:
   build:
@@ -37,12 +36,13 @@ jobs:
 
       - name: Download overpass data and convert to geojson
         run: |
-          curl $overpass_query | osmtogeojson > $cooperative_geo_filename
+          curl -d "$(<scripts/overpass_query)" -X POST http://overpass.osm.ch/api/interpreter \
+          | osmtogeojson > $cooperative_geo_filename
 
       - name: Get list of cooperative owners
         run: |
-          jq -rf scripts/list_owners.jq cooperative_geo_filename > list_owner.geojson
-          
+          jq -rf scripts/list_owners.jq $cooperative_geo_filename > list_owner.geojson
+
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
