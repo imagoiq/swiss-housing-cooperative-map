@@ -6,6 +6,9 @@ name: Get overpass data
 on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  # Every week, at 6 am on Sunday
+  schedule:
+   - cron: '0 6 * * 0'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
