@@ -43,6 +43,10 @@ jobs:
         run: |
           jq -rf scripts/list_owners.jq $cooperative_geo_filename > list_owner.geojson
 
+      - name: Get list of cooperative operators
+        run: |
+          jq -rf scripts/list_operators.jq $cooperative_geo_filename > list_operators.geojson
+
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
