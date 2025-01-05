@@ -1,0 +1,106 @@
+[
+  {
+    "owner_wikidata": null,
+    "owner": "C-Arts-Ouches",
+    "owner_short": null,
+    "owner_abbr": "C-Arts-Ouches",
+    "owner_website": "https://c-arts-ouches.ch/",
+    "buildings": 1
+  },
+  {
+    "owner_wikidata": null,
+    "owner": "Coopérative Cité Derrière",
+    "owner_short": null,
+    "owner_abbr": null,
+    "owner_website": null,
+    "buildings": 1
+  },
+  {
+    "owner_wikidata": null,
+    "owner": "Coopérative I6",
+    "owner_short": null,
+    "owner_abbr": "I6",
+    "owner_website": null,
+    "buildings": 1
+  },
+  {
+    "owner_wikidata": null,
+    "owner": "Coopérative d'habitation des employés du rail",
+    "owner_short": null,
+    "owner_abbr": "CHER",
+    "owner_website": null,
+    "buildings": 1
+  },
+  {
+    "owner_wikidata": "Q86666680",
+    "owner": "Coopérative de l’habitat associatif",
+    "owner_short": null,
+    "owner_abbr": "CODHA",
+    "owner_website": "https://www.codha.ch",
+    "buildings": 23
+  },
+  {
+    "owner_wikidata": null,
+    "owner": "Coopérative du logement Lutry",
+    "owner_short": null,
+    "owner_abbr": "CLL",
+    "owner_website": "https://cll-lutry.ch",
+    "buildings": 2
+  },
+  {
+    "owner_wikidata": null,
+    "owner": "Ecopolis",
+    "owner_short": null,
+    "owner_abbr": null,
+    "owner_website": "https://ecopolis.ch/",
+    "buildings": 1
+  },
+  {
+    "owner_wikidata": null,
+    "owner": "La Meute",
+    "owner_short": null,
+    "owner_abbr": null,
+    "owner_website": "http://www.meute.ch/",
+    "buildings": 1
+  },
+  {
+    "owner_wikidata": null,
+    "owner": "Le Bled",
+    "owner_short": null,
+    "owner_abbr": null,
+    "owner_website": "http://lebled.ch/",
+    "buildings": 1
+  },
+  {
+    "owner_wikidata": null,
+    "owner": "Les Jardins de la Paix, société coopérative d'habitation",
+    "owner_short": null,
+    "owner_abbr": null,
+    "owner_website": "https://jardinsdelapaix.ch",
+    "buildings": 2
+  },
+  {
+    "owner_wikidata": null,
+    "owner": "Logement Idéal",
+    "owner_short": null,
+    "owner_abbr": null,
+    "owner_website": "https://www.logement-ideal.ch",
+    "buildings": 1
+  },
+  {
+    "owner_wikidata": "Q126741196",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner_short": null,
+    "owner_abbr": "SCHL",
+    "owner_website": "https://schl.ch",
+    "buildings": 85
+  },
+  {
+    "owner_wikidata": "Q131310187",
+    "owner": "Société coopérative d'habitations Le Chêne",
+    "owner_short": null,
+    "owner_abbr": "SCH Le Chêne",
+    "owner_website": null,
+    "buildings": 7
+  }
+]
