@@ -43,9 +43,21 @@ jobs:
         run: |
           jq -rf scripts/list_owners.jq $cooperative_geo_filename > list_owner.geojson
 
+      - name: Convert list of cooperative owners to CSV
+        run: |
+          cat list_owners.geojson \
+          | jq -r ‘(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv‘ \
+          > list_owners.csv
+
       - name: Get list of cooperative operators
         run: |
           jq -rf scripts/list_operators.jq $cooperative_geo_filename > list_operators.geojson
+
+      - name: Convert list of cooperative operator to CSV
+        run: |
+          cat list_operators.geojson \
+          | jq -r ‘(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv‘ \
+          > list_operators.csv
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
