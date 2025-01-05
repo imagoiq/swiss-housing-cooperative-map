@@ -37,6 +37,7 @@ jobs:
 
       - name: Download overpass data and convert to geojson
         run: |
+          echo $overpass_query
           curl $overpass_query | osmtogeojson > $cooperative_geo_filename
 
       - name: Get list of cooperative owners
