@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Get overpass data
+name: Main pipeline
 
 env:
   cooperative_geo_filename: 'cooperative_habitation_suisse.geojson'
@@ -46,7 +46,7 @@ jobs:
       - name: Convert list of cooperative owners to CSV
         run: |
           cat list_owners.geojson \
-          | jq -r ‘(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv‘ \
+          | jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv' \
           > list_owners.csv
 
       - name: Get list of cooperative operators
@@ -56,7 +56,7 @@ jobs:
       - name: Convert list of cooperative operator to CSV
         run: |
           cat list_operators.geojson \
-          | jq -r ‘(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv‘ \
+          | jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv' \
           > list_operators.csv
 
       # Commit all changed files back to the repository
