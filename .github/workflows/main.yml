@@ -41,7 +41,7 @@ jobs:
 
       - name: Ensure data folder exist
         run: |
-          mkdir data
+          mkdir -p data
 
       - name: Download overpass data and convert to geojson
         run: |
