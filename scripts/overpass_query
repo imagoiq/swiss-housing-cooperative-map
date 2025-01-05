@@ -6,4 +6,4 @@ nwr(area.ch)["owner:type"="cooperative"]["landuse"="residential"];
 nwr(area.ch)["operator:type"="cooperative"]["building"~"^(residental|apartments)$"];
 nwr(area.ch)["operator:type"="cooperative"]["landuse"="residential"];
 );
-out geom;
+out geom meta;
