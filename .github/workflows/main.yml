@@ -9,6 +9,10 @@ env:
 on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  # Push of this file
+  push:
+    paths:
+      - .github/workflows/main.yml
   # Every week, at 6 am on Sunday
   schedule:
     - cron: '0 6 * * 0'
