@@ -33,7 +33,14 @@ Pour cibler les coopératives de logement, la requête prend en compte les élè
 
 Les quartiers entièrement fondé par une coopérative sont également pris en compte dans les données à l'aide de la clé `landuse=residential`.
 
-## Mise à jour des données
+### Mise à jour des données
 [![](https://github.com/imagoiq/cooperative-habitation-suisse/actions/workflows/main.yml/badge.svg)]([https://google.ch](https://github.com/imagoiq/cooperative-habitation-suisse/actions/workflows/main.yml))
 
 Chaque dimanche, le fichier geojson est mis à jour via l'api overpass et un [worflow Github](https://github.com/imagoiq/cooperative-habitation-suisse/blob/main/.github/workflows/main.yml).
+
+### Liste des coopératives
+
+Les listes des coopératives au format CSV se trouvent dans le https://github.com/imagoiq/cooperative-habitation-suisse/tree/main/data.
+
+<!-- start latest cooperatives -->
+<!-- end latest cooperatives -->
