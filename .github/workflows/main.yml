@@ -49,13 +49,13 @@ jobs:
 
       - name: Get list of cooperative owners
         run: |
-          jq -rf scripts/list_owners.jq $cooperative_geo_filename \
+          jq -rf scripts/list_owners.jq data/$cooperative_geo_filename \
           | jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv' \
           > data/list_owners.csv
 
       - name: Get list of cooperative operators
         run: |
-          jq -rf scripts/list_operators.jq $cooperative_geo_filename \
+          jq -rf scripts/list_operators.jq data/$cooperative_geo_filename \
           | jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv' \
           > data/list_operators.csv
 
