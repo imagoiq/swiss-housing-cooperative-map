@@ -1,0 +1,27 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Get overpass data
+
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Download geojson from overpass.osm.ch
+      - name: Run a multi-line script
+        run: curl http://overpass.osm.ch/api/interpreter?data=%2F*%0AThis%20has%20been%20generated%20by%20the%20overpass-turbo%20wizard.%0AThe%20original%20search%20was%3A%0A%E2%80%9Cowner%3Atype%3Dcooperative%20and%20building%3D*%E2%80%9D%0A*%2F%0A%5Bout%3Ajson%5D%5Btimeout%3A2500%5D%3B%0A%2F%2F%20gather%20results%0A%28%0A%20%20nwr%5B%22owner%3Atype%22%3D%22cooperative%22%5D%5B%22building%22%5D%2845.92631906688105%2C5.89141845703125%2C47.55243302404593%2C8.15460205078125%29%3B%0A%20%20nwr%5B%22owner%3Atype%22%3D%22cooperative%22%5D%5B%22landuse%22%3D%22residential%22%5D%2845.92631906688105%2C5.89141845703125%2C47.55243302404593%2C8.15460205078125%29%3B%0A%20%20nwr%5B%22operator%3Atype%22%3D%22cooperative%22%5D%5B%22building%22%5D%2845.92631906688105%2C5.89141845703125%2C47.55243302404593%2C8.15460205078125%29%3B%0A%20%20nwr%5B%22operator%3Atype%22%3D%22cooperative%22%5D%5B%22landuse%22%3D%22residential%22%5D%2845.92631906688105%2C5.89141845703125%2C47.55243302404593%2C8.15460205078125%29%3B%0A%29%3B%0A%2F%2F%20print%20results%0Aconvert%20item%20%3A%3A%3D%3A%3A%2C%3A%3Ageom%3Dgeom%28%29%2C_osm_type%3Dtype%28%29%3B%0Aout%20geom%3B > cooperative_habitation_suisse.geojson
+        
+      # Commit all changed files back to the repository
+      - uses: stefanzweifel/git-auto-commit-action@v5
