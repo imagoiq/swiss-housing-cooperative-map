@@ -6,7 +6,15 @@ Pour l'instant les données sont visibles via https://umap.openstreetmap.fr/fr/m
 
 ## Données
 
-Les logements visibles sur la carte se basent sur les clés suivantes dans openstreetmap:
+Les logements visibles sur la carte se basent sur la requête suivante dans openstreetmap:
+
+```
+  nwr["owner:type"="cooperative"]["building"]({{bbox}});
+  nwr["owner:type"="cooperative"]["landuse"="residential"]({{bbox}});
+  nwr["operator:type"="cooperative"]["building"]({{bbox}});
+  nwr["operator:type"="cooperative"]["landuse"="residential"]({{bbox}});
+```
+[Voir dans Overpass-turbo](https://osm.li/Xda)
 
 # Mise à jour des données
 
