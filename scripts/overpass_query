@@ -1,0 +1,10 @@
+[out:json][timeout:25000];
+(
+  nwr["owner:type"="cooperative"]["building"~"^(residental|apartments)$"]({{bbox}});
+  nwr["owner:type"="cooperative"]["landuse"="residential"]({{bbox}});
+  nwr["operator:type"="cooperative"]["building"~"^(residental|apartments)$"]({{bbox}});
+  nwr["operator:type"="cooperative"]["landuse"="residential"]({{bbox}});
+);
+
+(._;>;);
+out body;
