@@ -63,11 +63,12 @@ jobs:
 
       - name: Update readme cooperative'list
         run: |
-          REPLACEWITH=$(jq -rf scripts/list_operators.jq data/$cooperative_geo_filename \
-          | jq '.[] | if .website != null then "* [\(.name)](\(.website))" else "* \(.name)" end')
-          STARTTAG="start_list_cooperatives"
-          ENDTAG="end_list_cooperatives"
-          sed -E "s/(<\!\-\-$STARTTAG\-\->)(.*)(<\!\-\-$ENDTAG\-\->)/\1$REPLACEWITH\3/" -i README.md
+          REPLACEWITH=$(jq -rf scripts/list_owners.jq data/$cooperative_geo_filename | jq -r '.[] | if .website != null then "* [\(.name)](\(.website))" else "* \(.name)" end')
+          awk -v REPLACEWITH=$REPLACEWITH '
+            BEGIN       {p=1}
+            /^<!-- start_list_cooperatives -->/   {print;print REPLACEWITH;p=0}
+            /^<!-- end_list_cooperatives -->/     {p=1}
+            p' README.md > README.md
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
