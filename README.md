@@ -45,22 +45,4 @@ Chaque dimanche, le fichier geojson est mis à jour via l'api overpass et un [wo
 
 Les listes des coopératives au format CSV se trouvent dans le <https://github.com/imagoiq/cooperative-habitation-suisse/tree/main/data>.
 
-<!--- @@inject-code: list_cooperative.md?code=false --->
-
-```markdown
-* Coopérative Cité Derrière
-* Coopérative I6
-* Coopérative d'habitation des employés du rail
-* [Coopérative de l’habitat associatif](https://www.codha.ch)
-* [Coopérative des Arts et des Ouches](https://c-arts-ouches.ch/)
-* [Coopérative du logement Lutry](https://cll-lutry.ch)
-* [Ecopolis](https://ecopolis.ch/)
-* [La Meute](http://www.meute.ch/)
-* [Le Bled](http://lebled.ch/)
-* [Les Jardins de la Paix, société coopérative d'habitation](https://jardinsdelapaix.ch)
-* [Logement Idéal](https://www.logement-ideal.ch)
-* [Société coopérative d'habitation Lausanne](https://schl.ch)
-* Société coopérative d'habitations Le Chêne
-```
-
-<!--- @@inject-end: list_cooperative.md?code=false --->
+<!--- @@inject: list_cooperative.md --->
