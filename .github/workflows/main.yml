@@ -20,7 +20,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
@@ -65,6 +65,7 @@ jobs:
       - name: Update readme cooperative'list
         run: |
           REPLACEWITH="$(jq -rf scripts/list_owners.jq data/$cooperative_geo_filename | jq -r '.[] | if .website != null then "* [\(.name)](\(.website))" else "* \(.name)" end')"
+          awk --version
           awk -v REPLACEWITH=$REPLACEWITH '
             BEGIN       {p=1}
             /^<!-- start_list_cooperatives -->/   {print;print REPLACEWITH;p=0}
