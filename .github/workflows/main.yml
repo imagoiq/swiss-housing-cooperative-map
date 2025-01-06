@@ -3,7 +3,7 @@
 name: Main pipeline
 
 env:
-  output_dir: 'data';
+  output_dir: 'data'
   cooperative_buildings_filename: 'swiss_housing_cooperative_buildings.geojson'
   cooperative_areas_filename: 'swiss_housing_cooperative_areas.geojson'
 
