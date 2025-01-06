@@ -43,7 +43,7 @@ Chaque dimanche, le fichier geojson est mis à jour via l'api overpass et un [wo
 
 ### Liste des coopératives
 
-Les listes des coopératives au format CSV se trouvent dans le <https://github.com/imagoiq/cooperative-habitation-suisse/tree/main/data>.
+Les listes des coopératives au format CSV se trouvent dans le [dossier data](https://github.com/imagoiq/cooperative-habitation-suisse/tree/main/data).
 
 <!--- @@inject: list_cooperative.md --->
 
