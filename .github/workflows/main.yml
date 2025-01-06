@@ -36,6 +36,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get install jq
+          sudo apt-get install moreutils
           sudo apt install nodejs
           npm install -g osmtogeojson
 
@@ -63,12 +64,12 @@ jobs:
 
       - name: Update readme cooperative'list
         run: |
-          REPLACEWITH=$(jq -rf scripts/list_owners.jq data/$cooperative_geo_filename | jq -r '.[] | if .website != null then "* [\(.name)](\(.website))" else "* \(.name)" end')
+          REPLACEWITH="$(jq -rf scripts/list_owners.jq data/$cooperative_geo_filename | jq -r '.[] | if .website != null then "* [\(.name)](\(.website))" else "* \(.name)" end')"
           awk -v REPLACEWITH=$REPLACEWITH '
             BEGIN       {p=1}
             /^<!-- start_list_cooperatives -->/   {print;print REPLACEWITH;p=0}
             /^<!-- end_list_cooperatives -->/     {p=1}
-            p' README.md > README.md
+            p' README.md | sponge README.md
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
