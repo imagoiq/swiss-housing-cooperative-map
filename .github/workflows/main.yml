@@ -37,7 +37,6 @@ jobs:
         run: |
           sudo apt-get install jq
           sudo apt-get install moreutils
-          sudo apt-get install gawk
           sudo apt install nodejs
           npm install -g osmtogeojson
 
@@ -69,9 +68,9 @@ jobs:
           awk --version
           awk -v REPLACEWITH=$REPLACEWITH '
             BEGIN       {p=1}
-            /^<!-- start_list_cooperatives -->/   {print;print REPLACEWITH;p=0}
+            /^<!-- start_list_cooperatives -->/   {print;print "REPLACEWITH";p=0}
             /^<!-- end_list_cooperatives -->/     {p=1}
-            p' README.md | sponge README.md
+            p' README.md
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
