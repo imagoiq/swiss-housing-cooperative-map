@@ -65,8 +65,8 @@ jobs:
       - name: Update readme cooperative'list
         run: |
           REPLACEWITH="$(jq -rf scripts/list_owners.jq data/$cooperative_geo_filename | jq -r '.[] | if .website != null then "* [\(.name)](\(.website))" else "* \(.name)" end')"
-          LC_ALL=C LANG=fr_FR.UTF-8 LC_MESSAGES=fr_FR.UTF-8
-          awk -v REPLACEWITH=$REPLACEWITH '
+          locale
+          LC_ALL=C LANG=fr_FR.UTF-8 LC_MESSAGES=fr_FR.UTF-8 awk -v REPLACEWITH=$REPLACEWITH '
             BEGIN       {p=1}
             /^<!-- start_list_cooperatives -->/   {print;print REPLACEWITH;p=0}
             /^<!-- end_list_cooperatives -->/     {p=1}
