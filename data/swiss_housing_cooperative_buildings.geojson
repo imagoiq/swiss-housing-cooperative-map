@@ -3,6 +3,117 @@
 "features": [
 {
   "type": "Feature",
+  "id": "relation/1320556",
+  "properties": {
+    "timestamp": "2025-01-10T17:45:57Z",
+    "version": 7,
+    "changeset": 161214877,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lutry",
+    "addr:country": "CH",
+    "addr:postcode": "1095",
+    "building": "apartments",
+    "building:levels": "6",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Coopérative du logement Lutry",
+    "owner:abbr": "CLL",
+    "owner:type": "cooperative",
+    "owner:website": "https://cll-lutry.ch",
+    "source": "Orthophoto swisstopo Level2",
+    "type": "multipolygon",
+    "id": "relation/1320556"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6881375,
+          46.5059324
+        ],
+        [
+          6.6883605,
+          46.5057383
+        ],
+        [
+          6.6883708,
+          46.5057294
+        ],
+        [
+          6.6883989,
+          46.5057049
+        ],
+        [
+          6.6883841,
+          46.5056847
+        ],
+        [
+          6.6882435,
+          46.5054579
+        ],
+        [
+          6.6883045,
+          46.5054415
+        ],
+        [
+          6.6883682,
+          46.5054289
+        ],
+        [
+          6.6884307,
+          46.505428
+        ],
+        [
+          6.6885005,
+          46.5054325
+        ],
+        [
+          6.688556,
+          46.5054403
+        ],
+        [
+          6.6885883,
+          46.5054475
+        ],
+        [
+          6.6886425,
+          46.5054741
+        ],
+        [
+          6.6890983,
+          46.505703
+        ],
+        [
+          6.688531,
+          46.5062336
+        ],
+        [
+          6.6881527,
+          46.506041
+        ],
+        [
+          6.6881797,
+          46.5060108
+        ],
+        [
+          6.688105,
+          46.5059695
+        ],
+        [
+          6.6881375,
+          46.5059324
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "relation/17744591",
   "properties": {
     "timestamp": "2025-01-05T11:10:03Z",
@@ -123,6 +234,111 @@
         [
           6.5624814,
           46.5272466
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/39416778",
+  "properties": {
+    "timestamp": "2025-01-10T17:29:05Z",
+    "version": 5,
+    "changeset": 161214423,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:housenumber": "5",
+    "addr:street": "Rue des Acacias",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "id": "way/39416778"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.920451,
+          47.0009433
+        ],
+        [
+          6.9205094,
+          47.0007506
+        ],
+        [
+          6.9208279,
+          47.0007956
+        ],
+        [
+          6.9207695,
+          47.0009882
+        ],
+        [
+          6.920451,
+          47.0009433
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44156493",
+  "properties": {
+    "timestamp": "2025-01-10T17:56:49Z",
+    "version": 8,
+    "changeset": 161215163,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:housenumber": "8",
+    "addr:postcode": "1012",
+    "addr:street": "Chemin du Ravin",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophotos de la Ville de Lausanne (2008)",
+    "id": "way/44156493"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6541439,
+          46.5226235
+        ],
+        [
+          6.6538584,
+          46.5227718
+        ],
+        [
+          6.6537622,
+          46.5226841
+        ],
+        [
+          6.6540477,
+          46.5225358
+        ],
+        [
+          6.6541439,
+          46.5226235
         ]
       ]
     ]
@@ -521,6 +737,401 @@
         [
           6.6110572,
           46.5215552
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44780642",
+  "properties": {
+    "timestamp": "2025-01-10T18:04:57Z",
+    "version": 10,
+    "changeset": 161215397,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.50893784",
+    "oa:lon": "6.62583923",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophotos Ville de Lausanne 2008",
+    "id": "way/44780642"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6258326,
+          46.5088467
+        ],
+        [
+          6.625944,
+          46.5089854
+        ],
+        [
+          6.6258392,
+          46.5090255
+        ],
+        [
+          6.6258718,
+          46.5090662
+        ],
+        [
+          6.625132,
+          46.5093494
+        ],
+        [
+          6.6251027,
+          46.5093129
+        ],
+        [
+          6.6250042,
+          46.5093506
+        ],
+        [
+          6.6249008,
+          46.5092218
+        ],
+        [
+          6.6250128,
+          46.509179
+        ],
+        [
+          6.6250839,
+          46.5092675
+        ],
+        [
+          6.6258038,
+          46.508992
+        ],
+        [
+          6.6257213,
+          46.5088892
+        ],
+        [
+          6.6258326,
+          46.5088467
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44780933",
+  "properties": {
+    "timestamp": "2025-01-10T18:04:57Z",
+    "version": 8,
+    "changeset": 161215397,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "48",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue Frédéric-César-de-La-Harpe",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.50910950",
+    "oa:lon": "6.62441254",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophotos Ville de Lausanne 2008",
+    "id": "way/44780933"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6243517,
+          46.509043
+        ],
+        [
+          6.6244797,
+          46.5089931
+        ],
+        [
+          6.6245901,
+          46.5091275
+        ],
+        [
+          6.6244621,
+          46.5091773
+        ],
+        [
+          6.6243517,
+          46.509043
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44780935",
+  "properties": {
+    "timestamp": "2025-01-10T18:04:57Z",
+    "version": 8,
+    "changeset": 161215397,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "44",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue Frédéric-César-de-La-Harpe",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.50893784",
+    "oa:lon": "6.62473965",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophotos Ville de Lausanne 2008",
+    "id": "way/44780935"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6246711,
+          46.5088727
+        ],
+        [
+          6.6247989,
+          46.5088227
+        ],
+        [
+          6.624909,
+          46.5089557
+        ],
+        [
+          6.6247811,
+          46.5090058
+        ],
+        [
+          6.6246711,
+          46.5088727
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44780937",
+  "properties": {
+    "timestamp": "2025-01-10T18:04:57Z",
+    "version": 8,
+    "changeset": 161215397,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "40",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue Frédéric-César-de-La-Harpe",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.50876617",
+    "oa:lon": "6.62506151",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophotos Ville de Lausanne 2008",
+    "id": "way/44780937"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6251157,
+          46.5086557
+        ],
+        [
+          6.6252264,
+          46.5087903
+        ],
+        [
+          6.6250984,
+          46.5088401
+        ],
+        [
+          6.6249877,
+          46.5087055
+        ],
+        [
+          6.6251157,
+          46.5086557
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44780939",
+  "properties": {
+    "timestamp": "2025-01-10T18:04:57Z",
+    "version": 8,
+    "changeset": 161215397,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "36",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue Frédéric-César-de-La-Harpe",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.50857925",
+    "oa:lon": "6.62536192",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophotos Ville de Lausanne 2008",
+    "id": "way/44780939"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6254325,
+          46.5084784
+        ],
+        [
+          6.6255424,
+          46.5086128
+        ],
+        [
+          6.6254143,
+          46.5086625
+        ],
+        [
+          6.6253044,
+          46.5085281
+        ],
+        [
+          6.6254325,
+          46.5084784
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/44781089",
+  "properties": {
+    "timestamp": "2025-01-10T18:04:19Z",
+    "version": 9,
+    "changeset": 161215378,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "33",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue Frédéric-César-de-La-Harpe",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51027298",
+    "oa:lon": "6.62621498",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophotos Ville de Lausanne 2008",
+    "id": "way/44781089"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6262814,
+          46.5103639
+        ],
+        [
+          6.6262778,
+          46.5103951
+        ],
+        [
+          6.6261368,
+          46.5103875
+        ],
+        [
+          6.6261674,
+          46.5101194
+        ],
+        [
+          6.6263249,
+          46.5101279
+        ],
+        [
+          6.6264002,
+          46.510132
+        ],
+        [
+          6.6263732,
+          46.5103689
+        ],
+        [
+          6.6262814,
+          46.5103639
         ]
       ]
     ]
@@ -1180,6 +1791,101 @@
 },
 {
   "type": "Feature",
+  "id": "way/45253941",
+  "properties": {
+    "timestamp": "2025-01-10T18:02:32Z",
+    "version": 8,
+    "changeset": 161215333,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "83 bis",
+    "addr:postcode": "1010",
+    "addr:street": "Chemin Isabelle-de-Montolieu",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophotos de la Ville de Lausanne (2008)",
+    "id": "way/45253941"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6491754,
+          46.5449914
+        ],
+        [
+          6.649027,
+          46.5451146
+        ],
+        [
+          6.6490108,
+          46.5451054
+        ],
+        [
+          6.6489563,
+          46.5451507
+        ],
+        [
+          6.6489205,
+          46.5451304
+        ],
+        [
+          6.6488945,
+          46.545152
+        ],
+        [
+          6.6488809,
+          46.5451443
+        ],
+        [
+          6.6487127,
+          46.545284
+        ],
+        [
+          6.6485621,
+          46.5451983
+        ],
+        [
+          6.6487396,
+          46.5450509
+        ],
+        [
+          6.648788,
+          46.5450784
+        ],
+        [
+          6.6489718,
+          46.5449257
+        ],
+        [
+          6.6489855,
+          46.5449335
+        ],
+        [
+          6.6490214,
+          46.5449037
+        ],
+        [
+          6.6491754,
+          46.5449914
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/45732344",
   "properties": {
     "timestamp": "2025-01-05T11:10:03Z",
@@ -1446,6 +2152,141 @@
         [
           6.6072669,
           46.5283347
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/46344015",
+  "properties": {
+    "timestamp": "2025-01-10T18:08:11Z",
+    "version": 7,
+    "changeset": 161215475,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51792526",
+    "oa:lon": "6.60949945",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Coopérative d'habitation des employés du rail",
+    "owner:abbr": "CHER",
+    "owner:type": "cooperative",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/46344015"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6098016,
+          46.5181998
+        ],
+        [
+          6.609412,
+          46.5179344
+        ],
+        [
+          6.60948,
+          46.5178871
+        ],
+        [
+          6.6094655,
+          46.5178773
+        ],
+        [
+          6.6095271,
+          46.5178344
+        ],
+        [
+          6.6096315,
+          46.5179055
+        ],
+        [
+          6.6096438,
+          46.517897
+        ],
+        [
+          6.6099435,
+          46.5181011
+        ],
+        [
+          6.6098016,
+          46.5181998
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/46344019",
+  "properties": {
+    "timestamp": "2025-01-10T18:08:11Z",
+    "version": 7,
+    "changeset": 161215475,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Cour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51867676",
+    "oa:lon": "6.60853910",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Coopérative d'habitation des employés du rail",
+    "owner:abbr": "CHER",
+    "owner:type": "cooperative",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/46344019"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6084172,
+          46.5187872
+        ],
+        [
+          6.6082811,
+          46.5186976
+        ],
+        [
+          6.6083892,
+          46.51862
+        ],
+        [
+          6.6085685,
+          46.5184912
+        ],
+        [
+          6.6086218,
+          46.5185272
+        ],
+        [
+          6.608704,
+          46.5185812
+        ],
+        [
+          6.6084172,
+          46.5187872
         ]
       ]
     ]
@@ -1919,6 +2760,130 @@
 },
 {
   "type": "Feature",
+  "id": "way/46611484",
+  "properties": {
+    "timestamp": "2025-01-11T10:47:31Z",
+    "version": 6,
+    "changeset": 161234155,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "52",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue Marc-Dufour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51735687",
+    "oa:lon": "6.61717606",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/46611484"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6171118,
+          46.5174425
+        ],
+        [
+          6.6170005,
+          46.5173524
+        ],
+        [
+          6.6170544,
+          46.5173209
+        ],
+        [
+          6.6170625,
+          46.5173267
+        ],
+        [
+          6.6171422,
+          46.5172801
+        ],
+        [
+          6.617134,
+          46.5172743
+        ],
+        [
+          6.617186,
+          46.5172438
+        ],
+        [
+          6.6172973,
+          46.5173338
+        ],
+        [
+          6.6172443,
+          46.5173649
+        ],
+        [
+          6.6172336,
+          46.5173571
+        ],
+        [
+          6.6172068,
+          46.5173728
+        ],
+        [
+          6.6172175,
+          46.5173813
+        ],
+        [
+          6.6172184,
+          46.5173851
+        ],
+        [
+          6.6172171,
+          46.5173884
+        ],
+        [
+          6.6172127,
+          46.517392
+        ],
+        [
+          6.6172085,
+          46.5173929
+        ],
+        [
+          6.6172038,
+          46.5173927
+        ],
+        [
+          6.6172002,
+          46.5173909
+        ],
+        [
+          6.6171899,
+          46.5173827
+        ],
+        [
+          6.6171524,
+          46.5174046
+        ],
+        [
+          6.6171631,
+          46.5174124
+        ],
+        [
+          6.6171118,
+          46.5174425
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/46612340",
   "properties": {
     "timestamp": "2025-01-05T11:10:03Z",
@@ -2088,6 +3053,174 @@
         [
           6.6214648,
           46.517858
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/46764179",
+  "properties": {
+    "timestamp": "2025-01-10T18:07:30Z",
+    "version": 6,
+    "changeset": 161215464,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "68",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Cour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51625824",
+    "oa:lon": "6.61568975",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/46764179"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.61563,
+          46.5161853
+        ],
+        [
+          6.6157541,
+          46.5161672
+        ],
+        [
+          6.6157962,
+          46.5163042
+        ],
+        [
+          6.6156722,
+          46.5163223
+        ],
+        [
+          6.61563,
+          46.5161853
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/46764180",
+  "properties": {
+    "timestamp": "2025-01-10T18:07:30Z",
+    "version": 6,
+    "changeset": 161215464,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "62",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Cour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51620102",
+    "oa:lon": "6.61607599",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/46764180"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6161376,
+          46.5161126
+        ],
+        [
+          6.6161797,
+          46.5162491
+        ],
+        [
+          6.6160556,
+          46.5162672
+        ],
+        [
+          6.6160135,
+          46.5161307
+        ],
+        [
+          6.6161376,
+          46.5161126
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/46764190",
+  "properties": {
+    "timestamp": "2025-01-10T18:07:30Z",
+    "version": 6,
+    "changeset": 161215464,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "56",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Cour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51573563",
+    "oa:lon": "6.61559343",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/46764190"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6157468,
+          46.5156801
+        ],
+        [
+          6.6157737,
+          46.5157715
+        ],
+        [
+          6.6155643,
+          46.5158007
+        ],
+        [
+          6.6155374,
+          46.5157093
+        ],
+        [
+          6.6157468,
+          46.5156801
         ]
       ]
     ]
@@ -3304,6 +4437,646 @@
 },
 {
   "type": "Feature",
+  "id": "way/47636189",
+  "properties": {
+    "timestamp": "2025-01-10T18:12:05Z",
+    "version": 4,
+    "changeset": 161215581,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "source": "Orthophotos2006sitn50cm",
+    "id": "way/47636189"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8448653,
+          46.9466586
+        ],
+        [
+          6.8448137,
+          46.9467007
+        ],
+        [
+          6.8448158,
+          46.9467406
+        ],
+        [
+          6.8447285,
+          46.9467449
+        ],
+        [
+          6.8447274,
+          46.9467638
+        ],
+        [
+          6.8446664,
+          46.9467659
+        ],
+        [
+          6.8446654,
+          46.9467543
+        ],
+        [
+          6.8446054,
+          46.9467564
+        ],
+        [
+          6.8446054,
+          46.9467806
+        ],
+        [
+          6.8445401,
+          46.9467806
+        ],
+        [
+          6.8445412,
+          46.9467933
+        ],
+        [
+          6.8444612,
+          46.9467943
+        ],
+        [
+          6.8444612,
+          46.9467806
+        ],
+        [
+          6.8444118,
+          46.9467806
+        ],
+        [
+          6.8444107,
+          46.9467996
+        ],
+        [
+          6.8443613,
+          46.9467985
+        ],
+        [
+          6.8443613,
+          46.9468111
+        ],
+        [
+          6.8442834,
+          46.9468122
+        ],
+        [
+          6.8442834,
+          46.9467996
+        ],
+        [
+          6.8442224,
+          46.9467975
+        ],
+        [
+          6.8442234,
+          46.9467627
+        ],
+        [
+          6.8441719,
+          46.9467228
+        ],
+        [
+          6.8442518,
+          46.9466365
+        ],
+        [
+          6.8442824,
+          46.9466533
+        ],
+        [
+          6.8443686,
+          46.9466554
+        ],
+        [
+          6.8444286,
+          46.9466112
+        ],
+        [
+          6.8444675,
+          46.9466354
+        ],
+        [
+          6.844558,
+          46.9466312
+        ],
+        [
+          6.8446085,
+          46.9465923
+        ],
+        [
+          6.8446475,
+          46.9466133
+        ],
+        [
+          6.8447264,
+          46.9466133
+        ],
+        [
+          6.8447737,
+          46.9465828
+        ],
+        [
+          6.8447969,
+          46.9466154
+        ],
+        [
+          6.8448653,
+          46.9466586
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/47636192",
+  "properties": {
+    "timestamp": "2025-01-10T18:12:05Z",
+    "version": 4,
+    "changeset": 161215581,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "source": "Orthophotos2006sitn50cm",
+    "id": "way/47636192"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8456374,
+          46.9475035
+        ],
+        [
+          6.8456672,
+          46.9475324
+        ],
+        [
+          6.8457567,
+          46.9475343
+        ],
+        [
+          6.8458126,
+          46.9474862
+        ],
+        [
+          6.8458443,
+          46.9475103
+        ],
+        [
+          6.8459252,
+          46.9475093
+        ],
+        [
+          6.8459724,
+          46.9474833
+        ],
+        [
+          6.8459801,
+          46.9475132
+        ],
+        [
+          6.8460465,
+          46.9475478
+        ],
+        [
+          6.845982,
+          46.9475959
+        ],
+        [
+          6.8459791,
+          46.9476527
+        ],
+        [
+          6.8459175,
+          46.9476527
+        ],
+        [
+          6.8459165,
+          46.9476681
+        ],
+        [
+          6.8458472,
+          46.9476672
+        ],
+        [
+          6.8458482,
+          46.9476508
+        ],
+        [
+          6.8457972,
+          46.9476508
+        ],
+        [
+          6.8457981,
+          46.9476729
+        ],
+        [
+          6.8457356,
+          46.947671
+        ],
+        [
+          6.8457356,
+          46.9476864
+        ],
+        [
+          6.8456566,
+          46.9476864
+        ],
+        [
+          6.8456547,
+          46.9476739
+        ],
+        [
+          6.8456066,
+          46.9476749
+        ],
+        [
+          6.8456056,
+          46.9476364
+        ],
+        [
+          6.8455536,
+          46.9476046
+        ],
+        [
+          6.8456374,
+          46.9475035
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48454550",
+  "properties": {
+    "timestamp": "2025-01-10T17:57:24Z",
+    "version": 6,
+    "changeset": 161215179,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51733780",
+    "oa:lon": "6.64559650",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/48454550"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.645711,
+          46.5175309
+        ],
+        [
+          6.6456368,
+          46.5174189
+        ],
+        [
+          6.6455517,
+          46.5174455
+        ],
+        [
+          6.6454949,
+          46.5173598
+        ],
+        [
+          6.6457303,
+          46.5172859
+        ],
+        [
+          6.6458613,
+          46.5174838
+        ],
+        [
+          6.645711,
+          46.5175309
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48544511",
+  "properties": {
+    "timestamp": "2025-01-10T18:01:42Z",
+    "version": 6,
+    "changeset": 161215301,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "17",
+    "addr:postcode": "1010",
+    "addr:street": "Chemin des Eterpeys",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophotos de la Ville de Lausanne (2008)",
+    "id": "way/48544511"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6611504,
+          46.535572
+        ],
+        [
+          6.6612487,
+          46.5354588
+        ],
+        [
+          6.6613795,
+          46.5354235
+        ],
+        [
+          6.6613907,
+          46.5354542
+        ],
+        [
+          6.6614479,
+          46.5354797
+        ],
+        [
+          6.6613096,
+          46.5356319
+        ],
+        [
+          6.6611504,
+          46.535572
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48544514",
+  "properties": {
+    "timestamp": "2025-01-10T18:00:13Z",
+    "version": 5,
+    "changeset": 161215268,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "1010",
+    "addr:street": "Chemin des Eterpeys",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophotos de la Ville de Lausanne (2008)",
+    "id": "way/48544514"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6628052,
+          46.5363976
+        ],
+        [
+          6.6628473,
+          46.5363464
+        ],
+        [
+          6.662836,
+          46.5363419
+        ],
+        [
+          6.6628669,
+          46.5363053
+        ],
+        [
+          6.6628814,
+          46.5363111
+        ],
+        [
+          6.6629207,
+          46.5362645
+        ],
+        [
+          6.6629077,
+          46.5362593
+        ],
+        [
+          6.6629377,
+          46.5362236
+        ],
+        [
+          6.662953,
+          46.5362297
+        ],
+        [
+          6.663014,
+          46.5361573
+        ],
+        [
+          6.663102,
+          46.5361947
+        ],
+        [
+          6.6631063,
+          46.5361964
+        ],
+        [
+          6.663069,
+          46.5362407
+        ],
+        [
+          6.6630624,
+          46.5362381
+        ],
+        [
+          6.6630367,
+          46.5362686
+        ],
+        [
+          6.6630716,
+          46.5362825
+        ],
+        [
+          6.6630395,
+          46.5363206
+        ],
+        [
+          6.6630672,
+          46.5363317
+        ],
+        [
+          6.6630323,
+          46.5363731
+        ],
+        [
+          6.6630038,
+          46.5363617
+        ],
+        [
+          6.6629698,
+          46.5364021
+        ],
+        [
+          6.662932,
+          46.536387
+        ],
+        [
+          6.6629066,
+          46.5364172
+        ],
+        [
+          6.6629131,
+          46.5364198
+        ],
+        [
+          6.6628963,
+          46.5364399
+        ],
+        [
+          6.6628052,
+          46.5363976
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48544552",
+  "properties": {
+    "timestamp": "2025-01-10T18:01:04Z",
+    "version": 7,
+    "changeset": 161215283,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "13",
+    "addr:postcode": "1010",
+    "addr:street": "Chemin des Eterpeys",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophotos de la Ville de Lausanne (2008)",
+    "id": "way/48544552"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6617144,
+          46.5358143
+        ],
+        [
+          6.6618364,
+          46.535804
+        ],
+        [
+          6.6618852,
+          46.5359407
+        ],
+        [
+          6.6618334,
+          46.5359509
+        ],
+        [
+          6.6618435,
+          46.5359824
+        ],
+        [
+          6.6617816,
+          46.5359943
+        ],
+        [
+          6.6617793,
+          46.5359779
+        ],
+        [
+          6.6617489,
+          46.5359648
+        ],
+        [
+          6.661718,
+          46.5359706
+        ],
+        [
+          6.6616668,
+          46.5358323
+        ],
+        [
+          6.6617013,
+          46.5358282
+        ],
+        [
+          6.6617081,
+          46.535821
+        ],
+        [
+          6.6617144,
+          46.5358143
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/48544574",
   "properties": {
     "timestamp": "2025-01-05T11:10:03Z",
@@ -3484,6 +5257,292 @@
         [
           6.6468723,
           46.5340564
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/51264694",
+  "properties": {
+    "timestamp": "2025-01-10T17:59:39Z",
+    "version": 5,
+    "changeset": 161215247,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Lausanne - Orthophoto technique 2012",
+    "id": "way/51264694"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6528019,
+          46.5300434
+        ],
+        [
+          6.6527075,
+          46.5299322
+        ],
+        [
+          6.6529001,
+          46.5298549
+        ],
+        [
+          6.6529182,
+          46.5298762
+        ],
+        [
+          6.652952,
+          46.5298626
+        ],
+        [
+          6.6529336,
+          46.5298409
+        ],
+        [
+          6.653123,
+          46.5297649
+        ],
+        [
+          6.6532157,
+          46.5298743
+        ],
+        [
+          6.6531378,
+          46.5299056
+        ],
+        [
+          6.6530243,
+          46.5299511
+        ],
+        [
+          6.6530111,
+          46.5299356
+        ],
+        [
+          6.6529791,
+          46.5299485
+        ],
+        [
+          6.6529942,
+          46.5299663
+        ],
+        [
+          6.6529042,
+          46.5300024
+        ],
+        [
+          6.6528019,
+          46.5300434
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/51551710",
+  "properties": {
+    "timestamp": "2025-01-10T17:58:52Z",
+    "version": 5,
+    "changeset": 161215222,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:country": "CH",
+    "addr:housenumber": "10c",
+    "addr:street": "Avenue du Temple",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophotos de la Ville de Lausanne (2008)",
+    "id": "way/51551710"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6536844,
+          46.5292771
+        ],
+        [
+          6.6535139,
+          46.5292099
+        ],
+        [
+          6.6536582,
+          46.5290367
+        ],
+        [
+          6.6538287,
+          46.5291039
+        ],
+        [
+          6.6536844,
+          46.5292771
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/51551711",
+  "properties": {
+    "timestamp": "2025-01-10T17:58:52Z",
+    "version": 5,
+    "changeset": 161215222,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:country": "CH",
+    "addr:housenumber": "10b",
+    "addr:street": "Avenue du Temple",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophotos de la Ville de Lausanne (2008)",
+    "id": "way/51551711"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6535052,
+          46.5294977
+        ],
+        [
+          6.6533348,
+          46.5294305
+        ],
+        [
+          6.653479,
+          46.5292573
+        ],
+        [
+          6.6536495,
+          46.5293245
+        ],
+        [
+          6.6535052,
+          46.5294977
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/51551713",
+  "properties": {
+    "timestamp": "2025-01-10T17:59:39Z",
+    "version": 5,
+    "changeset": 161215247,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Lausanne - Orthophoto technique 2012",
+    "id": "way/51551713"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6535817,
+          46.5297302
+        ],
+        [
+          6.6534868,
+          46.5296169
+        ],
+        [
+          6.6537087,
+          46.529529
+        ],
+        [
+          6.6537252,
+          46.5295487
+        ],
+        [
+          6.6537549,
+          46.5295369
+        ],
+        [
+          6.6537367,
+          46.5295152
+        ],
+        [
+          6.6539536,
+          46.5294291
+        ],
+        [
+          6.6540477,
+          46.5295415
+        ],
+        [
+          6.6539498,
+          46.5295803
+        ],
+        [
+          6.6538286,
+          46.5296284
+        ],
+        [
+          6.6538187,
+          46.5296166
+        ],
+        [
+          6.6537904,
+          46.5296278
+        ],
+        [
+          6.6538027,
+          46.5296426
+        ],
+        [
+          6.6537132,
+          46.5296781
+        ],
+        [
+          6.6535817,
+          46.5297302
         ]
       ]
     ]
@@ -4365,6 +6424,286 @@
 },
 {
   "type": "Feature",
+  "id": "way/53746074",
+  "properties": {
+    "timestamp": "2025-01-10T18:07:30Z",
+    "version": 5,
+    "changeset": 161215464,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "60",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Cour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51604843",
+    "oa:lon": "6.61604404",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/53746074"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6160135,
+          46.5161307
+        ],
+        [
+          6.6159714,
+          46.5159944
+        ],
+        [
+          6.6160954,
+          46.5159762
+        ],
+        [
+          6.6161376,
+          46.5161126
+        ],
+        [
+          6.6160135,
+          46.5161307
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/53746075",
+  "properties": {
+    "timestamp": "2025-01-10T18:07:30Z",
+    "version": 5,
+    "changeset": 161215464,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "66",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Cour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51609421",
+    "oa:lon": "6.61562586",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/53746075"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6155882,
+          46.5160492
+        ],
+        [
+          6.6157122,
+          46.5160312
+        ],
+        [
+          6.6157541,
+          46.5161672
+        ],
+        [
+          6.61563,
+          46.5161853
+        ],
+        [
+          6.6155882,
+          46.5160492
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/53746086",
+  "properties": {
+    "timestamp": "2025-01-10T18:07:30Z",
+    "version": 5,
+    "changeset": 161215464,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "54",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Cour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51569748",
+    "oa:lon": "6.61581898",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/53746086"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6157468,
+          46.5156801
+        ],
+        [
+          6.6159483,
+          46.515652
+        ],
+        [
+          6.6159752,
+          46.5157434
+        ],
+        [
+          6.6157737,
+          46.5157715
+        ],
+        [
+          6.6157468,
+          46.5156801
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/53746087",
+  "properties": {
+    "timestamp": "2025-01-10T18:07:30Z",
+    "version": 5,
+    "changeset": 161215464,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "58",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Cour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51590347",
+    "oa:lon": "6.61600113",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/53746087"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6159714,
+          46.5159944
+        ],
+        [
+          6.6159228,
+          46.5158371
+        ],
+        [
+          6.6160469,
+          46.515819
+        ],
+        [
+          6.6160954,
+          46.5159762
+        ],
+        [
+          6.6159714,
+          46.5159944
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/53746088",
+  "properties": {
+    "timestamp": "2025-01-10T18:07:30Z",
+    "version": 5,
+    "changeset": 161215464,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "64",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Cour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51592636",
+    "oa:lon": "6.61558819",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/53746088"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6157122,
+          46.5160312
+        ],
+        [
+          6.6155882,
+          46.5160492
+        ],
+        [
+          6.6155398,
+          46.5158921
+        ],
+        [
+          6.6156639,
+          46.5158741
+        ],
+        [
+          6.6157122,
+          46.5160312
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/53746102",
   "properties": {
     "timestamp": "2025-01-05T11:10:03Z",
@@ -4504,6 +6843,174 @@
         [
           6.6192487,
           46.5178382
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/53746105",
+  "properties": {
+    "timestamp": "2025-01-10T18:06:51Z",
+    "version": 5,
+    "changeset": 161215446,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "54",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue Marc-Dufour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51752090",
+    "oa:lon": "6.61739588",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/53746105"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.617262,
+          46.5175213
+        ],
+        [
+          6.61741,
+          46.5174341
+        ],
+        [
+          6.617504,
+          46.5175096
+        ],
+        [
+          6.6173561,
+          46.5175968
+        ],
+        [
+          6.617262,
+          46.5175213
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/53746106",
+  "properties": {
+    "timestamp": "2025-01-10T18:06:51Z",
+    "version": 5,
+    "changeset": 161215446,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "56",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue Marc-Dufour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51741791",
+    "oa:lon": "6.61756754",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/53746106"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.61741,
+          46.5174341
+        ],
+        [
+          6.6176275,
+          46.5173059
+        ],
+        [
+          6.6177215,
+          46.5173814
+        ],
+        [
+          6.617504,
+          46.5175096
+        ],
+        [
+          6.61741,
+          46.5174341
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/53746109",
+  "properties": {
+    "timestamp": "2025-01-10T18:06:51Z",
+    "version": 5,
+    "changeset": 161215446,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "58",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue Marc-Dufour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51728821",
+    "oa:lon": "6.61777687",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/53746109"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6177215,
+          46.5173814
+        ],
+        [
+          6.6176275,
+          46.5173059
+        ],
+        [
+          6.6178462,
+          46.517177
+        ],
+        [
+          6.6179402,
+          46.5172525
+        ],
+        [
+          6.6177215,
+          46.5173814
         ]
       ]
     ]
@@ -5064,6 +7571,590 @@
 },
 {
   "type": "Feature",
+  "id": "way/55339995",
+  "properties": {
+    "timestamp": "2025-01-10T18:04:19Z",
+    "version": 6,
+    "changeset": 161215378,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "35",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue Frédéric-César-de-La-Harpe",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51011276",
+    "oa:lon": "6.62617731",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophotos Ville de Lausanne 2008",
+    "id": "way/55339995"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6263249,
+          46.5101279
+        ],
+        [
+          6.6261674,
+          46.5101194
+        ],
+        [
+          6.6261344,
+          46.5101176
+        ],
+        [
+          6.6261479,
+          46.5099993
+        ],
+        [
+          6.6263384,
+          46.5100096
+        ],
+        [
+          6.6263249,
+          46.5101279
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/55341974",
+  "properties": {
+    "timestamp": "2025-01-10T18:04:57Z",
+    "version": 5,
+    "changeset": 161215397,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "46",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue Frédéric-César-de-La-Harpe",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.50881195",
+    "oa:lon": "6.62461090",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophotos Ville de Lausanne 2008",
+    "id": "way/55341974"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6247989,
+          46.5088227
+        ],
+        [
+          6.6246711,
+          46.5088727
+        ],
+        [
+          6.6245603,
+          46.5087387
+        ],
+        [
+          6.6246881,
+          46.5086887
+        ],
+        [
+          6.6247989,
+          46.5088227
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/55341975",
+  "properties": {
+    "timestamp": "2025-01-10T18:04:57Z",
+    "version": 5,
+    "changeset": 161215397,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "50",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue Frédéric-César-de-La-Harpe",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.50899124",
+    "oa:lon": "6.62432146",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophotos Ville de Lausanne 2008",
+    "id": "way/55341975"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6244797,
+          46.5089931
+        ],
+        [
+          6.6243517,
+          46.509043
+        ],
+        [
+          6.6242394,
+          46.5089064
+        ],
+        [
+          6.6243674,
+          46.5088566
+        ],
+        [
+          6.6244797,
+          46.5089931
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/55341996",
+  "properties": {
+    "timestamp": "2025-01-10T18:04:57Z",
+    "version": 5,
+    "changeset": 161215397,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "42",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue Frédéric-César-de-La-Harpe",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.50865173",
+    "oa:lon": "6.62495995",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophotos Ville de Lausanne 2008",
+    "id": "way/55341996"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6251157,
+          46.5086557
+        ],
+        [
+          6.6249877,
+          46.5087055
+        ],
+        [
+          6.6248757,
+          46.5085692
+        ],
+        [
+          6.6250037,
+          46.5085194
+        ],
+        [
+          6.6251157,
+          46.5086557
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/55341997",
+  "properties": {
+    "timestamp": "2025-01-10T18:04:57Z",
+    "version": 5,
+    "changeset": 161215397,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "38",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue Frédéric-César-de-La-Harpe",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.50845718",
+    "oa:lon": "6.62526560",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophotos Ville de Lausanne 2008",
+    "id": "way/55341997"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6254325,
+          46.5084784
+        ],
+        [
+          6.6253044,
+          46.5085281
+        ],
+        [
+          6.6251925,
+          46.5083913
+        ],
+        [
+          6.6253206,
+          46.5083416
+        ],
+        [
+          6.6254325,
+          46.5084784
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/59263383",
+  "properties": {
+    "timestamp": "2025-01-10T18:12:05Z",
+    "version": 6,
+    "changeset": 161215581,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Cortaillod",
+    "addr:housenumber": "27",
+    "addr:postcode": "2016",
+    "addr:street": "Chemin des Polonais",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "source": "Orthophotos2006sitn50cm",
+    "id": "way/59263383"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8457463,
+          46.9472195
+        ],
+        [
+          6.8456131,
+          46.9473183
+        ],
+        [
+          6.8454607,
+          46.9472225
+        ],
+        [
+          6.8455181,
+          46.9471799
+        ],
+        [
+          6.8454983,
+          46.9471675
+        ],
+        [
+          6.8455742,
+          46.9471113
+        ],
+        [
+          6.8457463,
+          46.9472195
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/59263384",
+  "properties": {
+    "timestamp": "2025-01-10T18:12:05Z",
+    "version": 7,
+    "changeset": 161215581,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Cortaillod",
+    "addr:housenumber": "29",
+    "addr:postcode": "2016",
+    "addr:street": "Chemin des Polonais",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "source": "Orthophotos2006sitn50cm",
+    "id": "way/59263384"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8455742,
+          46.9471113
+        ],
+        [
+          6.8454983,
+          46.9471675
+        ],
+        [
+          6.8454881,
+          46.9471751
+        ],
+        [
+          6.8453747,
+          46.9471038
+        ],
+        [
+          6.8453845,
+          46.9470965
+        ],
+        [
+          6.8454565,
+          46.9470431
+        ],
+        [
+          6.8455084,
+          46.9470047
+        ],
+        [
+          6.8456218,
+          46.947076
+        ],
+        [
+          6.8455742,
+          46.9471113
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/59263437",
+  "properties": {
+    "timestamp": "2025-01-10T18:12:05Z",
+    "version": 7,
+    "changeset": 161215581,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Cortaillod",
+    "addr:housenumber": "31",
+    "addr:postcode": "2016",
+    "addr:street": "Chemin des Polonais",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "source": "Orthophotos2006sitn50cm",
+    "id": "way/59263437"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8452815,
+          46.946933
+        ],
+        [
+          6.8454565,
+          46.9470431
+        ],
+        [
+          6.8453845,
+          46.9470965
+        ],
+        [
+          6.8453563,
+          46.9470788
+        ],
+        [
+          6.8453016,
+          46.9471193
+        ],
+        [
+          6.8452515,
+          46.9470878
+        ],
+        [
+          6.8452448,
+          46.9470928
+        ],
+        [
+          6.8452343,
+          46.9471006
+        ],
+        [
+          6.8451375,
+          46.9470397
+        ],
+        [
+          6.8451479,
+          46.9470321
+        ],
+        [
+          6.8452815,
+          46.946933
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/59263440",
+  "properties": {
+    "timestamp": "2025-01-10T18:12:05Z",
+    "version": 5,
+    "changeset": 161215581,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Cortaillod",
+    "addr:housenumber": "33",
+    "addr:postcode": "2016",
+    "addr:street": "Chemin des Polonais",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "source": "Orthophotos2006sitn50cm",
+    "id": "way/59263440"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8452343,
+          46.9471006
+        ],
+        [
+          6.8451033,
+          46.9471977
+        ],
+        [
+          6.8451676,
+          46.9472381
+        ],
+        [
+          6.8450574,
+          46.9473197
+        ],
+        [
+          6.8449066,
+          46.9472249
+        ],
+        [
+          6.8450383,
+          46.9471273
+        ],
+        [
+          6.8449753,
+          46.9470876
+        ],
+        [
+          6.8450847,
+          46.9470065
+        ],
+        [
+          6.8451375,
+          46.9470397
+        ],
+        [
+          6.8452343,
+          46.9471006
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/67381374",
   "properties": {
     "timestamp": "2025-01-05T11:10:03Z",
@@ -5217,6 +8308,89 @@
 },
 {
   "type": "Feature",
+  "id": "way/71188319",
+  "properties": {
+    "timestamp": "2025-01-10T18:03:08Z",
+    "version": 6,
+    "changeset": 161215342,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "127",
+    "addr:postcode": "1010",
+    "addr:street": "Chemin Isabelle-de-Montolieu",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophotos de la Ville de Lausanne (2008)",
+    "id": "way/71188319"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6467653,
+          46.5441977
+        ],
+        [
+          6.6467319,
+          46.5442472
+        ],
+        [
+          6.6467634,
+          46.5442558
+        ],
+        [
+          6.6467175,
+          46.5443354
+        ],
+        [
+          6.6465078,
+          46.5442783
+        ],
+        [
+          6.6465195,
+          46.544258
+        ],
+        [
+          6.6465066,
+          46.5442545
+        ],
+        [
+          6.6465242,
+          46.5442239
+        ],
+        [
+          6.6465423,
+          46.5442288
+        ],
+        [
+          6.6465712,
+          46.5441786
+        ],
+        [
+          6.6465554,
+          46.5441743
+        ],
+        [
+          6.6465792,
+          46.5441417
+        ],
+        [
+          6.6467653,
+          46.5441977
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/71188320",
   "properties": {
     "timestamp": "2025-01-05T11:10:03Z",
@@ -5300,6 +8474,77 @@
 },
 {
   "type": "Feature",
+  "id": "way/71188321",
+  "properties": {
+    "timestamp": "2025-01-10T18:03:08Z",
+    "version": 6,
+    "changeset": 161215342,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "125",
+    "addr:postcode": "1010",
+    "addr:street": "Chemin Isabelle-de-Montolieu",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophotos de la Ville de Lausanne (2008)",
+    "id": "way/71188321"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6468357,
+          46.544087
+        ],
+        [
+          6.6467653,
+          46.5441977
+        ],
+        [
+          6.6465792,
+          46.5441417
+        ],
+        [
+          6.6465898,
+          46.5441249
+        ],
+        [
+          6.6466074,
+          46.5441302
+        ],
+        [
+          6.64664,
+          46.5440789
+        ],
+        [
+          6.6466165,
+          46.5440718
+        ],
+        [
+          6.6466441,
+          46.5440284
+        ],
+        [
+          6.6467941,
+          46.5440727
+        ],
+        [
+          6.6468357,
+          46.544087
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/81596536",
   "properties": {
     "timestamp": "2025-01-05T11:10:03Z",
@@ -5352,6 +8597,207 @@
         [
           6.1363941,
           46.1984381
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/87524997",
+  "properties": {
+    "timestamp": "2025-01-10T17:56:08Z",
+    "version": 7,
+    "changeset": 161215151,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Pully",
+    "addr:housenumber": "19",
+    "addr:postcode": "1009",
+    "addr:street": "Chemin des Ramiers",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Digitalisation on orthophoto Swisstopo level 2",
+    "id": "way/87524997"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.663669,
+          46.5206707
+        ],
+        [
+          6.6636074,
+          46.5205377
+        ],
+        [
+          6.663801,
+          46.5204949
+        ],
+        [
+          6.6638627,
+          46.520628
+        ],
+        [
+          6.663669,
+          46.5206707
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/87524998",
+  "properties": {
+    "timestamp": "2025-01-10T17:56:08Z",
+    "version": 7,
+    "changeset": 161215151,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Pully",
+    "addr:housenumber": "17",
+    "addr:postcode": "1009",
+    "addr:street": "Chemin des Ramiers",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Digitalisation on orthophoto Swisstopo level 2",
+    "id": "way/87524998"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6636079,
+          46.52041
+        ],
+        [
+          6.6635731,
+          46.5203246
+        ],
+        [
+          6.6637293,
+          46.5202943
+        ],
+        [
+          6.6637641,
+          46.5203796
+        ],
+        [
+          6.6636079,
+          46.52041
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/88102309",
+  "properties": {
+    "timestamp": "2025-01-10T17:54:01Z",
+    "version": 7,
+    "changeset": 161215087,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Pully",
+    "addr:housenumber": "1",
+    "addr:postcode": "1009",
+    "addr:street": "Chemin du Pré de la Tour",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Pully",
+    "owner:abbr": "SCHP",
+    "owner:type": "cooperative",
+    "owner:website": "https://schpully.ch",
+    "source": "Bing Aerial Maps",
+    "id": "way/88102309"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6585828,
+          46.5116759
+        ],
+        [
+          6.6586637,
+          46.5116924
+        ],
+        [
+          6.658663,
+          46.5117011
+        ],
+        [
+          6.6591799,
+          46.5117467
+        ],
+        [
+          6.6591811,
+          46.5117382
+        ],
+        [
+          6.6592341,
+          46.5117264
+        ],
+        [
+          6.6592583,
+          46.5117807
+        ],
+        [
+          6.6592879,
+          46.5117731
+        ],
+        [
+          6.6593087,
+          46.5118216
+        ],
+        [
+          6.6592437,
+          46.5118414
+        ],
+        [
+          6.6592346,
+          46.5118807
+        ],
+        [
+          6.6588928,
+          46.5118489
+        ],
+        [
+          6.6585699,
+          46.5118218
+        ],
+        [
+          6.6585786,
+          46.5117668
+        ],
+        [
+          6.6585229,
+          46.5117589
+        ],
+        [
+          6.6585376,
+          46.5117062
+        ],
+        [
+          6.6585911,
+          46.5117151
+        ],
+        [
+          6.6585828,
+          46.5116759
         ]
       ]
     ]
@@ -5412,6 +8858,282 @@
 },
 {
   "type": "Feature",
+  "id": "way/89292381",
+  "properties": {
+    "timestamp": "2025-01-10T17:45:17Z",
+    "version": 7,
+    "changeset": 161214863,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lutry",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "1095",
+    "addr:street": "Chemin des Champs",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Coopérative du logement Lutry",
+    "owner:abbr": "CLL",
+    "owner:type": "cooperative",
+    "owner:website": "https://cll-lutry.ch",
+    "source": "OrthoPhoto PULLY swisstopo Level 2",
+    "id": "way/89292381"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6869281,
+          46.5052044
+        ],
+        [
+          6.6866901,
+          46.5049838
+        ],
+        [
+          6.6869019,
+          46.5048756
+        ],
+        [
+          6.6871398,
+          46.5050962
+        ],
+        [
+          6.6869281,
+          46.5052044
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/89292401",
+  "properties": {
+    "timestamp": "2025-01-10T17:45:17Z",
+    "version": 9,
+    "changeset": 161214863,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lutry",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "1095",
+    "addr:street": "Chemin des Champs",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Coopérative du logement Lutry",
+    "owner:abbr": "CLL",
+    "owner:type": "cooperative",
+    "owner:website": "https://cll-lutry.ch",
+    "source": "OrthoPhoto PULLY swisstopo Level 2",
+    "id": "way/89292401"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.686508,
+          46.5049667
+        ],
+        [
+          6.6863563,
+          46.5049276
+        ],
+        [
+          6.6863751,
+          46.5049005
+        ],
+        [
+          6.6864043,
+          46.5048735
+        ],
+        [
+          6.6864387,
+          46.5048503
+        ],
+        [
+          6.686479,
+          46.5048309
+        ],
+        [
+          6.6865175,
+          46.5048151
+        ],
+        [
+          6.6865481,
+          46.5048058
+        ],
+        [
+          6.6865764,
+          46.5047998
+        ],
+        [
+          6.686619,
+          46.5047961
+        ],
+        [
+          6.6866616,
+          46.5047956
+        ],
+        [
+          6.686708,
+          46.5048013
+        ],
+        [
+          6.6867463,
+          46.5048102
+        ],
+        [
+          6.6867786,
+          46.5048224
+        ],
+        [
+          6.6868085,
+          46.5048388
+        ],
+        [
+          6.6867185,
+          46.5049303
+        ],
+        [
+          6.6866789,
+          46.5049171
+        ],
+        [
+          6.6866516,
+          46.5049132
+        ],
+        [
+          6.686623,
+          46.5049147
+        ],
+        [
+          6.6865893,
+          46.5049201
+        ],
+        [
+          6.6865586,
+          46.5049301
+        ],
+        [
+          6.6865305,
+          46.5049458
+        ],
+        [
+          6.686508,
+          46.5049667
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/89609635",
+  "properties": {
+    "timestamp": "2025-01-10T17:55:26Z",
+    "version": 11,
+    "changeset": 161215140,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Société coopérative d'habitation Pully",
+    "owner:abbr": "SCHP",
+    "owner:type": "cooperative",
+    "owner:website": "https://schpully.ch",
+    "source": "Orthophoto Pully swisstopo",
+    "id": "way/89609635"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6577975,
+          46.5159259
+        ],
+        [
+          6.6577054,
+          46.5158297
+        ],
+        [
+          6.6578563,
+          46.5157506
+        ],
+        [
+          6.6581424,
+          46.5156214
+        ],
+        [
+          6.6580114,
+          46.5154798
+        ],
+        [
+          6.6584119,
+          46.5153804
+        ],
+        [
+          6.6587086,
+          46.5152719
+        ],
+        [
+          6.6589035,
+          46.5151819
+        ],
+        [
+          6.6589389,
+          46.5152171
+        ],
+        [
+          6.6589975,
+          46.5152788
+        ],
+        [
+          6.6590036,
+          46.5152855
+        ],
+        [
+          6.658745,
+          46.5153934
+        ],
+        [
+          6.658447,
+          46.515496
+        ],
+        [
+          6.6581815,
+          46.5155652
+        ],
+        [
+          6.6582628,
+          46.5157081
+        ],
+        [
+          6.6577975,
+          46.5159259
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/90683402",
   "properties": {
     "timestamp": "2025-01-05T11:10:03Z",
@@ -5455,6 +9177,567 @@
         [
           6.6578049,
           46.5145619
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/90685233",
+  "properties": {
+    "timestamp": "2025-01-10T17:55:10Z",
+    "version": 9,
+    "changeset": 161215130,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Pully",
+    "addr:housenumber": "34",
+    "addr:postcode": "1009",
+    "addr:street": "Chemin du Liaudoz",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Digitaliser sur Orthophoto Swisstopo",
+    "id": "way/90685233"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6576582,
+          46.5142584
+        ],
+        [
+          6.6577263,
+          46.5141174
+        ],
+        [
+          6.6579224,
+          46.5141626
+        ],
+        [
+          6.6578543,
+          46.5143035
+        ],
+        [
+          6.6576582,
+          46.5142584
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/90685237",
+  "properties": {
+    "timestamp": "2025-01-10T17:54:27Z",
+    "version": 8,
+    "changeset": 161215100,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Pully",
+    "addr:housenumber": "5",
+    "addr:postcode": "1009",
+    "addr:street": "Chemin du Montillier",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Digitaliser sur Orthophoto Swisstopo",
+    "id": "way/90685237"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6585172,
+          46.514122
+        ],
+        [
+          6.6579926,
+          46.5140432
+        ],
+        [
+          6.6580439,
+          46.5138805
+        ],
+        [
+          6.6585685,
+          46.5139593
+        ],
+        [
+          6.6585172,
+          46.514122
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/93530142",
+  "properties": {
+    "timestamp": "2025-01-10T18:05:42Z",
+    "version": 7,
+    "changeset": 161215409,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Pully",
+    "addr:housenumber": "1",
+    "addr:postcode": "1009",
+    "addr:street": "Chemin du Ruisselet",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Digitaliser sur Orthophoto Swisstopo;Digitaliser sur Orthophoto Swisstopo;Digitaliser sur Orthophoto Swisstopo",
+    "id": "way/93530142"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6647603,
+          46.513562
+        ],
+        [
+          6.6647625,
+          46.5134069
+        ],
+        [
+          6.6651755,
+          46.5134097
+        ],
+        [
+          6.6651733,
+          46.5135649
+        ],
+        [
+          6.6647603,
+          46.513562
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/93530144",
+  "properties": {
+    "timestamp": "2025-01-10T18:05:42Z",
+    "version": 7,
+    "changeset": 161215409,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Pully",
+    "addr:housenumber": "3",
+    "addr:postcode": "1009",
+    "addr:street": "Chemin du Ruisselet",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Digitaliser sur Orthophoto Swisstopo;Digitaliser sur Orthophoto Swisstopo;Digitaliser sur Orthophoto Swisstopo",
+    "id": "way/93530144"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6641295,
+          46.5137762
+        ],
+        [
+          6.6641326,
+          46.5136302
+        ],
+        [
+          6.664544,
+          46.5136344
+        ],
+        [
+          6.6645409,
+          46.5137804
+        ],
+        [
+          6.6641295,
+          46.5137762
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/100528131",
+  "properties": {
+    "timestamp": "2025-01-10T18:03:43Z",
+    "version": 7,
+    "changeset": 161215361,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Epalinges",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "1066",
+    "addr:street": "Chemin de Moulins",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "OrthoPhoto PULLY swisstopo Level 2",
+    "id": "way/100528131"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6583679,
+          46.5480651
+        ],
+        [
+          6.6585494,
+          46.5479613
+        ],
+        [
+          6.6586698,
+          46.5480615
+        ],
+        [
+          6.6584884,
+          46.5481653
+        ],
+        [
+          6.6583679,
+          46.5480651
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/100528203",
+  "properties": {
+    "timestamp": "2025-01-10T18:03:43Z",
+    "version": 7,
+    "changeset": 161215361,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Epalinges",
+    "addr:country": "CH",
+    "addr:housenumber": "14",
+    "addr:postcode": "1066",
+    "addr:street": "Chemin de Moulins",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "OrthoPhoto PULLY swisstopo Level 2",
+    "id": "way/100528203"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6578951,
+          46.5487096
+        ],
+        [
+          6.6578599,
+          46.5485352
+        ],
+        [
+          6.6580642,
+          46.5485155
+        ],
+        [
+          6.6580994,
+          46.54869
+        ],
+        [
+          6.6578951,
+          46.5487096
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/100528205",
+  "properties": {
+    "timestamp": "2025-01-10T18:03:43Z",
+    "version": 7,
+    "changeset": 161215361,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Epalinges",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "1066",
+    "addr:street": "Chemin de Moulins",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "OrthoPhoto PULLY swisstopo Level 2",
+    "id": "way/100528205"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6578184,
+          46.5482584
+        ],
+        [
+          6.6579999,
+          46.5481546
+        ],
+        [
+          6.6581203,
+          46.5482548
+        ],
+        [
+          6.6579389,
+          46.5483586
+        ],
+        [
+          6.6578184,
+          46.5482584
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/100528231",
+  "properties": {
+    "timestamp": "2025-01-10T18:03:43Z",
+    "version": 7,
+    "changeset": 161215361,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Epalinges",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "1066",
+    "addr:street": "Chemin de Moulins",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "OrthoPhoto PULLY swisstopo Level 2",
+    "id": "way/100528231"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6581918,
+          46.549078
+        ],
+        [
+          6.6581566,
+          46.5489035
+        ],
+        [
+          6.6583609,
+          46.5488839
+        ],
+        [
+          6.6583961,
+          46.5490583
+        ],
+        [
+          6.6581918,
+          46.549078
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/100528264",
+  "properties": {
+    "timestamp": "2025-01-10T18:03:43Z",
+    "version": 7,
+    "changeset": 161215361,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Epalinges",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "1066",
+    "addr:street": "Chemin de Moulins",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "OrthoPhoto PULLY swisstopo Level 2",
+    "id": "way/100528264"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6585841,
+          46.5484718
+        ],
+        [
+          6.6587655,
+          46.548368
+        ],
+        [
+          6.658886,
+          46.5484682
+        ],
+        [
+          6.6587045,
+          46.548572
+        ],
+        [
+          6.6585841,
+          46.5484718
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/100528395",
+  "properties": {
+    "timestamp": "2025-01-10T18:03:43Z",
+    "version": 7,
+    "changeset": 161215361,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Epalinges",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "1066",
+    "addr:street": "Chemin de Moulins",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "OrthoPhoto PULLY swisstopo Level 2",
+    "id": "way/100528395"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6582226,
+          46.5483399
+        ],
+        [
+          6.658404,
+          46.5482361
+        ],
+        [
+          6.6585245,
+          46.5483363
+        ],
+        [
+          6.658389,
+          46.5484138
+        ],
+        [
+          6.6583431,
+          46.5484401
+        ],
+        [
+          6.6582226,
+          46.5483399
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/100528407",
+  "properties": {
+    "timestamp": "2025-01-10T18:03:43Z",
+    "version": 7,
+    "changeset": 161215361,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Epalinges",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "1066",
+    "addr:street": "Chemin de Moulins",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "OrthoPhoto PULLY swisstopo Level 2",
+    "id": "way/100528407"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.658378,
+          46.5487519
+        ],
+        [
+          6.6585594,
+          46.5486481
+        ],
+        [
+          6.6586799,
+          46.5487483
+        ],
+        [
+          6.6584985,
+          46.5488521
+        ],
+        [
+          6.658378,
+          46.5487519
         ]
       ]
     ]
@@ -5696,6 +9979,132 @@
 },
 {
   "type": "Feature",
+  "id": "way/137944593",
+  "properties": {
+    "timestamp": "2025-01-10T17:30:11Z",
+    "version": 7,
+    "changeset": 161214451,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Caisse de pensions de la fonction publique du canton de Neuchâtel",
+    "owner:abbr": "CPCN",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314882",
+    "source": "Orthophoto Yverdon 2011 / R-Pod @ HEIG-VD",
+    "id": "way/137944593"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6301519,
+          46.7759788
+        ],
+        [
+          6.630176,
+          46.7759958
+        ],
+        [
+          6.630164,
+          46.7760037
+        ],
+        [
+          6.6302867,
+          46.7760902
+        ],
+        [
+          6.6302995,
+          46.7760817
+        ],
+        [
+          6.6303463,
+          46.7761147
+        ],
+        [
+          6.6303331,
+          46.7761235
+        ],
+        [
+          6.6304568,
+          46.7762107
+        ],
+        [
+          6.6304698,
+          46.7762021
+        ],
+        [
+          6.6304933,
+          46.7762186
+        ],
+        [
+          6.6303555,
+          46.7763103
+        ],
+        [
+          6.6302809,
+          46.7762577
+        ],
+        [
+          6.6302947,
+          46.7762485
+        ],
+        [
+          6.6302829,
+          46.7762403
+        ],
+        [
+          6.6302736,
+          46.7762337
+        ],
+        [
+          6.630258,
+          46.7762441
+        ],
+        [
+          6.630111,
+          46.7761404
+        ],
+        [
+          6.6301254,
+          46.7761308
+        ],
+        [
+          6.6301148,
+          46.7761234
+        ],
+        [
+          6.6301032,
+          46.7761152
+        ],
+        [
+          6.6300891,
+          46.7761245
+        ],
+        [
+          6.6300132,
+          46.7760711
+        ],
+        [
+          6.6301412,
+          46.7759859
+        ],
+        [
+          6.6301519,
+          46.7759788
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/147330932",
   "properties": {
     "timestamp": "2025-01-05T11:10:03Z",
@@ -5751,16 +10160,17 @@
   "type": "Feature",
   "id": "way/148579309",
   "properties": {
-    "timestamp": "2025-01-05T11:10:03Z",
-    "version": 6,
-    "changeset": 161015844,
+    "timestamp": "2025-01-11T10:58:00Z",
+    "version": 7,
+    "changeset": 161234506,
     "user": "imagoiq",
     "uid": 1856092,
     "building": "apartments",
     "building:levels": "4",
     "owner": "Société coopérative d'habitations Le Chêne",
-    "owner:abbr": "SCH Le Chêne",
+    "owner:short": "SCH Le Chêne",
     "owner:type": "cooperative",
+    "owner:website": "https://www.schlechene.ch",
     "owner:wikidata": "Q131310187",
     "start_date": "1972",
     "id": "way/148579309"
@@ -6086,6 +10496,56 @@
         [
           6.6349282,
           46.5345452
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/160746104",
+  "properties": {
+    "timestamp": "2025-01-10T17:40:12Z",
+    "version": 5,
+    "changeset": 161214723,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "source": "Orthophoto Gland 2012 / R-Pod @ HEIG-VD",
+    "id": "way/160746104"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.2780496,
+          46.4191125
+        ],
+        [
+          6.2779349,
+          46.419017
+        ],
+        [
+          6.2784826,
+          46.4187041
+        ],
+        [
+          6.2785973,
+          46.4187996
+        ],
+        [
+          6.2780496,
+          46.4191125
         ]
       ]
     ]
@@ -6446,6 +10906,266 @@
 },
 {
   "type": "Feature",
+  "id": "way/197755008",
+  "properties": {
+    "timestamp": "2025-01-11T10:46:58Z",
+    "version": 6,
+    "changeset": 161234144,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "La Tour-de-Peilz",
+    "addr:housenumber": "2e",
+    "addr:street": "Avenue de la Paix",
+    "building": "apartments",
+    "owner": "Les Jardins de la Paix",
+    "owner:type": "cooperative",
+    "owner:website": "https://jardinsdelapaix.ch",
+    "start_date": "1994",
+    "id": "way/197755008"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8619505,
+          46.4509865
+        ],
+        [
+          6.86188,
+          46.4508635
+        ],
+        [
+          6.8620071,
+          46.4508289
+        ],
+        [
+          6.8620776,
+          46.4509519
+        ],
+        [
+          6.8619505,
+          46.4509865
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/197755019",
+  "properties": {
+    "timestamp": "2025-01-11T10:46:58Z",
+    "version": 6,
+    "changeset": 161234144,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "La Tour-de-Peilz",
+    "addr:housenumber": "2d",
+    "addr:street": "Avenue de la Paix",
+    "building": "apartments",
+    "owner": "Les Jardins de la Paix",
+    "owner:type": "cooperative",
+    "owner:website": "https://jardinsdelapaix.ch",
+    "start_date": "1994",
+    "id": "way/197755019"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8615761,
+          46.4509675
+        ],
+        [
+          6.8616995,
+          46.4509302
+        ],
+        [
+          6.8617713,
+          46.4510428
+        ],
+        [
+          6.8616479,
+          46.4510802
+        ],
+        [
+          6.8615761,
+          46.4509675
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/197755072",
+  "properties": {
+    "timestamp": "2025-01-11T10:46:58Z",
+    "version": 6,
+    "changeset": 161234144,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "La Tour-de-Peilz",
+    "addr:housenumber": "2c",
+    "addr:street": "Avenue de la Paix",
+    "building": "apartments",
+    "owner": "Les Jardins de la Paix",
+    "owner:type": "cooperative",
+    "owner:website": "https://jardinsdelapaix.ch",
+    "start_date": "1994",
+    "id": "way/197755072"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8612657,
+          46.4510884
+        ],
+        [
+          6.8613793,
+          46.45104
+        ],
+        [
+          6.8614741,
+          46.4511457
+        ],
+        [
+          6.8613604,
+          46.4511941
+        ],
+        [
+          6.8612657,
+          46.4510884
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/197755073",
+  "properties": {
+    "timestamp": "2025-01-11T10:46:58Z",
+    "version": 6,
+    "changeset": 161234144,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "La Tour-de-Peilz",
+    "addr:housenumber": "2b",
+    "addr:street": "Avenue de la Paix",
+    "building": "apartments",
+    "owner": "Les Jardins de la Paix",
+    "owner:type": "cooperative",
+    "owner:website": "https://jardinsdelapaix.ch",
+    "start_date": "1994",
+    "id": "way/197755073"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8609769,
+          46.4512249
+        ],
+        [
+          6.8610951,
+          46.4511716
+        ],
+        [
+          6.861196,
+          46.4512776
+        ],
+        [
+          6.8610778,
+          46.451331
+        ],
+        [
+          6.8609769,
+          46.4512249
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/197851539",
+  "properties": {
+    "timestamp": "2025-01-10T17:28:19Z",
+    "version": 5,
+    "changeset": 161214395,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "building": "apartments",
+    "owner": "Coopérative des cheminots de la Riviera",
+    "owner:short": "CHERI-Riviera",
+    "owner:type": "cooperative",
+    "owner:website": "https://www.cheri-riviera.ch/",
+    "id": "way/197851539"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8642225,
+          46.4564249
+        ],
+        [
+          6.8642458,
+          46.456218
+        ],
+        [
+          6.8646592,
+          46.4562401
+        ],
+        [
+          6.8646914,
+          46.456266
+        ],
+        [
+          6.8646708,
+          46.4564495
+        ],
+        [
+          6.8644728,
+          46.456439
+        ],
+        [
+          6.8644812,
+          46.456364
+        ],
+        [
+          6.8645501,
+          46.4563676
+        ],
+        [
+          6.8645549,
+          46.4563256
+        ],
+        [
+          6.8643908,
+          46.4563169
+        ],
+        [
+          6.8643777,
+          46.4564332
+        ],
+        [
+          6.8642225,
+          46.4564249
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/199683745",
   "properties": {
     "timestamp": "2025-01-05T11:10:03Z",
@@ -6659,6 +11379,62 @@
 },
 {
   "type": "Feature",
+  "id": "way/210240277",
+  "properties": {
+    "timestamp": "2025-01-10T17:44:42Z",
+    "version": 6,
+    "changeset": 161214848,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Préverenges",
+    "addr:housenumber": "54",
+    "addr:street": "Route de Genève",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "id": "way/210240277"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.5326048,
+          46.5155042
+        ],
+        [
+          6.5330323,
+          46.5154092
+        ],
+        [
+          6.533039,
+          46.5154236
+        ],
+        [
+          6.5330956,
+          46.5155442
+        ],
+        [
+          6.5326681,
+          46.5156392
+        ],
+        [
+          6.5326048,
+          46.5155042
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/217481385",
   "properties": {
     "timestamp": "2025-01-05T11:10:03Z",
@@ -6735,9 +11511,9 @@
   "type": "Feature",
   "id": "way/218641077",
   "properties": {
-    "timestamp": "2025-01-05T11:10:03Z",
-    "version": 7,
-    "changeset": 161015844,
+    "timestamp": "2025-01-11T10:58:00Z",
+    "version": 8,
+    "changeset": 161234506,
     "user": "imagoiq",
     "uid": 1856092,
     "addr:city": "Nyon",
@@ -6747,8 +11523,9 @@
     "addr:street": "Route des Tattes d'Oie",
     "building": "apartments",
     "owner": "Société coopérative d'habitations Le Chêne",
-    "owner:abbr": "SCH Le Chêne",
+    "owner:short": "SCH Le Chêne",
     "owner:type": "cooperative",
+    "owner:website": "https://www.schlechene.ch",
     "owner:wikidata": "Q131310187",
     "source": "Orthophoto Ville de Nyon 2010",
     "start_date": "1954",
@@ -6786,9 +11563,9 @@
   "type": "Feature",
   "id": "way/218641080",
   "properties": {
-    "timestamp": "2025-01-05T11:10:03Z",
-    "version": 7,
-    "changeset": 161015844,
+    "timestamp": "2025-01-11T10:58:00Z",
+    "version": 8,
+    "changeset": 161234506,
     "user": "imagoiq",
     "uid": 1856092,
     "addr:city": "Nyon",
@@ -6798,8 +11575,9 @@
     "addr:street": "Route des Tattes d'Oie",
     "building": "apartments",
     "owner": "Société coopérative d'habitations Le Chêne",
-    "owner:abbr": "SCH Le Chêne",
+    "owner:short": "SCH Le Chêne",
     "owner:type": "cooperative",
+    "owner:website": "https://www.schlechene.ch",
     "owner:wikidata": "Q131310187",
     "source": "Orthophoto Ville de Nyon 2010",
     "start_date": "1954",
@@ -6837,9 +11615,9 @@
   "type": "Feature",
   "id": "way/218641811",
   "properties": {
-    "timestamp": "2025-01-05T11:10:03Z",
-    "version": 7,
-    "changeset": 161015844,
+    "timestamp": "2025-01-11T10:58:00Z",
+    "version": 8,
+    "changeset": 161234506,
     "user": "imagoiq",
     "uid": 1856092,
     "addr:city": "Nyon",
@@ -6849,8 +11627,9 @@
     "addr:street": "Chemin du Couchant",
     "building": "apartments",
     "owner": "Société coopérative d'habitations Le Chêne",
-    "owner:abbr": "SCH Le Chêne",
+    "owner:short": "SCH Le Chêne",
     "owner:type": "cooperative",
+    "owner:website": "https://www.schlechene.ch",
     "owner:wikidata": "Q131310187",
     "source": "Orthophoto Ville de Nyon 2010",
     "start_date": "1957",
@@ -7067,6 +11846,72 @@
         [
           6.6311789,
           46.5630551
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/225672780",
+  "properties": {
+    "timestamp": "2025-01-10T17:44:09Z",
+    "version": 6,
+    "changeset": 161214831,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Bussigny",
+    "addr:country": "CH",
+    "addr:housenumber": "36",
+    "addr:postcode": "1030",
+    "addr:street": "Rue Saint-Germain",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "id": "way/225672780"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.5458195,
+          46.5514482
+        ],
+        [
+          6.5456847,
+          46.5513603
+        ],
+        [
+          6.5459036,
+          46.5512032
+        ],
+        [
+          6.5459634,
+          46.5512016
+        ],
+        [
+          6.5460351,
+          46.5511997
+        ],
+        [
+          6.5462675,
+          46.5513528
+        ],
+        [
+          6.5461455,
+          46.5514398
+        ],
+        [
+          6.5459742,
+          46.5513237
+        ],
+        [
+          6.5458195,
+          46.5514482
         ]
       ]
     ]
@@ -7685,11 +12530,1323 @@
 },
 {
   "type": "Feature",
+  "id": "way/237519897",
+  "properties": {
+    "timestamp": "2025-01-10T18:09:27Z",
+    "version": 9,
+    "changeset": 161215511,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Marly",
+    "addr:country": "CH",
+    "addr:housenumber": "39",
+    "addr:postcode": "1723",
+    "addr:street": "Chemin des Epinettes",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "survey:date": "2016-04-07",
+    "id": "way/237519897"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.1536673,
+          46.7784756
+        ],
+        [
+          7.1536988,
+          46.7784632
+        ],
+        [
+          7.1536777,
+          46.7784382
+        ],
+        [
+          7.1537265,
+          46.7784189
+        ],
+        [
+          7.1536884,
+          46.7783737
+        ],
+        [
+          7.153657,
+          46.7783861
+        ],
+        [
+          7.1536122,
+          46.7783329
+        ],
+        [
+          7.1536486,
+          46.7783185
+        ],
+        [
+          7.1536383,
+          46.7783063
+        ],
+        [
+          7.1537712,
+          46.7782538
+        ],
+        [
+          7.1539063,
+          46.7784141
+        ],
+        [
+          7.1539354,
+          46.7784486
+        ],
+        [
+          7.1537172,
+          46.7785349
+        ],
+        [
+          7.1536881,
+          46.7785003
+        ],
+        [
+          7.1536673,
+          46.7784756
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/237519898",
+  "properties": {
+    "timestamp": "2025-01-10T18:09:27Z",
+    "version": 9,
+    "changeset": 161215511,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Marly",
+    "addr:country": "CH",
+    "addr:housenumber": "41",
+    "addr:postcode": "1723",
+    "addr:street": "Chemin des Epinettes",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "survey:date": "2016-04-07",
+    "id": "way/237519898"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.1531743,
+          46.7786653
+        ],
+        [
+          7.1532057,
+          46.7786532
+        ],
+        [
+          7.153194,
+          46.7786391
+        ],
+        [
+          7.1531849,
+          46.778628
+        ],
+        [
+          7.1532357,
+          46.7786084
+        ],
+        [
+          7.1531429,
+          46.7784955
+        ],
+        [
+          7.1531128,
+          46.7785072
+        ],
+        [
+          7.1530694,
+          46.7784542
+        ],
+        [
+          7.1531058,
+          46.7784402
+        ],
+        [
+          7.1530954,
+          46.7784275
+        ],
+        [
+          7.1532261,
+          46.7783772
+        ],
+        [
+          7.1533018,
+          46.7784694
+        ],
+        [
+          7.1533249,
+          46.7784605
+        ],
+        [
+          7.1533462,
+          46.7784865
+        ],
+        [
+          7.1533249,
+          46.7784947
+        ],
+        [
+          7.153358,
+          46.7785351
+        ],
+        [
+          7.1533814,
+          46.7785261
+        ],
+        [
+          7.1534065,
+          46.7785566
+        ],
+        [
+          7.1533867,
+          46.7785642
+        ],
+        [
+          7.1534128,
+          46.778596
+        ],
+        [
+          7.1534486,
+          46.7786397
+        ],
+        [
+          7.1532242,
+          46.7787261
+        ],
+        [
+          7.1531743,
+          46.7786653
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/237519928",
+  "properties": {
+    "timestamp": "2025-01-10T18:09:27Z",
+    "version": 7,
+    "changeset": 161215511,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Marly",
+    "addr:country": "CH",
+    "addr:housenumber": "33",
+    "addr:postcode": "1723",
+    "addr:street": "Chemin des Epinettes",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "survey:date": "2016-04-07",
+    "id": "way/237519928"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.1551229,
+          46.777837
+        ],
+        [
+          7.1549935,
+          46.7776785
+        ],
+        [
+          7.155177,
+          46.7776083
+        ],
+        [
+          7.1553063,
+          46.7777668
+        ],
+        [
+          7.1551229,
+          46.777837
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/237519975",
+  "properties": {
+    "timestamp": "2025-01-10T18:09:27Z",
+    "version": 7,
+    "changeset": 161215511,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Marly",
+    "addr:country": "CH",
+    "addr:housenumber": "37",
+    "addr:postcode": "1723",
+    "addr:street": "Chemin des Epinettes",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "survey:date": "2016-04-07",
+    "id": "way/237519975"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.1541563,
+          46.7782871
+        ],
+        [
+          7.1542574,
+          46.778248
+        ],
+        [
+          7.1542193,
+          46.7782019
+        ],
+        [
+          7.1541647,
+          46.778223
+        ],
+        [
+          7.1540889,
+          46.7781312
+        ],
+        [
+          7.1542609,
+          46.7780646
+        ],
+        [
+          7.1544225,
+          46.7782604
+        ],
+        [
+          7.1542041,
+          46.7783449
+        ],
+        [
+          7.1541563,
+          46.7782871
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/237519988",
+  "properties": {
+    "timestamp": "2025-01-10T18:09:27Z",
+    "version": 7,
+    "changeset": 161215511,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Marly",
+    "addr:country": "CH",
+    "addr:housenumber": "35",
+    "addr:postcode": "1723",
+    "addr:street": "Chemin des Epinettes",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "survey:date": "2016-04-07",
+    "id": "way/237519988"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.1546517,
+          46.7780941
+        ],
+        [
+          7.1547527,
+          46.778055
+        ],
+        [
+          7.1547147,
+          46.7780089
+        ],
+        [
+          7.15466,
+          46.7780301
+        ],
+        [
+          7.1545842,
+          46.7779382
+        ],
+        [
+          7.1547563,
+          46.7778716
+        ],
+        [
+          7.1549178,
+          46.7780674
+        ],
+        [
+          7.1546994,
+          46.7781519
+        ],
+        [
+          7.1546517,
+          46.7780941
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/238306808",
+  "properties": {
+    "timestamp": "2025-01-10T18:10:00Z",
+    "version": 7,
+    "changeset": 161215528,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Marly",
+    "addr:country": "CH",
+    "addr:housenumber": "41",
+    "addr:postcode": "1723",
+    "addr:street": "Route du Centre",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "survey:date": "2016-04-07",
+    "id": "way/238306808"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.1546012,
+          46.7841286
+        ],
+        [
+          7.1545415,
+          46.7841281
+        ],
+        [
+          7.1545417,
+          46.7841177
+        ],
+        [
+          7.1544022,
+          46.7841163
+        ],
+        [
+          7.1544063,
+          46.7839173
+        ],
+        [
+          7.1545404,
+          46.7839186
+        ],
+        [
+          7.1545407,
+          46.7839078
+        ],
+        [
+          7.1546049,
+          46.7839084
+        ],
+        [
+          7.1546033,
+          46.783987
+        ],
+        [
+          7.154562,
+          46.7839866
+        ],
+        [
+          7.1545607,
+          46.7840506
+        ],
+        [
+          7.1546028,
+          46.784051
+        ],
+        [
+          7.1546012,
+          46.7841286
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/238306813",
+  "properties": {
+    "timestamp": "2025-01-10T18:10:00Z",
+    "version": 7,
+    "changeset": 161215528,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Marly",
+    "addr:country": "CH",
+    "addr:housenumber": "39",
+    "addr:postcode": "1723",
+    "addr:street": "Route du Centre",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "survey:date": "2016-04-07",
+    "id": "way/238306813"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.1543992,
+          46.7835993
+        ],
+        [
+          7.1543395,
+          46.7835987
+        ],
+        [
+          7.1543397,
+          46.7835884
+        ],
+        [
+          7.1542003,
+          46.783587
+        ],
+        [
+          7.1542044,
+          46.783388
+        ],
+        [
+          7.1543385,
+          46.7833893
+        ],
+        [
+          7.1543387,
+          46.7833785
+        ],
+        [
+          7.1544029,
+          46.7833791
+        ],
+        [
+          7.1544013,
+          46.7834576
+        ],
+        [
+          7.1543601,
+          46.7834572
+        ],
+        [
+          7.1543587,
+          46.7835213
+        ],
+        [
+          7.1544008,
+          46.7835217
+        ],
+        [
+          7.1543992,
+          46.7835993
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/239912249",
+  "properties": {
+    "timestamp": "2025-01-10T17:57:51Z",
+    "version": 7,
+    "changeset": 161215196,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "1012",
+    "addr:street": "Chemin de Rovéréaz",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophotos de la Ville de Lausanne (2008)",
+    "id": "way/239912249"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6519093,
+          46.5267986
+        ],
+        [
+          6.6519266,
+          46.5268143
+        ],
+        [
+          6.6519409,
+          46.5268068
+        ],
+        [
+          6.6519676,
+          46.5268309
+        ],
+        [
+          6.6520785,
+          46.526931
+        ],
+        [
+          6.6519648,
+          46.5269907
+        ],
+        [
+          6.6519243,
+          46.5269567
+        ],
+        [
+          6.6518105,
+          46.5268514
+        ],
+        [
+          6.6519093,
+          46.5267986
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/247390000",
+  "properties": {
+    "timestamp": "2025-01-10T18:01:04Z",
+    "version": 5,
+    "changeset": 161215283,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "1010",
+    "addr:street": "Chemin des Eterpeys",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophotos de la Ville de Lausanne (2008)",
+    "id": "way/247390000"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6619387,
+          46.535688
+        ],
+        [
+          6.6618364,
+          46.535804
+        ],
+        [
+          6.6617144,
+          46.5358143
+        ],
+        [
+          6.6616889,
+          46.5357402
+        ],
+        [
+          6.6617928,
+          46.5356227
+        ],
+        [
+          6.6619387,
+          46.535688
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/247390005",
+  "properties": {
+    "timestamp": "2025-01-10T18:01:42Z",
+    "version": 6,
+    "changeset": 161215301,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "15",
+    "addr:postcode": "1010",
+    "addr:street": "Chemin des Eterpeys",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophotos de la Ville de Lausanne (2008)",
+    "id": "way/247390005"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6613795,
+          46.5354235
+        ],
+        [
+          6.6612487,
+          46.5354588
+        ],
+        [
+          6.6611921,
+          46.5352997
+        ],
+        [
+          6.6613661,
+          46.5352726
+        ],
+        [
+          6.6613916,
+          46.535338
+        ],
+        [
+          6.6614219,
+          46.5354158
+        ],
+        [
+          6.6613795,
+          46.5354235
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/247390010",
+  "properties": {
+    "timestamp": "2025-01-10T18:01:42Z",
+    "version": 5,
+    "changeset": 161215301,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "19",
+    "addr:postcode": "1010",
+    "addr:street": "Chemin des Eterpeys",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophotos de la Ville de Lausanne (2008)",
+    "id": "way/247390010"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6611504,
+          46.535572
+        ],
+        [
+          6.6613096,
+          46.5356319
+        ],
+        [
+          6.661207,
+          46.5357534
+        ],
+        [
+          6.6611513,
+          46.5357314
+        ],
+        [
+          6.6611237,
+          46.5357575
+        ],
+        [
+          6.6610739,
+          46.5357345
+        ],
+        [
+          6.6610858,
+          46.5357222
+        ],
+        [
+          6.6610769,
+          46.5356966
+        ],
+        [
+          6.6610524,
+          46.5356874
+        ],
+        [
+          6.6611504,
+          46.535572
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/247390032",
+  "properties": {
+    "timestamp": "2025-01-10T18:00:13Z",
+    "version": 4,
+    "changeset": 161215268,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "1010",
+    "addr:street": "Chemin des Eterpeys",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophotos de la Ville de Lausanne (2008)",
+    "id": "way/247390032"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.663014,
+          46.5361573
+        ],
+        [
+          6.6630401,
+          46.5361264
+        ],
+        [
+          6.6630279,
+          46.5361215
+        ],
+        [
+          6.6630576,
+          46.5360861
+        ],
+        [
+          6.6630745,
+          46.5360928
+        ],
+        [
+          6.6631132,
+          46.5360469
+        ],
+        [
+          6.6630987,
+          46.5360411
+        ],
+        [
+          6.663131,
+          46.5360027
+        ],
+        [
+          6.6631461,
+          46.5360087
+        ],
+        [
+          6.6631887,
+          46.5359581
+        ],
+        [
+          6.6632827,
+          46.5359955
+        ],
+        [
+          6.6632369,
+          46.5360499
+        ],
+        [
+          6.6632654,
+          46.5360613
+        ],
+        [
+          6.6632322,
+          46.5361008
+        ],
+        [
+          6.6632613,
+          46.5361124
+        ],
+        [
+          6.6632264,
+          46.536154
+        ],
+        [
+          6.6631954,
+          46.5361416
+        ],
+        [
+          6.6631614,
+          46.536182
+        ],
+        [
+          6.6631249,
+          46.5361674
+        ],
+        [
+          6.663102,
+          46.5361947
+        ],
+        [
+          6.663014,
+          46.5361573
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/247390050",
+  "properties": {
+    "timestamp": "2025-01-10T18:00:13Z",
+    "version": 4,
+    "changeset": 161215268,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "1010",
+    "addr:street": "Chemin des Eterpeys",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "source": "Orthophotos de la Ville de Lausanne (2008)",
+    "id": "way/247390050"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6628052,
+          46.5363976
+        ],
+        [
+          6.6628963,
+          46.5364399
+        ],
+        [
+          6.6628765,
+          46.5364633
+        ],
+        [
+          6.6628697,
+          46.5364606
+        ],
+        [
+          6.662845,
+          46.5364899
+        ],
+        [
+          6.6628793,
+          46.5365036
+        ],
+        [
+          6.6628468,
+          46.5365423
+        ],
+        [
+          6.6628766,
+          46.5365542
+        ],
+        [
+          6.6628417,
+          46.5365956
+        ],
+        [
+          6.6628095,
+          46.5365827
+        ],
+        [
+          6.6627756,
+          46.536623
+        ],
+        [
+          6.6627385,
+          46.5366082
+        ],
+        [
+          6.6627146,
+          46.5366366
+        ],
+        [
+          6.6627173,
+          46.5366377
+        ],
+        [
+          6.6626965,
+          46.5366624
+        ],
+        [
+          6.662607,
+          46.5366267
+        ],
+        [
+          6.6626559,
+          46.5365686
+        ],
+        [
+          6.6626428,
+          46.5365634
+        ],
+        [
+          6.6626738,
+          46.5365266
+        ],
+        [
+          6.6626886,
+          46.5365325
+        ],
+        [
+          6.6627276,
+          46.5364862
+        ],
+        [
+          6.6627149,
+          46.5364811
+        ],
+        [
+          6.6627454,
+          46.536445
+        ],
+        [
+          6.6627595,
+          46.5364507
+        ],
+        [
+          6.6628052,
+          46.5363976
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/247390059",
+  "properties": {
+    "timestamp": "2025-01-10T18:01:04Z",
+    "version": 6,
+    "changeset": 161215283,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "9",
+    "addr:postcode": "1010",
+    "addr:street": "Chemin des Eterpeys",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitation Lausanne",
+    "owner:abbr": "SCHL",
+    "owner:type": "cooperative",
+    "owner:website": "https://schl.ch",
+    "owner:wikidata": "Q126741196",
+    "source": "Orthophotos de la Ville de Lausanne (2008)",
+    "id": "way/247390059"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6619387,
+          46.535688
+        ],
+        [
+          6.6617928,
+          46.5356227
+        ],
+        [
+          6.6619042,
+          46.535493
+        ],
+        [
+          6.6620541,
+          46.5355577
+        ],
+        [
+          6.6619798,
+          46.5356416
+        ],
+        [
+          6.6619387,
+          46.535688
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/252462469",
+  "properties": {
+    "timestamp": "2025-01-11T10:58:00Z",
+    "version": 6,
+    "changeset": 161234506,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Nyon",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "1260",
+    "addr:street": "Chemin des Pâquerettes",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitations Le Chêne",
+    "owner:short": "SCH Le Chêne",
+    "owner:type": "cooperative",
+    "owner:website": "https://www.schlechene.ch",
+    "owner:wikidata": "Q131310187",
+    "source": "Orthophoto Ville de Nyon 2010",
+    "start_date": "1959",
+    "id": "way/252462469"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.2306834,
+          46.3929675
+        ],
+        [
+          6.2305093,
+          46.3928293
+        ],
+        [
+          6.2306074,
+          46.3927706
+        ],
+        [
+          6.2307815,
+          46.3929087
+        ],
+        [
+          6.2306834,
+          46.3929675
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/252462471",
+  "properties": {
+    "timestamp": "2025-01-11T10:58:00Z",
+    "version": 5,
+    "changeset": 161234506,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Nyon",
+    "addr:country": "CH",
+    "addr:housenumber": "2bis",
+    "addr:postcode": "1260",
+    "addr:street": "Chemin des Pâquerettes",
+    "building": "apartments",
+    "owner": "Société coopérative d'habitations Le Chêne",
+    "owner:short": "SCH Le Chêne",
+    "owner:type": "cooperative",
+    "owner:website": "https://www.schlechene.ch",
+    "owner:wikidata": "Q131310187",
+    "source": "Orthophoto Ville de Nyon 2010",
+    "id": "way/252462471"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.2305093,
+          46.3928293
+        ],
+        [
+          6.2303349,
+          46.3926909
+        ],
+        [
+          6.230433,
+          46.3926321
+        ],
+        [
+          6.2306074,
+          46.3927706
+        ],
+        [
+          6.2305093,
+          46.3928293
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/252462480",
+  "properties": {
+    "timestamp": "2025-01-11T10:58:00Z",
+    "version": 7,
+    "changeset": 161234506,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "building": "apartments",
+    "owner": "Société coopérative d'habitations Le Chêne",
+    "owner:short": "SCH Le Chêne",
+    "owner:type": "cooperative",
+    "owner:website": "https://www.schlechene.ch",
+    "owner:wikidata": "Q131310187",
+    "source": "Orthophoto Ville de Nyon 2010",
+    "start_date": "1973",
+    "id": "way/252462480"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.2298923,
+          46.3914976
+        ],
+        [
+          6.229974,
+          46.3915628
+        ],
+        [
+          6.2299923,
+          46.3915519
+        ],
+        [
+          6.2300479,
+          46.3915963
+        ],
+        [
+          6.2295137,
+          46.3919147
+        ],
+        [
+          6.2293764,
+          46.3918051
+        ],
+        [
+          6.2298923,
+          46.3914976
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/288556935",
   "properties": {
-    "timestamp": "2025-01-05T11:10:03Z",
-    "version": 4,
-    "changeset": 161015844,
+    "timestamp": "2025-01-11T10:58:00Z",
+    "version": 5,
+    "changeset": 161234506,
     "user": "imagoiq",
     "uid": 1856092,
     "addr:city": "Gland",
@@ -7699,8 +13856,9 @@
     "building": "apartments",
     "building:levels": "3",
     "owner": "Société coopérative d'habitations Le Chêne",
-    "owner:abbr": "SCH Le Chêne",
+    "owner:short": "SCH Le Chêne",
     "owner:type": "cooperative",
+    "owner:website": "https://www.schlechene.ch",
     "owner:wikidata": "Q131310187",
     "start_date": "1951",
     "id": "way/288556935"
@@ -7737,9 +13895,9 @@
   "type": "Feature",
   "id": "way/288556936",
   "properties": {
-    "timestamp": "2025-01-05T11:10:03Z",
-    "version": 4,
-    "changeset": 161015844,
+    "timestamp": "2025-01-11T10:58:00Z",
+    "version": 5,
+    "changeset": 161234506,
     "user": "imagoiq",
     "uid": 1856092,
     "addr:city": "Gland",
@@ -7749,8 +13907,9 @@
     "building": "apartments",
     "building:levels": "3",
     "owner": "Société coopérative d'habitations Le Chêne",
-    "owner:abbr": "SCH Le Chêne",
+    "owner:short": "SCH Le Chêne",
     "owner:type": "cooperative",
+    "owner:website": "https://www.schlechene.ch",
     "owner:wikidata": "Q131310187",
     "start_date": "1951",
     "id": "way/288556936"
@@ -7787,9 +13946,9 @@
   "type": "Feature",
   "id": "way/288574627",
   "properties": {
-    "timestamp": "2025-01-05T11:10:03Z",
-    "version": 4,
-    "changeset": 161015844,
+    "timestamp": "2025-01-11T10:58:00Z",
+    "version": 5,
+    "changeset": 161234506,
     "user": "imagoiq",
     "uid": 1856092,
     "addr:city": "Gland",
@@ -7799,8 +13958,9 @@
     "building": "apartments",
     "building:levels": "3",
     "owner": "Société coopérative d'habitations Le Chêne",
-    "owner:abbr": "SCH Le Chêne",
+    "owner:short": "SCH Le Chêne",
     "owner:type": "cooperative",
+    "owner:website": "https://www.schlechene.ch",
     "owner:wikidata": "Q131310187",
     "start_date": "1957",
     "id": "way/288574627"
@@ -7970,6 +14130,104 @@
 },
 {
   "type": "Feature",
+  "id": "way/305610570",
+  "properties": {
+    "timestamp": "2025-01-10T18:11:17Z",
+    "version": 5,
+    "changeset": 161215560,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "id": "way/305610570"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8105026,
+          46.9257526
+        ],
+        [
+          6.8105847,
+          46.9257241
+        ],
+        [
+          6.8107843,
+          46.9259927
+        ],
+        [
+          6.8107023,
+          46.9260211
+        ],
+        [
+          6.8105026,
+          46.9257526
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/305610628",
+  "properties": {
+    "timestamp": "2025-01-10T18:11:17Z",
+    "version": 5,
+    "changeset": 161215560,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "id": "way/305610628"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8100718,
+          46.9259058
+        ],
+        [
+          6.8101538,
+          46.9258773
+        ],
+        [
+          6.8103535,
+          46.9261459
+        ],
+        [
+          6.8102714,
+          46.9261743
+        ],
+        [
+          6.8100718,
+          46.9259058
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/305610631",
   "properties": {
     "timestamp": "2025-01-05T11:10:03Z",
@@ -8016,6 +14274,195 @@
         [
           6.8102835,
           46.9258315
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/359172524",
+  "properties": {
+    "timestamp": "2025-01-10T17:25:05Z",
+    "version": 6,
+    "changeset": 161214296,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "1800",
+    "addr:street": "Rue des Marronniers",
+    "building": "apartments",
+    "building:levels": "4",
+    "owner": "Les Jardins de la Paix",
+    "owner:type": "cooperative",
+    "owner:website": "https://jardinsdelapaix.ch",
+    "roof:levels": "1",
+    "start_date": "2009",
+    "id": "way/359172524"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8430044,
+          46.4662654
+        ],
+        [
+          6.8429097,
+          46.4661987
+        ],
+        [
+          6.8431423,
+          46.4660421
+        ],
+        [
+          6.8432369,
+          46.4661087
+        ],
+        [
+          6.8430044,
+          46.4662654
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/441673035",
+  "properties": {
+    "timestamp": "2025-01-10T18:10:41Z",
+    "version": 4,
+    "changeset": 161215544,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "La Sarraz",
+    "addr:housenumber": "2",
+    "addr:postcode": "1315",
+    "addr:street": "Chemin des Liappes",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "id": "way/441673035"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.5086197,
+          46.6553909
+        ],
+        [
+          6.508584,
+          46.655324
+        ],
+        [
+          6.5088185,
+          46.6552651
+        ],
+        [
+          6.50885,
+          46.6553242
+        ],
+        [
+          6.5088258,
+          46.6553303
+        ],
+        [
+          6.5088394,
+          46.6553559
+        ],
+        [
+          6.5089286,
+          46.6553798
+        ],
+        [
+          6.5088825,
+          46.655461
+        ],
+        [
+          6.5087901,
+          46.6554362
+        ],
+        [
+          6.5088043,
+          46.6554113
+        ],
+        [
+          6.5087516,
+          46.6553972
+        ],
+        [
+          6.5087331,
+          46.6553624
+        ],
+        [
+          6.5086197,
+          46.6553909
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/441673036",
+  "properties": {
+    "timestamp": "2025-01-10T17:32:41Z",
+    "version": 4,
+    "changeset": 161214512,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "La Sarraz",
+    "addr:housenumber": "4",
+    "addr:postcode": "1315",
+    "addr:street": "Chemin des Liappes",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "id": "way/441673036"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.5087624,
+          46.6556505
+        ],
+        [
+          6.5086658,
+          46.6555529
+        ],
+        [
+          6.5087925,
+          46.6554938
+        ],
+        [
+          6.5088891,
+          46.6555914
+        ],
+        [
+          6.5087624,
+          46.6556505
         ]
       ]
     ]
@@ -8072,6 +14519,56 @@
         [
           6.6044122,
           46.5827803
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/588732656",
+  "properties": {
+    "timestamp": "2025-01-10T17:33:48Z",
+    "version": 8,
+    "changeset": 161214542,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Coppet",
+    "addr:housenumber": "8",
+    "addr:postcode": "1296",
+    "addr:street": "Route de Founex",
+    "building": "apartments",
+    "building:levels": "3",
+    "owner": "Société coopérative d'habitations Le Chêne",
+    "owner:abbr": "SCH Le Chêne",
+    "owner:type": "cooperative",
+    "owner:wikidata": "Q131310187",
+    "start_date": "1959",
+    "id": "way/588732656"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.1878725,
+          46.3204696
+        ],
+        [
+          6.1877781,
+          46.32027
+        ],
+        [
+          6.1879118,
+          46.3202398
+        ],
+        [
+          6.1880063,
+          46.3204394
+        ],
+        [
+          6.1878725,
+          46.3204696
         ]
       ]
     ]
@@ -8386,6 +14883,209 @@
 },
 {
   "type": "Feature",
+  "id": "way/660279629",
+  "properties": {
+    "timestamp": "2025-01-10T17:31:22Z",
+    "version": 4,
+    "changeset": 161214482,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Carrouge VD",
+    "addr:housenumber": "4",
+    "addr:postcode": "1084",
+    "addr:street": "Chemin Champ du Trey",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "id": "way/660279629"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.7737137,
+          46.6026343
+        ],
+        [
+          6.7735918,
+          46.6024892
+        ],
+        [
+          6.7737373,
+          46.6024333
+        ],
+        [
+          6.7737822,
+          46.6024137
+        ],
+        [
+          6.7739041,
+          46.6025588
+        ],
+        [
+          6.7737137,
+          46.6026343
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/660279630",
+  "properties": {
+    "timestamp": "2025-01-10T17:31:22Z",
+    "version": 4,
+    "changeset": 161214482,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Carrouge VD",
+    "addr:housenumber": "2",
+    "addr:postcode": "1084",
+    "addr:street": "Chemin Champ du Trey",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "id": "way/660279630"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.7735575,
+          46.6025024
+        ],
+        [
+          6.7734129,
+          46.602325
+        ],
+        [
+          6.7735927,
+          46.6022559
+        ],
+        [
+          6.7737373,
+          46.6024333
+        ],
+        [
+          6.7735918,
+          46.6024892
+        ],
+        [
+          6.7735575,
+          46.6025024
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/702506609",
+  "properties": {
+    "timestamp": "2025-01-10T17:29:35Z",
+    "version": 7,
+    "changeset": 161214436,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Estavayer-le-Lac",
+    "addr:housenumber": "14",
+    "addr:postcode": "1470",
+    "addr:street": "Route de la Scie",
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "id": "way/702506609"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.8465469,
+          46.8435886
+        ],
+        [
+          6.8465403,
+          46.8433473
+        ],
+        [
+          6.8465755,
+          46.8433468
+        ],
+        [
+          6.8465838,
+          46.8433257
+        ],
+        [
+          6.8466386,
+          46.8432926
+        ],
+        [
+          6.8466813,
+          46.8432923
+        ],
+        [
+          6.8467084,
+          46.843298
+        ],
+        [
+          6.8467318,
+          46.8432772
+        ],
+        [
+          6.8468758,
+          46.8433531
+        ],
+        [
+          6.8468053,
+          46.8434158
+        ],
+        [
+          6.846701,
+          46.8433609
+        ],
+        [
+          6.8466645,
+          46.8433933
+        ],
+        [
+          6.8466697,
+          46.843587
+        ],
+        [
+          6.8465469,
+          46.8435886
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/861165811",
   "properties": {
     "timestamp": "2025-01-05T11:10:03Z",
@@ -8617,6 +15317,91 @@
         [
           6.1349882,
           46.2115805
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1053448686",
+  "properties": {
+    "timestamp": "2025-01-10T18:02:10Z",
+    "version": 4,
+    "changeset": 161215321,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Fondation Pro Habitat Lausanne",
+    "owner:abbr": "FPHL",
+    "owner:type": "foundation",
+    "owner:website": "https://schl.ch",
+    "id": "way/1053448686"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6321546,
+          46.5298535
+        ],
+        [
+          6.6323315,
+          46.5294482
+        ],
+        [
+          6.6323497,
+          46.5294083
+        ],
+        [
+          6.6327921,
+          46.5294894
+        ],
+        [
+          6.6327647,
+          46.529575
+        ],
+        [
+          6.6327466,
+          46.529596
+        ],
+        [
+          6.632623,
+          46.529676
+        ],
+        [
+          6.6325559,
+          46.5296553
+        ],
+        [
+          6.6324755,
+          46.5297042
+        ],
+        [
+          6.6324947,
+          46.5297516
+        ],
+        [
+          6.6323637,
+          46.5298363
+        ],
+        [
+          6.6323534,
+          46.5298935
+        ],
+        [
+          6.6322342,
+          46.5298696
+        ],
+        [
+          6.6321546,
+          46.5298535
         ]
       ]
     ]
@@ -9579,15 +16364,16 @@
   "type": "Feature",
   "id": "way/1231417527",
   "properties": {
-    "timestamp": "2024-03-19T14:18:41Z",
-    "version": 2,
-    "changeset": 148863781,
-    "user": "Unisanté",
-    "uid": 21220933,
+    "timestamp": "2025-01-11T10:59:34Z",
+    "version": 3,
+    "changeset": 161234547,
+    "user": "imagoiq",
+    "uid": 1856092,
     "building": "apartments",
     "name": "Les Peupliers",
     "owner": "Coopérative Cité Derrière",
     "owner:type": "cooperative",
+    "owner:website": "https://citederriere.ch/",
     "start_date": "2023",
     "id": "way/1231417527"
   },
@@ -10450,6 +17236,396 @@
 },
 {
   "type": "Feature",
+  "id": "way/1293993394",
+  "properties": {
+    "timestamp": "2025-01-10T17:34:15Z",
+    "version": 4,
+    "changeset": 161214559,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "building": "apartments",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Logement Social Romand",
+    "owner:abbr": "LSR",
+    "owner:type": "limited_company",
+    "owner:wikidata": "Q131314825",
+    "id": "way/1293993394"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.2235149,
+          46.3844744
+        ],
+        [
+          6.2241453,
+          46.3848693
+        ],
+        [
+          6.223652,
+          46.3852441
+        ],
+        [
+          6.2230215,
+          46.3848493
+        ],
+        [
+          6.2235149,
+          46.3844744
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1294344139",
+  "properties": {
+    "timestamp": "2025-01-10T18:08:11Z",
+    "version": 5,
+    "changeset": 161215475,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "144",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Cour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51818085",
+    "oa:lon": "6.60925817",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "operator": "Société coopérative d'habitation Lausanne",
+    "operator:abbr": "SCHL",
+    "operator:type": "cooperative",
+    "operator:website": "https://schl.ch",
+    "operator:wikidata": "Q126741196",
+    "owner": "Coopérative d'habitation des employés du rail",
+    "owner:abbr": "CHER",
+    "owner:type": "cooperative",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/1294344139"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6092285,
+          46.5181719
+        ],
+        [
+          6.6093154,
+          46.518109
+        ],
+        [
+          6.6094495,
+          46.5181967
+        ],
+        [
+          6.6093627,
+          46.5182596
+        ],
+        [
+          6.6092285,
+          46.5181719
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1294344140",
+  "properties": {
+    "timestamp": "2025-01-10T18:08:11Z",
+    "version": 4,
+    "changeset": 161215475,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "146",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Cour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51828384",
+    "oa:lon": "6.60911846",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Coopérative d'habitation des employés du rail",
+    "owner:abbr": "CHER",
+    "owner:type": "cooperative",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/1294344140"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6093627,
+          46.5182596
+        ],
+        [
+          6.6092659,
+          46.5183295
+        ],
+        [
+          6.609132,
+          46.5182423
+        ],
+        [
+          6.6092285,
+          46.5181719
+        ],
+        [
+          6.6093627,
+          46.5182596
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1294344141",
+  "properties": {
+    "timestamp": "2025-01-10T18:08:11Z",
+    "version": 4,
+    "changeset": 161215475,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "146",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Cour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51828384",
+    "oa:lon": "6.60911846",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Coopérative d'habitation des employés du rail",
+    "owner:abbr": "CHER",
+    "owner:type": "cooperative",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/1294344141"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6092659,
+          46.5183295
+        ],
+        [
+          6.6091709,
+          46.5183982
+        ],
+        [
+          6.6090373,
+          46.5183119
+        ],
+        [
+          6.609132,
+          46.5182423
+        ],
+        [
+          6.6092659,
+          46.5183295
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1294344142",
+  "properties": {
+    "timestamp": "2025-01-10T18:08:11Z",
+    "version": 4,
+    "changeset": 161215475,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "148",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Cour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51837921",
+    "oa:lon": "6.60900593",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Coopérative d'habitation des employés du rail",
+    "owner:abbr": "CHER",
+    "owner:type": "cooperative",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/1294344142"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6091709,
+          46.5183982
+        ],
+        [
+          6.6090722,
+          46.5184693
+        ],
+        [
+          6.6090188,
+          46.5184343
+        ],
+        [
+          6.6089407,
+          46.5183833
+        ],
+        [
+          6.6090373,
+          46.5183119
+        ],
+        [
+          6.6091709,
+          46.5183982
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1294344143",
+  "properties": {
+    "timestamp": "2025-01-10T18:08:11Z",
+    "version": 4,
+    "changeset": 161215475,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "150",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Cour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51842880",
+    "oa:lon": "6.60886097",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Coopérative d'habitation des employés du rail",
+    "owner:abbr": "CHER",
+    "owner:type": "cooperative",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/1294344143"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6090188,
+          46.5184343
+        ],
+        [
+          6.6088835,
+          46.5185323
+        ],
+        [
+          6.6087423,
+          46.5184399
+        ],
+        [
+          6.6088767,
+          46.5183427
+        ],
+        [
+          6.6089407,
+          46.5183833
+        ],
+        [
+          6.6090188,
+          46.5184343
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1294344144",
+  "properties": {
+    "timestamp": "2025-01-10T18:08:11Z",
+    "version": 4,
+    "changeset": 161215475,
+    "user": "imagoiq",
+    "uid": 1856092,
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "152",
+    "addr:postcode": "1007",
+    "addr:street": "Avenue de Cour",
+    "building": "apartments",
+    "copyright": "OpenAddresses",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.51842880",
+    "oa:lon": "6.60886097",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "owner": "Coopérative d'habitation des employés du rail",
+    "owner:abbr": "CHER",
+    "owner:type": "cooperative",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "id": "way/1294344144"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6088835,
+          46.5185323
+        ],
+        [
+          6.6087623,
+          46.5186196
+        ],
+        [
+          6.608704,
+          46.5185812
+        ],
+        [
+          6.6086218,
+          46.5185272
+        ],
+        [
+          6.6087423,
+          46.5184399
+        ],
+        [
+          6.6088835,
+          46.5185323
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1337328800",
   "properties": {
     "timestamp": "2025-01-05T11:10:03Z",
@@ -10501,9 +17677,9 @@
   "type": "Feature",
   "id": "way/1338573959",
   "properties": {
-    "timestamp": "2025-01-05T10:25:48Z",
-    "version": 2,
-    "changeset": 161014564,
+    "timestamp": "2025-01-10T17:14:24Z",
+    "version": 3,
+    "changeset": 161213967,
     "user": "imagoiq",
     "uid": 1856092,
     "addr:city": "La Tour-de-Peilz",
@@ -10512,7 +17688,7 @@
     "addr:street": "Avenue de la Perrausaz",
     "building": "apartments",
     "building:flats": "25",
-    "owner": "Les Jardins de la Paix, société coopérative d'habitation",
+    "owner": "Les Jardins de la Paix",
     "owner:type": "cooperative",
     "owner:website": "https://jardinsdelapaix.ch",
     "id": "way/1338573959"
@@ -10557,9 +17733,9 @@
   "type": "Feature",
   "id": "way/1338573960",
   "properties": {
-    "timestamp": "2025-01-05T10:25:48Z",
-    "version": 2,
-    "changeset": 161014564,
+    "timestamp": "2025-01-10T17:14:24Z",
+    "version": 3,
+    "changeset": 161213967,
     "user": "imagoiq",
     "uid": 1856092,
     "addr:city": "La Tour-de-Peilz",
@@ -10568,7 +17744,7 @@
     "addr:street": "Avenue de la Perrausaz",
     "building": "apartments",
     "building:flats": "25",
-    "owner": "Les Jardins de la Paix, société coopérative d'habitation",
+    "owner": "Les Jardins de la Paix",
     "owner:type": "cooperative",
     "owner:website": "https://jardinsdelapaix.ch",
     "id": "way/1338573960"
