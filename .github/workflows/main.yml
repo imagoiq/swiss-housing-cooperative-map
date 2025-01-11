@@ -59,12 +59,12 @@ jobs:
       - name: Get list of cooperative owners
         run: |
           jq -rf scripts/list_owners.jq $output_dir/$cooperative_buildings_filename \
-          | jq -rf scripts/json_to_csv.jq > $output_dir/swiss_housing_cooperative_list_owners.csv
+          | jq -r -L. 'include "scripts/json2tsv"; json2tsv' > $output_dir/swiss_housing_cooperative_list_owners.tsv
 
       - name: Get list of cooperative operators
         run: |
           jq -rf scripts/list_operators.jq $output_dir/$cooperative_buildings_filename \
-          | jq -rf scripts/json_to_csv.jq > $output_dir/swiss_housing_cooperative_list_operators.csv
+          | jq -r -L. 'include "scripts/json2tsv"; json2tsv' > $output_dir/swiss_housing_cooperative_list_operators.tsv
 
       - name: Update readme cooperative'list
         run: |
