@@ -1,5 +1,5 @@
 # https://github.com/jqlang/jq/wiki/FAQ
-# Given an array of JSON objects, 
+# Given an array of JSON objects,
 # produce "TSV" rows, with a header row.
 # Handle terminal arrays specially if they are flat.
 
@@ -21,5 +21,5 @@ def json2tsv:
   | ([$h[]|join("_") ],
      (.[]
       | json2array($h)
-      | map( if type == "array" then map(tostring)|join("|") else tostring end)))
+      | map( if type == "array" then map(tostring)|join("|") end)))
   | @tsv ;
