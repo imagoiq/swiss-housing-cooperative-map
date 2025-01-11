@@ -1,14 +1,30 @@
-"abbr","buildings_count","name","short","website","wikidata"
-,1,"Coopérative Cité Derrière",,,
-"I6",1,"Coopérative I6",,,
-"CHER",1,"Coopérative d'habitation des employés du rail",,,
-"CODHA",19,"Coopérative de l’habitat associatif",,"https://www.codha.ch","Q86666680"
-,1,"Coopérative des Arts et des Ouches","C-Arts-Ouches","https://c-arts-ouches.ch/",
-"CLL",2,"Coopérative du logement Lutry",,"https://cll-lutry.ch",
-,1,"Ecopolis",,"https://ecopolis.ch/",
-,1,"La Meute",,"http://www.meute.ch/",
-,1,"Le Bled",,"http://lebled.ch/",
-,2,"Les Jardins de la Paix, société coopérative d'habitation",,"https://jardinsdelapaix.ch",
-,1,"Logement Idéal",,"https://www.logement-ideal.ch",
-"SCHL",85,"Société coopérative d'habitation Lausanne",,"https://schl.ch","Q126741196"
-"SCH Le Chêne",7,"Société coopérative d'habitations Le Chêne",,,"Q131310187"
+"buildings_count","name","website"
+1,"Coopérative Cité Derrière","https://citederriere.ch/"
+"abbr","buildings_count","buildings_locations.0","buildings_zipcode.0","name"
+"I6",1,"Lausanne","1005","Coopérative I6"
+"abbr","buildings_count","buildings_locations.0","buildings_zipcode.0","name"
+"CHER",9,"Lausanne","1007","Coopérative d'habitation des employés du rail"
+"abbr","buildings_count","buildings_locations.0","buildings_locations.1","buildings_locations.2","buildings_locations.3","buildings_zipcode.0","buildings_zipcode.1","buildings_zipcode.2","buildings_zipcode.3","name","website","wikidata"
+"CODHA",19,"Genève","Grand-Saconnex","Lausanne","Plan-les-Ouates","1018","1202","1218","1228","Coopérative de l’habitat associatif","https://www.codha.ch","Q86666680"
+"buildings_count","name","short","website"
+1,"Coopérative des Arts et des Ouches","C-Arts-Ouches","https://c-arts-ouches.ch/"
+"buildings_count","name","short","website"
+1,"Coopérative des cheminots de la Riviera","CHERI-Riviera","https://www.cheri-riviera.ch/"
+"abbr","buildings_count","buildings_locations.0","buildings_zipcode.0","name","website"
+"CLL",5,"Lutry","1095","Coopérative du logement Lutry","https://cll-lutry.ch"
+"buildings_count","name","website"
+1,"Ecopolis","https://ecopolis.ch/"
+"buildings_count","buildings_locations.0","buildings_zipcode.0","name","website"
+1,"Lausanne","1018","La Meute","http://www.meute.ch/"
+"buildings_count","name","website"
+1,"Le Bled","http://lebled.ch/"
+"buildings_count","buildings_locations.0","buildings_locations.1","buildings_zipcode.0","buildings_zipcode.1","name","website"
+7,"La Tour-de-Peilz","Vevey","1800","1814","Les Jardins de la Paix","https://jardinsdelapaix.ch"
+"buildings_count","name","website"
+1,"Logement Idéal","https://www.logement-ideal.ch"
+"abbr","buildings_count","buildings_locations.0","buildings_locations.1","buildings_locations.2","buildings_locations.3","buildings_locations.4","buildings_locations.5","buildings_locations.6","buildings_locations.7","buildings_locations.8","buildings_zipcode.0","buildings_zipcode.1","buildings_zipcode.10","buildings_zipcode.11","buildings_zipcode.12","buildings_zipcode.13","buildings_zipcode.2","buildings_zipcode.3","buildings_zipcode.4","buildings_zipcode.5","buildings_zipcode.6","buildings_zipcode.7","buildings_zipcode.8","buildings_zipcode.9","name","website","wikidata"
+"SCHL",122,"Bussigny","Chavannes-près-Renens","Ecublens (VD)","Epalinges","Lausanne","Le Mont-sur-Lausanne","Orbe","Pully","Romanel-sur-Lausanne","1004","1006","1032","1052","1066","1350","1007","1009","1010","1012","1018","1022","1024","1030","Société coopérative d'habitation Lausanne","https://schl.ch","Q126741196"
+"abbr","buildings_count","buildings_locations.0","buildings_zipcode.0","name","website"
+"SCHP",2,"Pully","1009","Société coopérative d'habitation Pully","https://schpully.ch"
+"buildings_count","buildings_locations.0","buildings_locations.1","buildings_locations.2","buildings_zipcode.0","buildings_zipcode.1","buildings_zipcode.2","name","short","website","wikidata"
+11,"Coppet","Gland","Nyon","1196","1260","1296","Société coopérative d'habitations Le Chêne","SCH Le Chêne","https://www.schlechene.ch","Q131310187"
