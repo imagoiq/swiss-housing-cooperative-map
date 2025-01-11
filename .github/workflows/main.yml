@@ -59,13 +59,15 @@ jobs:
       - name: Get list of cooperative owners
         run: |
           jq -rf scripts/list_owners.jq $output_dir/$cooperative_buildings_filename \
-          | jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv' \
+          | jq -r '.[] | [paths(scalars) as $path | {"key": $path | join("."), "value": getpath($path)}] | from_entries' \
+          | jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.]) | string) as $rows | $cols, $rows[] | @csv' \
           > $output_dir/swiss_housing_cooperative_list_owners.csv
 
       - name: Get list of cooperative operators
         run: |
           jq -rf scripts/list_operators.jq $output_dir/$cooperative_buildings_filename \
-          | jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv' \
+          | jq -r '.[] | [paths(scalars) as $path | {"key": $path | join("."), "value": getpath($path)}] | from_entries' \
+          | jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.]) | string) as $rows | $cols, $rows[] | @csv' \
           > $output_dir/swiss_housing_cooperative_list_operators.csv
           
 
