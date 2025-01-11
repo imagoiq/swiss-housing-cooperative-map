@@ -73,9 +73,19 @@ jobs:
           > list_cooperative.md
           npx inject-markdown README.md
           rm -rf list_cooperative.md
-  
 
       # Commit all changed files back to the repository
+      - name: Set commit_message variable
+        run: |
+          if [${{ github.event_name == 'schedule'}}]
+          then
+            echo "COMMIT_MSG=Weekly update" >> $GITHUB_ENV
+          elif [${{ github.event_name == 'push'}}]
+            echo "COMMIT_MSG=Scripts update" >> $GITHUB_ENV
+          else
+            echo "COMMIT_MSG=Manual update" >> $GITHUB_ENV
+          fi
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: ${{ github.event_name == 'schedule' && 'Weekly update' || 'Manual update' }}
+          commit_message: $GITHUB_COMMIT_MSG
