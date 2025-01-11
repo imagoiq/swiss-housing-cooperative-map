@@ -77,10 +77,9 @@ jobs:
       # Commit all changed files back to the repository
       - name: Set commit_message variable
         run: |
-          if [${{ github.event_name == 'schedule'}}]
-          then
+          if [${{ github.event_name == 'schedule'}}]; then
             echo "COMMIT_MSG=Weekly update" >> $GITHUB_ENV
-          elif [${{ github.event_name == 'push'}}]
+          elif [${{ github.event_name == 'push'}}]; then
             echo "COMMIT_MSG=Scripts update" >> $GITHUB_ENV
           else
             echo "COMMIT_MSG=Manual update" >> $GITHUB_ENV
