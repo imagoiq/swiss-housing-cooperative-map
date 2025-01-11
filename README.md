@@ -48,6 +48,7 @@ Les listes des coopératives avec des métadonnées au format TSV se trouvent da
 - [Liste des propriétaires de type coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/data/swiss_housing_cooperative_list_owners.tsv)
 - [Liste des gestionnaires de type coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/data/swiss_housing_cooperative_list_operators.tsv)
 
+Coopératives ajoutées :
 <!--- @@inject: list_cooperative.md --->
 
 - [Coopérative Cité Derrière](https://citederriere.ch/)
