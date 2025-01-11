@@ -15,7 +15,7 @@ on:
   push:
     paths:
       - .github/workflows/main.yml
-      - scripts/overpass_query_buildings
+      - scripts
   # Every week, at 6 am on Sunday
   schedule:
     - cron: '0 6 * * 0'
