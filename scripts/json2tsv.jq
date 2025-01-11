@@ -21,5 +21,5 @@ def json2tsv:
   | ([$h[]|join("_") ],
      (.[]
       | json2array($h)
-      | map( if type == "array" then map(tostring)|join("|") end)))
+      | map( if type == "array" then map(tostring)|join(",") end)))
   | @tsv ;
