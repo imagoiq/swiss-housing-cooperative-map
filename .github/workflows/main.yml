@@ -57,13 +57,11 @@ jobs:
           | osmtogeojson > $output_dir/$cooperative_areas_filename
 
       - name: Get list of cooperative owners
-        if: false
         run: |
           jq -rf scripts/list_owners.jq $output_dir/$cooperative_buildings_filename \
           | jq -rf scripts/json_to_csv.jq > $output_dir/swiss_housing_cooperative_list_owners.csv
 
       - name: Get list of cooperative operators
-        if: false
         run: |
           jq -rf scripts/list_operators.jq $output_dir/$cooperative_buildings_filename \
           | jq -rf scripts/json_to_csv.jq > $output_dir/swiss_housing_cooperative_list_operators.csv
