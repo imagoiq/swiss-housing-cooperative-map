@@ -53,7 +53,8 @@ jobs:
 
       - name: Enhance overpass data with nominatim to retrieve addresses of buildings without tags
         run: |
-          scripts/add_addresses.sh $output_dir/$cooperative_buildings_filename
+          chmod +x ./scripts/add_addresses.sh
+          ./scripts/add_addresses.sh $output_dir/$cooperative_buildings_filename
 
       - name: Download areas overpass data and convert to geojson
         run: |
