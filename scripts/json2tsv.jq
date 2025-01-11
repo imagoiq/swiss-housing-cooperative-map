@@ -17,7 +17,7 @@ def json2array($header):
    [$header[] as $p | (try getpath($p) catch null)] ;
 
 def json2tsv:
-  ( [.[] | json2headers] | unique) as $h
+  ( [.[] | json2headers] | reduce .[] as $a ([]; if IN(.[]; $a) then . else . += [$a] end)) as $h
   | ([$h[]|join("_") ],
      (.[]
       | json2array($h)
