@@ -6,5 +6,7 @@
     short: .[0].properties."owner:short",
     abbr: .[0].properties."owner:abbr",
     website: .[0].properties."owner:website",
-    buildings_count: (select(.[0].properties.building != null) | length)
+    buildings_count: (select(.[0].properties.building != null) | length),
+    buildings_locations: map(select(.properties."addr:city" != null) | .properties."addr:city") | unique,
+    buildings_zipcode: map(select(.properties."addr:postcode" != null) | .properties."addr:postcode") | unique
 })
