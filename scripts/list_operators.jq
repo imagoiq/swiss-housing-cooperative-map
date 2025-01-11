@@ -3,8 +3,8 @@
 | map({
     operator_id_wikidata: .[0].properties."operator:wikidata",
     operator_name: .[0].properties.operator,
-    operator_abbr: .[0].properties."operator:abbr",
-    operator_short: .[0].properties."operator:short",
+    operator_name_abbr: .[0].properties."operator:abbr",
+    operator_name_short: .[0].properties."operator:short",
     operator_website: .[0].properties."operator:website",
     operator_z_buildings_count: (select(.[0].properties.building != null) | length),
     operator_z_buildings_locations: map(select(.properties."addr:city" != null) | .properties."addr:city") | unique,
