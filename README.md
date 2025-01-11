@@ -6,7 +6,7 @@ Pour l'instant les données sont visibles via <https://umap.openstreetmap.fr/fr/
 
 ## Comment ajouter un bâtiment ou une coopérative dans les données ?
 
-Tout les données proviennent directement d'[Openstreetmap](https://www.openstreetmap.org). Si vous êtes débutant, laissez-vous guider via [learnosm.org](https://learnosm.org/fr/).
+Toutes les données proviennent directement d'[Openstreetmap](https://www.openstreetmap.org). Si vous êtes débutant, laissez-vous guider via [learnosm.org](https://learnosm.org/fr/).
 
 Il n'existe pas (encore) de modèle pré-fait ou validé spécialement pour les coopératives de logement.
 
