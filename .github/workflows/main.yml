@@ -48,7 +48,7 @@ jobs:
 
       - name: Download buildings overpass data and convert to geojson
         run: |
-          curl -d "$(<scripts/overpass_query_buildings)" -X POST http://overpass.osm.ch/api/interpreter \
+          curl -sSd "$(<scripts/overpass_query_buildings)" -X POST http://overpass.osm.ch/api/interpreter \
           | osmtogeojson > $output_dir/$cooperative_buildings_filename
 
       - name: Enhance overpass data with nominatim to retrieve addresses of buildings without tags

@@ -10,7 +10,7 @@ while read feature; do
       lon=$(echo $feature | jq '.geometry.coordinates[0][0][0]')
       lat=$(echo $feature | jq '.geometry.coordinates[0][0][1]')
 
-      n_addr=$(curl "https://nominatim.openstreetmap.org/reverse?lat=$lat&lon=$lon&format=json" | jq '.address')
+      n_addr=$(curl -sS "https://nominatim.openstreetmap.org/reverse?lat=$lat&lon=$lon&format=json" | jq '.address')
       n_addr_city=$(echo $n_addr | jq -r '.town')
       n_addr_postcode=$(echo $n_addr | jq -r '.postcode')
 
