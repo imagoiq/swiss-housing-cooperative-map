@@ -1,2 +1,2 @@
-abbr	buildings_count	buildings_locations	buildings_zipcode	name	short	website	wikidata
-SCHL	85	Carrouge VD|Cortaillod|Estavayer-le-Lac|La Sarraz|Lausanne|Marly|Palézieux|Préverenges	1004|1007|1010|1012|1018|1084|1315|1470|1607|1723|2016	Société coopérative d'habitation Lausanne		https://schl.ch	Q126741196
+operator_abbr	operator_id_wikidata	operator_name	operator_short	operator_website	operator_z_buildings_count	operator_z_buildings_locations	operator_z_buildings_zipcode
+SCHL	Q126741196	Société coopérative d'habitation Lausanne		https://schl.ch	85	Carrouge VD|Cortaillod|Estavayer-le-Lac|La Sarraz|Lausanne|Marly|Palézieux|Préverenges	1004|1007|1010|1012|1018|1084|1315|1470|1607|1723|2016
