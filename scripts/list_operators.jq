@@ -8,5 +8,5 @@
     website: .[0].properties."operator:website",
     buildings_count: (select(.[0].properties.building != null) | length),
     buildings_locations: map(select(.properties."addr:city" != null) | .properties."addr:city") | unique,
-    buildings_zipcode: map(select(.properties."addr:postcode" != null) | .properties."addr:postcode") | unique
+    buildings_postcode: map(select(.properties."addr:postcode" != null) | .properties."addr:postcode") | unique
 })
