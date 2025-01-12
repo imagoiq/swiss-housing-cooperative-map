@@ -26,7 +26,7 @@ Clés de base
 - `owner:type=cooperative` et/ou `operator:type=cooperative`
 
 Bâtiments:
-- `building=residential` ou `building=apartments`
+- `building=` avec comme valeur `residential` ou `apartments` ou `dormitory`
 
 Quartiers
 - `landuse=residential`
@@ -34,7 +34,7 @@ Quartiers
 
 Il n'existe pas (encore) de modèle pré-fait ou validé spécialement pour les coopératives de logement, mais la plupart des clés proposées ici sont définies dans le wiki d'openstreetmap.
 
-Pour cibler les coopératives de logement, la requête prend en compte les élèments avec la clé `owner=*` et `operator=*` qui sont associées avec `building=residential|apartments`. Cela permet d'éviter d'associer les coopératives culturelles et d'arts liés à un bâtiment (comme la [Space Alliance Coopérative](https://www.openstreetmap.org/way/38326020)). Probablement qu'à l'avenir, il faudra utiliser un filtre encore plus détaillé.
+Pour cibler les coopératives de logement, la requête prend en compte les élèments avec la clé `owner=*` et `operator=*` qui sont associées avec `building=residential|apartments|dormitory`. Cela permet d'éviter d'associer les coopératives culturelles et d'arts liés à un bâtiment (comme la [Space Alliance Coopérative](https://www.openstreetmap.org/way/38326020)). Probablement qu'à l'avenir, il faudra utiliser un filtre encore plus détaillé.
 À noter que parfois, le bâtiment est à la propriété d'une coopérative, parfois ce n'est pas le cas et c'est une coopérative qui gère le bâtiment, mais le bâtiment appartient à une société privée. L'utilisation des deux tags `operator` et `owner` permet d'identifier ces cas de figure.
 
 Les quartiers entièrement fondés par une coopérative sont également pris en compte dans les données à l'aide de la clé `landuse=residential`. Il est également bien de rajouter les tags sur chaque bâtiment pour pouvoir les comptabiliser par exemple.
