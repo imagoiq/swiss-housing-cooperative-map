@@ -25,7 +25,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: .
+        working-directory: .github/workflows
 
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
