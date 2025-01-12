@@ -16,7 +16,7 @@ on:
     paths:
       - .github/workflows/**
       - '!.github/workflows/cache/**'
-  # Every week, at 6 am on Sunday
+  # Every week, at 20:00 on Sunday
   schedule:
     - cron: '0 20 * * 6'
 
