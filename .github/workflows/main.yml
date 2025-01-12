@@ -14,7 +14,7 @@ on:
   push:
     paths:
       - ./**
-      - !./cache/**
+      - '!./cache/**'
   # Every week, at 6 am on Sunday
   schedule:
     - cron: '0 6 * * 0'
