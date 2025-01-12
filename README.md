@@ -69,16 +69,25 @@ Here are the steps to build the GeoJson data:
 2. Convert data to GeoJSOn with `osmtogeojson`
 3. Add missing addresses with Nominatim API to ways in OpenStreetMap that aren't tagged with an address (e.g. when address is a separated node)
 
-### Queries
-
-- [Overpass query - Buildings](https://github.com/imagoiq/swiss-housing-cooperative/blob/4594245e13e979132ae84a42135ac936a7d568b8/.github/workflows/query/overpass_query_buildings#L4-L7)
-- [Overpass query - Areas](https://github.com/imagoiq/swiss-housing-cooperative/blob/4594245e13e979132ae84a42135ac936a7d568b8/.github/workflows/query/overpass_query_areas#L4-L7)
-
 ### Updates
 
 [![](https://github.com/imagoiq/swiss-housing-cooperative/actions/workflows/main.yml/badge.svg)](https://github.com/imagoiq/swiss-housing-cooperative/actions/workflows/main.yml)
 
 Every Sunday, the output files are automatically updated via a [Github Workflow](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/.github/workflows/main.yml).
+
+### Queries
+
+- [Overpass query - Buildings](https://github.com/imagoiq/swiss-housing-cooperative/blob/4594245e13e979132ae84a42135ac936a7d568b8/.github/workflows/query/overpass_query_buildings#L4-L7)
+- [Overpass query - Areas](https://github.com/imagoiq/swiss-housing-cooperative/blob/4594245e13e979132ae84a42135ac936a7d568b8/.github/workflows/query/overpass_query_areas#L4-L7)
+
+### Dependencies
+
+- [Node.js](https://nodejs.org)
+- [jq](https://jqlang.github.io/jq/)
+- [osm2geojson](https://github.com/tyrasd/osmtogeojson)
+
+Optional
+- [inject-markdown](https://github.com/target/markdown-inject) - only to enhance dynamically this README file
 
 ## List of cooperatives
 
