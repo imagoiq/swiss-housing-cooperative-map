@@ -4,4 +4,4 @@ area["name:en"="Switzerland"]->.ch;
 nwr(area.ch)["owner:type"="cooperative"]["landuse"="residential"];
 nwr(area.ch)["operator:type"="cooperative"]["landuse"="residential"];
 );
-out geom meta;
+out geom;
