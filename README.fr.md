@@ -63,7 +63,7 @@ Si le bâtiment est géré par une coopérative, un autre type d'entreprise ou u
 
 ## Mises à jour
 
-[![](https://github.com/imagoiq/cooperative-habitation-suisse/actions/workflows/main.yml/badge.svg)](https://github.com/imagoiq/cooperative-habitation-suisse/actions/workflows/main.yml\)
+[![](https://github.com/imagoiq/cooperative-habitation-suisse/actions/workflows/main.yml/badge.svg)](https://github.com/imagoiq/cooperative-habitation-suisse/actions/workflows/main.yml)
 
 Chaque dimanche, les fichiers sont mis à jour automatiquement via un [workflow Github](https://github.com/imagoiq/cooperative-habitation-suisse/blob/main/.github/workflows/main.yml).
 

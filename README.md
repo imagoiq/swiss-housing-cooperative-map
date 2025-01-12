@@ -65,7 +65,7 @@ If the building is managed by a cooperative, another type of company or another 
 
 ## Updates
 
-[![](https://github.com/imagoiq/cooperative-habitation-suisse/actions/workflows/main.yml/badge.svg)](https://github.com/imagoiq/cooperative-habitation-suisse/actions/workflows/main.yml\)
+[![](https://github.com/imagoiq/cooperative-habitation-suisse/actions/workflows/main.yml/badge.svg)](https://github.com/imagoiq/cooperative-habitation-suisse/actions/workflows/main.yml)
 
 Every Sunday, the output files are automatically updated via a [Github Workflow](https://github.com/imagoiq/cooperative-habitation-suisse/blob/main/.github/workflows/main.yml).
 
