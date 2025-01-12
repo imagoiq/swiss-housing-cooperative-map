@@ -1,7 +1,7 @@
 name: Output update
 
 env:
-  output_dir: '/output'
+  output_dir: '../../../output'
   overpass_server: 'http://overpass.osm.ch'
   cooperative_buildings_filename: 'swiss_housing_cooperative_buildings.geojson'
   cooperative_areas_filename: 'swiss_housing_cooperative_areas.geojson'
