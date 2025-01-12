@@ -72,10 +72,10 @@ jobs:
         run: |
           jq -rf ./scripts/list_owners.jq $output_dir/$cooperative_buildings_filename \
           | jq -r '.[] | if .website != null then "* [\(.name)](\(.website))" else "* \(.name)" end' \
-          > list_cooperative.md
+          > "$root_dir/list_cooperative.md"
           npx inject-markdown "$root_dir/README.md"
           npx inject-markdown "$root_dir/README.fr.md"
-          rm -rf list_cooperative.md
+          rm -rf "$root_dir/list_cooperative.md"
 
       # Commit all changed files back to the repository
       - name: Set commit_message variable
