@@ -7,11 +7,11 @@ Projet ayant pour but de cartographier et de liste les immeubles des coopérativ
 Pour l'instant les données sont visibles sur [umap](https://umap.openstreetmap.fr/fr/map/cooperative-dhabitations-en-suisse_1140470).
 
 - GeoJson
-    - [Bâtiments](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_buildings.geojson)
-    - [Quartiers](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_areas.geojson)
+  - [Bâtiments](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_buildings.geojson)
+  - [Quartiers](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_areas.geojson)
 - TSV
-    - [Liste des propriétaires de type coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_owners.tsv)
-    - [Liste des gestionnaires de type coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_operators.tsv)
+  - [Liste des propriétaires de type coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_owners.tsv)
+  - [Liste des gestionnaires de type coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_operators.tsv)
 
 ## Contribuer
 
@@ -20,6 +20,7 @@ Toutes les données proviennent directement d'[OpenStreetMap](https://www.openst
 ### Schéma
 
 En résumé :
+
 ```
 Clés de base
 - `owner:type=cooperative` et/ou `operator:type=cooperative`
@@ -73,20 +74,8 @@ Actuellement, toutes les coopératives suivantes ont été cartographiées :
 
 <!--- @@inject: list_cooperative.md --->
 
-- [Coopérative Cité Derrière](https://citederriere.ch/)
-- Coopérative I6
-- Coopérative d'habitation des employés du rail
-- [Coopérative de l’habitat associatif](https://www.codha.ch)
-- [Coopérative des Arts et des Ouches](https://c-arts-ouches.ch/)
-- [Coopérative des cheminots de la Riviera](https://www.cheri-riviera.ch/)
-- [Coopérative du logement Lutry](https://cll-lutry.ch)
-- [Ecopolis](https://ecopolis.ch/)
-- [La Meute](http://www.meute.ch/)
-- [Le Bled](http://lebled.ch/)
-- [Les Jardins de la Paix](https://jardinsdelapaix.ch)
-- [Logement Idéal](https://www.logement-ideal.ch)
-- [Société coopérative d'habitation Lausanne](https://schl.ch)
-- [Société coopérative d'habitation Pully](https://schpully.ch)
-- [Société coopérative d'habitations Le Chêne](https://www.schlechene.ch)
+<!---
+  Failed to read "../../list_cooperative.md"
+--->
 
 <!--- @@inject-end: list_cooperative.md --->
