@@ -1,21 +1,20 @@
-# This is a basic workflow to help you get started with Actions
-
-name: Main pipeline
+name: Output update
 
 env:
-  output_dir: 'data'
+  output_dir: '/output'
+  overpass_server: 'http://overpass.osm.ch',
   cooperative_buildings_filename: 'swiss_housing_cooperative_buildings.geojson'
   cooperative_areas_filename: 'swiss_housing_cooperative_areas.geojson'
 
-# Controls when the workflow will run
+
 on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   # Push of this file
   push:
     paths:
-      - .github/workflows/main.yml
-      - scripts/**
+      - ./**
+      - !./cache/**
   # Every week, at 6 am on Sunday
   schedule:
     - cron: '0 6 * * 0'
@@ -23,6 +22,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-24.04
+
+    defaults:
+      run:
+        working-directory: .
 
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
@@ -42,40 +45,33 @@ jobs:
           sudo apt install nodejs
           npm install -g osmtogeojson
 
-      - name: Ensure data folder exist
-        run: |
-          mkdir -p data
-
       - name: Download buildings overpass data and convert to geojson
-        run: |
-          curl -sSd "$(<scripts/overpass_query_buildings)" -X POST http://overpass.osm.ch/api/interpreter \
-          | osmtogeojson > $output_dir/$cooperative_buildings_filename
+        run: ./scripts/download_geojson_overpass.sh "./query/overpass_query_buildings" "$output_dir/$cooperative_buildings_filename"
 
       - name: Enhance overpass data with nominatim to retrieve addresses of buildings without tags
         run: |
-          node ./scripts/reverse_geocoding_addresses.mjs
+          node ./scripts/add_addresses_with_reverse_geocoding.mjs "$output_dir/$cooperative_buildings_filename" "'./cache/cached_features_addresses.json"
 
       - name: Download areas overpass data and convert to geojson
-        run: |
-          curl -d "$(<scripts/overpass_query_areas)" -X POST http://overpass.osm.ch/api/interpreter \
-          | osmtogeojson > $output_dir/$cooperative_areas_filename
+        run: ./scripts/download_geojson_overpass.sh "./query/overpass_query_areas" "$output_dir/$cooperative_areas_filename"
 
       - name: Get list of cooperative owners
         run: |
-          jq -rf scripts/list_owners.jq $output_dir/$cooperative_buildings_filename \
-          | jq -r -L. 'include "scripts/json2tsv"; json2tsv' > $output_dir/swiss_housing_cooperative_list_owners.tsv
+          jq -rf ./scripts/list_owners.jq $output_dir/$cooperative_buildings_filename \
+          | jq -r -L. 'include "./scripts/json2tsv"; json2tsv' > $output_dir/swiss_housing_cooperative_list_owners.tsv
 
       - name: Get list of cooperative operators
         run: |
-          jq -rf scripts/list_operators.jq $output_dir/$cooperative_buildings_filename \
-          | jq -r -L. 'include "scripts/json2tsv"; json2tsv' > $output_dir/swiss_housing_cooperative_list_operators.tsv
+          jq -rf ./scripts/list_operators.jq $output_dir/$cooperative_buildings_filename \
+          | jq -r -L. 'include "./scripts/json2tsv"; json2tsv' > $output_dir/swiss_housing_cooperative_list_operators.tsv
 
       - name: Update readme cooperative'list
         run: |
-          jq -rf scripts/list_owners.jq $output_dir/$cooperative_buildings_filename \
+          jq -rf ./scripts/list_owners.jq $output_dir/$cooperative_buildings_filename \
           | jq -r '.[] | if .website != null then "* [\(.name)](\(.website))" else "* \(.name)" end' \
           > list_cooperative.md
           npx inject-markdown README.md
+          npx inject-markdown README.fr.md
           rm -rf list_cooperative.md
 
       # Commit all changed files back to the repository

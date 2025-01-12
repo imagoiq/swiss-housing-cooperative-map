@@ -1,54 +1,77 @@
-# Coopératives d'habitation en Suisse
+-- [Version francophone de cette page](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/README.fr.md) --
 
-Projet ayant pour but de cartographier et de liste les immeubles des coopératives d'habitation de Suisse (en particulier romande).
+# Swiss housing cooperative
 
-Pour l'instant les données sont visibles via <https://umap.openstreetmap.fr/fr/map/cooperative-dhabitations-en-suisse_1140470>
+Project aimed at mapping and listing the buildings of housing cooperatives in Switzerland.
 
-## Comment ajouter un bâtiment ou une coopérative dans les données ?
+## Output
 
-Toutes les données proviennent directement d'[Openstreetmap](https://www.openstreetmap.org). Si vous êtes débutant, laissez-vous guider via [learnosm.org](https://learnosm.org/fr/).
+At the moment, data can be viewed on [umap](https://umap.openstreetmap.fr/fr/map/cooperative-dhabitations-en-suisse_1140470).
 
-Il n'existe pas (encore) de modèle pré-fait ou validé spécialement pour les coopératives de logement.
+- GeoJson
+  - [Buildings](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_buildings.geojson)
+  - [Areas](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_areas.geojson)
+- TSV
+  - [List of cooperative owners](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_owners.tsv)
+  - [List of cooperative operators](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_operators.tsv)
 
-Pour ajouter les données, j'ai utilisé des tags très standards :
+## Contribute
 
-- `owner:type=cooperative` ou `operator:type=cooperative` sur un élèment avec `building=residential`, `building=apartments` ou `landuse=residential`(pour un quartier où l'ensemble est attribué à une coopérative. Si tel est le cas, il est également bien de rajouter ces tags sur chaque bâtiment pour pouvoir les comptabiliser par exemple). À noter que parfois, le bâtiment est à la propriété d'une coopérative, parfois ce n'est pas le cas et c'est une coopérative qui gère le bâtiment, mais le bâtiment appartient à une société privée. L'utilisation des deux tags `operator` et `owner` permet d'identifier ces cas de figure.
+All data comes directly from [OpenStreetMap](https://www.openstreetmap.org). If you're a beginner, you can learn to edit by reading [learnosm.org](https://learnosm.org/fr/) or ask for help.
 
-Bien sûr, les données sont plus intéressantes si vous rajoutez :
+### Schema
 
-- [`owner=*`](https://wiki.openstreetmap.org/wiki/Key:owner)
-- [`owner:wikidata=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details)
-- [`owner:short=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details)
-- [`owner:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details)
-- [`operator=*`](https://wiki.openstreetmap.org/wiki/Key:operator)
-- [`operator:wikidata=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details)
-- [`operator:short=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details)
-- [`operator:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details)
+TLDR:
+```
+Basic tags
+- `owner:type=cooperative` or/and `operator:type=cooperative`
 
-## Données
+Buildings:
+- `building=residential` or `building=apartments`
 
-Les logements visibles sur la carte se basent sur la requête suivante dans Openstreetmap:
+Areas-neighborhood
+- `landuse=residential`
+```
 
-<https://github.com/imagoiq/cooperative-habitation-suisse/blob/4594245e13e979132ae84a42135ac936a7d568b8/scripts/overpass_query#L4-L7>
+There is no pre-made or validated model specifically for housing cooperatives, but most of the proposed tags here are defined in the wiki of openstreetmap.
 
-Pour cibler les coopératives de logement, la requête prend en compte les élèments avec la clé `owner=*` et `operator=*` qui sont associées avec `building=residential|apartments`. Cela permet d'éviter d'associer les coopératives culturelles et d'arts liés à un bâtiment comme la [Space Alliance Coopérative](https://www.openstreetmap.org/way/38326020). Probablement qu'à l'avenir, il faudra utiliser un filtre encore plus détaillé.
+To target housing cooperatives, the query takes into account elements with the key `owner=*` and `operator=*` that are associated with `building=residential|apartments`. This avoids associating building-related arts and cultural cooperatives (such as [Space Alliance Cooperative](https://www.openstreetmap.org/way/38326020)). The filter will probably be refined in the future.
+Note that sometimes the building is owned by a cooperative, sometimes it's not, and a cooperative manages the building, but the building belongs to a private company. The use of the two tags `operator` and `owner` makes it possible to identify these cases.
 
-Les quartiers entièrement fondés par une coopérative sont également pris en compte dans les données à l'aide de la clé `landuse=residential`.
+Neighborhoods founded entirely by a cooperative are also included in the data using the key `landuse=residential`. It's also a good idea to add tags to each building inside a neighborhood so that they can be counted, for example.
 
-### Mise à jour des données
+#### Enhance with metadata
 
-[![](https://github.com/imagoiq/cooperative-habitation-suisse/actions/workflows/main.yml/badge.svg)](\[https://google.ch]\(https://github.com/imagoiq/cooperative-habitation-suisse/actions/workflows/main.yml\))
+For the owner of the buildings:
 
-Chaque dimanche, le fichier geojson est mis à jour via l'api overpass et un [worflow Github](https://github.com/imagoiq/cooperative-habitation-suisse/blob/main/.github/workflows/main.yml).
+- [`owner=*`](https://wiki.openstreetmap.org/wiki/Key:owner) - Name
+- [`owner:wikidata=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Wikidata ID
+- [`owner:short=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Short name
+- [`owner:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Abbreviation of the name
+- [`owner:website=*`](https://wiki.openstreetmap.org/wiki/Key:owner) - Website
 
-### Liste des coopératives
+If the building is managed by a cooperative, another type of company or another cooperative:
 
-Les listes des coopératives avec des métadonnées au format TSV se trouvent dans le [dossier data](https://github.com/imagoiq/cooperative-habitation-suisse/tree/main/data).
+- [`operator=*`](https://wiki.openstreetmap.org/wiki/Key:operator) - Name
+- [`operator:wikidata=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Wikidata ID
+- [`operator:short=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Short name
+- [`operator:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Abbreviation of the name
+- [`operator:website=*`](https://wiki.openstreetmap.org/wiki/Key:operator) - Website
 
-- [Liste des propriétaires de type coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/data/swiss_housing_cooperative_list_owners.tsv)
-- [Liste des gestionnaires de type coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/data/swiss_housing_cooperative_list_operators.tsv)
+## Queries
 
-Coopératives ajoutées :
+- [Overpass query - Buildings](https://github.com/imagoiq/cooperative-habitation-suisse/blob/4594245e13e979132ae84a42135ac936a7d568b8/.github/workflows/query/overpass_query_buildings#L4-L7)
+- [Overpass query - Areas](https://github.com/imagoiq/cooperative-habitation-suisse/blob/4594245e13e979132ae84a42135ac936a7d568b8/.github/workflows/query/overpass_query_areas#L4-L7)
+
+## Updates
+
+[![](https://github.com/imagoiq/cooperative-habitation-suisse/actions/workflows/main.yml/badge.svg)](https://github.com/imagoiq/cooperative-habitation-suisse/actions/workflows/main.yml\)
+
+Every Sunday, the output files are automatically updated via a [Github Workflow](https://github.com/imagoiq/cooperative-habitation-suisse/blob/main/.github/workflows/main.yml).
+
+## List of cooperatives
+
+At the moment, all of those cooperatives have been retrieved:
 
 <!--- @@inject: list_cooperative.md --->
 

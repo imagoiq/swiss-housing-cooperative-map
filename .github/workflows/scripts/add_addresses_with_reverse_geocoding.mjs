@@ -1,17 +1,15 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 import { execSync } from 'child_process';
 
-try {
-    const featuresFile = JSON.parse(await readFileSync('./data/swiss_housing_cooperative_buildings.geojson', { encoding: 'utf8' }));
+const inputGeojsonPath = process.argv[0];
+const cacheFilePath = process.argv[1];
+const featuresFile = JSON.parse(await readFileSync(inputGeojsonPath, { encoding: 'utf8' }));
 
-    console.log('Retrieved missing addresses');
-    const featureAssociatedAddresses = await retrieveMissingAddresses(featuresFile);
+console.log('Retrieved missing addresses');
+const featureAssociatedAddresses = await retrieveMissingAddresses(featuresFile);
 
-    console.log('Merge addresses');
-    mergeAddresses(featuresFile, featureAssociatedAddresses);
-} catch (err) {
-    console.error(err.message);
-}
+console.log('Merge addresses');
+mergeAddresses(featuresFile, featureAssociatedAddresses);
 
 function mergeAddresses(featuresFile, featureAssociatedAddresses){
     featureAssociatedAddresses.forEach(fAddr => {
@@ -20,7 +18,7 @@ function mergeAddresses(featuresFile, featureAssociatedAddresses){
         featuresFile.features[i].properties["addr:postcode"] = fAddr?.address.postcode;
     })
 
-    writeFileSync('./data/swiss_housing_cooperative_buildings.geojson', JSON.stringify(featuresFile));
+    writeFileSync(inputGeojson, JSON.stringify(featuresFile));
 }
 
 async function retrieveMissingAddresses(featuresFile) {
@@ -28,7 +26,7 @@ async function retrieveMissingAddresses(featuresFile) {
 
     const featuresWithoutAddr = featuresFile.features.filter(feature => !feature.properties["addr:city"] || !feature.properties["addr:postcode"]);
 
-    const featuresCacheFile = await readFileSync('./cache/cached_features_addresses.json', { encoding: 'utf8' });
+    const featuresCacheFile = await readFileSync(cacheFilePath, { encoding: 'utf8' });
     const featuresCache = JSON.parse(featuresCacheFile);
 
     for (const feature of featuresWithoutAddr) {
@@ -54,7 +52,7 @@ async function retrieveMissingAddresses(featuresFile) {
         execSync('sleep 1');
     }
 
-    writeFileSync('./cache/cached_features_addresses.json', JSON.stringify(featuresCompleted));
+    writeFileSync(cacheFilePath, JSON.stringify(featuresCompleted));
 
     return featuresCompleted;
 }
