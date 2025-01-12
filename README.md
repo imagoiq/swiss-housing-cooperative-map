@@ -59,12 +59,22 @@ If the building is managed by a cooperative, another type of company or another 
 - [`operator:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Abbreviation of the name
 - [`operator:website=*`](https://wiki.openstreetmap.org/wiki/Key:operator) - Website
 
-## Queries
+## Process
+
+### Workflow
+
+Here are the steps to build the GeoJson data:
+
+1. Query Overpass API
+2. Convert data to GeoJSOn with `osmtogeojson`
+3. Add missing addresses with Nominatim API to ways in OpenStreetMap that aren't tagged with an address (e.g. when address is a separated node)
+
+### Queries
 
 - [Overpass query - Buildings](https://github.com/imagoiq/swiss-housing-cooperative/blob/4594245e13e979132ae84a42135ac936a7d568b8/.github/workflows/query/overpass_query_buildings#L4-L7)
 - [Overpass query - Areas](https://github.com/imagoiq/swiss-housing-cooperative/blob/4594245e13e979132ae84a42135ac936a7d568b8/.github/workflows/query/overpass_query_areas#L4-L7)
 
-## Updates
+### Updates
 
 [![](https://github.com/imagoiq/swiss-housing-cooperative/actions/workflows/main.yml/badge.svg)](https://github.com/imagoiq/swiss-housing-cooperative/actions/workflows/main.yml)
 

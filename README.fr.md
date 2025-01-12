@@ -57,12 +57,23 @@ Si le bâtiment est géré par une coopérative, un autre type d'entreprise ou u
 - [`operator:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Abbréviation du nom
 - [`operator:website=*`](https://wiki.openstreetmap.org/wiki/Key:operator) - Site web
 
-## Requêtes
 
-- [Overpass query - Bâtiments](https://github.com/imagoiq/swiss-housing-cooperative/blob/4594245e13e979132ae84a42135ac936a7d568b8/.github/workflows/query/overpass_query_buildings#L4-L7)
-- [Overpass query - Quartiers](https://github.com/imagoiq/swiss-housing-cooperative/blob/4594245e13e979132ae84a42135ac936a7d568b8/.github/workflows/query/overpass_query_buildings#L4-L7)
+## Processus
 
-## Mises à jour
+### Workflow
+
+Voici les étapes pour récupérer les données GeoJson:
+
+1. Requêtes sur l'API Overpass
+2. Convertir les données en GeoJson avec `osmtogeojson`
+3. Ajouter les addresses manquantes avec l'API Nominatim pour les chemins dans OpenStreetMap qui ne sont pas taggés avec une adresse (ex. quand l'adresse se trouve dans un noeud séparé)
+
+### Requêtes
+
+- [Requête Overpass - Bâtiments](https://github.com/imagoiq/swiss-housing-cooperative/blob/4594245e13e979132ae84a42135ac936a7d568b8/.github/workflows/query/overpass_query_buildings#L4-L7)
+- [Requête Overpass - Quartiers](https://github.com/imagoiq/swiss-housing-cooperative/blob/4594245e13e979132ae84a42135ac936a7d568b8/.github/workflows/query/overpass_query_buildings#L4-L7)
+
+### Mises à jour
 
 [![](https://github.com/imagoiq/swiss-housing-cooperative/actions/workflows/main.yml/badge.svg)](https://github.com/imagoiq/swiss-housing-cooperative/actions/workflows/main.yml)
 
