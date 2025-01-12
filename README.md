@@ -66,8 +66,8 @@ If the building is managed by a cooperative, another type of company or another 
 Here are the steps to build the GeoJson data:
 
 1. Query Overpass API
-2. Convert data to GeoJSOn with `osmtogeojson`
-3. Add missing addresses with Nominatim API to ways in OpenStreetMap that aren't tagged with an address (e.g. when address is a separated node)
+1. Convert data to GeoJSOn with `osmtogeojson`
+1. Add missing addresses with Nominatim API to ways in OpenStreetMap that aren't tagged with an address (e.g. when address is a separated node)
 
 ### Updates
 
@@ -87,6 +87,7 @@ Every Sunday, the output files are automatically updated via a [Github Workflow]
 - [osm2geojson](https://github.com/tyrasd/osmtogeojson)
 
 Optional
+
 - [inject-markdown](https://github.com/target/markdown-inject) - only to enhance dynamically this README file
 
 ## List of cooperatives
