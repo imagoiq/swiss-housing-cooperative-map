@@ -1,8 +1,9 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 import { execSync } from 'child_process';
 
-const inputGeojsonPath = process.argv[0];
-const cacheFilePath = process.argv[1];
+const inputGeojsonPath = process.argv[2];
+const cacheFilePath = process.argv[3];
+
 const featuresFile = JSON.parse(await readFileSync(inputGeojsonPath, { encoding: 'utf8' }));
 
 console.log('Retrieved missing addresses');
@@ -18,7 +19,7 @@ function mergeAddresses(featuresFile, featureAssociatedAddresses){
         featuresFile.features[i].properties["addr:postcode"] = fAddr?.address.postcode;
     })
 
-    writeFileSync(inputGeojson, JSON.stringify(featuresFile));
+    writeFileSync(inputGeojsonPath, JSON.stringify(featuresFile));
 }
 
 async function retrieveMissingAddresses(featuresFile) {
