@@ -74,8 +74,20 @@ Actuellement, toutes les coopératives suivantes ont été cartographiées :
 
 <!--- @@inject: list_cooperative.md --->
 
-<!---
-  Failed to read "../../list_cooperative.md"
---->
+- [Coopérative Cité Derrière](https://citederriere.ch/)
+- Coopérative I6
+- Coopérative d'habitation des employés du rail
+- [Coopérative de l’habitat associatif](https://www.codha.ch)
+- [Coopérative des Arts et des Ouches](https://c-arts-ouches.ch/)
+- [Coopérative des cheminots de la Riviera](https://www.cheri-riviera.ch/)
+- [Coopérative du logement Lutry](https://cll-lutry.ch)
+- [Ecopolis](https://ecopolis.ch/)
+- [La Meute](http://www.meute.ch/)
+- [Le Bled](http://lebled.ch/)
+- [Les Jardins de la Paix](https://jardinsdelapaix.ch)
+- [Logement Idéal](https://www.logement-ideal.ch)
+- [Société coopérative d'habitation Lausanne](https://schl.ch)
+- [Société coopérative d'habitation Pully](https://schpully.ch)
+- [Société coopérative d'habitations Le Chêne](https://www.schlechene.ch)
 
 <!--- @@inject-end: list_cooperative.md --->
