@@ -13,7 +13,7 @@ on:
   # Push of this file
   push:
     paths:
-      - ./**
+      - ./**/*
       - '!./cache/**'
   # Every week, at 6 am on Sunday
   schedule:
