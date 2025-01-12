@@ -1,7 +1,9 @@
 name: Output update
 
 env:
+  root_dir: '../../'
   output_dir: '../../output'
+  cache_dir: '../../.cache'
   overpass_server: 'http://overpass.osm.ch'
   cooperative_buildings_filename: 'swiss_housing_cooperative_buildings.geojson'
   cooperative_areas_filename: 'swiss_housing_cooperative_areas.geojson'
@@ -51,7 +53,7 @@ jobs:
 
       - name: Enhance overpass data with nominatim to retrieve addresses of buildings without tags
         run: |
-          node ./scripts/add_addresses_with_reverse_geocoding.mjs "$output_dir/$cooperative_buildings_filename" "./cache/cached_features_addresses.json"
+          node ./scripts/add_addresses_with_reverse_geocoding.mjs "$output_dir/$cooperative_buildings_filename" "$cache_dir/nominatim_addresses.json"
 
       - name: Download areas overpass data and convert to geojson
         run: ./scripts/download_geojson_overpass.sh "./query/overpass_query_areas" "$output_dir/$cooperative_areas_filename"
@@ -71,8 +73,8 @@ jobs:
           jq -rf ./scripts/list_owners.jq $output_dir/$cooperative_buildings_filename \
           | jq -r '.[] | if .website != null then "* [\(.name)](\(.website))" else "* \(.name)" end' \
           > list_cooperative.md
-          npx inject-markdown "../../README.md"
-          npx inject-markdown "../../README.fr.md"
+          npx inject-markdown "$root_dir/README.md"
+          npx inject-markdown "$root_dir/README.fr.md"
           rm -rf list_cooperative.md
 
       # Commit all changed files back to the repository
