@@ -2,7 +2,7 @@
 
 Projet ayant pour but de cartographier et de liste les immeubles des coopératives d'habitation de Suisse.
 
-## Données
+## Utiliser les données
 
 Pour l'instant les données sont visibles sur [umap](https://umap.openstreetmap.fr/fr/map/cooperative-dhabitations-en-suisse_1140470).
 

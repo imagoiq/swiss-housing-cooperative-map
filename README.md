@@ -4,7 +4,7 @@
 
 Project aimed at mapping and listing the buildings of housing cooperatives in Switzerland.
 
-## Output
+## Use the data
 
 At the moment, data can be viewed on [umap](https://umap.openstreetmap.fr/fr/map/cooperative-dhabitations-en-suisse_1140470).
 
