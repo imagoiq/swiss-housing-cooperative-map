@@ -29,6 +29,7 @@ Basic tags
 
 Buildings:
 - `building=` with value `residential`, `apartments`, `dormitory` or `sheltered_housing`
+- or `building:part=yes`
 
 Areas-neighborhood
 - `landuse=residential`
@@ -36,7 +37,7 @@ Areas-neighborhood
 
 There is no pre-made or validated model specifically for housing cooperatives, but most of the proposed tags here are defined in the wiki of openstreetmap.
 
-To target housing cooperatives, the query takes into account elements with the key `owner=*` and `operator=*` that are associated with `building=residential|apartments|dormitory|sheltered_housing`. This avoids associating building-related arts and cultural cooperatives (such as [Space Alliance Cooperative](https://www.openstreetmap.org/way/38326020)). The filter will probably be refined in the future.
+To target housing cooperatives, the query takes into account elements with the key `owner=*` and `operator=*` that are associated with `building=residential|apartments|dormitory|sheltered_housing` or `building:part=yes`. This avoids associating building-related arts and cultural cooperatives (such as [Space Alliance Cooperative](https://www.openstreetmap.org/way/38326020)). The filter will probably be refined in the future.
 Note that sometimes the building is owned by a cooperative, sometimes it's not, and a cooperative manages the building, but the building belongs to a private company. The use of the two tags `operator` and `owner` makes it possible to identify these cases.
 
 Neighborhoods founded entirely by a cooperative are also included in the data using the key `landuse=residential`. It's also a good idea to add tags to each building inside a neighborhood so that they can be counted, for example.
