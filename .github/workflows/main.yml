@@ -18,7 +18,7 @@ on:
       - '!.github/workflows/cache/**'
   # Every week, at 20:00 on Sunday
   schedule:
-    - cron: '0 20 * * 6'
+    - cron: '0 4 * * 0'
 
 jobs:
   build:
