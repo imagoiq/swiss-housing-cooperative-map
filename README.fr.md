@@ -108,6 +108,7 @@ Actuellement, toutes les coopératives suivantes ont été cartographiées :
 - [Les Jardins de la Paix](https://jardinsdelapaix.ch)
 - [Logement Idéal](https://www.logement-ideal.ch)
 - [Société Coopérative d’Habitation «Charmontey»](https://www.charmontey.ch)
+- [Société coopérative d'habitation La Paix](http://lapaix.ch)
 - [Société coopérative d'habitation Lausanne](https://schl.ch)
 - [Société coopérative d'habitation Pully](https://schpully.ch)
 - [Société coopérative d'habitations Le Chêne](https://www.schlechene.ch)

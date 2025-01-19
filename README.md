@@ -110,6 +110,7 @@ At the moment, all of those cooperatives have been retrieved:
 - [Les Jardins de la Paix](https://jardinsdelapaix.ch)
 - [Logement Idéal](https://www.logement-ideal.ch)
 - [Société Coopérative d’Habitation «Charmontey»](https://www.charmontey.ch)
+- [Société coopérative d'habitation La Paix](http://lapaix.ch)
 - [Société coopérative d'habitation Lausanne](https://schl.ch)
 - [Société coopérative d'habitation Pully](https://schpully.ch)
 - [Société coopérative d'habitations Le Chêne](https://www.schlechene.ch)
