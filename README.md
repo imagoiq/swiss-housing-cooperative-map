@@ -1,6 +1,6 @@
 \-- [Version francophone de cette page](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/README.fr.md) --
 
-# Swiss housing cooperative
+# 🏘️ Swiss housing cooperative
 
 Project aimed at mapping and listing the buildings of housing cooperatives in Switzerland.
 
