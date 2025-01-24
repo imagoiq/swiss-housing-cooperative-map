@@ -17,7 +17,7 @@ Pour l'instant les données sont visibles sur [umap](https://umap.openstreetmap.
 
 Toutes les données proviennent directement d'[OpenStreetMap](https://www.openstreetmap.org). Si vous êtes débutant, laissez-vous guider via [learnosm.org](https://learnosm.org/fr/) ou demandez de l'aide.
 
-### Schéma
+## Schéma
 
 En résumé :
 
@@ -41,9 +41,9 @@ Pour cibler les coopératives de logement, la requête prend en compte les élè
 
 Les quartiers entièrement fondés par une coopérative sont également pris en compte dans les données à l'aide de la clé `landuse=residential`. Aussi, il est bien de rajouter les balises sur chaque bâtiment pour pouvoir les comptabiliser par exemple.
 
-#### Améliorer les métadonnées
+### Améliorer les métadonnées
 
-##### Propriétaires/gestionnaires
+#### Propriétaires/gestionnaires
 
 Pour les propriétaires des bâtiments :
 
@@ -61,7 +61,7 @@ Si le bâtiment est géré par une coopérative, un autre type d'entreprise ou u
 - [`operator:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Abbréviation du nom
 - [`operator:website=*`](https://wiki.openstreetmap.org/wiki/Key:operator) - Site web
 
-##### Type de bâtiment
+#### Type de bâtiment
 
 La balise `building=` peut avoir comme valeur :
 
@@ -69,7 +69,7 @@ La balise `building=` peut avoir comme valeur :
 - `dormitory` pour les logements d'étudiants
 - `sheltered_housing` pour les logements protégés ou destinés à des personnes vulnérables.
 
-##### Type de loyers (expérimental)
+#### Type de loyers (expérimental)
 
 Les coopératives d'habitation sont souvent créées pour ajouter des logements abordables sur le marché, mais pas toujours.
 Pour distinguer les bâtiments, il n'existe actuellement aucune méthode standard dans OpenStreetMap. D'après mes recherches, les balises \[`subsidized=yes`] (<https://taginfo.openstreetmap.org/keys/subsidized>) ont été utilisées 12 fois (janvier 2025), ce qui n'est pas suffisant pour faire une généralisation.

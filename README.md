@@ -19,7 +19,7 @@ At the moment, data can be viewed on [umap](https://umap.openstreetmap.fr/fr/map
 
 All data comes directly from [OpenStreetMap](https://www.openstreetmap.org). If you're a beginner, you can learn to edit by reading [learnosm.org](https://learnosm.org/fr/) or ask for help.
 
-### Schema
+## Schema
 
 TLDR:
 
@@ -43,9 +43,9 @@ Note that sometimes the building is owned by a cooperative, sometimes it's not, 
 
 Neighborhoods founded entirely by a cooperative are also included in the data using the key `landuse=residential`. It's also a good idea to add tags to each building inside a neighborhood so that they can be counted, for example.
 
-#### Enhance the metadata
+### Enhance the metadata
 
-##### Owner and/or operator
+#### Owner and/or operator
 
 For the owner of the buildings:
 
@@ -63,7 +63,7 @@ If the building is managed by a cooperative, another type of company or another 
 - [`operator:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Abbreviation of the name
 - [`operator:website=*`](https://wiki.openstreetmap.org/wiki/Key:operator) - Website
 
-##### Type of buildings
+#### Type of buildings
 
 The tag `building=` can take:
 
@@ -71,7 +71,7 @@ The tag `building=` can take:
 - `dormitory` for student dormitory
 - `sheltered_housing` for accommodation designated for older and/or disabled or other vulnerable people
 
-##### Type of rents (experimental)
+#### Type of rents (experimental)
 
 Housing cooperative are often made to create to add affordable housing on the market, but not always.
 To distinguish buildings, there are currently no standard way in OpenStreetMap. From my research, [`subsidized=yes` tags](https://taginfo.openstreetmap.org/keys/subsidized) have been used 12 times (January 2025) which is not enough to make any generalization.
