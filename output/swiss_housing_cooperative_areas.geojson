@@ -299,6 +299,79 @@
 },
 {
   "type": "Feature",
+  "id": "way/1245690181",
+  "properties": {
+    "landuse": "residential",
+    "name": "Les Liaudes",
+    "owner": "Coopérative d'habitations groupées des Liaudes",
+    "owner:type": "cooperative",
+    "owner:wikidata": "Q131885512",
+    "place": "neighbourhood",
+    "start_date": "1991",
+    "id": "way/1245690181"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6564736,
+          46.5182239
+        ],
+        [
+          6.6561948,
+          46.5182135
+        ],
+        [
+          6.6561374,
+          46.5184742
+        ],
+        [
+          6.6555539,
+          46.5185048
+        ],
+        [
+          6.6553758,
+          46.5183798
+        ],
+        [
+          6.6553734,
+          46.5183639
+        ],
+        [
+          6.655383,
+          46.5181549
+        ],
+        [
+          6.6553886,
+          46.5180373
+        ],
+        [
+          6.6553982,
+          46.5178262
+        ],
+        [
+          6.6554013,
+          46.5176142
+        ],
+        [
+          6.6563721,
+          46.5176303
+        ],
+        [
+          6.6564592,
+          46.517672
+        ],
+        [
+          6.6564736,
+          46.5182239
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/1318456256",
   "properties": {
     "landuse": "residential",

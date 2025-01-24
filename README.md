@@ -73,7 +73,7 @@ The tag `building=` can take:
 
 ##### Type of rents (experimental)
 
-Housing cooperative are often made to create to add affordable housing on the market, but not always. 
+Housing cooperative are often made to create to add affordable housing on the market, but not always.
 To distinguish buildings, there are currently no standard way in OpenStreetMap. From my research, [`subsidized=yes` tags](https://taginfo.openstreetmap.org/keys/subsidized) have been used 12 times (January 2025) which is not enough to make any generalization.
 
 I propose some experimental tags to add below which are based on the concept of affordable housing in Switzerland and particularly in the Vaud region. I've not made enough research to know if this can be generalised and used in others countries.
@@ -119,23 +119,5 @@ Optional
 At the moment, all of those cooperatives have been retrieved:
 
 <!--- @@inject: list_cooperative.md --->
-
-- [Coopérative Cité Derrière](https://citederriere.ch/)
-- Coopérative I6
-- Coopérative d'habitation des employés du rail
-- [Coopérative de l’habitat associatif](https://www.codha.ch)
-- [Coopérative des Arts et des Ouches](https://c-arts-ouches.ch/)
-- [Coopérative des cheminots de la Riviera](https://www.cheri-riviera.ch/)
-- [Coopérative du logement Lutry](https://cll-lutry.ch)
-- [Ecopolis](https://ecopolis.ch/)
-- [La Meute](http://www.meute.ch/)
-- [Le Bled](http://lebled.ch/)
-- [Les Jardins de la Paix](https://jardinsdelapaix.ch)
-- [Logement Idéal](https://www.logement-ideal.ch)
-- [Société Coopérative d’Habitation «Charmontey»](https://www.charmontey.ch)
-- [Société coopérative d'habitation La Paix](http://lapaix.ch)
-- [Société coopérative d'habitation Lausanne](https://schl.ch)
-- [Société coopérative d'habitation Pully](https://schpully.ch)
-- [Société coopérative d'habitations Le Chêne](https://www.schlechene.ch)
 
 <!--- @@inject-end: list_cooperative.md --->
