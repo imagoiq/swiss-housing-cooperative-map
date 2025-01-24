@@ -1,6 +1,6 @@
 # Coopératives d'habitation en Suisse
 
-Projet ayant pour but de cartographier et de liste les immeubles des coopératives d'habitation de Suisse.
+Projet expérimental ayant pour but de cartographier et de liste les immeubles des coopératives d'habitation de Suisse.
 
 ## Utiliser les données
 
@@ -25,22 +25,25 @@ En résumé :
 Clés de base
 - `owner:type=cooperative` et/ou `operator:type=cooperative`
 
-Bâtiments:
-- `building=` avec comme valeur `residential`, `apartments`, `dormitory` ou `sheltered_housing`
-- ou `building:part=yes`
++
 
-Quartiers
+Soit pour les bâtiments:
+- `building=` ou `building:part` avec comme valeur `residential`, `apartments`, `dormitory` ou `sheltered_housing`
+
+Soit pour les quartiers
 - `landuse=residential`
 ```
 
 Il n'existe pas (encore) de modèle pré-fait ou validé spécialement pour les coopératives de logement, mais la plupart des clés proposées ici sont définies dans le wiki d'OpenStreetMmap.
 
 Pour cibler les coopératives de logement, la requête prend en compte les élèments avec la clé `owner=*` et `operator=*` qui sont associées avec `building=residential|apartments|dormitory|sheltered_housing` or `building:part=yes`. Cela permet d'éviter d'associer les coopératives culturelles et d'arts liés à un bâtiment (comme la [Space Alliance Coopérative](https://www.openstreetmap.org/way/38326020)). Probablement qu'à l'avenir, il faudra utiliser un filtre encore plus détaillé.
-À noter que parfois, le bâtiment est à la propriété d'une coopérative, parfois ce n'est pas le cas et c'est une coopérative qui gère le bâtiment, mais le bâtiment appartient à une société privée. L'utilisation des deux tags `operator` et `owner` permet d'identifier ces cas de figure.
+À noter que parfois, le bâtiment est à la propriété d'une coopérative, parfois ce n'est pas le cas et c'est une coopérative qui gère le bâtiment, mais le bâtiment appartient à une société privée. L'utilisation des deux balises `operator` et `owner` permet d'identifier ces cas de figure.
 
-Les quartiers entièrement fondés par une coopérative sont également pris en compte dans les données à l'aide de la clé `landuse=residential`. Il est également bien de rajouter les tags sur chaque bâtiment pour pouvoir les comptabiliser par exemple.
+Les quartiers entièrement fondés par une coopérative sont également pris en compte dans les données à l'aide de la clé `landuse=residential`. Aussi, il est bien de rajouter les balises sur chaque bâtiment pour pouvoir les comptabiliser par exemple.
 
 #### Améliorer les métadonnées
+
+##### Propriétaires/gestionnaires
 
 Pour les propriétaires des bâtiments :
 
@@ -58,7 +61,27 @@ Si le bâtiment est géré par une coopérative, un autre type d'entreprise ou u
 - [`operator:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Abbréviation du nom
 - [`operator:website=*`](https://wiki.openstreetmap.org/wiki/Key:operator) - Site web
 
-## Processus
+##### Type de bâtiment
+
+La balise `building=` peut avoir comme valeur :
+
+- `residential` ou `apartments` pour les immeubles
+- `dormitory` pour les logements d'étudiants
+- `sheltered_housing` pour les logements protégés ou destinés à des personnes vulnérables.
+
+##### Type de loyers (expérimental)
+
+Les coopératives d'habitation sont souvent créées pour ajouter des logements abordables sur le marché, mais pas toujours.
+Pour distinguer les bâtiments, il n'existe actuellement aucune méthode standard dans OpenStreetMap. D'après mes recherches, les balises [`subsidized=yes`] (https://taginfo.openstreetmap.org/keys/subsidized) ont été utilisées 12 fois (janvier 2025), ce qui n'est pas suffisant pour faire une généralisation.
+
+Je propose quelques balises expérimentales à ajouter ci-dessous qui sont basées sur le concept de logement abordable en Suisse et particulièrement dans le Canton de Vaud. Je n'ai pas fait assez de recherches pour savoir si cela peut être généralisé et utilisé dans d'autres pays.
+
+En Suisse, il existe deux types de logements abordables :
+
+- Logement subventionné ou à loyer modéré : l'État donne de l'argent pour construire un nouveau logement ou le rénover. Cela a pour effet de faire baisser les loyers. Pour ce cas d'utilisation, j'ai utilisé `subsidized=yes`.
+- Logement à loyer abordable : l'État limite le montant d'un loyer (avec divers outils). Ce cas d'utilisation est un peu différent du premier, car il peut s'appliquer à certains appartements au sein d'un immeuble. Je ne pense pas qu'il soit nécessaire de compter les appartements pour le moment. Je propose d'utiliser `rent:regulation=` avec `yes` ou `only` pour différencier un immeuble ou tous les appartements ont un loyer régulé ou quelques un.
+
+## Processus technique
 
 ### Workflow
 

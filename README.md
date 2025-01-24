@@ -2,7 +2,7 @@
 
 # 🏘️ Swiss housing cooperative
 
-Project aimed at mapping and listing the buildings of housing cooperatives in Switzerland.
+Experimental project aimed at mapping and listing the housing cooperatives in Switzerland with a maximum of details.
 
 ## Use the data
 
@@ -27,11 +27,12 @@ TLDR:
 Basic tags
 - `owner:type=cooperative` or/and `operator:type=cooperative`
 
-Buildings:
-- `building=` with value `residential`, `apartments`, `dormitory` or `sheltered_housing`
-- or `building:part=yes`
++ 
 
-Areas-neighborhood
+Either for Buildings:
+- `building=` or `building:part` with value `residential`, `apartments`, `dormitory` or `sheltered_housing`
+
+Either for Areas-neighborhood
 - `landuse=residential`
 ```
 
@@ -42,7 +43,9 @@ Note that sometimes the building is owned by a cooperative, sometimes it's not, 
 
 Neighborhoods founded entirely by a cooperative are also included in the data using the key `landuse=residential`. It's also a good idea to add tags to each building inside a neighborhood so that they can be counted, for example.
 
-#### Enhance with metadata
+#### Enhance the metadata
+
+##### Owner and/or operator
 
 For the owner of the buildings:
 
@@ -60,7 +63,27 @@ If the building is managed by a cooperative, another type of company or another 
 - [`operator:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Abbreviation of the name
 - [`operator:website=*`](https://wiki.openstreetmap.org/wiki/Key:operator) - Website
 
-## Process
+##### Type of buildings
+
+The tag `building=` can take:
+
+- `residential` or `apartments` for regular accommodation
+- `dormitory` for student dormitory
+- `sheltered_housing` for accommodation designated for older and/or disabled or other vulnerable people
+
+##### Type of rents (experimental)
+
+Housing cooperative are often made to create to add affordable housing on the market, but not always. 
+To distinguish buildings, there are currently no standard way in OpenStreetMap. From my research, [`subsidized=yes` tags](https://taginfo.openstreetmap.org/keys/subsidized) have been used 12 times (January 2025) which is not enough to make any generalization.
+
+I propose some experimental tags to add below which are based on the concept of affordable housing in Switzerland and particularly in the Vaud region. I've not made enough research to know if this can be generalised and used in others countries.
+
+In Switzerland, there are two kinds of affordable housing:
+
+- Subsidized housing: the state give money for to build a new unit or renovate it. This has then impact to lower the rents. For this use case, I've used `subsidized=yes`.
+- Rent control/regulation: the state limits the amount of a rent (with various tools). This use case is a bit different as the first one, because it can apply on some flats within a building. I don't think we need to go at the level of counting flats at the moment. I propose to use `rent:regulation=` with `yes` or `only` to differentiate a building where all the flat have it or only some.
+
+## Technical Process
 
 ### Workflow
 
