@@ -64,7 +64,7 @@ If the building is managed by a cooperative, another type of company or another 
 
 #### Type of buildings
 
-The tag `building=` can take:
+The tag [`building=`](https://wiki.openstreetmap.org/wiki/Buildings) can take:
 
 - `residential` or `apartments` for regular accommodation
 - `dormitory` for student dormitory

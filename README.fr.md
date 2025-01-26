@@ -62,7 +62,7 @@ Si le bâtiment est géré par une coopérative, un autre type d'entreprise ou u
 
 #### Type de bâtiment
 
-La balise `building=` peut avoir comme valeur :
+La balise [`building=`](https://wiki.openstreetmap.org/wiki/Buildings) peut avoir comme valeur :
 
 - `residential` ou `apartments` pour les immeubles
 - `dormitory` pour les logements d'étudiants
