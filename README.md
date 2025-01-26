@@ -35,9 +35,11 @@ Neighborhoods founded entirely by a cooperative are also included in the data us
 and either…
 
 for Buildings:
+
 - `building=`, `building:part=` or `building:use=` with value `residential`, `apartments`, `dormitory` or `sheltered_housing`
 
 for Neighborhood:
+
 - `landuse=residential`
 
 ### Enhance the metadata
@@ -81,7 +83,6 @@ A bit more experimental:
 - `renovated:architect=` - name of the architect who conducted the renovation
 
 See also [the page Buildings on the wiki](https://wiki.openstreetmap.org/wiki/Key:building#Additional_attributes) to get even more tags.
-
 
 #### Type of rents (experimental)
 

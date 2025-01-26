@@ -33,9 +33,11 @@ Les quartiers entièrement fondés par une coopérative sont également pris en 
 et soit…
 
 pour les bâtiments :
+
 - `building=` ou `building:part` ou `building:use=` avec comme valeur `residential`, `apartments`, `dormitory` ou `sheltered_housing`
 
 pour les quartiers :
+
 - `landuse=residential`
 
 ### Améliorer les métadonnées
