@@ -19,27 +19,24 @@ Toutes les données proviennent directement d'[OpenStreetMap](https://www.openst
 
 ## Schéma
 
-En résumé :
-
-```
-Clés de base
-- `owner:type=cooperative` et/ou `operator:type=cooperative`
-
-+
-
-Soit pour les bâtiments:
-- `building=` ou `building:part` avec comme valeur `residential`, `apartments`, `dormitory` ou `sheltered_housing`
-
-Soit pour les quartiers
-- `landuse=residential`
-```
-
-Il n'existe pas (encore) de modèle pré-fait ou validé spécialement pour les coopératives de logement, mais la plupart des clés proposées ici sont définies dans le wiki d'OpenStreetMmap.
+Il n'existe pas (encore) de modèle spécialement pour les coopératives de logement, mais la plupart des clés proposées ici sont définies dans le wiki d'OpenStreetMap.
 
 Pour cibler les coopératives de logement, la requête prend en compte les élèments avec la clé `owner=*` et `operator=*` qui sont associées avec `building=residential|apartments|dormitory|sheltered_housing` or `building:part=yes`. Cela permet d'éviter d'associer les coopératives culturelles et d'arts liés à un bâtiment (comme la [Space Alliance Coopérative](https://www.openstreetmap.org/way/38326020)). Probablement qu'à l'avenir, il faudra utiliser un filtre encore plus détaillé.
 À noter que parfois, le bâtiment est à la propriété d'une coopérative, parfois ce n'est pas le cas et c'est une coopérative qui gère le bâtiment, mais le bâtiment appartient à une société privée. L'utilisation des deux balises `operator` et `owner` permet d'identifier ces cas de figure.
 
 Les quartiers entièrement fondés par une coopérative sont également pris en compte dans les données à l'aide de la clé `landuse=residential`. Aussi, il est bien de rajouter les balises sur chaque bâtiment pour pouvoir les comptabiliser par exemple.
+
+### Balises de base
+
+- `owner:type=cooperative` et/ou `operator:type=cooperative`
+
+et soit…
+
+pour les bâtiments :
+- `building=` ou `building:part` ou `building:use=` avec comme valeur `residential`, `apartments`, `dormitory` ou `sheltered_housing`
+
+pour les quartiers :
+- `landuse=residential`
 
 ### Améliorer les métadonnées
 
@@ -68,6 +65,20 @@ La balise `building=` peut avoir comme valeur :
 - `residential` ou `apartments` pour les immeubles
 - `dormitory` pour les logements d'étudiants
 - `sheltered_housing` pour les logements protégés ou destinés à des personnes vulnérables.
+
+#### Bâtiments
+
+- `architect=` - nom de l'architecte qui a dirigé la construction
+- `start_date=` - date d'achèvement de la construction
+- `building:flats=` - nombre d'appartements dans un bâtiment
+
+Un peu plus expérimental :
+
+- `building:condition=renovated` - indique que le bâtiment a été rénové
+- `renovated=` - date d'achèvement de la rénovation
+- `renovated:architect=` - nom de l'architecte qui a dirigé la rénovation
+
+Voir également [la page Buildings sur le wiki](https://wiki.openstreetmap.org/wiki/Key:building#Additional_attributes) pour encore plus de tags.
 
 #### Type de loyers (expérimental)
 

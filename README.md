@@ -21,27 +21,24 @@ All data comes directly from [OpenStreetMap](https://www.openstreetmap.org). If 
 
 ## Schema
 
-TLDR:
-
-```
-Basic tags
-- `owner:type=cooperative` or/and `operator:type=cooperative`
-
-+ 
-
-Either for Buildings:
-- `building=` or `building:part` with value `residential`, `apartments`, `dormitory` or `sheltered_housing`
-
-Either for Areas-neighborhood
-- `landuse=residential`
-```
-
 There is no pre-made or validated model specifically for housing cooperatives, but most of the proposed tags here are defined in the wiki of openstreetmap.
 
 To target housing cooperatives, the query takes into account elements with the key `owner=*` and `operator=*` that are associated with `building=residential|apartments|dormitory|sheltered_housing` or `building:part=yes`. This avoids associating building-related arts and cultural cooperatives (such as [Space Alliance Cooperative](https://www.openstreetmap.org/way/38326020)). The filter will probably be refined in the future.
 Note that sometimes the building is owned by a cooperative, sometimes it's not, and a cooperative manages the building, but the building belongs to a private company. The use of the two tags `operator` and `owner` makes it possible to identify these cases.
 
 Neighborhoods founded entirely by a cooperative are also included in the data using the key `landuse=residential`. It's also a good idea to add tags to each building inside a neighborhood so that they can be counted, for example.
+
+### Basic tags
+
+- `owner:type=cooperative` or/and `operator:type=cooperative`
+
+and either…
+
+for Buildings:
+- `building=`, `building:part=` or `building:use=` with value `residential`, `apartments`, `dormitory` or `sheltered_housing`
+
+for Neighborhood:
+- `landuse=residential`
 
 ### Enhance the metadata
 
@@ -70,6 +67,21 @@ The tag `building=` can take:
 - `residential` or `apartments` for regular accommodation
 - `dormitory` for student dormitory
 - `sheltered_housing` for accommodation designated for older and/or disabled or other vulnerable people
+
+#### Buildings
+
+- `architect=` - name of the architect who made the building
+- `start_date=` - date which indicate the end of the construction
+- `building:flats=` - number of flats
+
+A bit more experimental:
+
+- `building:condition=renovated` - indicate that the building has been renovated
+- `renovated=` - date which indicate the end of the renovation
+- `renovated:architect=` - name of the architect who conducted the renovation
+
+See also [the page Buildings on the wiki](https://wiki.openstreetmap.org/wiki/Key:building#Additional_attributes) to get even more tags.
+
 
 #### Type of rents (experimental)
 

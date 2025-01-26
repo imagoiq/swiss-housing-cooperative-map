@@ -1,6 +1,6 @@
 [out:json][timeout:25000];
 area["name:en"="Switzerland"]->.ch;
 (
-nwr(area.ch)[~"owner:type|operator:type"~"cooperative"][~"building|building:part"~"^(residental|apartments|dormitory|sheltered_housing)$"];
+nwr(area.ch)[~"owner:type|operator:type"~"cooperative"][~"building|building:part|building:use"~"^(residental|apartments|dormitory|sheltered_housing)$"];
 );
 out geom;
