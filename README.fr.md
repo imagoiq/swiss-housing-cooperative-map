@@ -46,7 +46,7 @@ pour les quartiers :
 
 Pour les propriétaires des bâtiments :
 
-- [`owner=*`](https://wiki.openstreetmap.org/wiki/Key:owner) - Nom
+- [`owner=*`](https://wiki.openstreetmap.org/wiki/FR:Key:owner) - Nom
 - [`owner:wikidata=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Wikidata ID
 - [`owner:short=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Nom court
 - [`owner:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Abbréviation du nom
@@ -54,11 +54,11 @@ Pour les propriétaires des bâtiments :
 
 Si le bâtiment est géré par une coopérative, un autre type d'entreprise ou une autre coopérative :
 
-- [`operator=*`](https://wiki.openstreetmap.org/wiki/Key:operator) - Nom
+- [`operator=*`](https://wiki.openstreetmap.org/wiki/FR:Key:operator) - Nom
 - [`operator:wikidata=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Wikidata ID
 - [`operator:short=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Short name
 - [`operator:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Abbréviation du nom
-- [`operator:website=*`](https://wiki.openstreetmap.org/wiki/Key:operator) - Site web
+- [`operator:website=*`](https://wiki.openstreetmap.org/wiki/FR:Key:operator) - Site web
 
 #### Type de bâtiment
 
@@ -70,17 +70,17 @@ La balise `building=` peut avoir comme valeur :
 
 #### Bâtiments
 
-- `architect=` - nom de l'architecte qui a dirigé la construction
-- `start_date=` - date d'achèvement de la construction
-- `building:flats=` - nombre d'appartements dans un bâtiment
+- [`architect=`](https://wiki.openstreetmap.org/wiki/FR:Key:architect) - nom de l'architecte qui a dirigé la construction
+- [`start_date=`](https://wiki.openstreetmap.org/wiki/FR:Key:start_date) - date d'achèvement de la construction
+- [`building:flats=`](https://wiki.openstreetmap.org/wiki/FR:Key:building:flats) - nombre d'appartements dans un bâtiment
 
 Un peu plus expérimental :
 
-- `building:condition=renovated` - indique que le bâtiment a été rénové
+- [`building:condition=renovated`](https://wiki.openstreetmap.org/wiki/Key:building:condition) - indique que le bâtiment a été rénové
 - `renovated=` - date d'achèvement de la rénovation
 - `renovated:architect=` - nom de l'architecte qui a dirigé la rénovation
 
-Voir également [la page Buildings sur le wiki](https://wiki.openstreetmap.org/wiki/Key:building#Additional_attributes) pour encore plus de tags.
+Voir également [la page Buildings sur le wiki](https://wiki.openstreetmap.org/wiki/FR:Key:building#Attributs_additionnels) pour encore plus de tags.
 
 #### Type de loyers (expérimental)
 

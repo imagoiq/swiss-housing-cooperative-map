@@ -72,13 +72,13 @@ The tag `building=` can take:
 
 #### Buildings
 
-- `architect=` - name of the architect who made the building
-- `start_date=` - date which indicate the end of the construction
-- `building:flats=` - number of flats
+- [`architect=`](https://wiki.openstreetmap.org/wiki/Key:architect) - name of the architect who made the building
+- [`start_date=`](https://wiki.openstreetmap.org/wiki/Key:start_date) - date which indicate the end of the construction
+- [`building:flats=`](https://wiki.openstreetmap.org/wiki/Key:building:flats) - number of flats
 
 A bit more experimental:
 
-- `building:condition=renovated` - indicate that the building has been renovated
+- [`building:condition=renovated`](https://wiki.openstreetmap.org/wiki/Key:building:condition) - indicate that the building has been renovated
 - `renovated=` - date which indicate the end of the renovation
 - `renovated:architect=` - name of the architect who conducted the renovation
 
