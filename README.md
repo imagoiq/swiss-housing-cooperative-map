@@ -2,7 +2,8 @@
 
 # 🏘️ Swiss housing cooperative
 
-Experimental project aimed at mapping and listing the housing cooperatives in Switzerland with a maximum of details.
+Experimental project aimed at mapping and listing the housing cooperatives in Switzerland with a maximum of details. 
+This project does not aim at playing an intermediate or building new tool, but document and show what is possible, and what are the limitations.
 
 ## Use the data
 

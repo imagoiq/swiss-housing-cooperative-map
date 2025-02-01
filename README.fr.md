@@ -1,6 +1,7 @@
 # Coopératives d'habitation en Suisse
 
 Projet expérimental ayant pour but de cartographier et de liste les immeubles des coopératives d'habitation de Suisse.
+Ce projet n'a pas pour but de jouer les intermédiaires ou de construire un nouvel outil, mais de documenter et de montrer ce qui est possible, et quelles sont les limites.
 
 ## Utiliser les données
 
