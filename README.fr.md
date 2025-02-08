@@ -73,6 +73,7 @@ Si le bâtiment est géré par une coopérative, un autre type d'entreprise ou u
 - [`architect=`](https://wiki.openstreetmap.org/wiki/FR:Key:architect) - nom de l'architecte qui a dirigé la construction
 - [`start_date=`](https://wiki.openstreetmap.org/wiki/FR:Key:start_date) - date d'achèvement de la construction
 - [`building:flats=`](https://wiki.openstreetmap.org/wiki/FR:Key:building:flats) - nombre d'appartements dans un bâtiment
+- [`building:flats:cluster`](https://taginfo.openstreetmap.org/keys/building%3Aflats%3Acluster) [tag de facto] - nombre d'appartements de type cluster
 - [`heating=gas|heat_pump|district_heating|oil|pellet`](https://wiki.openstreetmap.org/wiki/Key:heating) - Type de chauffage
 
 
@@ -80,7 +81,7 @@ Un peu plus expérimental :
 
 - [`building:condition=renovated`](https://wiki.openstreetmap.org/wiki/Key:building:condition) - indique que le bâtiment a été rénové
 - [`renovated=`](https://taginfo.openstreetmap.org/keys/renovated) - [balise de facto] date d'achèvement de la rénovation 
-- [`renovated:architect=`](https://taginfo.openstreetmap.org/search?q=renovated%3Aarchitect#keys) [tag de facto] - nom de l'architecte qui a dirigé la rénovation
+- [`renovated:architect=`](https://taginfo.openstreetmap.org/keys/renovated%3Aarchitect) [tag de facto] - nom de l'architecte qui a dirigé la rénovation
 
 Voir également [la page Buildings sur le wiki](https://wiki.openstreetmap.org/wiki/FR:Key:building#Attributs_additionnels) pour encore plus de tags.
 
