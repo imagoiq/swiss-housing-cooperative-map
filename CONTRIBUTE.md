@@ -2,7 +2,7 @@
 
 ## Cheatsheet for mapping
 
-1. Basic tags
+### Basic tags
 
 - [`owner:type=cooperative`](https://taginfo.openstreetmap.org/tags/owner%3Atype=cooperative) [tag de facto] or/and [`operator:type=cooperative`](https://wiki.openstreetmap.org/wiki/Key:operator:type)
 
@@ -18,7 +18,7 @@ for Neighborhood:
 - [`landuse=residential`](https://wiki.openstreetmap.org/wiki/Tag:landuse%3Dresidential)
 - [`residential=apartments`](https://wiki.openstreetmap.org/wiki/Tag:residential%3Dapartments)
 
-2. Owner and operators
+### Owner and operators
 
 For the owner of the buildings:
 
@@ -36,7 +36,7 @@ If the building is managed by a cooperative, another type of company or another 
 - [`operator:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Abbreviation of the name
 - [`operator:website=*`](https://wiki.openstreetmap.org/wiki/Key:operator) - Website
 
-3. Buildings
+### Buildings
 
 - [`architect=`](https://wiki.openstreetmap.org/wiki/Key:architect) - name of the architect who made the building
 - [`start_date=`](https://wiki.openstreetmap.org/wiki/Key:start_date) - date which indicate the end of the construction
@@ -52,9 +52,9 @@ If subsidized:
 - [`subsidized=yes`](https://taginfo.openstreetmap.org/keys/subsidized) [tag de facto]
 - [`rent:regulation=yes|only`](https://taginfo.openstreetmap.org/keys/rent%3Aregulation) [tag de facto]
 
-4. Miscellaneous facilities
+### Miscellaneous facilities
 
-4.1. Public community room
+#### Public community room
 
 A separated node with :
 - [`name=`](https://wiki.openstreetmap.org/wiki/Key:name) - name of the neighborhood
@@ -62,7 +62,7 @@ A separated node with :
 - [`community_centre=community_hall`](https://wiki.openstreetmap.org/wiki/Tag:community_centre%3Dcommunity_hall)
 - [`community_centre:for=cooperative`](https://wiki.openstreetmap.org/wiki/Key:community_centre:for)
 
-4.2 Kitchen garden
+#### Kitchen garden
 
 - [`leisure=garden`](https://wiki.openstreetmap.org/wiki/Tag:leisure=garden)
 - [`garden:style=kitchen`](https://wiki.openstreetmap.org/wiki/Key:garden:style)
