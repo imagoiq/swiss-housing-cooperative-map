@@ -72,7 +72,7 @@ Si le bâtiment est géré par une coopérative, un autre type d'entreprise ou u
 
 - [`architect=`](https://wiki.openstreetmap.org/wiki/FR:Key:architect) - nom de l'architecte qui a dirigé la construction
 - [`start_date=`](https://wiki.openstreetmap.org/wiki/FR:Key:start_date) - date d'achèvement de la construction
-- [`building:flats=`](https://wiki.openstreetmap.org/wiki/FR:Key:building:flats) - nombre d'appartements dans un bâtiment
+- [`building:flats=`](https://wiki.openstreetmap.org/wiki/FR:Key:building:flats) - nombre d'appartements dans un bâtiment au total (inclus les clusters)
 - [`building:flats:cluster`](https://taginfo.openstreetmap.org/keys/building%3Aflats%3Acluster) [tag de facto] - nombre d'appartements de type cluster
 - [`heating=gas|heat_pump|district_heating|oil|pellet`](https://wiki.openstreetmap.org/wiki/Key:heating) - Type de chauffage
 
