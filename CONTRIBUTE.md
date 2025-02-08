@@ -51,3 +51,19 @@ If renovated:
 If subsidized:
 - [`subsidized=yes`](https://taginfo.openstreetmap.org/keys/subsidized) [tag de facto]
 - [`rent:regulation=yes|only`](https://taginfo.openstreetmap.org/keys/rent%3Aregulation) [tag de facto]
+
+4. Miscellaneous facilities
+
+4.1. Public community room
+
+A separated node with :
+- [`name=`](https://wiki.openstreetmap.org/wiki/Key:name) - name of the neighborhood
+- [`amenity=community_centre`](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcommunity_centre)
+- [`community_centre=community_hall`](https://wiki.openstreetmap.org/wiki/Tag:community_centre%3Dcommunity_hall)
+- [`community_centre:for=cooperative`](https://wiki.openstreetmap.org/wiki/Key:community_centre:for)
+
+4.2 Kitchen garden
+
+- [`leisure=garden`](https://wiki.openstreetmap.org/wiki/Tag:leisure=garden)
+- [`garden:style=kitchen`](https://wiki.openstreetmap.org/wiki/Key:garden:style)
+- [`garden:type=community`](https://wiki.openstreetmap.org/wiki/Key:garden:type)

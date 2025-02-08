@@ -96,6 +96,19 @@ En Suisse, il existe deux types de logements abordables :
 - Logement subventionné ou à loyer modéré : l'État donne de l'argent pour construire un nouveau logement ou le rénover. Cela a pour effet de faire baisser les loyers. Pour ce cas d'utilisation, j'ai utilisé [`subsidized=yes`](https://taginfo.openstreetmap.org/keys/subsidized) [balise de facto].
 - Logement à loyer abordable : l'État limite le montant d'un loyer (avec divers outils). Ce cas d'utilisation est un peu différent du premier, car il peut s'appliquer à certains appartements au sein d'un immeuble. Je ne pense pas qu'il soit nécessaire de compter les appartements pour le moment. Je propose d'utiliser [`rent:regulation=`](https://taginfo.openstreetmap.org/keys/rent%3Aregulation) [balise de facto] avec `yes` ou `only` pour différencier un immeuble ou tous les appartements ont un loyer régulé ou quelques un.
 
+#### Divers
+
+Très souvent les coopératives d'habitation possèdent des équipements supplémentaires :
+
+- Une salle commune. Si celle-ci est public, il est possible de la cartographier via un nœud séparé et 
+  - [`amenity=community_centre`](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcommunity_centre)
+  - [`community_centre=community_hall`](https://wiki.openstreetmap.org/wiki/Tag:community_centre%3Dcommunity_hall)
+  - [`community_centre:for=cooperative`](https://wiki.openstreetmap.org/wiki/Key:community_centre:for)
+- Un jardin potager en commun.
+  - [`leisure=garden`](https://wiki.openstreetmap.org/wiki/FR:Tag:leisure=garden)
+  - [`garden:style=kitchen`](https://wiki.openstreetmap.org/wiki/FR:Key:garden:style)
+  - [`garden:type=community`](https://wiki.openstreetmap.org/wiki/FR:Key:garden:type)
+
 ## Processus technique
 
 ### Workflow

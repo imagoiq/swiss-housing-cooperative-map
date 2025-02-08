@@ -97,6 +97,18 @@ In Switzerland, there are two kinds of affordable housing:
 - Subsidized housing: the state give money for to build a new unit or renovate it. This has then impact to lower the rents. For this use case, I've used [`subsidized=yes`](https://taginfo.openstreetmap.org/keys/subsidized) [tag de facto].
 - Rent control/regulation: the state limits the amount of a rent (with various tools). This use case is a bit different as the first one, because it can apply on some flats within a building. I don't think we need to go at the level of counting flats at the moment. I propose to use [`rent:regulation=`](https://taginfo.openstreetmap.org/keys/rent%3Aregulation) with `yes` or `only` to differentiate a building where all the flat have it or only some.
 
+#### Miscellaneous
+
+Very often, housing cooperatives have additional facilities:
+- A common room. If this is public, it can be mapped via a separate node and
+  - [`amenity=community_centre`](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcommunity_centre)
+  - [`community_centre=community_hall`](https://wiki.openstreetmap.org/wiki/Tag:community_centre%3Dcommunity_hall)
+  - [`community_centre:for=cooperative`](https://wiki.openstreetmap.org/wiki/Key:community_centre:for)
+- A shared vegetable garden.
+  - [`leisure=garden`](https://wiki.openstreetmap.org/wiki/Tag:leisure=garden)
+  - [`garden:style=kitchen`](https://wiki.openstreetmap.org/wiki/Key:garden:style)
+  - [`garden:type=community`](https://wiki.openstreetmap.org/wiki/Key:garden:type)
+
 ## Technical Process
 
 ### Workflow
