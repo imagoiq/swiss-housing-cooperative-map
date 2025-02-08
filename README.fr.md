@@ -37,11 +37,16 @@ et soit…
 
 pour les bâtiments :
 
-- `building=` ou `building:part` ou `building:use=` avec comme valeur `residential`, `apartments`, `dormitory` ou `sheltered_housing`
+- [`building=`](https://wiki.openstreetmap.org/wiki/Buildings) ou [`building:part=`](https://wiki.openstreetmap.org/wiki/Key:building:part) ou [`building:use=`](https://wiki.openstreetmap.org/wiki/Key:building:use) avec comme valeur :
+  - `residential` ou `apartments` pour les immeubles
+  - `dormitory` pour les logements d'étudiants
+  - `sheltered_housing` pour les logements protégés ou destinés à des personnes vulnérables.
 
 pour les quartiers :
 
-- `landuse=residential`
+- [`name=`](https://wiki.openstreetmap.org/wiki/Key:name) - nom du quartier
+- [`landuse=residential`](https://wiki.openstreetmap.org/wiki/Tag:landuse%3Dresidential)
+- [`residential=apartments`](https://wiki.openstreetmap.org/wiki/Tag:residential%3Dapartments)
 
 ### Améliorer les métadonnées
 
@@ -63,27 +68,19 @@ Si le bâtiment est géré par une coopérative, un autre type d'entreprise ou u
 - [`operator:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Abbréviation du nom
 - [`operator:website=*`](https://wiki.openstreetmap.org/wiki/FR:Key:operator) - Site web
 
-#### Type de bâtiment
-
-La balise [`building=`](https://wiki.openstreetmap.org/wiki/Buildings) peut avoir comme valeur :
-
-- `residential` ou `apartments` pour les immeubles
-- `dormitory` pour les logements d'étudiants
-- `sheltered_housing` pour les logements protégés ou destinés à des personnes vulnérables.
-
 #### Bâtiments
 
 - [`architect=`](https://wiki.openstreetmap.org/wiki/FR:Key:architect) - nom de l'architecte qui a dirigé la construction
 - [`start_date=`](https://wiki.openstreetmap.org/wiki/FR:Key:start_date) - date d'achèvement de la construction
 - [`building:flats=`](https://wiki.openstreetmap.org/wiki/FR:Key:building:flats) - nombre d'appartements dans un bâtiment
+- [`heating=gas|heat_pump|district_heating|oil`](https://wiki.openstreetmap.org/wiki/Key:heating) - Type de chauffage
+
 
 Un peu plus expérimental :
 
 - [`building:condition=renovated`](https://wiki.openstreetmap.org/wiki/Key:building:condition) - indique que le bâtiment a été rénové
 - `renovated=` - date d'achèvement de la rénovation
 - `renovated:architect=` - nom de l'architecte qui a dirigé la rénovation
-- [`heating=`](https://wiki.openstreetmap.org/wiki/Key:heating) - Cette balise semble être destinée à un autre usage, mais fonctionne également avec la balise building.
-
 
 Voir également [la page Buildings sur le wiki](https://wiki.openstreetmap.org/wiki/FR:Key:building#Attributs_additionnels) pour encore plus de tags.
 

@@ -39,11 +39,16 @@ and either…
 
 for Buildings:
 
-- `building=`, `building:part=` or `building:use=` with value `residential`, `apartments`, `dormitory` or `sheltered_housing`
+- [`building=`](https://wiki.openstreetmap.org/wiki/Buildings) or [`building:part=`](https://wiki.openstreetmap.org/wiki/Key:building:part) or [`building:use=`](https://wiki.openstreetmap.org/wiki/Key:building:use) with as value  :
+  - `residential` or `apartments` for regular accommodation
+  - `dormitory` for student dormitory
+  - `sheltered_housing` for accommodation designated for older and/or disabled or other vulnerable people
 
 for Neighborhood:
 
-- `landuse=residential`
+- [`name=`](https://wiki.openstreetmap.org/wiki/Key:name) - name of the neighborhood
+- [`landuse=residential`](https://wiki.openstreetmap.org/wiki/Tag:landuse%3Dresidential)
+- [`residential=apartments`](https://wiki.openstreetmap.org/wiki/Tag:residential%3Dapartments)
 
 ### Enhance the metadata
 
@@ -65,26 +70,18 @@ If the building is managed by a cooperative, another type of company or another 
 - [`operator:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Abbreviation of the name
 - [`operator:website=*`](https://wiki.openstreetmap.org/wiki/Key:operator) - Website
 
-#### Type of buildings
-
-The tag [`building=`](https://wiki.openstreetmap.org/wiki/Buildings) can take:
-
-- `residential` or `apartments` for regular accommodation
-- `dormitory` for student dormitory
-- `sheltered_housing` for accommodation designated for older and/or disabled or other vulnerable people
-
 #### Buildings
 
 - [`architect=`](https://wiki.openstreetmap.org/wiki/Key:architect) - name of the architect who made the building
 - [`start_date=`](https://wiki.openstreetmap.org/wiki/Key:start_date) - date which indicate the end of the construction
 - [`building:flats=`](https://wiki.openstreetmap.org/wiki/Key:building:flats) - number of flats
+- [`heating=gas|heat_pump|district_heating|oil`](https://wiki.openstreetmap.org/wiki/Key:heating) - Type of heating system
 
 A bit more experimental:
 
 - [`building:condition=renovated`](https://wiki.openstreetmap.org/wiki/Key:building:condition) - indicate that the building has been renovated
 - `renovated=` - date which indicate the end of the renovation
 - `renovated:architect=` - name of the architect who conducted the renovation
-- [`heating=`](https://wiki.openstreetmap.org/wiki/Key:heating) - This tag seems to be intended for other usage, but fit as well with any building. 
 
 See also [the page Buildings on the wiki](https://wiki.openstreetmap.org/wiki/Key:building#Additional_attributes) to get even more tags.
 
