@@ -82,6 +82,8 @@ Un peu plus expérimental :
 - [`building:condition=renovated`](https://wiki.openstreetmap.org/wiki/Key:building:condition) - indique que le bâtiment a été rénové
 - `renovated=` - date d'achèvement de la rénovation
 - `renovated:architect=` - nom de l'architecte qui a dirigé la rénovation
+- [`heating=`](https://wiki.openstreetmap.org/wiki/Key:heating) - Cette balise semble être destinée à un autre usage, mais fonctionne également avec la balise building.
+
 
 Voir également [la page Buildings sur le wiki](https://wiki.openstreetmap.org/wiki/FR:Key:building#Attributs_additionnels) pour encore plus de tags.
 

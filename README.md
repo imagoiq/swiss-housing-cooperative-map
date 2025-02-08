@@ -84,6 +84,7 @@ A bit more experimental:
 - [`building:condition=renovated`](https://wiki.openstreetmap.org/wiki/Key:building:condition) - indicate that the building has been renovated
 - `renovated=` - date which indicate the end of the renovation
 - `renovated:architect=` - name of the architect who conducted the renovation
+- [`heating=`](https://wiki.openstreetmap.org/wiki/Key:heating) - This tag seems to be intended for other usage, but fit as well with any building. 
 
 See also [the page Buildings on the wiki](https://wiki.openstreetmap.org/wiki/Key:building#Additional_attributes) to get even more tags.
 
