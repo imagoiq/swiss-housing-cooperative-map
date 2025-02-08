@@ -73,7 +73,7 @@ Si le bâtiment est géré par une coopérative, un autre type d'entreprise ou u
 - [`architect=`](https://wiki.openstreetmap.org/wiki/FR:Key:architect) - nom de l'architecte qui a dirigé la construction
 - [`start_date=`](https://wiki.openstreetmap.org/wiki/FR:Key:start_date) - date d'achèvement de la construction
 - [`building:flats=`](https://wiki.openstreetmap.org/wiki/FR:Key:building:flats) - nombre d'appartements dans un bâtiment
-- [`heating=gas|heat_pump|district_heating|oil`](https://wiki.openstreetmap.org/wiki/Key:heating) - Type de chauffage
+- [`heating=gas|heat_pump|district_heating|oil|pellet`](https://wiki.openstreetmap.org/wiki/Key:heating) - Type de chauffage
 
 
 Un peu plus expérimental :
