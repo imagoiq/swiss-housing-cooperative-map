@@ -4,7 +4,7 @@
 
 1. Basic tags
 
-- `owner:type=cooperative` or/and [`operator:type=cooperative`](https://wiki.openstreetmap.org/wiki/Key:operator:type)
+- [`owner:type=cooperative`](https://taginfo.openstreetmap.org/tags/owner%3Atype=cooperative) [tag de facto] or/and [`operator:type=cooperative`](https://wiki.openstreetmap.org/wiki/Key:operator:type)
 
 and either…
 
@@ -45,9 +45,9 @@ If the building is managed by a cooperative, another type of company or another 
 
 If renovated:
 - [`building:condition=renovated`](https://wiki.openstreetmap.org/wiki/Key:building:condition)
-- `renovated=` - date which indicate the end of the renovation
-- `renovated:architect=` - name of the architect who conducted the renovation
+- [`renovated=`](https://taginfo.openstreetmap.org/keys/renovated) [tag de facto] - date which indicate the end of the renovation
+- [`renovated:architect=`](https://taginfo.openstreetmap.org/search?q=renovated%3Aarchitect#keys) [tag de facto] - name of the architect who conducted the renovation
 
 If subsidized:
-- [`subsidized=yes`](https://taginfo.openstreetmap.org/keys/subsidized)
-- `rent:regulation=yes|only`
+- [`subsidized=yes`](https://taginfo.openstreetmap.org/keys/subsidized) [tag de facto]
+- [`rent:regulation=yes|only`](https://taginfo.openstreetmap.org/keys/rent%3Aregulation) [tag de facto]
