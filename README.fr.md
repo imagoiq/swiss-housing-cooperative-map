@@ -3,6 +3,8 @@
 Projet expérimental ayant pour but de cartographier et de liste les immeubles des coopératives d'habitation de Suisse.
 Ce projet n'a pas pour but de jouer les intermédiaires ou de construire un nouvel outil, mais de documenter et de montrer ce qui est possible, et quelles sont les limites.
 
+D'après mes recherches, aucune carte de ce type n'existe pour l'ensemble des cantons. À Genève, la Fondation pour la promotion du logement bon marché et de l'habitat coopératif (FPLC) fournit une [carte pour le canton de Genève] (https://fplc.ch/cartes/cooperatives.htm).
+
 ## Utiliser les données
 
 Pour l'instant les données sont visibles sur [umap](https://umap.openstreetmap.fr/fr/map/cooperative-dhabitations-en-suisse_1140470).

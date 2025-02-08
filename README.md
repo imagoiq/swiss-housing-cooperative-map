@@ -5,6 +5,8 @@
 Experimental project aimed at mapping and listing the housing cooperatives in Switzerland with a maximum of details.
 This project does not aim at playing an intermediate or building new tool, but document and show what is possible, and what are the limitations.
 
+From my research no such map exists across cantons. In Geneva, the Fondation pour la promotion du logement bon marché et de l'habitat coopératif (FPLC) provide a [map for the canton of Geneva](https://fplc.ch/cartes/cooperatives.htm).
+
 ## Use the data
 
 At the moment, data can be viewed on [umap](https://umap.openstreetmap.fr/fr/map/cooperative-dhabitations-en-suisse_1140470).
