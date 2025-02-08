@@ -31,7 +31,7 @@ Les quartiers entièrement fondés par une coopérative sont également pris en 
 
 ### Balises de base
 
-- `owner:type=cooperative` et/ou `operator:type=cooperative`
+- `owner:type=cooperative` et/ou [`operator:type=cooperative`](https://wiki.openstreetmap.org/wiki/Key:operator:type)
 
 et soit…
 

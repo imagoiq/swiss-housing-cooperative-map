@@ -33,7 +33,7 @@ Neighborhoods founded entirely by a cooperative are also included in the data us
 
 ### Basic tags
 
-- `owner:type=cooperative` or/and `operator:type=cooperative`
+- `owner:type=cooperative` or/and [`operator:type=cooperative`](https://wiki.openstreetmap.org/wiki/Key:operator:type)
 
 and either…
 

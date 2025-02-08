@@ -4,7 +4,7 @@
 
 1. Basic tags
 
-- `owner:type=cooperative` or/and `operator:type=cooperative`
+- `owner:type=cooperative` or/and [`operator:type=cooperative`](https://wiki.openstreetmap.org/wiki/Key:operator:type)
 
 and either…
 
