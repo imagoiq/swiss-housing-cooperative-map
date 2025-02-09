@@ -58,7 +58,6 @@ Pour les propriétaires des bâtiments :
 - [`owner:wikidata=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Wikidata ID
 - [`owner:short=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Nom court
 - [`owner:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Abbréviation du nom
-- [`owner:website=*`](https://wiki.openstreetmap.org/wiki/Key:owner) - Site web
 
 Si le bâtiment est géré par une coopérative, un autre type d'entreprise ou une autre coopérative :
 
@@ -66,7 +65,6 @@ Si le bâtiment est géré par une coopérative, un autre type d'entreprise ou u
 - [`operator:wikidata=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Wikidata ID
 - [`operator:short=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Short name
 - [`operator:abbr=*`](https://wiki.openstreetmap.org/wiki/Key:operator#Further_details) - Abbréviation du nom
-- [`operator:website=*`](https://wiki.openstreetmap.org/wiki/FR:Key:operator) - Site web
 
 #### Bâtiments
 
