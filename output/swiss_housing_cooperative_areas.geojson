@@ -13,7 +13,6 @@
     "owner": "Coopérative de l’habitat associatif",
     "owner:abbr": "CODHA",
     "owner:type": "cooperative",
-    "owner:website": "https://www.codha.ch",
     "owner:wikidata": "Q86666680",
     "place": "neighbourhood",
     "start_date": "2022-01",
@@ -103,7 +102,6 @@
     "owner": "Coopérative de l’habitat associatif",
     "owner:abbr": "CODHA",
     "owner:type": "cooperative",
-    "owner:website": "https://www.codha.ch",
     "owner:wikidata": "Q86666680",
     "place": "neighbourhood",
     "population": "265",
@@ -240,7 +238,6 @@
     "owner": "Coopérative de l’habitat associatif",
     "owner:abbr": "CODHA",
     "owner:type": "cooperative",
-    "owner:website": "https://www.codha.ch",
     "owner:wikidata": "Q86666680",
     "place": "neighbourhood",
     "id": "way/1229704651"
@@ -378,7 +375,7 @@
     "name": "Quartier de la Paix",
     "owner": "Société coopérative d'habitation La Paix",
     "owner:type": "cooperative",
-    "owner:website": "http://lapaix.ch",
+    "owner:wikidata": "Q132179751",
     "place": "neighbourhood",
     "id": "way/1318456256"
   },
@@ -437,6 +434,194 @@
         [
           6.2342423,
           46.3912559
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1358384937",
+  "properties": {
+    "architect": "AL30 architectes",
+    "landuse": "residential",
+    "name": "Le Clos des Alisiers",
+    "owner": "Coopérative Cité Derrière",
+    "owner:type": "cooperative",
+    "owner:wikidata": "Q131743050",
+    "residential": "apartments",
+    "start_date": "2015",
+    "id": "way/1358384937"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.1763938,
+          46.3775708
+        ],
+        [
+          6.1770334,
+          46.377946
+        ],
+        [
+          6.1769346,
+          46.378104
+        ],
+        [
+          6.1771937,
+          46.3782275
+        ],
+        [
+          6.1773202,
+          46.3783651
+        ],
+        [
+          6.1772271,
+          46.3785644
+        ],
+        [
+          6.175717,
+          46.378314
+        ],
+        [
+          6.1755391,
+          46.3781979
+        ],
+        [
+          6.1761138,
+          46.3777706
+        ],
+        [
+          6.1761519,
+          46.3777434
+        ],
+        [
+          6.1763938,
+          46.3775708
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1358780180",
+  "properties": {
+    "architect": "al30 architectes",
+    "landuse": "residential",
+    "name": "Les Campanules",
+    "owner": "Coopérative Cité Derrière",
+    "owner:type": "cooperative",
+    "owner:wikidata": "Q131743050",
+    "residential": "apartments",
+    "id": "way/1358780180"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.5070632,
+          46.5835843
+        ],
+        [
+          6.5069233,
+          46.5832889
+        ],
+        [
+          6.5074468,
+          46.5830214
+        ],
+        [
+          6.5075506,
+          46.5831408
+        ],
+        [
+          6.5081711,
+          46.5828399
+        ],
+        [
+          6.5088751,
+          46.5835642
+        ],
+        [
+          6.5089067,
+          46.5836355
+        ],
+        [
+          6.5089157,
+          46.5837161
+        ],
+        [
+          6.5087487,
+          46.5838635
+        ],
+        [
+          6.5080831,
+          46.5842946
+        ],
+        [
+          6.5075122,
+          46.583865
+        ],
+        [
+          6.5078259,
+          46.5836836
+        ],
+        [
+          6.5075416,
+          46.5833719
+        ],
+        [
+          6.5070632,
+          46.5835843
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1358789638",
+  "properties": {
+    "architect": "Pont 12 Architectes",
+    "landuse": "residential",
+    "name": "Villas Pra Bernard",
+    "owner": "Coopérative Cité Derrière",
+    "owner:type": "cooperative",
+    "owner:wikidata": "Q131743050",
+    "residential": "apartments",
+    "id": "way/1358789638"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6855691,
+          46.5451748
+        ],
+        [
+          6.6863218,
+          46.5447534
+        ],
+        [
+          6.6871452,
+          46.5453389
+        ],
+        [
+          6.6862505,
+          46.5455308
+        ],
+        [
+          6.6859661,
+          46.5454109
+        ],
+        [
+          6.6855691,
+          46.5451748
         ]
       ]
     ]

@@ -74,7 +74,7 @@ If the building is managed by a cooperative, another type of company or another 
 - [`start_date=`](https://wiki.openstreetmap.org/wiki/Key:start_date) - date which indicate the end of the construction
 - [`building:flats=`](https://wiki.openstreetmap.org/wiki/Key:building:flats) - number of flats in total (including cluster)
 - [`building:flats:cluster`](https://taginfo.openstreetmap.org/keys/building%3Aflats%3Acluster) \[tag de facto] - number of cluster flats
-- [`heating=gas|district_heating`](https://wiki.openstreetmap.org/wiki/Key:heating) or other [de facto] values [`heat_pumpoil|pellet|woodchip`](https://taginfo.openstreetmap.org/keys/heating#values) - Type of heating system
+- [`heating=gas|district_heating`](https://wiki.openstreetmap.org/wiki/Key:heating) or other \[de facto] values [`heat_pumpoil|pellet|woodchip`](https://taginfo.openstreetmap.org/keys/heating#values) - Type of heating system
 
 A bit more experimental:
 
@@ -146,25 +146,25 @@ At the moment, all of those cooperatives have been retrieved:
 
 <!--- @@inject: list_cooperative.md --->
 
-- [Coopérative Cité Derrière](https://citederriere.ch/)
+- Coopérative Cité Derrière
 - Coopérative I6
-- Coopérative Rhône-Arve
+- Coopérative d'habitation Les Jardins de la Paix
+- Coopérative d'habitation Rhône-Arve Pommier
 - Coopérative d'habitation des employés du rail
 - Coopérative d'habitations groupées des Liaudes
-- [Coopérative de l’habitat associatif](https://www.codha.ch)
-- [Coopérative des Arts et des Ouches](https://c-arts-ouches.ch/)
-- [Coopérative des cheminots de la Riviera](https://www.cheri-riviera.ch/)
-- [Coopérative du logement Lutry](https://cll-lutry.ch)
-- [Coopérative d’habitants La Meute](http://www.meute.ch/)
-- [Ecopolis](https://ecopolis.ch/)
-- [Le Bled](http://lebled.ch/)
-- [Les Jardins de la Paix](https://jardinsdelapaix.ch)
-- [Logement Idéal](https://www.logement-ideal.ch)
+- Coopérative de l’habitat associatif
+- Coopérative des Arts et des Ouches
+- Coopérative des cheminots de la Riviera
+- Coopérative du logement Lutry
+- Coopérative d’habitants La Meute
+- Ecopolis
+- Logement Idéal
+- Société Coopérative d’Habitation Charmontey
 - Société Coopérative d’Habitation Genève
-- [Société Coopérative d’Habitation «Charmontey»](https://www.charmontey.ch)
-- [Société coopérative d'habitation La Paix](http://lapaix.ch)
-- [Société coopérative d'habitation Lausanne](https://schl.ch)
-- [Société coopérative d'habitation Pully](https://schpully.ch)
-- [Société coopérative d'habitations Le Chêne](https://www.schlechene.ch)
+- Société coopérative d'habitation La Paix
+- Société coopérative d'habitation Lausanne
+- Société coopérative d'habitation Pully
+- Société coopérative d'habitations Le Chêne
+- Société coopérative de construction et d’habitation Le Bled
 
 <!--- @@inject-end: list_cooperative.md --->
