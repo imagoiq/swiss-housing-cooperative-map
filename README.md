@@ -148,176 +148,70 @@ At the moment, all of those cooperatives have been retrieved:
 
 ```html
 <ul>
-    
-        
-        <li>
-            
-            
-              <a href="https://citederriere.ch">Coopérative Cité Derrière</a>
-            
-        </li>
-    
-        
-        <li>
-            
-            
-              <a href="http://www.meute.ch/">Coopérative d’habitants La Meute</a>
-            
-        </li>
-    
-        
-        <li>
-            
-            
-                Coopérative d&#39;habitation des employés du rail (CHER)
-             
-        </li>
-    
-        
-        <li>
-            
-            
-              <a href="https://jardinsdelapaix.ch/">Coopérative d&#39;habitation Les Jardins de la Paix</a>
-            
-        </li>
-    
-        
-        <li>
-            
-            
-                Coopérative d&#39;habitation Rhône-Arve Pommier
-             
-        </li>
-    
-        
-        <li>
-            
-            
-                Coopérative d&#39;habitations groupées des Liaudes
-             
-        </li>
-    
-        
-        <li>
-            
-            
-              <a href="https://www.codha.ch/">Coopérative de l’habitat associatif (CODHA)</a>
-            
-        </li>
-    
-        
-        <li>
-            
-            
-              <a href="https://c-arts-ouches.ch/">Coopérative des Arts et des Ouches</a>
-            
-        </li>
-    
-        
-        <li>
-            
-            
-              <a href="https://www.cheri-riviera.ch/">Coopérative des cheminots de la Riviera</a>
-            
-        </li>
-    
-        
-        <li>
-            
-            
-              <a href="https://cll-lutry.ch">Coopérative du logement Lutry (CLL)</a>
-            
-        </li>
-    
-        
-        <li>
-            
-            
-                Coopérative I6 (I6)
-             
-        </li>
-    
-        
-        <li>
-            
-            
-                Coopérative Voisinage
-             
-        </li>
-    
-        
-        <li>
-            
-            
-              <a href="https://ecopolis.ch/">Ecopolis</a>
-            
-        </li>
-    
-        
-        <li>
-            
-            
-              <a href="https://www.logement-ideal.ch">Logement Idéal</a>
-            
-        </li>
-    
-        
-        <li>
-            
-            
-              <a href="https://www.charmontey.ch/">Société Coopérative d’Habitation Charmontey</a>
-            
-        </li>
-    
-        
-        <li>
-            
-            
-              <a href="https://schg.ch/">Société Coopérative d’Habitation Genève (SCHG)</a>
-            
-        </li>
-    
-        
-        <li>
-            
-            
-              <a href="http://lapaix.ch/">Société coopérative d&#39;habitation La Paix</a>
-            
-        </li>
-    
-        
-        <li>
-            
-            
-              <a href="https://schl.ch/">Société coopérative d&#39;habitation Lausanne (SCHL)</a>
-            
-        </li>
-    
-        
-        <li>
-            
-            
-              <a href="https://schpully.ch">Société coopérative d&#39;habitation Pully (SCHP)</a>
-            
-        </li>
-    
-        
-        <li>
-            
-            
-              <a href="https://schlechene.ch">Société coopérative d&#39;habitations Le Chêne</a>
-            
-        </li>
-    
-        
-        <li>
-            
-            
-              <a href="https://lebled.ch">Société coopérative de construction et d’habitation Le Bled</a>
-            
-        </li>
-    
-</ul>
+                    <li>
+                          <a href="https://citederriere.ch">Coopérative Cité Derrière</a>
+                    </li>
+                    <li>
+                          <a href="http://www.meute.ch/">Coopérative d’habitants La Meute</a>
+                    </li>
+                    <li>
+                            Coopérative d&#39;habitation des employés du rail (CHER)
+                     </li>
+                    <li>
+                          <a href="https://jardinsdelapaix.ch/">Coopérative d&#39;habitation Les Jardins de la Paix</a>
+                    </li>
+                    <li>
+                            Coopérative d&#39;habitation Rhône-Arve Pommier
+                     </li>
+                    <li>
+                            Coopérative d&#39;habitations groupées des Liaudes
+                     </li>
+                    <li>
+                          <a href="https://www.codha.ch/">Coopérative de l’habitat associatif (CODHA)</a>
+                    </li>
+                    <li>
+                          <a href="https://c-arts-ouches.ch/">Coopérative des Arts et des Ouches</a>
+                    </li>
+                    <li>
+                          <a href="https://www.cheri-riviera.ch/">Coopérative des cheminots de la Riviera</a>
+                    </li>
+                    <li>
+                          <a href="https://cll-lutry.ch">Coopérative du logement Lutry (CLL)</a>
+                    </li>
+                    <li>
+                            Coopérative I6 (I6)
+                     </li>
+                    <li>
+                            Coopérative Voisinage
+                     </li>
+                    <li>
+                          <a href="https://ecopolis.ch/">Ecopolis</a>
+                    </li>
+                    <li>
+                          <a href="https://www.logement-ideal.ch">Logement Idéal</a>
+                    </li>
+                    <li>
+                          <a href="https://www.charmontey.ch/">Société Coopérative d’Habitation Charmontey</a>
+                    </li>
+                    <li>
+                          <a href="https://schg.ch/">Société Coopérative d’Habitation Genève (SCHG)</a>
+                    </li>
+                    <li>
+                          <a href="http://lapaix.ch/">Société coopérative d&#39;habitation La Paix</a>
+                    </li>
+                    <li>
+                          <a href="https://schl.ch/">Société coopérative d&#39;habitation Lausanne (SCHL)</a>
+                    </li>
+                    <li>
+                          <a href="https://schpully.ch">Société coopérative d&#39;habitation Pully (SCHP)</a>
+                    </li>
+                    <li>
+                          <a href="https://schlechene.ch">Société coopérative d&#39;habitations Le Chêne</a>
+                    </li>
+                    <li>
+                          <a href="https://lebled.ch">Société coopérative de construction et d’habitation Le Bled</a>
+                    </li>
+    </ul>
 ```
 
 <!--- @@inject-end: list_cooperative.html --->
