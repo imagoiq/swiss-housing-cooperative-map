@@ -145,25 +145,25 @@ Actuellement, toutes les coopératives suivantes ont été cartographiées :
 <!--- @@inject: list_cooperative.md --->
 
 - Coopérative Cité Derrière
-- Société coopérative d'habitation Lausanne
-- Coopérative de l’habitat associatif
-- Logement Idéal
-- Coopérative d'habitation des employés du rail
-- Coopérative I6
-- Société Coopérative d’Habitation Genève
-- Société coopérative d'habitation Pully
-- Coopérative du logement Lutry
-- Coopérative d'habitations groupées des Liaudes
-- Société Coopérative d’Habitation Charmontey
-- Société coopérative d'habitations Le Chêne
-- Coopérative d'habitation Les Jardins de la Paix
-- Coopérative des cheminots de la Riviera
-- Société coopérative d'habitation La Paix
 - Coopérative d’habitants La Meute
-- Société coopérative de construction et d’habitation Le Bled
-- Coopérative des Arts et des Ouches
-- Ecopolis
-- Coopérative Voisinage
+- Coopérative d'habitation des employés du rail
+- Coopérative d'habitation Les Jardins de la Paix
 - Coopérative d'habitation Rhône-Arve Pommier
+- Coopérative d'habitations groupées des Liaudes
+- Coopérative de l’habitat associatif
+- Coopérative des Arts et des Ouches
+- Coopérative des cheminots de la Riviera
+- Coopérative du logement Lutry
+- Coopérative I6
+- Coopérative Voisinage
+- Ecopolis
+- Logement Idéal
+- Société Coopérative d’Habitation Charmontey
+- Société Coopérative d’Habitation Genève
+- Société coopérative d'habitation La Paix
+- Société coopérative d'habitation Lausanne
+- Société coopérative d'habitation Pully
+- Société coopérative d'habitations Le Chêne
+- Société coopérative de construction et d’habitation Le Bled
 
 <!--- @@inject-end: list_cooperative.md --->
