@@ -5,6 +5,9 @@ Ce projet n'a pas pour but de jouer les intermédiaires ou de construire un nouv
 
 D'après mes recherches, aucune carte de ce type n'existe pour l'ensemble des cantons. À Genève, la Fondation pour la promotion du logement bon marché et de l'habitat coopératif (FPLC) fournit une \[carte pour le canton de Genève] (<https://fplc.ch/cartes/cooperatives.htm>).
 
+Plus d'infos sur le sujet des coopératives d'habitation :
+* [Pattaroni Luca, Marmy, Vanessa, Les coopératives de logement dans le Canton de Vaud, EPFL/SCL, Octobre 2016](https://www.vd.ch/fileadmin/user_upload/themes/vie_privee/logement/fichiers_pdf/161013_etude-cooperatives-bd.pdf)
+
 ## Utiliser les données
 
 Pour l'instant les données sont visibles sur [umap](https://umap.openstreetmap.fr/fr/map/cooperative-dhabitations-en-suisse_1140470).
