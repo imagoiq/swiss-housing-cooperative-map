@@ -75,7 +75,7 @@ jobs:
 
       - name: Update readme cooperative'list
         run: |
-          jq -rf ./scripts/list_owners.jq $output_dir/$cooperative_buildings_filename \
+          node ./scripts/aggregate_per_identity.mjs "owner" $output_dir/$cooperative_buildings_filename \
           | jq -r '.[] | if .website != null then "* [\(.name)](\(.website))" else "* \(.name)" end' \
           > "$root_dir/list_cooperative.md"
           npx inject-markdown "$root_dir/README.md"
