@@ -26,7 +26,7 @@ function setPropertiesFromWikidata(identity, feature) {
     const {website, date_foundation, swiss_business_uid} = getCorrespondingData(wikidataList, wikidataId);
 
     if(wikidataId) {
-        feature.properties.website = website;
+        feature.properties[`${identity}:website`] = website;
         feature.properties[`${identity}:start_date`] = date_foundation;
         feature.properties[`${identity}:swiss_business_uid`] = swiss_business_uid;
     }
