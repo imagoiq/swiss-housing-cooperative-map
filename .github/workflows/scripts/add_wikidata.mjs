@@ -4,7 +4,7 @@ const inputGeojsonPath = process.argv[2];
 
 const featuresFile = JSON.parse(await readFileSync(inputGeojsonPath, { encoding: 'utf8' }));
 
-const wikidataQueryUrl = "https://query.wikidata.org/sparql?query=SELECT%20%3Fcoop_housing%20%3Fwebsite%20%3Fdate_foundation%20%3Fswiss_business_uid%20WHERE%20%7B%0A%20%20%3Fcoop_housing%20wdt%3AP31%20wd%3AQ562166%3B%0A%20%20%20%20wdt%3AP17%20wd%3AQ22036.%0A%20%20OPTIONAL%20%7B%20%3Fcoop_housing%20wdt%3AP856%20%3Fwebsite.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcoop_housing%20wdt%3AP571%20%3Fdate_foundation.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcoop_housing%20wdt%3AP4829%20%3Fswiss_business_uid.%20%7D%0A%7D&format=json";
+const wikidataQueryUrl = "https://query.wikidata.org/sparql?query=SELECT%20%3Fcoop_housing%20%3Fwebsite%20%3Fdate_foundation%20%3Fswiss_business_uid%20WHERE%20%7B%0A%20%20%3Fcoop_housing%20wdt%3AP31%20wd%3AQ562166%3B%0A%20%20%20%20wdt%3AP17%20wd%3AQ39.%0A%20%20OPTIONAL%20%7B%20%3Fcoop_housing%20wdt%3AP856%20%3Fwebsite.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcoop_housing%20wdt%3AP571%20%3Fdate_foundation.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcoop_housing%20wdt%3AP4829%20%3Fswiss_business_uid.%20%7D%0A%7D&format=json";
 
 const response =  await fetch(wikidataQueryUrl, {
     method: 'GET',
