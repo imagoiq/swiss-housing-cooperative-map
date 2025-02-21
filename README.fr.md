@@ -147,23 +147,23 @@ Actuellement, toutes les coopératives suivantes ont été cartographiées :
 - Coopérative Cité Derrière
 - Coopérative d’habitants La Meute
 - Coopérative d'habitation des employés du rail
-- Coopérative d'habitation Les Jardins de la Paix
+- [Coopérative d'habitation Les Jardins de la Paix](https://jardinsdelapaix.ch/)
 - Coopérative d'habitation Rhône-Arve Pommier
 - Coopérative d'habitations groupées des Liaudes
 - Coopérative de l’habitat associatif
-- Coopérative des Arts et des Ouches
-- Coopérative des cheminots de la Riviera
-- Coopérative du logement Lutry
+- [Coopérative des Arts et des Ouches](https://c-arts-ouches.ch/)
+- [Coopérative des cheminots de la Riviera](https://www.cheri-riviera.ch/)
+- [Coopérative du logement Lutry](https://cll-lutry.ch)
 - Coopérative I6
 - Coopérative Voisinage
-- Ecopolis
+- [Ecopolis](https://ecopolis.ch/)
 - Logement Idéal
-- Société Coopérative d’Habitation Charmontey
-- Société Coopérative d’Habitation Genève
-- Société coopérative d'habitation La Paix
+- [Société Coopérative d’Habitation Charmontey](https://www.charmontey.ch/)
+- [Société Coopérative d’Habitation Genève](https://schg.ch/)
+- [Société coopérative d'habitation La Paix](http://lapaix.ch/)
 - Société coopérative d'habitation Lausanne
-- Société coopérative d'habitation Pully
+- [Société coopérative d'habitation Pully](https://schpully.ch)
 - Société coopérative d'habitations Le Chêne
-- Société coopérative de construction et d’habitation Le Bled
+- [Société coopérative de construction et d’habitation Le Bled](http://lebled.ch)
 
 <!--- @@inject-end: list_cooperative.md --->
