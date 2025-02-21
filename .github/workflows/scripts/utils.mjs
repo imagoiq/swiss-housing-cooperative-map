@@ -15,5 +15,5 @@ export function operatorFilter(feature) {
 }
 
 export function ownerFilter(feature) {
-    return feature.properties.owner;
+    return feature.properties["owner:type"] === "cooperative"
 }
