@@ -23,6 +23,8 @@ function getAggregatedIdentity(features, identity) {
         name: features[0].properties[`${identity}`],
         short: features[0].properties[`${identity}:short`],
         website: features[0].properties[`${identity}:website`],
+        start_date: features[0].properties[`${identity}:start_date`],
+        swiss_business_uid: features[0].properties[`${identity}:swiss_business_uid`],
         buildings_count,
         building_flats: features.reduce((acc, curr) => {
             return acc + (parseInt(curr?.properties["building:flats"], 10) || 0);
