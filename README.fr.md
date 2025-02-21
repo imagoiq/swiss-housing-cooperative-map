@@ -3,7 +3,7 @@
 Projet expérimental ayant pour but de cartographier et de liste les immeubles des coopératives d'habitation de Suisse.
 Ce projet n'a pas pour but de jouer les intermédiaires ou de construire un nouvel outil, mais de documenter et de montrer ce qui est possible, et quelles sont les limites.
 
-D'après mes recherches, aucune carte de ce type n'existe pour l'ensemble des cantons. À Genève, la Fondation pour la promotion du logement bon marché et de l'habitat coopératif (FPLC) fournit une [carte pour le canton de Genève] (<https://fplc.ch/cartes/cooperatives.htm>).
+D'après mes recherches, aucune carte de ce type n'existe pour l'ensemble des cantons. À Genève, la Fondation pour la promotion du logement bon marché et de l'habitat coopératif (FPLC) fournit une \[carte pour le canton de Genève] (<https://fplc.ch/cartes/cooperatives.htm>).
 
 ## Utiliser les données
 
@@ -22,7 +22,7 @@ Toutes les données proviennent directement d'[OpenStreetMap](https://www.openst
 
 ## Schéma
 
-Il n'existe pas (encore) de modèle spécialement pour les coopératives de logement, mais la plupart des clés proposées ici sont définies dans le wiki d'OpenStreetMap. Celles issues de taginfo ou de ma propre imagination sont déclaré sur cette page avec [balise de facto].
+Il n'existe pas (encore) de modèle spécialement pour les coopératives de logement, mais la plupart des clés proposées ici sont définies dans le wiki d'OpenStreetMap. Celles issues de taginfo ou de ma propre imagination sont déclaré sur cette page avec \[balise de facto].
 
 Pour cibler les coopératives de logement, la requête prend en compte les élèments avec la clé `owner=*` et `operator=*` qui sont associées avec `building|building:part|building:use=residential|apartments|dormitory|sheltered_housing`. Cela permet d'éviter d'associer les coopératives culturelles et d'arts liés à un bâtiment (comme la [Space Alliance Coopérative](https://www.openstreetmap.org/way/38326020)). Probablement qu'à l'avenir, il faudra utiliser un filtre encore plus détaillé.
 À noter que parfois, le bâtiment est à la propriété d'une coopérative, parfois ce n'est pas le cas et c'est une coopérative qui gère le bâtiment, mais le bâtiment appartient à une société privée. L'utilisation des deux balises `operator` et `owner` permet d'identifier ces cas de figure.
@@ -31,7 +31,7 @@ Les quartiers entièrement fondés par une coopérative sont également pris en 
 
 ### Balises de base
 
-- [`owner:type=cooperative`](https://taginfo.openstreetmap.org/tags/owner%3Atype=cooperative) [balise de facto] et/ou [`operator:type=cooperative`](https://wiki.openstreetmap.org/wiki/Key:operator:type)
+- [`owner:type=cooperative`](https://taginfo.openstreetmap.org/tags/owner%3Atype=cooperative) \[balise de facto] et/ou [`operator:type=cooperative`](https://wiki.openstreetmap.org/wiki/Key:operator:type)
 
 et soit…
 
@@ -40,7 +40,7 @@ pour les bâtiments :
 - [`building=`](https://wiki.openstreetmap.org/wiki/Buildings) ou [`building:part=`](https://wiki.openstreetmap.org/wiki/Key:building:part) ou [`building:use=`](https://wiki.openstreetmap.org/wiki/Key:building:use) avec comme valeur :
   - [`residential`](https://wiki.openstreetmap.org/wiki/Tag:building%3Dresidential) ou de préférence [`apartments`](https://wiki.openstreetmap.org/wiki/Tag:building%3Dapartments) pour les immeubles
   - [`dormitory`](https://wiki.openstreetmap.org/wiki/Tag:building%3Ddormitory) pour les logements d'étudiants
-  - [`sheltered_housing`](https://taginfo.openstreetmap.org/tags/building=sheltered_housing) [balise de facto] pour les logements protégés ou destinés à des personnes vulnérables.
+  - [`sheltered_housing`](https://taginfo.openstreetmap.org/tags/building=sheltered_housing) \[balise de facto] pour les logements protégés ou destinés à des personnes vulnérables.
 
 pour les quartiers :
 
@@ -71,28 +71,28 @@ Si le bâtiment est géré par une coopérative, un autre type d'entreprise ou u
 - [`architect=`](https://wiki.openstreetmap.org/wiki/FR:Key:architect) - nom de l'architecte qui a dirigé la construction
 - [`start_date=`](https://wiki.openstreetmap.org/wiki/FR:Key:start_date) - date d'achèvement de la construction
 - [`building:flats=`](https://wiki.openstreetmap.org/wiki/FR:Key:building:flats) - nombre d'appartements dans un bâtiment au total (inclus les clusters)
-- [`building:flats:cluster`](https://taginfo.openstreetmap.org/keys/building%3Aflats%3Acluster) [tag de facto] - nombre d'appartements de type cluster
-- [`heating=gas|district_heating`](https://wiki.openstreetmap.org/wiki/Key:heating) ou autres valeurs [de facto] [`heat_pump|oil|pellet|woodchip`](https://taginfo.openstreetmap.org/keys/heating#values) - Type de chauffage
+- [`building:flats:cluster`](https://taginfo.openstreetmap.org/keys/building%3Aflats%3Acluster) \[tag de facto] - nombre d'appartements de type cluster
+- [`heating=gas|district_heating`](https://wiki.openstreetmap.org/wiki/Key:heating) ou autres valeurs \[de facto] [`heat_pump|oil|pellet|woodchip`](https://taginfo.openstreetmap.org/keys/heating#values) - Type de chauffage
 
 Un peu plus expérimental :
 
 - [`building:condition=renovated`](https://wiki.openstreetmap.org/wiki/Key:building:condition) - indique que le bâtiment a été rénové
-- [`renovated=`](https://taginfo.openstreetmap.org/keys/renovated) - [balise de facto] date d'achèvement de la rénovation
-- [`renovated:architect=`](https://taginfo.openstreetmap.org/keys/renovated%3Aarchitect) [tag de facto] - nom de l'architecte qui a dirigé la rénovation
+- [`renovated=`](https://taginfo.openstreetmap.org/keys/renovated) - \[balise de facto] date d'achèvement de la rénovation
+- [`renovated:architect=`](https://taginfo.openstreetmap.org/keys/renovated%3Aarchitect) \[tag de facto] - nom de l'architecte qui a dirigé la rénovation
 
 Voir également [la page Buildings sur le wiki](https://wiki.openstreetmap.org/wiki/FR:Key:building#Attributs_additionnels) pour encore plus de tags.
 
 #### Type de loyers (expérimental)
 
 Les coopératives d'habitation sont souvent créées pour ajouter des logements abordables sur le marché, mais pas toujours.
-Pour distinguer les bâtiments, il n'existe actuellement aucune méthode standard dans OpenStreetMap. D'après mes recherches, les balises [`subsidized=yes`](https://taginfo.openstreetmap.org/keys/subsidized) [balise de facto] ont été utilisées 12 fois (janvier 2025), ce qui n'est pas suffisant pour faire une généralisation.
+Pour distinguer les bâtiments, il n'existe actuellement aucune méthode standard dans OpenStreetMap. D'après mes recherches, les balises [`subsidized=yes`](https://taginfo.openstreetmap.org/keys/subsidized) \[balise de facto] ont été utilisées 12 fois (janvier 2025), ce qui n'est pas suffisant pour faire une généralisation.
 
 Je propose quelques balises expérimentales à ajouter ci-dessous qui sont basées sur le concept de logement abordable en Suisse et particulièrement dans le Canton de Vaud. Je n'ai pas fait assez de recherches pour savoir si cela peut être généralisé et utilisé dans d'autres pays.
 
 En Suisse, il existe deux types de logements abordables :
 
-- Logement subventionné ou à loyer modéré : l'État donne de l'argent pour construire un nouveau logement ou le rénover. Cela a pour effet de faire baisser les loyers. Pour ce cas d'utilisation, j'ai utilisé [`subsidized=yes`](https://taginfo.openstreetmap.org/keys/subsidized) [balise de facto].
-- Logement à loyer abordable : l'État limite le montant d'un loyer (avec divers outils). Ce cas d'utilisation est un peu différent du premier, car il peut s'appliquer à certains appartements au sein d'un immeuble. Je ne pense pas qu'il soit nécessaire de compter les appartements pour le moment. Je propose d'utiliser [`rent:regulation=`](https://taginfo.openstreetmap.org/keys/rent%3Aregulation) [balise de facto] avec `yes` ou `only` pour différencier un immeuble ou tous les appartements ont un loyer régulé ou quelques un.
+- Logement subventionné ou à loyer modéré : l'État donne de l'argent pour construire un nouveau logement ou le rénover. Cela a pour effet de faire baisser les loyers. Pour ce cas d'utilisation, j'ai utilisé [`subsidized=yes`](https://taginfo.openstreetmap.org/keys/subsidized) \[balise de facto].
+- Logement à loyer abordable : l'État limite le montant d'un loyer (avec divers outils). Ce cas d'utilisation est un peu différent du premier, car il peut s'appliquer à certains appartements au sein d'un immeuble. Je ne pense pas qu'il soit nécessaire de compter les appartements pour le moment. Je propose d'utiliser [`rent:regulation=`](https://taginfo.openstreetmap.org/keys/rent%3Aregulation) \[balise de facto] avec `yes` ou `only` pour différencier un immeuble ou tous les appartements ont un loyer régulé ou quelques un.
 
 #### Divers
 
@@ -143,26 +143,5 @@ Optionnelles
 Actuellement, toutes les coopératives suivantes ont été cartographiées :
 
 <!--- @@inject: list_cooperative.md --->
-
-- Coopérative Cité Derrière
-- Coopérative I6
-- Coopérative d'habitation Les Jardins de la Paix
-- Coopérative d'habitation Rhône-Arve Pommier
-- Coopérative d'habitation des employés du rail
-- Coopérative d'habitations groupées des Liaudes
-- Coopérative de l’habitat associatif
-- Coopérative des Arts et des Ouches
-- Coopérative des cheminots de la Riviera
-- Coopérative du logement Lutry
-- Coopérative d’habitants La Meute
-- Ecopolis
-- Logement Idéal
-- Société Coopérative d’Habitation Charmontey
-- Société Coopérative d’Habitation Genève
-- Société coopérative d'habitation La Paix
-- Société coopérative d'habitation Lausanne
-- Société coopérative d'habitation Pully
-- Société coopérative d'habitations Le Chêne
-- Société coopérative de construction et d’habitation Le Bled
 
 <!--- @@inject-end: list_cooperative.md --->

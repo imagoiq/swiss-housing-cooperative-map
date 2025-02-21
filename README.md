@@ -24,7 +24,7 @@ All data comes directly from [OpenStreetMap](https://www.openstreetmap.org). If 
 
 ## Schema
 
-There is no pre-made or validated model specifically for housing cooperatives, but most of the proposed tags here are defined in the wiki of openstreetmap. Those from taginfo or my own imagination are declared on this page with [tag de facto].
+There is no pre-made or validated model specifically for housing cooperatives, but most of the proposed tags here are defined in the wiki of openstreetmap. Those from taginfo or my own imagination are declared on this page with \[tag de facto].
 
 To target housing cooperatives, the query takes into account elements with the key `owner=*` and `operator=*` that are associated with `building|building:part|building:use=residential|apartments|dormitory|sheltered_housing`. This avoids associating building-related arts and cultural cooperatives (such as [Space Alliance Cooperative](https://www.openstreetmap.org/way/38326020)). The filter will probably be refined in the future.
 Note that sometimes the building is owned by a cooperative, sometimes it's not, and a cooperative manages the building, but the building belongs to a private company. The use of the two tags `operator` and `owner` makes it possible to identify these cases.
@@ -33,7 +33,7 @@ Neighborhoods founded entirely by a cooperative are also included in the data us
 
 ### Basic tags
 
-- [`owner:type=cooperative`](https://taginfo.openstreetmap.org/tags/owner%3Atype=cooperative) [tag de facto] or/and [`operator:type=cooperative`](https://wiki.openstreetmap.org/wiki/Key:operator:type)
+- [`owner:type=cooperative`](https://taginfo.openstreetmap.org/tags/owner%3Atype=cooperative) \[tag de facto] or/and [`operator:type=cooperative`](https://wiki.openstreetmap.org/wiki/Key:operator:type)
 
 and either…
 
@@ -42,7 +42,7 @@ for Buildings:
 - [`building=`](https://wiki.openstreetmap.org/wiki/Buildings) or [`building:part=`](https://wiki.openstreetmap.org/wiki/Key:building:part) or [`building:use=`](https://wiki.openstreetmap.org/wiki/Key:building:use) with as value  :
   - [`residential`](https://wiki.openstreetmap.org/wiki/Tag:building%3Dresidential) or prefer [`apartments`](https://wiki.openstreetmap.org/wiki/Tag:building%3Dapartments) for regular accommodation
   - [`dormitory`](https://wiki.openstreetmap.org/wiki/Tag:building%3Ddormitory) for student dormitory
-  - [`sheltered_housing`](https://taginfo.openstreetmap.org/tags/building=sheltered_housing) [tag de facto] for accommodation designated for older and/or disabled or other vulnerable people
+  - [`sheltered_housing`](https://taginfo.openstreetmap.org/tags/building=sheltered_housing) \[tag de facto] for accommodation designated for older and/or disabled or other vulnerable people
 
 for Neighborhood:
 
@@ -73,27 +73,27 @@ If the building is managed by a cooperative, another type of company or another 
 - [`architect=`](https://wiki.openstreetmap.org/wiki/Key:architect) - name of the architect who made the building
 - [`start_date=`](https://wiki.openstreetmap.org/wiki/Key:start_date) - date which indicate the end of the construction
 - [`building:flats=`](https://wiki.openstreetmap.org/wiki/Key:building:flats) - number of flats in total (including cluster)
-- [`building:flats:cluster`](https://taginfo.openstreetmap.org/keys/building%3Aflats%3Acluster) [tag de facto] - number of cluster flats
-- [`heating=gas|district_heating`](https://wiki.openstreetmap.org/wiki/Key:heating) or other [de facto] values [`heat_pump|oil|pellet|woodchip`](https://taginfo.openstreetmap.org/keys/heating#values) - Type of heating system
+- [`building:flats:cluster`](https://taginfo.openstreetmap.org/keys/building%3Aflats%3Acluster) \[tag de facto] - number of cluster flats
+- [`heating=gas|district_heating`](https://wiki.openstreetmap.org/wiki/Key:heating) or other \[de facto] values [`heat_pump|oil|pellet|woodchip`](https://taginfo.openstreetmap.org/keys/heating#values) - Type of heating system
 
 A bit more experimental:
 
 - [`building:condition=renovated`](https://wiki.openstreetmap.org/wiki/Key:building:condition) - indicate that the building has been renovated
-- [`renovated=`](https://taginfo.openstreetmap.org/keys/renovated) [tag de facto] - date which indicate the end of the renovation
-- [`renovated:architect=`](https://taginfo.openstreetmap.org/keys/renovated%3Aarchitect) [tag de facto] - name of the architect who conducted the renovation
+- [`renovated=`](https://taginfo.openstreetmap.org/keys/renovated) \[tag de facto] - date which indicate the end of the renovation
+- [`renovated:architect=`](https://taginfo.openstreetmap.org/keys/renovated%3Aarchitect) \[tag de facto] - name of the architect who conducted the renovation
 
 See also [the page Buildings on the wiki](https://wiki.openstreetmap.org/wiki/Key:building#Additional_attributes) to get even more tags.
 
 #### Type of rents (experimental)
 
 Housing cooperative are often made to create to add affordable housing on the market, but not always.
-To distinguish buildings, there are currently no standard way in OpenStreetMap. From my research, [`subsidized=yes`](https://taginfo.openstreetmap.org/keys/subsidized) [tag de facto] have been used 12 times (January 2025) which is not enough to make any generalization.
+To distinguish buildings, there are currently no standard way in OpenStreetMap. From my research, [`subsidized=yes`](https://taginfo.openstreetmap.org/keys/subsidized) \[tag de facto] have been used 12 times (January 2025) which is not enough to make any generalization.
 
 I propose some experimental tags to add below which are based on the concept of affordable housing in Switzerland and particularly in the Vaud region. I've not made enough research to know if this can be generalised and used in others countries.
 
 In Switzerland, there are two kinds of affordable housing:
 
-- Subsidized housing: the state give money for to build a new unit or renovate it. This has then impact to lower the rents. For this use case, I've used [`subsidized=yes`](https://taginfo.openstreetmap.org/keys/subsidized) [tag de facto].
+- Subsidized housing: the state give money for to build a new unit or renovate it. This has then impact to lower the rents. For this use case, I've used [`subsidized=yes`](https://taginfo.openstreetmap.org/keys/subsidized) \[tag de facto].
 - Rent control/regulation: the state limits the amount of a rent (with various tools). This use case is a bit different as the first one, because it can apply on some flats within a building. I don't think we need to go at the level of counting flats at the moment. I propose to use [`rent:regulation=`](https://taginfo.openstreetmap.org/keys/rent%3Aregulation) with `yes` or `only` to differentiate a building where all the flat have it or only some.
 
 #### Miscellaneous
@@ -145,26 +145,5 @@ Optional
 At the moment, all of those cooperatives have been retrieved:
 
 <!--- @@inject: list_cooperative.md --->
-
-- Coopérative Cité Derrière
-- Coopérative I6
-- Coopérative d'habitation Les Jardins de la Paix
-- Coopérative d'habitation Rhône-Arve Pommier
-- Coopérative d'habitation des employés du rail
-- Coopérative d'habitations groupées des Liaudes
-- Coopérative de l’habitat associatif
-- Coopérative des Arts et des Ouches
-- Coopérative des cheminots de la Riviera
-- Coopérative du logement Lutry
-- Coopérative d’habitants La Meute
-- Ecopolis
-- Logement Idéal
-- Société Coopérative d’Habitation Charmontey
-- Société Coopérative d’Habitation Genève
-- Société coopérative d'habitation La Paix
-- Société coopérative d'habitation Lausanne
-- Société coopérative d'habitation Pully
-- Société coopérative d'habitations Le Chêne
-- Société coopérative de construction et d’habitation Le Bled
 
 <!--- @@inject-end: list_cooperative.md --->
