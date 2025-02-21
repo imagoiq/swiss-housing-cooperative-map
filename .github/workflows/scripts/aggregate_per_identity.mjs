@@ -1,8 +1,10 @@
-import { readFileSync } from 'node:fs';
+import { readFileSync,writeFileSync } from 'node:fs';
+import { tsvFormat} from "d3-dsv";
 import {getCompletionRate, operatorFilter, ownerFilter, unique} from "./utils.mjs";
 
 const identity = process.argv[2];
 const inputGeojsonPath = process.argv[3];
+const outputPath = process.argv[4];
 
 const featuresFile = JSON.parse(await readFileSync(inputGeojsonPath, { encoding: 'utf8' }));
 
@@ -13,7 +15,13 @@ const owners = Object.groupBy(filteredFeatures, feature => feature.properties[id
 // Output
 const aggregatedData = Object.values(owners).map(features => getAggregatedIdentity(features, 'owner'));
 const sortedAggregatedData = aggregatedData.sort((a,b) => a.name.localeCompare(b.name));
-console.log(JSON.stringify(sortedAggregatedData));
+
+if(outputPath) {
+    writeFileSync(outputPath, tsvFormat(sortedAggregatedData));
+} else {
+    console.log(JSON.stringify(sortedAggregatedData));
+}
+
 
 function getAggregatedIdentity(features, identity) {
     const buildings_count = features.filter(feature => feature.properties.building).length;

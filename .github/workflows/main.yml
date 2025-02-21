@@ -46,6 +46,7 @@ jobs:
           sudo apt install nodejs
           npm install -g n
           sudo n lts
+          (cd ./scripts; npm ci)
           npm install -g osmtogeojson
           npm install -g inject-markdown
 
@@ -65,13 +66,11 @@ jobs:
 
       - name: Get list of cooperative owners
         run: |
-          node ./scripts/aggregate_per_identity.mjs "owner" $output_dir/$cooperative_buildings_filename \
-          | jq -r -L. 'include "./scripts/json2tsv"; json2tsv' > $output_dir/swiss_housing_cooperative_list_owners.tsv
+          node ./scripts/aggregate_per_identity.mjs "owner" $output_dir/$cooperative_buildings_filename $output_dir/swiss_housing_cooperative_list_owners.tsv
 
       - name: Get list of cooperative operators
         run: |
-          node ./scripts/aggregate_per_identity.mjs "operator" $output_dir/$cooperative_buildings_filename \
-          | jq -r -L. 'include "./scripts/json2tsv"; json2tsv' > $output_dir/swiss_housing_cooperative_list_operators.tsv
+          node ./scripts/aggregate_per_identity.mjs "operator" $output_dir/$cooperative_buildings_filename $output_dir/swiss_housing_cooperative_list_operators.tsv
 
       - name: Update readme cooperative'list
         run: |
