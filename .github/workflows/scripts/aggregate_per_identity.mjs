@@ -11,8 +11,9 @@ const filteredFeatures = featuresFile.features.filter(feature => feature.propert
 const owners = Object.groupBy(filteredFeatures, feature => feature.properties[identity]);
 
 // Output
-const aggregateData = Object.values(owners).map(features => getAggregatedIdentity(features, 'owner'));
-console.log(JSON.stringify(aggregateData));
+const aggregatedData = Object.values(owners).map(features => getAggregatedIdentity(features, 'owner'));
+const sortedAggregatedData = aggregatedData.sort((a,b) => a.name.localeCompare(b.name));
+console.log(JSON.stringify(sortedAggregatedData));
 
 function getAggregatedIdentity(features, identity) {
     const buildings_count = features.filter(feature => feature.properties.building).length;
