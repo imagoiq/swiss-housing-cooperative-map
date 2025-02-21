@@ -41,11 +41,11 @@ jobs:
 
       - name: Install dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get upgrade
           sudo apt-get install jq
 
           sudo apt install nodejs
+          npm install -g n
+          n lts
           npm install -g osmtogeojson
           npm install -g inject-markdown
 
