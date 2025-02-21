@@ -146,7 +146,7 @@ Optionnelles
 
 Actuellement, toutes les coopératives suivantes ont été cartographiées :
 
-<!--- @@inject: list_cooperative.md --->
+<!--- @@inject: list_cooperative.html --->
 
 <!---
   Failed to read "../../list_cooperative.md"

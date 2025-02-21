@@ -144,7 +144,7 @@ Optional
 
 At the moment, all of those cooperatives have been retrieved:
 
-<!--- @@inject: list_cooperative.md --->
+<!--- @@inject: list_cooperative.html --->
 
 <!---
   Failed to read "../../list_cooperative.md"
