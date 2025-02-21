@@ -12,5 +12,13 @@
     buildings_dormitory_count: map(select(.properties.building == "dormitory")) | length,
     buildings_sheltered_housing_count: map(select(.properties.building == "sheltered_housing")) | length,
     buildings_locations: map(select(.properties."addr:city" != null) | .properties."addr:city") | unique,
-    buildings_postcode: map(select(.properties."addr:postcode" != null) | .properties."addr:postcode") | unique
+    buildings_postcode: map(select(.properties."addr:postcode" != null) | .properties."addr:postcode") | unique,
+    completion_buildings_start_date_percentage:  ((map(select(.properties.start_date != null)) | length) / (map(select(.properties.building != null)) | length) * 100),
+    completion_buildings_flats_percentage:  ((map(select(.properties."building:flats" != null)) | length) / (map(select(.properties.building != null)) | length) * 100),
+    completion_buildings_heating_percentage:  ((map(select(.properties.heating != null)) | length) / (map(select(.properties.building != null)) | length) * 100),
+    completion_buildings_architect_percentage:  ((map(select(.properties.architect != null)) | length) / (map(select(.properties.building != null)) | length) * 100),
+    completion_buildings_renovated_architect_percentage:  ((map(select(.properties."renovated:architect" != null)) | length) / (map(select(.properties.renovated != null)) | length) * 100),
+    completion_buildings_levels_percentage:  ((map(select(.properties."building:levels" != null)) | length) / (map(select(.properties.building != null)) | length) * 100),
+    completion_buildings_roof_levels_percentage:  ((map(select(.properties."roof:levels" != null)) | length) / (map(select(.properties.building != null)) | length) * 100),
+    completion_buildings_roof_shape_percentage:  ((map(select(.properties."roof:shape" != null)) | length) / (map(select(.properties.building != null)) | length) * 100),
 })
