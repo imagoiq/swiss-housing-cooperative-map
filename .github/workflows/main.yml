@@ -47,7 +47,7 @@ jobs:
           npm install -g osmtogeojson
           npm install -g inject-markdown
 
-      - name: Download buildings overpass data and convert to geojson
+      - name: Download buildings overpass dnata and convert to geojson
         run: ./scripts/download_geojson_overpass.sh "./query/overpass_query_buildings" "$output_dir/$cooperative_buildings_filename"
 
       - name: Enhance overpass data with nominatim to retrieve addresses of buildings without tags
@@ -59,12 +59,12 @@ jobs:
 
       - name: Get list of cooperative owners
         run: |
-          jq -rf ./scripts/list_owners.jq $output_dir/$cooperative_buildings_filename \
+          node ./scripts/aggregate_per_identity.mjs "owner" $output_dir/$cooperative_buildings_filename \
           | jq -r -L. 'include "./scripts/json2tsv"; json2tsv' > $output_dir/swiss_housing_cooperative_list_owners.tsv
 
       - name: Get list of cooperative operators
         run: |
-          jq -rf ./scripts/list_operators.jq $output_dir/$cooperative_buildings_filename \
+          node ./scripts/aggregate_per_identity.mjs "operator" $output_dir/$cooperative_buildings_filename \
           | jq -r -L. 'include "./scripts/json2tsv"; json2tsv' > $output_dir/swiss_housing_cooperative_list_operators.tsv
 
       - name: Update readme cooperative'list
