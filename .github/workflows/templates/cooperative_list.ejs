@@ -1,0 +1,13 @@
+<ul>
+    <% for(var i=0; i<locals.length; i++) { %>
+        <% var name = locals[i].name + (locals[i].abbr ? ` (${locals[i].abbr})` : "") ; %>
+        <li>
+            <%= locals[i]["owner:website"] %>
+            <% if (locals[i].website) { %>
+              <a href="<%= locals[i].website %>"><%= name %></a>
+            <% } else {%>
+                <%= name %>
+             <% } %>
+        </li>
+    <% } %>
+</ul>

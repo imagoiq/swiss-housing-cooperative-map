@@ -17,7 +17,7 @@ const aggregatedData = Object.values(owners).map(features => getAggregatedIdenti
 const sortedAggregatedData = aggregatedData.sort((a,b) => a.name.localeCompare(b.name));
 
 if(outputPath) {
-    writeFileSync(outputPath, tsvFormat(sortedAggregatedData));
+    writeFileSync(outputPath, outputPath.endsWith('.tsv') ? tsvFormat(sortedAggregatedData) : JSON.stringify(sortedAggregatedData));
 } else {
     console.log(JSON.stringify(sortedAggregatedData));
 }
