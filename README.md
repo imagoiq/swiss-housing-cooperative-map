@@ -146,6 +146,7 @@ At the moment, all of those cooperatives have been retrieved:
 
 <!--- @@inject: list_cooperative.html --->
 
+```html
 <ul>
                     <li>
                           <a href="https://citederriere.ch">Coopérative Cité Derrière</a>
@@ -211,5 +212,6 @@ At the moment, all of those cooperatives have been retrieved:
                           <a href="https://lebled.ch">Société coopérative de construction et d’habitation Le Bled</a>
                     </li>
     </ul>
+```
 
 <!--- @@inject-end: list_cooperative.html --->
