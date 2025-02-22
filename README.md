@@ -236,7 +236,12 @@ Optional
 
 ## List of cooperatives
 
-At the moment, all of those cooperatives have been retrieved:
+At the moment, all the following cooperatives have been mapped and
+retrieved. See [Status of the mapped
+data](https://github.com/imagoiq/swiss-housing-cooperative-map/issues/6)
+issue and [List of cooperative
+owners](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_owners.tsv)
+(completion percentage columns) for more information about data quality.
 
 -   [Coopérative Cité Derrière](https://citederriere.ch)
 -   [Coopérative d'habitants La Meute](http://www.meute.ch/)
