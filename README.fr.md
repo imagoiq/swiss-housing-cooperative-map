@@ -1,4 +1,4 @@
-# Coopératives d'habitation en Suisse
+# 🏘️ Carte des coopératives d'habitation en Suisse
 
 Projet expérimental ayant pour but de cartographier et de liste les
 immeubles des coopératives d'habitation de Suisse. Ce projet n'a pas
