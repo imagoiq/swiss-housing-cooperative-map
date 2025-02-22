@@ -148,4 +148,4 @@ Optionnelles
 
 Actuellement, toutes les coopératives suivantes ont été cartographiées :
 
-!include list_cooperative.html
+!include templates/list_cooperative.html

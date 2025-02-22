@@ -229,4 +229,4 @@ Optional
 
 At the moment, all of those cooperatives have been retrieved:
 
-!include list_cooperative.html
+!include templates/list_cooperative.html
