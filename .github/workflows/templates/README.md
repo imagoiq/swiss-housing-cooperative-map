@@ -1,6 +1,6 @@
 -- [Version francophone de cette page](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/README.fr.md)--
 
-# 🏘️ Swiss housing cooperative
+# 🏘️ Map of swiss housing cooperatives
 
 Experimental project aimed at mapping and listing the housing
 cooperatives in Switzerland with a maximum of details. This project does
