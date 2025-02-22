@@ -135,13 +135,13 @@ Chaque dimanche, les fichiers sont mis à jour automatiquement via un [workflow 
 ### Dépendances
 
 - [Node.js](https://nodejs.org)
-- [jq](https://jqlang.github.io/jq/)
 - [osm2geojson](https://github.com/tyrasd/osmtogeojson)
 
 Optionnelles
 
--   [pandoc](https://pandoc.org/installing.html) - seulement pour améliorer dynamiquement les fichiers README
--   [pandoc-include](https://github.com/DCsunset/pandoc-include) - seulement pour améliorer dynamiquement les fichiers README
+- [pandoc](https://pandoc.org/installing.html) - seulement pour améliorer dynamiquement les fichiers README
+- [pandoc-include](https://github.com/DCsunset/pandoc-include) - seulement pour améliorer dynamiquement les fichiers README
+- [ejs](https://ejs.co/) - seulement pour améliorer dynamiquement les fichiers README
 
 
 ## Liste des coopératives

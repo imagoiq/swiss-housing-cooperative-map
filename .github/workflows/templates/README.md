@@ -140,9 +140,7 @@ A bit more experimental:
     \[tag de facto\] - name of the architect who conducted the
     renovation
 
-See also [the page Buildings on the
-wiki](https://wiki.openstreetmap.org/wiki/Key:building#Additional_attributes)
-to get even more tags.
+See also [the page Buildings on the wiki](https://wiki.openstreetmap.org/wiki/Key:building#Additional_attributes) to get even more tags.
 
 #### Type of rents (experimental)
 
@@ -204,26 +202,23 @@ Here are the steps to build the GeoJson data:
 
 [![](https://github.com/imagoiq/swiss-housing-cooperative/actions/workflows/main.yml/badge.svg)](https://github.com/imagoiq/swiss-housing-cooperative/actions/workflows/main.yml)
 
-Every Sunday, the output files are automatically updated via a [Github
-Workflow](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/.github/workflows/main.yml).
+Every Sunday, the output files are automatically updated via a [Github Workflow](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/.github/workflows/main.yml).
 
 ### Queries
 
--   [Overpass query -
-    Buildings](https://github.com/imagoiq/swiss-housing-cooperative/blob/4594245e13e979132ae84a42135ac936a7d568b8/.github/workflows/query/overpass_query_buildings#L4-L7)
--   [Overpass query -
-    Areas](https://github.com/imagoiq/swiss-housing-cooperative/blob/4594245e13e979132ae84a42135ac936a7d568b8/.github/workflows/query/overpass_query_areas#L4-L7)
+-   [Overpass query - Buildings](https://github.com/imagoiq/swiss-housing-cooperative/blob/4594245e13e979132ae84a42135ac936a7d568b8/.github/workflows/query/overpass_query_buildings#L4-L7)
+-   [Overpass query - Areas](https://github.com/imagoiq/swiss-housing-cooperative/blob/4594245e13e979132ae84a42135ac936a7d568b8/.github/workflows/query/overpass_query_areas#L4-L7)
 
 ### Dependencies
 
 -   [Node.js](https://nodejs.org)
--   [jq](https://jqlang.github.io/jq/)
 -   [osm2geojson](https://github.com/tyrasd/osmtogeojson)
 
 Optional
 
 -   [pandoc](https://pandoc.org/installing.html) - only to enhance dynamically this README file
 -   [pandoc-include](https://github.com/DCsunset/pandoc-include) - only to enhance dynamically this README file
+-   [ejs](https://ejs.co/) - only to enhance dynamically this README file
 
 ## List of cooperatives
 

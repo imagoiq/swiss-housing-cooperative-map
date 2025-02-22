@@ -47,13 +47,13 @@ jobs:
           sudo n lts
           (cd ./scripts; npm ci)
 
-      - name: Install node dependencies
+      - name: Install dependencies
         run: |
           npm install -g osmtogeojson
-          npm install -g ejs
 
       - name: Install optional dependencies
         run: |
+          npm install -g ejs
           sudo apt-get install pandoc
           pip install --user pandoc-include
 
