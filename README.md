@@ -246,7 +246,7 @@ At the moment, all of those cooperatives have been retrieved:
     Riviera](https://www.cheri-riviera.ch/)
 -   [Coopérative du logement Lutry (CLL)](https://cll-lutry.ch)
 -   Coopérative I6 (I6)
--   Coopérative Voisinage
+-   [Coopérative Voisinage](https://www.cooperative-voisinage.ch/)
 -   [Ecopolis](https://ecopolis.ch/)
 -   [Logement Idéal](https://www.logement-ideal.ch)
 -   [Société Coopérative d'Habitation
