@@ -218,7 +218,6 @@ Workflow](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/.github
 ### Dependencies
 
 -   [Node.js](https://nodejs.org)
--   [jq](https://jqlang.github.io/jq/)
 -   [osm2geojson](https://github.com/tyrasd/osmtogeojson)
 
 Optional
@@ -227,6 +226,8 @@ Optional
     dynamically this README file
 -   [pandoc-include](https://github.com/DCsunset/pandoc-include) - only
     to enhance dynamically this README file
+-   [ejs](https://ejs.co/) - only to enhance dynamically this README
+    file
 
 ## List of cooperatives
 

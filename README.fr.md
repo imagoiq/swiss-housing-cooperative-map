@@ -228,7 +228,6 @@ Github](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/.github/w
 ### Dépendances
 
 -   [Node.js](https://nodejs.org)
--   [jq](https://jqlang.github.io/jq/)
 -   [osm2geojson](https://github.com/tyrasd/osmtogeojson)
 
 Optionnelles
@@ -237,6 +236,8 @@ Optionnelles
     améliorer dynamiquement les fichiers README
 -   [pandoc-include](https://github.com/DCsunset/pandoc-include) -
     seulement pour améliorer dynamiquement les fichiers README
+-   [ejs](https://ejs.co/) - seulement pour améliorer dynamiquement les
+    fichiers README
 
 ## Liste des coopératives
 
