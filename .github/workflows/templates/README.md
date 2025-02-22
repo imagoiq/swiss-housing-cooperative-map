@@ -7,10 +7,14 @@ cooperatives in Switzerland with a maximum of details. This project does
 not aim at playing an intermediate or building new tool, but document
 and show what is possible, and what are the limitations.
 
-From my research no such map exists across cantons. In Geneva, the
+No such map seems to exist across cantons. In Geneva, the
 Fondation pour la promotion du logement bon marché et de l'habitat
 coopératif (FPLC) provide a [map for the canton of
 Geneva](https://fplc.ch/cartes/cooperatives.htm).
+
+More info on the subject of housing cooperatives:
+
+- [French] Pattaroni Luca, Marmy, Vanessa, Les coopératives de logement dans le Canton de Vaud, EPFL/SCL, October 2016
 
 ## Use the data
 
