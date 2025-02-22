@@ -146,6 +146,7 @@ Optionnelles
 
 ## Liste des coopératives
 
-Actuellement, toutes les coopératives suivantes ont été cartographiées :
+Actuellement, toutes les coopératives suivantes ont été cartographiées .
+Voir [Statut des données cartographiées](https://github.com/imagoiq/swiss-housing-cooperative-map/issues/6) et [Liste des propriétaires de coopératives](https://github.com/imagoiq/swiss-housing-cooperative-map/issues/6) (colonnes "completion percentage") pour plus d'informations sur la qualité des données.
 
 !include templates/list_cooperative.html
