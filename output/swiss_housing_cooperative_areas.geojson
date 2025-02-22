@@ -800,6 +800,55 @@
       ]
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "way/1362010734",
+  "properties": {
+    "landuse": "residential",
+    "name": "Le Jardin des Désertes",
+    "owner": "Société coopérative d’habitation La Maison Ouvrière",
+    "owner:short": "La Maison Ouvrière",
+    "owner:type": "cooperative",
+    "owner:wikidata": "Q132679940",
+    "residential": "apartments",
+    "id": "way/1362010734"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.6598374,
+          46.506835
+        ],
+        [
+          6.6600222,
+          46.5074404
+        ],
+        [
+          6.6594546,
+          46.5075673
+        ],
+        [
+          6.6594214,
+          46.5073752
+        ],
+        [
+          6.6595695,
+          46.507343
+        ],
+        [
+          6.6594699,
+          46.506868
+        ],
+        [
+          6.6598374,
+          46.506835
+        ]
+      ]
+    ]
+  }
 }
 ]
 }

@@ -261,10 +261,14 @@ owners](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/sw
 -   [Logement Idéal](https://www.logement-ideal.ch)
 -   [Société Coopérative d'Habitation
     Charmontey](https://www.charmontey.ch/)
+-   Société coopérative d'habitation Cité des Philosophes
 -   [Société Coopérative d'Habitation Genève (SCHG)](https://schg.ch/)
+-   [Société coopérative d'habitation La Maison
+    Ouvrière](https://la-maison-ouvriere.ch/)
 -   [Société coopérative d\'habitation La Paix](http://lapaix.ch/)
 -   [Société coopérative d\'habitation Lausanne
     (SCHL)](https://schl.ch/)
+-   Société Coopérative d\'habitation Morges
 -   [Société coopérative d\'habitation Pully
     (SCHP)](https://schpully.ch)
 -   [Société coopérative d\'habitations Le Chêne](https://schlechene.ch)
