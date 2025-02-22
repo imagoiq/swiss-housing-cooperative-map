@@ -3,6 +3,7 @@ name: Output update
 env:
   root_dir: '../../'
   output_dir: '../../output'
+  templates_dir: './templates'
   cache_dir: '../../.cache'
   overpass_server: 'http://overpass.osm.ch'
   cooperative_buildings_filename: 'swiss_housing_cooperative_buildings.geojson'
@@ -39,47 +40,48 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
-      - name: Install dependencies
+      - name: Install node
         run: |
-          sudo apt-get install jq
-
           sudo apt install nodejs
           npm install -g n
           sudo n lts
           (cd ./scripts; npm ci)
+
+      - name: Install node dependencies
+        run: |
           npm install -g osmtogeojson
-          npm install -g inject-markdown
           npm install -g ejs
+
+      - name: Install optional dependencies
+        run: |
+          sudo apt-get install pandoc
+          pip install --user pandoc-include
 
       - name: Download buildings overpass data and convert to geojson
         run: ./scripts/download_geojson_overpass.sh "./query/overpass_query_buildings" "$output_dir/$cooperative_buildings_filename"
 
       - name: Enhance overpass data with wikidata
-        run: |
-          node ./scripts/add_wikidata.mjs "$output_dir/$cooperative_buildings_filename"
+        run: node ./scripts/add_wikidata.mjs "$output_dir/$cooperative_buildings_filename"
 
       - name: Enhance overpass data with nominatim to retrieve addresses of buildings without tags
-        run: |
-          node ./scripts/add_addresses_with_reverse_geocoding.mjs "$output_dir/$cooperative_buildings_filename" "$cache_dir/nominatim_addresses.json"
+        run: node ./scripts/add_addresses_with_reverse_geocoding.mjs "$output_dir/$cooperative_buildings_filename" "$cache_dir/nominatim_addresses.json"
 
       - name: Download areas overpass data and convert to geojson
         run: ./scripts/download_geojson_overpass.sh "./query/overpass_query_areas" "$output_dir/$cooperative_areas_filename"
 
       - name: Get list of cooperative owners
-        run: |
-          node ./scripts/aggregate_per_identity.mjs "owner" $output_dir/$cooperative_buildings_filename $output_dir/swiss_housing_cooperative_list_owners.tsv
+        run: node ./scripts/aggregate_per_identity.mjs "owner" $output_dir/$cooperative_buildings_filename $output_dir/swiss_housing_cooperative_list_owners.tsv
 
       - name: Get list of cooperative operators
-        run: |
-          node ./scripts/aggregate_per_identity.mjs "operator" $output_dir/$cooperative_buildings_filename $output_dir/swiss_housing_cooperative_list_operators.tsv
+        run: node ./scripts/aggregate_per_identity.mjs "operator" $output_dir/$cooperative_buildings_filename $output_dir/swiss_housing_cooperative_list_operators.tsv
 
       - name: Update readme cooperative'list
         run: |
           node ./scripts/aggregate_per_identity.mjs "owner" $output_dir/$cooperative_buildings_filename $output_dir/swiss_housing_cooperative_list_owners.json
-          ejs ./templates/cooperative_list.ejs -f $output_dir/swiss_housing_cooperative_list_owners.json -o "$root_dir/list_cooperative.html"
-          npx inject-markdown "$root_dir/README.md"
-          npx inject-markdown "$root_dir/README.fr.md"
-          rm -rf "$root_dir/list_cooperative.html"
+          ejs ./templates/cooperative_list.ejs -f $output_dir/swiss_housing_cooperative_list_owners.json -o "$templates_dir/list_cooperative.html"
+          pandoc "$templates_dir/README.fr.md" --filter pandoc-include -o "$root_dir/README.fr.md"
+          pandoc "$templates_dir/README.md" --filter pandoc-include -o "$root_dir/README.md"
+          rm -rf "$templates_dir/list_cooperative.html"
 
       # Commit all changed files back to the repository
       - name: Set commit_message variable
