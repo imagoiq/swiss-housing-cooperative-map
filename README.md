@@ -47,8 +47,8 @@ owners](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/sw
 <table>
 <thead>
 <tr>
-<th rowspan="2" scope="col">Nom (abbréviation)</th>
-<th colspan="8" scope="colgroup">Pourcentage de complétion</th>
+<th rowspan="2" scope="col">Name (abbreviation)</th>
+<th colspan="8" scope="colgroup">Completion rate</th>
 </tr>
 <tr>
 <th scope="col">`start_date`</th>
@@ -76,11 +76,11 @@ owners](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/sw
 </td>
 <td>0%
 </td>
-<td>81%
+<td>82%
 </td>
-<td>52%
+<td>53%
 </td>
-<td>48%
+<td>49%
 </td>
 </tr>
 <tr>
@@ -423,21 +423,21 @@ Société coopérative d’habitation Cité des Philosophes
 <td>
 <a href="https://la-maison-ouvriere.ch/">Société coopérative d’habitation La Maison Ouvrière</a>
 </td>
-<td>90%
+<td>93%
 </td>
-<td>90%
-</td>
-<td>0%
+<td>93%
 </td>
 <td>0%
 </td>
 <td>0%
 </td>
-<td>75%
+<td>0%
 </td>
-<td>70%
+<td>78%
 </td>
-<td>90%
+<td>74%
+</td>
+<td>89%
 </td>
 </tr>
 <tr>
@@ -571,7 +571,47 @@ Société Coopérative d&#39;habitation Morges
 
 ### Operators
 
-!include`raw="html"` /tmp/operators_data_quality_table.html
+<table>
+<thead>
+<tr>
+<th rowspan="2" scope="col">Name (abbreviation)</th>
+<th colspan="8" scope="colgroup">Completion rate</th>
+</tr>
+<tr>
+<th scope="col">`start_date`</th>
+<th scope="col">`building:flats`</th>
+<th scope="col">`heating`</th>
+<th scope="col">`architect`</th>
+<th scope="col">`renovated:architect`</th>
+<th scope="col">`building:levels`</th>
+<th scope="col">`roof:levels`</th>
+<th scope="col">`roof:shape`</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+Logement Social Romand (LSR)
+</td>
+<td>6%
+</td>
+<td>4%
+</td>
+<td>6%
+</td>
+<td>0%
+</td>
+<td>0%
+</td>
+<td>39%
+</td>
+<td>22%
+</td>
+<td>16%
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Contribute
 
