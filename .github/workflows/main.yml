@@ -84,7 +84,7 @@ jobs:
       - name: Update readme data quality section
         run: |
           node ./scripts/generate_data_quality_identity.mjs "owner" $output_dir/$cooperative_buildings_filename $tmp_dir/swiss_housing_cooperative_list_owners_data_quality.json
-          node ./scripts/generate_data_quality_identity.mjs "operator" $output_dir/$cooperative_buildings_filename $tmp_dir/swiss_housing_cooperative_list_owners_data_quality.json
+          node ./scripts/generate_data_quality_identity.mjs "operator" $output_dir/$cooperative_buildings_filename $tmp_dir/swiss_housing_cooperative_list_operators_data_quality.json
           
           # English
           ejs ./templates/data_quality_table.ejs lang=en -f $tmp_dir/swiss_housing_cooperative_list_owners_data_quality.json -o "$tmp_dir/owners_data_quality_table.html" -w
