@@ -62,6 +62,9 @@ jobs:
       - name: Download buildings overpass data and convert to geojson
         run: ./scripts/download_overpass_geojson.sh "./query/overpass_query_buildings" "$output_dir/$cooperative_buildings_filename"
 
+      - name: Enhance osm data by parsing dates
+        run: node ./scripts/parse_dates.mjs "$output_dir/$cooperative_buildings_filename"
+
       - name: Enhance overpass data with wikidata
         run: node ./scripts/add_wikidata.mjs "$output_dir/$cooperative_buildings_filename"
 
