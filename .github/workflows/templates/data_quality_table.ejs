@@ -26,25 +26,34 @@
                     <%= name %>
                  <% } -%>
             </td>
-            <td><%= displayCompletionRate(locals[i].completion_buildings_start_date_percentage) -%></td>
-            <td><%= displayCompletionRate(locals[i].completion_buildings_flats_percentage) -%></td>
-            <td><%= displayCompletionRate(locals[i].completion_buildings_heating_percentage) -%></td>
-            <td><%= displayCompletionRate(locals[i].completion_buildings_architect_percentage) -%></td>
-            <td><%= displayCompletionRate(locals[i].completion_buildings_renovated_architect_percentage) -%></td>
-            <td><%= displayCompletionRate(locals[i].completion_buildings_levels_percentage) -%></td>
-            <td><%= displayCompletionRate(locals[i].completion_buildings_roof_levels_percentage) -%></td>
-            <td><%= displayCompletionRate(locals[i].completion_buildings_roof_shape_percentage) -%></td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_start_date_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"start_date\"]") -%></td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_flats_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"building:flats\"]") -%></td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_heating_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"heating\"]") -%></td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_architect_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"architect\"]") -%></td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_renovated_architect_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"renovated:architect\"]") -%></td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_levels_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"building:levels\"]") -%></td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_roof_levels_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"roof:levels\"]") -%></td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_roof_shape_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"roof:shape\"]") -%></td>
         </tr>
     <% } -%>
   </tbody>
 </table>
-
- <% function displayCompletionRate(rate) { _%>
+ <% function displayCompletionRate(rate, preciseQuery) { _%>
      <% if (rate === 100) { _%>
        ✅
      <% } else if(rate === null) { _%>
         N/A
      <% } else { _%>
-       <%= rate _%>%
+         <a href="https://overpass-turbo.osm.ch/?Q=<%= encodeURIComponent(atob(query).replace(/\](?=[^\]]*$)/, "]" + preciseQuery)) _%>&R">
+             <%= rate _%>%
+         </a>
     <% } _%>
  <% } _%>
+
+<% function getWikidataQueryPrefix(identityValues) { _%>
+    <% if (identity === "owner") { _%>
+        <% return identityValues["wikidata"] ? `["owner:wikidata"="${identityValues["wikidata"]}"]` : "" %>
+    <% } else { _%>
+        <% return identityValues["wikidata"] ? `["operator:wikidata"="${identityValues["wikidata"]}"]` : "" %>
+    <% } _%>
+<% } _%>

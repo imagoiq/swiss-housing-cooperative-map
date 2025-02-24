@@ -86,17 +86,18 @@ jobs:
 
       - name: Update readme data quality section
         run: |
+          query=$(base64 ./query/overpass_query_buildings)
           node ./scripts/generate_data_quality_identity.mjs "owner" $output_dir/$cooperative_buildings_filename $tmp_dir/swiss_housing_cooperative_list_owners_data_quality.json
           node ./scripts/generate_data_quality_identity.mjs "operator" $output_dir/$cooperative_buildings_filename $tmp_dir/swiss_housing_cooperative_list_operators_data_quality.json
           
           # English
-          ejs ./templates/data_quality_table.ejs lang=en -f $tmp_dir/swiss_housing_cooperative_list_owners_data_quality.json -o "$tmp_dir/owners_data_quality_table.html" -w
-          ejs ./templates/data_quality_table.ejs lang=en -f $tmp_dir/swiss_housing_cooperative_list_operators_data_quality.json -o "$tmp_dir/operators_data_quality_table.html" -w
+          ejs ./templates/data_quality_table.ejs lang=en identity="owner" query="$query" -f $tmp_dir/swiss_housing_cooperative_list_owners_data_quality.json -o "$tmp_dir/owners_data_quality_table.html" -w
+          ejs ./templates/data_quality_table.ejs lang=en identity="operator" query="$query" -f $tmp_dir/swiss_housing_cooperative_list_operators_data_quality.json -o "$tmp_dir/operators_data_quality_table.html" -w
           pandoc "$templates_dir/README.md" --filter pandoc-include -o "$root_dir/README.md" -t gfm
           
           # French
-          ejs ./templates/data_quality_table.ejs lang=fr -f $tmp_dir/swiss_housing_cooperative_list_owners_data_quality.json -o "$tmp_dir/owners_data_quality_table.fr.html" -w
-          ejs ./templates/data_quality_table.ejs lang=fr -f $tmp_dir/swiss_housing_cooperative_list_operators_data_quality.json -o "$tmp_dir/operators_data_quality_table.fr.html" -w
+          ejs ./templates/data_quality_table.ejs lang=fr identity="owner" query="$query" -f $tmp_dir/swiss_housing_cooperative_list_owners_data_quality.json -o "$tmp_dir/owners_data_quality_table.fr.html" -w
+          ejs ./templates/data_quality_table.ejs lang=fr identity="operator" query="$query" -f $tmp_dir/swiss_housing_cooperative_list_operators_data_quality.json -o "$tmp_dir/operators_data_quality_table.fr.html" -w
           pandoc "$templates_dir/README.fr.md" --filter pandoc-include -o "$root_dir/README.fr.md" -t gfm
 
       # Commit all changed files back to the repository
