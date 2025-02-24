@@ -9,7 +9,7 @@ const wikidataQueryUrl = "https://query.wikidata.org/sparql?query=SELECT%20%3Fco
 const response =  await fetch(wikidataQueryUrl, {
     method: 'GET',
     headers: new Headers( {
-        'User-Agent': 'Swiss Housing Cooperative/0.0 (https://github.com/imagoiq/swiss-housing-cooperative)'
+        'User-Agent': 'Swiss Housing Cooperative Map/1.0 (https://github.com/imagoiq/swiss-housing-cooperative-map)'
     } )
 });
 const wikidataList = (await response.json()).results.bindings;

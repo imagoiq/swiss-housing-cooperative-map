@@ -20,6 +20,16 @@ Pour l'instant les données sont visibles sur [umap](https://umap.openstreetmap.
   - [Liste des propriétaires de type coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_owners.tsv)
   - [Liste des gestionnaires de type coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_operators.tsv)
 
+## Qualité des données
+
+### Propriétaires
+
+!include`raw="html"` /tmp/owners_data_quality_table.fr.html
+
+### Gestionnaires
+
+!include`raw="html"` /tmp/operators_data_quality_table.fr.html
+
 ## Contribuer
 
 Toutes les données proviennent directement d'[OpenStreetMap](https://www.openstreetmap.org). Si vous êtes débutant, laissez-vous guider via [learnosm.org](https://learnosm.org/fr/) ou demandez de l'aide.
@@ -115,11 +125,12 @@ Très souvent les coopératives d'habitation possèdent des équipements supplé
 
 ### Workflow
 
-Voici les étapes pour récupérer les données GeoJson:
+Voici les étapes pour récupérer les données GeoJSON :
 
 1. Requêtes sur l'API Overpass
-1. Convertir les données en GeoJson avec `osmtogeojson`
-1. Ajouter les addresses manquantes avec l'API Nominatim pour les chemins dans OpenStreetMap qui ne sont pas taggés avec une adresse (ex. quand l'adresse se trouve dans un noeud séparé)
+1. Conversion des données en GeoJSON avec `osmtogeojson`
+1. Ajout des addresses manquantes avec l'API Nominatim pour les chemins dans OpenStreetMap qui ne sont pas taggés avec une adresse (ex. quand l'adresse se trouve dans un nœud séparé)
+1. Ajout de plus de données sur les propriétaires/gestionnaires depuis Wikidata
 
 ### Mises à jour
 
@@ -137,16 +148,10 @@ Chaque dimanche, les fichiers sont mis à jour automatiquement via un [workflow 
 - [Node.js](https://nodejs.org)
 - [osm2geojson](https://github.com/tyrasd/osmtogeojson)
 
-Optionnelles
+#### Optionnelles
 
-- [pandoc](https://pandoc.org/installing.html) - seulement pour améliorer dynamiquement les fichiers README
-- [pandoc-include](https://github.com/DCsunset/pandoc-include) - seulement pour améliorer dynamiquement les fichiers README
-- [ejs](https://ejs.co/) - seulement pour améliorer dynamiquement les fichiers README
+##### Inclusion des tableaux sur la qualité des données dans ce fichier
 
-
-## Liste des coopératives
-
-Actuellement, toutes les coopératives suivantes ont été cartographiées .
-Voir [Statut des données cartographiées](https://github.com/imagoiq/swiss-housing-cooperative-map/issues/6) et [Liste des propriétaires de coopératives](https://github.com/imagoiq/swiss-housing-cooperative-map/issues/6) (colonnes "completion percentage") pour plus d'informations sur la qualité des données.
-
-!include templates/list_cooperative.html
+- [pandoc](https://pandoc.org/installing.html)
+- [pandoc-include](https://github.com/DCsunset/pandoc-include)
+- [ejs](https://ejs.co/)

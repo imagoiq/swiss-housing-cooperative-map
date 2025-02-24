@@ -1,0 +1,50 @@
+<table>
+  <thead>
+    <tr>
+     <th rowspan="2" scope="col"><%= lang === "fr" ? `Nom (abbréviation)` : 'Name (abbreviation)' %></th>
+     <th colspan="8" scope="colgroup"><%= lang === "fr" ? `Pourcentage de complétion` : 'Completion rate' %></th>
+    </tr>
+    <tr>
+      <th scope="col">`start_date`</th>
+      <th scope="col">`building:flats`</th>
+      <th scope="col">`heating`</th>
+      <th scope="col">`architect`</th>
+      <th scope="col">`renovated:architect`</th>
+      <th scope="col">`building:levels`</th>
+      <th scope="col">`roof:levels`</th>
+      <th scope="col">`roof:shape`</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% for(var i=0; i<locals.length; i++) { -%>
+        <% var name = locals[i].name + (locals[i].abbr ? ` (${locals[i].abbr})` : "") ; -%>
+        <tr>
+            <td>
+                <% if (locals[i].website) { -%>
+                  <a href="<%= locals[i].website %>"><%= name %></a>
+                <% } else { -%>
+                    <%= name %>
+                 <% } -%>
+            </td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_start_date_percentage) -%></td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_flats_percentage) -%></td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_heating_percentage) -%></td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_architect_percentage) -%></td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_renovated_architect_percentage) -%></td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_levels_percentage) -%></td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_roof_levels_percentage) -%></td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_roof_shape_percentage) -%></td>
+        </tr>
+    <% } -%>
+  </tbody>
+</table>
+
+ <% function displayCompletionRate(rate) { _%>
+     <% if (rate === 100) { _%>
+       ✅
+     <% } else if(rate === null) { _%>
+        N/A
+     <% } else { _%>
+       <%= rate _%>%
+    <% } _%>
+ <% } _%>

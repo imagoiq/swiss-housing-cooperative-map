@@ -1,6 +1,6 @@
 import { readFileSync,writeFileSync } from 'node:fs';
 import { tsvFormat} from "d3-dsv";
-import {getCompletionRate, operatorFilter, ownerFilter, unique} from "./utils.mjs";
+import { operatorFilter, ownerFilter, unique} from "./utils.mjs";
 
 const identity = process.argv[2];
 const inputGeojsonPath = process.argv[3];
@@ -8,7 +8,7 @@ const outputPath = process.argv[4];
 
 const featuresFile = JSON.parse(await readFileSync(inputGeojsonPath, { encoding: 'utf8' }));
 
-const filteredFeatures = featuresFile.features.filter(feature => feature.properties.building && identity === "operator" ? operatorFilter(feature) : ownerFilter(feature));
+const filteredFeatures = featuresFile.features.filter(feature => (feature.properties.building || feature.properties["building:part"]) && identity === "operator" ? operatorFilter(feature) : ownerFilter(feature));
 
 const owners = Object.groupBy(filteredFeatures, feature => feature.properties[identity]);
 
@@ -24,7 +24,7 @@ if(outputPath) {
 
 
 function getAggregatedIdentity(features, identity) {
-    const buildings_count = features.filter(feature => feature.properties.building).length;
+    const buildings_and_parts_count = features.length;
     const buildings_renovated_count = features.filter(feature => feature.properties.renovated).length;
 
     return  {
@@ -35,7 +35,7 @@ function getAggregatedIdentity(features, identity) {
         website: features[0].properties[`${identity}:website`],
         start_date: features[0].properties[`${identity}:start_date`],
         swiss_business_uid: features[0].properties[`${identity}:swiss_business_uid`],
-        buildings_count,
+        buildings_count: buildings_and_parts_count,
         building_flats: features.reduce((acc, curr) => {
             return acc + (parseInt(curr?.properties["building:flats"], 10) || 0);
         }, 0),
@@ -47,14 +47,6 @@ function getAggregatedIdentity(features, identity) {
         buildings_dormitory_count: features.filter(feature => feature.properties.building === "dormitory").length,
         buildings_sheltered_housing_count: features.filter(feature => feature.properties.building === "sheltered_housing").length,
         buildings_locations: unique(features.map(feature => feature.properties["addr:city"])),
-        buildings_postcode: unique(features.map(feature => feature.properties["addr:postcode"])),
-        completion_buildings_start_date_percentage: getCompletionRate(features.filter(feature => feature.properties.start_date).length, buildings_count),
-        completion_buildings_flats_percentage: getCompletionRate(features.filter(feature => feature.properties["building:flats"]).length, buildings_count),
-        completion_buildings_heating_percentage: getCompletionRate(features.filter(feature => feature.properties.heating).length, buildings_count),
-        completion_buildings_architect_percentage: getCompletionRate(features.filter(feature => feature.properties.architect).length, buildings_count),
-        completion_buildings_renovated_architect_percentage: getCompletionRate(features.filter(feature => feature.properties["renovated:architect"]).length, buildings_renovated_count),
-        completion_buildings_levels_percentage: getCompletionRate(features.filter(feature => feature.properties["building:levels"]).length, buildings_count),
-        completion_buildings_roof_levels_percentage: getCompletionRate(features.filter(feature => feature.properties["roof:levels"]).length, buildings_count),
-        completion_buildings_roof_shape_percentage: getCompletionRate(features.filter(feature => feature.properties["roof:shape"]).length, buildings_count)
+        buildings_postcode: unique(features.map(feature => feature.properties["addr:postcode"]))
     };
 }
