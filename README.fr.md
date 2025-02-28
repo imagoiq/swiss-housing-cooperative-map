@@ -46,7 +46,7 @@ Pour l’instant les données sont visibles sur
 <th scope="col">`building:flats`</th>
 <th scope="col">`heating`</th>
 <th scope="col">`architect`</th>
-<th scope="col">`renovated:architect`</th>
+<th scope="col">`architect:renovation`</th>
 <th scope="col">`building:levels`</th>
 <th scope="col">`roof:levels`</th>
 <th scope="col">`roof:shape`</th>
@@ -62,7 +62,7 @@ Pour l’instant les données sont visibles sur
 </a>
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q131743050%22%5D%5B!%22building%3Aflats%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-51%
+54%
 </a>
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q131743050%22%5D%5B!%22heating%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
@@ -73,20 +73,18 @@ Pour l’instant les données sont visibles sur
 69%
 </a>
 </td>
-<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q131743050%22%5D%5B!%22renovated%3Aarchitect%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-0%
-</a>
+<td>N/A
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q131743050%22%5D%5B!%22building%3Alevels%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-82%
+86%
 </a>
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q131743050%22%5D%5B!%22roof%3Alevels%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-53%
+57%
 </a>
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q131743050%22%5D%5B!%22roof%3Ashape%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-49%
+50%
 </a>
 </td>
 </tr>
@@ -119,16 +117,12 @@ Pour l’instant les données sont visibles sur
 <td>
 Coopérative d&#39;habitation des employés du rail (CHER)
 </td>
-<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q132176055%22%5D%5B!%22start_date%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-0%
-</a>
+<td>✅
 </td>
-<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q132176055%22%5D%5B!%22building%3Aflats%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-0%
-</a>
+<td>✅
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q132176055%22%5D%5B!%22heating%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-0%
+75%
 </a>
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q132176055%22%5D%5B!%22architect%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
@@ -261,7 +255,7 @@ Coopérative d&#39;habitations groupées des Liaudes
 </td>
 <td>✅
 </td>
-<td>N/A
+<td>✅
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q86666680%22%5D%5B!%22building%3Alevels%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
 64%
@@ -383,7 +377,7 @@ Coopérative I6 (I6)
 0%
 </a>
 </td>
-<td>N/A
+<td>✅
 </td>
 <td>✅
 </td>
@@ -602,9 +596,7 @@ Société coopérative d’habitation Cité des Philosophes
 0%
 </a>
 </td>
-<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q132679940%22%5D%5B!%22renovated%3Aarchitect%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-0%
-</a>
+<td>N/A
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q132679940%22%5D%5B!%22building%3Alevels%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
 78%
@@ -671,12 +663,10 @@ Société coopérative d’habitation Cité des Philosophes
 </a>
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q126741196%22%5D%5B!%22architect%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-0%
+1%
 </a>
 </td>
-<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q126741196%22%5D%5B!%22renovated%3Aarchitect%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-0%
-</a>
+<td>N/A
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q126741196%22%5D%5B!%22building%3Alevels%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
 69%
@@ -742,7 +732,9 @@ Société Coopérative d&#39;habitation Morges
 0%
 </a>
 </td>
-<td>N/A
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q132179712%22%5D%5B!%22architect%3Arenovation%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
+0%
+</a>
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q132179712%22%5D%5B!%22building%3Alevels%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
 50%
@@ -817,6 +809,29 @@ Société Coopérative d&#39;habitation Morges
 </a>
 </td>
 </tr>
+<tr>
+<td>
+Société coopérative Jordils-Moulins
+</td>
+<td>✅
+</td>
+<td>✅
+</td>
+<td>✅
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q132781287%22%5D%5B!%22architect%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td>N/A
+</td>
+<td>✅
+</td>
+<td>✅
+</td>
+<td>✅
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -833,7 +848,7 @@ Société Coopérative d&#39;habitation Morges
 <th scope="col">`building:flats`</th>
 <th scope="col">`heating`</th>
 <th scope="col">`architect`</th>
-<th scope="col">`renovated:architect`</th>
+<th scope="col">`architect:renovation`</th>
 <th scope="col">`building:levels`</th>
 <th scope="col">`roof:levels`</th>
 <th scope="col">`roof:shape`</th>
@@ -845,35 +860,33 @@ Société Coopérative d&#39;habitation Morges
 Logement Social Romand (LSR)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22operator%3Awikidata%22%3D%22Q131314825%22%5D%5B!%22start_date%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-6%
+26%
 </a>
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22operator%3Awikidata%22%3D%22Q131314825%22%5D%5B!%22building%3Aflats%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-4%
+14%
 </a>
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22operator%3Awikidata%22%3D%22Q131314825%22%5D%5B!%22heating%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-6%
+27%
 </a>
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22operator%3Awikidata%22%3D%22Q131314825%22%5D%5B!%22architect%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
 0%
 </a>
 </td>
-<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22operator%3Awikidata%22%3D%22Q131314825%22%5D%5B!%22renovated%3Aarchitect%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-0%
-</a>
+<td>N/A
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22operator%3Awikidata%22%3D%22Q131314825%22%5D%5B!%22building%3Alevels%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-39%
+36%
 </a>
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22operator%3Awikidata%22%3D%22Q131314825%22%5D%5B!%22roof%3Alevels%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-22%
+29%
 </a>
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22operator%3Awikidata%22%3D%22Q131314825%22%5D%5B!%22roof%3Ashape%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
-16%
+18%
 </a>
 </td>
 </tr>
@@ -989,10 +1002,11 @@ Un peu plus expérimental :
 
 - [`building:condition=renovated`](https://wiki.openstreetmap.org/wiki/Key:building:condition) -
   indique que le bâtiment a été rénové
-- [`renovated=`](https://taginfo.openstreetmap.org/keys/renovated) -
-  \[balise de facto\] date d’achèvement de la rénovation
-- [`renovated:architect=`](https://taginfo.openstreetmap.org/keys/renovated%3Aarchitect)
-  \[tag de facto\] - nom de l’architecte qui a dirigé la rénovation
+- [`last_renovation=`](https://taginfo.openstreetmap.org/keys/last_renovation) -
+  \[balise de facto\] date d’achèvement de la dernière rénovation
+- [`architect:renovation=`](https://taginfo.openstreetmap.org/keys/architect%3renovation)
+  \[tag de facto\] - nom de l’architecte qui a dirigé la dernière
+  rénovation
 
 Voir également [la page Buildings sur le
 wiki](https://wiki.openstreetmap.org/wiki/FR:Key:building#Attributs_additionnels)
