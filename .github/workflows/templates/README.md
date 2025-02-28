@@ -118,8 +118,8 @@ another cooperative:
 A bit more experimental:
 
 -   [`building:condition=renovated`](https://wiki.openstreetmap.org/wiki/Key:building:condition) - indicate that the building has been renovated
--   [`renovated=`](https://taginfo.openstreetmap.org/keys/renovated) \[tag de facto\] - date which indicate the end of the renovation
--   [`renovated:architect=`](https://taginfo.openstreetmap.org/keys/renovated%3Aarchitect) \[tag de facto\] - name of the architect who conducted the renovation
+-   [`last_renovation=`](https://taginfo.openstreetmap.org/keys/last_renovation) \[tag de facto\] - date which indicate the end of the renovation
+-   [`architect:renovation=`](https://taginfo.openstreetmap.org/keys/architect%3Arenovation) \[tag de facto\] - name of the architect who conducted the renovation
 
 See also [the page Buildings on the wiki](https://wiki.openstreetmap.org/wiki/Key:building#Additional_attributes) to get even more tags.
 

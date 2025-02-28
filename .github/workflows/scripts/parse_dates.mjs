@@ -9,8 +9,8 @@ for (let feature of featuresFile.features) {
         feature.properties.start_date = new Date(feature.properties.start_date);
     }
 
-    if(feature.properties.renovated) {
-        feature.properties.renovated = new Date(feature.properties.renovated);
+    if(feature.properties.last_renovation) {
+        feature.properties.last_renovation = new Date(feature.properties.last_renovation);
     }
 }
 

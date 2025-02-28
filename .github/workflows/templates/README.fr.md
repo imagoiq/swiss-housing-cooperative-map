@@ -91,8 +91,8 @@ Si le bâtiment est géré par une coopérative, un autre type d'entreprise ou u
 Un peu plus expérimental :
 
 - [`building:condition=renovated`](https://wiki.openstreetmap.org/wiki/Key:building:condition) - indique que le bâtiment a été rénové
-- [`renovated=`](https://taginfo.openstreetmap.org/keys/renovated) - \[balise de facto] date d'achèvement de la rénovation
-- [`renovated:architect=`](https://taginfo.openstreetmap.org/keys/renovated%3Aarchitect) \[tag de facto] - nom de l'architecte qui a dirigé la rénovation
+- [`last_renovation=`](https://taginfo.openstreetmap.org/keys/last_renovation) - \[balise de facto] date d'achèvement de la dernière rénovation
+- [`architect:renovation=`](https://taginfo.openstreetmap.org/keys/architect%3renovation) \[tag de facto] - nom de l'architecte qui a dirigé la dernière rénovation
 
 Voir également [la page Buildings sur le wiki](https://wiki.openstreetmap.org/wiki/FR:Key:building#Attributs_additionnels) pour encore plus de tags.
 

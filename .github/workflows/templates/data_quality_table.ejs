@@ -9,7 +9,7 @@
       <th scope="col">`building:flats`</th>
       <th scope="col">`heating`</th>
       <th scope="col">`architect`</th>
-      <th scope="col">`renovated:architect`</th>
+      <th scope="col">`architect:renovation`</th>
       <th scope="col">`building:levels`</th>
       <th scope="col">`roof:levels`</th>
       <th scope="col">`roof:shape`</th>
@@ -30,7 +30,7 @@
             <td><%= displayCompletionRate(locals[i].completion_buildings_flats_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"building:flats\"]") -%></td>
             <td><%= displayCompletionRate(locals[i].completion_buildings_heating_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"heating\"]") -%></td>
             <td><%= displayCompletionRate(locals[i].completion_buildings_architect_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"architect\"]") -%></td>
-            <td><%= displayCompletionRate(locals[i].completion_buildings_renovated_architect_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"renovated:architect\"]") -%></td>
+            <td><%= displayCompletionRate(locals[i].completion_buildings_architect_renovation_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"architect:renovation\"]") -%></td>
             <td><%= displayCompletionRate(locals[i].completion_buildings_levels_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"building:levels\"]") -%></td>
             <td><%= displayCompletionRate(locals[i].completion_buildings_roof_levels_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"roof:levels\"]") -%></td>
             <td><%= displayCompletionRate(locals[i].completion_buildings_roof_shape_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"roof:shape\"]") -%></td>

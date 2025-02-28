@@ -44,8 +44,8 @@ If the building is managed by a cooperative, another type of company or another 
 
 If renovated:
 - [`building:condition=renovated`](https://wiki.openstreetmap.org/wiki/Key:building:condition)
-- [`renovated=`](https://taginfo.openstreetmap.org/keys/renovated) [tag de facto] - date which indicate the end of the renovation
-- [`renovated:architect=`](https://taginfo.openstreetmap.org/keys/renovated%3Aarchitect) [tag de facto] - name of the architect who conducted the renovation
+- [`last_renovation=`](https://taginfo.openstreetmap.org/keys/last_renovation) [tag de facto] - date which indicate the end of the renovation
+- [`architect:renovation=`](https://taginfo.openstreetmap.org/keys/architect%renovatio) [tag de facto] - name of the architect who conducted the renovation
 
 If subsidized:
 - [`subsidized=yes`](https://taginfo.openstreetmap.org/keys/subsidized) [tag de facto]

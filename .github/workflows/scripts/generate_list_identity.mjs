@@ -25,7 +25,7 @@ if(outputPath) {
 
 function getAggregatedIdentity(features, identity) {
     const buildings_and_parts_count = features.length;
-    const buildings_renovated_count = features.filter(feature => feature.properties.renovated).length;
+    const buildings_last_renovation_count = features.filter(feature => feature.properties.last_renovation).length;
 
     return  {
         wikidata: features[0].properties[`${identity}:wikidata`],
@@ -40,8 +40,8 @@ function getAggregatedIdentity(features, identity) {
             return acc + (parseInt(curr?.properties["building:flats"], 10) || 0);
         }, 0),
         building_start_date: features.filter(feature => feature.properties.start_date).map(feature => feature.properties.start_date),
-        building_renovated_date: features.filter(feature => feature.properties.renovated).map(feature => feature.properties.renovated),
-        building_renovated_count: buildings_renovated_count,
+        building_last_renovation_date: features.filter(feature => feature.properties.last_renovation).map(feature => feature.properties.last_renovation),
+        building_last_renovation_count: buildings_last_renovation_count,
         buildings_subsidized_count: features.filter(feature => feature.properties.subsidized).length,
         buildings_rent_regulated_count: features.filter(feature => feature.properties["rent:regulation"]).length,
         buildings_dormitory_count: features.filter(feature => feature.properties.building === "dormitory").length,
