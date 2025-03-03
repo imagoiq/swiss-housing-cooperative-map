@@ -10,10 +10,10 @@ const featuresFile = JSON.parse(await readFileSync(inputGeojsonPath, { encoding:
 
 const filteredFeatures = featuresFile.features.filter(feature => (feature.properties.building || feature.properties["building:part"]) && identity === "operator" ? operatorFilter(feature) : ownerFilter(feature));
 
-const owners = Object.groupBy(filteredFeatures, feature => feature.properties[identity]);
+const groupedByIdentity = Object.groupBy(filteredFeatures, feature => feature.properties[identity]);
 
 // Output
-const aggregatedData = Object.values(owners).map(features => getAggregatedIdentity(features, 'owner'));
+const aggregatedData = Object.values(groupedByIdentity).map(features => getAggregatedIdentity(features, identity));
 const sortedAggregatedData = aggregatedData.sort((a,b) => a.name.localeCompare(b.name));
 
 if(outputPath) {
