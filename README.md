@@ -47,6 +47,7 @@ owners](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/sw
 <table>
 <thead>
 <tr>
+<th rowspan="2" scope="col">Wikidata</th>
 <th rowspan="2" scope="col">Name (abbreviation)</th>
 <th colspan="8" scope="colgroup">Completion rate</th>
 </tr>
@@ -63,6 +64,9 @@ owners](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/sw
 </thead>
 <tbody>
 <tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q131743050">Q131743050</a>
+</td>
 <td>
 <a href="https://citederriere.ch">Coopérative Cité Derrière</a>
 </td>
@@ -101,6 +105,9 @@ owners](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/sw
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q132176222">Q132176222</a>
+</td>
+<td>
 <a href="http://www.meute.ch/">Coopérative d’habitants La Meute</a>
 </td>
 <td>✅
@@ -125,6 +132,9 @@ owners](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/sw
 </td>
 </tr>
 <tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q132176055">Q132176055</a>
+</td>
 <td>
 Coopérative d&#39;habitation des employés du rail (CHER)
 </td>
@@ -156,6 +166,9 @@ Coopérative d&#39;habitation des employés du rail (CHER)
 </td>
 </tr>
 <tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q132179508">Q132179508</a>
+</td>
 <td>
 <a href="https://jardinsdelapaix.ch/">Coopérative d&#39;habitation Les Jardins de la Paix</a>
 </td>
@@ -190,6 +203,9 @@ Coopérative d&#39;habitation des employés du rail (CHER)
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q132179684">Q132179684</a>
+</td>
+<td>
 Coopérative d&#39;habitation Rhône-Arve Pommier
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q132179684%22%5D%5B!%22start_date%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
@@ -218,6 +234,9 @@ Coopérative d&#39;habitation Rhône-Arve Pommier
 </td>
 </tr>
 <tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q131885512">Q131885512</a>
+</td>
 <td>
 Coopérative d&#39;habitations groupées des Liaudes
 </td>
@@ -252,6 +271,9 @@ Coopérative d&#39;habitations groupées des Liaudes
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q86666680">Q86666680</a>
+</td>
+<td>
 <a href="https://www.codha.ch/">Coopérative de l’habitat associatif (CODHA)</a>
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q86666680%22%5D%5B!%22start_date%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
@@ -285,6 +307,9 @@ Coopérative d&#39;habitations groupées des Liaudes
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q132179159">Q132179159</a>
+</td>
+<td>
 <a href="https://c-arts-ouches.ch/">Coopérative des Arts et des Ouches</a>
 </td>
 <td>✅
@@ -309,6 +334,9 @@ Coopérative d&#39;habitations groupées des Liaudes
 </td>
 </tr>
 <tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q132179211">Q132179211</a>
+</td>
 <td>
 <a href="https://www.cheri-riviera.ch/">Coopérative des cheminots de la Riviera</a>
 </td>
@@ -345,6 +373,9 @@ Coopérative d&#39;habitations groupées des Liaudes
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q132179235">Q132179235</a>
+</td>
+<td>
 <a href="https://cll-lutry.ch">Coopérative du logement Lutry (CLL)</a>
 </td>
 <td>✅
@@ -376,6 +407,9 @@ Coopérative d&#39;habitations groupées des Liaudes
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q132176017">Q132176017</a>
+</td>
+<td>
 Coopérative I6 (I6)
 </td>
 <td>✅
@@ -400,6 +434,9 @@ Coopérative I6 (I6)
 </td>
 </tr>
 <tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q132672906">Q132672906</a>
+</td>
 <td>
 <a href="https://www.cooperative-voisinage.ch/">Coopérative Voisinage</a>
 </td>
@@ -436,6 +473,9 @@ Coopérative I6 (I6)
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q132179383">Q132179383</a>
+</td>
+<td>
 <a href="https://ecopolis.ch/">Ecopolis</a>
 </td>
 <td>✅
@@ -462,6 +502,9 @@ Coopérative I6 (I6)
 </td>
 </tr>
 <tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q131748305">Q131748305</a>
+</td>
 <td>
 <a href="https://www.logement-ideal.ch">Logement Idéal</a>
 </td>
@@ -498,6 +541,9 @@ Coopérative I6 (I6)
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q132179778">Q132179778</a>
+</td>
+<td>
 <a href="https://www.charmontey.ch/">Société Coopérative d’Habitation Charmontey</a>
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q132179778%22%5D%5B!%22start_date%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
@@ -533,6 +579,9 @@ Coopérative I6 (I6)
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q132678496">Q132678496</a>
+</td>
+<td>
 Société coopérative d’habitation Cité des Philosophes
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q132678496%22%5D%5B!%22start_date%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
@@ -562,6 +611,9 @@ Société coopérative d’habitation Cité des Philosophes
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q132179629">Q132179629</a>
+</td>
+<td>
 <a href="https://schg.ch/">Société Coopérative d’Habitation Genève (SCHG)</a>
 </td>
 <td>✅
@@ -586,6 +638,9 @@ Société coopérative d’habitation Cité des Philosophes
 </td>
 </tr>
 <tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q132679940">Q132679940</a>
+</td>
 <td>
 <a href="https://la-maison-ouvriere.ch/">Société coopérative d’habitation La Maison Ouvrière</a>
 </td>
@@ -624,6 +679,9 @@ Société coopérative d’habitation Cité des Philosophes
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q132179751">Q132179751</a>
+</td>
+<td>
 <a href="http://lapaix.ch/">Société coopérative d&#39;habitation La Paix</a>
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q132179751%22%5D%5B!%22start_date%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
@@ -658,6 +716,9 @@ Société coopérative d’habitation Cité des Philosophes
 </td>
 </tr>
 <tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q126741196">Q126741196</a>
+</td>
 <td>
 <a href="https://schl.ch/">Société coopérative d&#39;habitation Lausanne (SCHL)</a>
 </td>
@@ -696,6 +757,9 @@ Société coopérative d’habitation Cité des Philosophes
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q132677586">Q132677586</a>
+</td>
+<td>
 Société Coopérative d&#39;habitation Morges
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Anwr(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%5B%22owner%3Awikidata%22%3D%22Q132677586%22%5D%5B!%22start_date%22%5D%3B%0A)%3B%0Aout%20geom%3B%0A&R">
@@ -731,6 +795,9 @@ Société Coopérative d&#39;habitation Morges
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q132179712">Q132179712</a>
+</td>
+<td>
 <a href="https://schpully.ch">Société coopérative d&#39;habitation Pully (SCHP)</a>
 </td>
 <td>✅
@@ -763,6 +830,9 @@ Société Coopérative d&#39;habitation Morges
 </td>
 </tr>
 <tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q131310187">Q131310187</a>
+</td>
 <td>
 <a href="https://schlechene.ch">Société coopérative d&#39;habitations Le Chêne</a>
 </td>
@@ -797,6 +867,9 @@ Société Coopérative d&#39;habitation Morges
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q132179442">Q132179442</a>
+</td>
+<td>
 <a href="https://lebled.ch">Société coopérative de construction et d’habitation Le Bled</a>
 </td>
 <td>✅
@@ -823,6 +896,9 @@ Société Coopérative d&#39;habitation Morges
 </td>
 </tr>
 <tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q132781287">Q132781287</a>
+</td>
 <td>
 Société coopérative Jordils-Moulins
 </td>
@@ -853,6 +929,7 @@ Société coopérative Jordils-Moulins
 <table>
 <thead>
 <tr>
+<th rowspan="2" scope="col">Wikidata</th>
 <th rowspan="2" scope="col">Name (abbreviation)</th>
 <th colspan="8" scope="colgroup">Completion rate</th>
 </tr>
@@ -869,6 +946,9 @@ Société coopérative Jordils-Moulins
 </thead>
 <tbody>
 <tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q126741196">Q126741196</a>
+</td>
 <td>
 <a href="https://schl.ch/">Société coopérative d&#39;habitation Lausanne (SCHL)</a>
 </td>
