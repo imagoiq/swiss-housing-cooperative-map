@@ -1188,7 +1188,7 @@ Github](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/.github/w
 ## Plus d’infos sur le sujet des coopératives d’habitation
 
 - [Pattaroni Luca, Marmy, Vanessa, Les coopératives de logement dans le
-  Canton de Vaud, EPFL/SCL, Octobre
+  Canton de Vaud, EPFL/SCL, octobre
   2016](https://www.vd.ch/fileadmin/user_upload/themes/vie_privee/logement/fichiers_pdf/161013_etude-cooperatives-bd.pdf)
 - [Temps Présent, Coopératives d’habitants, plus belle la vie?, RTS, 26
   avril
