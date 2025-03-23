@@ -4,8 +4,8 @@ page](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/README.fr.m
 # 🏘️ Map of swiss housing cooperatives
 
 Did you know that cooperative housing has been a specialty in
-Switzerland for over 100 years? \[^1\] In fact, it’s even a living
-tradition \[^2\]!
+Switzerland for over 100 years? [^1] In fact, it’s even a living
+tradition [^2]!
 
 This experimental project aimed at mapping and listing the housing
 cooperatives in Switzerland with a maximum of details. This project does
@@ -1189,21 +1189,22 @@ Workflow](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/.github
 
 ## More info on the subject of housing cooperatives
 
-- \[^1\] \[French\] [Isabelle Rey-Lefebvre, Les coopératives d’habitants
-  en Suisse, un modèle contre la spéculation immobilière, Le Monde, 20
-  septembre
-  2022](https://www.lemonde.fr/economie/article/2022/09/20/habitat-ecologique-convivial-et-antispeculatif-le-modele-suisse-des-cooperatives-d-habitants_6142336_3234.html)
-- \[^2\] [Living Traditions in Switzerland, Housing
-  cooperatives](https://www.lebendige-traditionen.ch/tradition/en/home/traditions/housing-cooperatives.html)
-- \[French\] [Pattaroni Luca, Marmy, Vanessa, Les coopératives de
-  logement dans le Canton de Vaud, EPFL/SCL, Octobre
-  2016](https://www.vd.ch/fileadmin/user_upload/themes/vie_privee/logement/fichiers_pdf/161013_etude-cooperatives-bd.pdf)
-- \[French\] [Temps Présent, Coopératives d’habitants, plus belle la
-  vie?, RTS, 26 avril
-  2018](https://www.rts.ch/play/tv/temps-present/video/cooperatives-dhabitants-plus-belle-la-vie?urn=urn:rts:video:9536679&showUrn=urn%3Arts%3Ashow%3Atv%3A9536679)
-- \[French\]\[Mattia Lento, L’habitat participatif en Suisse: épargne et
-  nouvelles formes de sociabilité urbaine, Swissinfo, 5 octobre
-  2018\](https://www.swissinfo.ch/fre/economie/a-moiti%C3%A9-locataires-%C3%A0-moiti%C3%A9-propri%C3%A9taires_l-habitat-participatif-en-suisse-%C3%A9pargne-et-nouvelles-formes-de-sociabilit%C3%A9-urbaine/44431666)
-- \[French/German/Italian\] [Office fédéral du logement OFL,
-  Coopératives d’habitation du personnel de la Confédération,
-  admin.ch](https://www.bwo.admin.ch/bwo/fr/home/wohnraumfoerderung/wbg-bundespersonal.html)
+[^1]: \[French\] [Isabelle Rey-Lefebvre, Les coopératives d’habitants en
+    Suisse, un modèle contre la spéculation immobilière, Le Monde, 20
+    septembre
+    2022](https://www.lemonde.fr/economie/article/2022/09/20/habitat-ecologique-convivial-et-antispeculatif-le-modele-suisse-des-cooperatives-d-habitants_6142336_3234.html)
+
+[^2]: [Living Traditions in Switzerland, Housing
+    cooperatives](https://www.lebendige-traditionen.ch/tradition/en/home/traditions/housing-cooperatives.html) -
+    \[French\] [Pattaroni Luca, Marmy, Vanessa, Les coopératives de
+    logement dans le Canton de Vaud, EPFL/SCL, Octobre
+    2016](https://www.vd.ch/fileadmin/user_upload/themes/vie_privee/logement/fichiers_pdf/161013_etude-cooperatives-bd.pdf) -
+    \[French\] [Temps Présent, Coopératives d’habitants, plus belle la
+    vie?, RTS, 26 avril
+    2018](https://www.rts.ch/play/tv/temps-present/video/cooperatives-dhabitants-plus-belle-la-vie?urn=urn:rts:video:9536679&showUrn=urn%3Arts%3Ashow%3Atv%3A9536679) -
+    \[French\]\[Mattia Lento, L’habitat participatif en Suisse: épargne
+    et nouvelles formes de sociabilité urbaine, Swissinfo, 5 octobre
+    2018\](https://www.swissinfo.ch/fre/economie/a-moiti%C3%A9-locataires-%C3%A0-moiti%C3%A9-propri%C3%A9taires_l-habitat-participatif-en-suisse-%C3%A9pargne-et-nouvelles-formes-de-sociabilit%C3%A9-urbaine/44431666) -
+    \[French/German/Italian\] [Office fédéral du logement OFL,
+    Coopératives d’habitation du personnel de la Confédération,
+    admin.ch](https://www.bwo.admin.ch/bwo/fr/home/wohnraumfoerderung/wbg-bundespersonal.html)
