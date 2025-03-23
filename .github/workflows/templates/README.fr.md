@@ -158,6 +158,7 @@ Chaque dimanche, les fichiers sont mis à jour automatiquement via un [workflow 
 
 [^1]: [Isabelle Rey-Lefebvre, Les coopératives d’habitants en Suisse, un modèle contre la spéculation immobilière, Le Monde, 20 septembre 2022](https://www.lemonde.fr/economie/article/2022/09/20/habitat-ecologique-convivial-et-antispeculatif-le-modele-suisse-des-cooperatives-d-habitants_6142336_3234.html)
 [^2]: [Les traditions vivantes en Suisse, Coopératives d'habitation](https://www.lebendige-traditionen.ch/tradition/fr/home/traditions/cooperatives-d_habitation.html)
+
 - [Pattaroni Luca, Marmy, Vanessa, Les coopératives de logement dans le Canton de Vaud, EPFL/SCL, Octobre 2016](https://www.vd.ch/fileadmin/user_upload/themes/vie_privee/logement/fichiers_pdf/161013_etude-cooperatives-bd.pdf)
 - [Temps Présent, Coopératives d'habitants, plus belle la vie?, RTS, 26 avril 2018](https://www.rts.ch/play/tv/temps-present/video/cooperatives-dhabitants-plus-belle-la-vie?urn=urn:rts:video:9536679&showUrn=urn%3Arts%3Ashow%3Atv%3A9536679)
 - [Mattia Lento, L’habitat participatif en Suisse: épargne et nouvelles formes de sociabilité urbaine, Swissinfo, 5 octobre 2018](https://www.swissinfo.ch/fre/economie/a-moiti%C3%A9-locataires-%C3%A0-moiti%C3%A9-propri%C3%A9taires_l-habitat-participatif-en-suisse-%C3%A9pargne-et-nouvelles-formes-de-sociabilit%C3%A9-urbaine/44431666)
