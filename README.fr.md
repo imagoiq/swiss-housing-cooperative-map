@@ -1,21 +1,19 @@
 # 🏘️ Carte des coopératives d’habitation en Suisse
 
-Projet expérimental ayant pour but de cartographier et de liste les
-immeubles des coopératives d’habitation de Suisse. Ce projet n’a pas
-pour but de jouer les intermédiaires ou de construire un nouvel outil,
-mais de documenter et de montrer ce qui est possible, et quelles sont
-les limites.
+Saviez-vous que les coopératives d’habitation sont une spécialité en
+Suisse depuis plus de 100 ans ? \[^1\] Il s’agit même d’une tradition
+vivante \[^2\] !
+
+Ceci est un projet expérimental ayant pour but de cartographier et de
+liste les immeubles des coopératives d’habitation de Suisse. Ce projet
+n’a pas pour but de jouer les intermédiaires ou de construire un nouvel
+outil, mais de documenter et de montrer ce qui est possible, et quelles
+sont les limites.
 
 D’après mes recherches, aucune carte de ce type n’existe pour l’ensemble
 des cantons. À Genève, la Fondation pour la promotion du logement bon
 marché et de l’habitat coopératif (FPLC) fournit une \[carte pour le
 canton de Genève\] (<https://fplc.ch/cartes/cooperatives.htm>).
-
-Plus d’infos sur le sujet des coopératives d’habitation :
-
-- [Pattaroni Luca, Marmy, Vanessa, Les coopératives de logement dans le
-  Canton de Vaud, EPFL/SCL, Octobre
-  2016](https://www.vd.ch/fileadmin/user_upload/themes/vie_privee/logement/fichiers_pdf/161013_etude-cooperatives-bd.pdf)
 
 ## Utiliser les données
 
@@ -1186,3 +1184,23 @@ Github](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/.github/w
 - [pandoc](https://pandoc.org/installing.html)
 - [pandoc-include](https://github.com/DCsunset/pandoc-include)
 - [ejs](https://ejs.co/)
+
+## Plus d’infos sur le sujet des coopératives d’habitation
+
+- \[^1\] [Isabelle Rey-Lefebvre, Les coopératives d’habitants en Suisse,
+  un modèle contre la spéculation immobilière, Le Monde, 20 septembre
+  2022](https://www.lemonde.fr/economie/article/2022/09/20/habitat-ecologique-convivial-et-antispeculatif-le-modele-suisse-des-cooperatives-d-habitants_6142336_3234.html)
+- \[^2\] [Les traditions vivantes en Suisse, Coopératives
+  d’habitation](https://www.lebendige-traditionen.ch/tradition/fr/home/traditions/cooperatives-d_habitation.html)
+- [Pattaroni Luca, Marmy, Vanessa, Les coopératives de logement dans le
+  Canton de Vaud, EPFL/SCL, Octobre
+  2016](https://www.vd.ch/fileadmin/user_upload/themes/vie_privee/logement/fichiers_pdf/161013_etude-cooperatives-bd.pdf)
+- [Temps Présent, Coopératives d’habitants, plus belle la vie?, RTS, 26
+  avril
+  2018](https://www.rts.ch/play/tv/temps-present/video/cooperatives-dhabitants-plus-belle-la-vie?urn=urn:rts:video:9536679&showUrn=urn%3Arts%3Ashow%3Atv%3A9536679)
+- [Mattia Lento, L’habitat participatif en Suisse: épargne et nouvelles
+  formes de sociabilité urbaine, Swissinfo, 5 octobre
+  2018](https://www.swissinfo.ch/fre/economie/a-moiti%C3%A9-locataires-%C3%A0-moiti%C3%A9-propri%C3%A9taires_l-habitat-participatif-en-suisse-%C3%A9pargne-et-nouvelles-formes-de-sociabilit%C3%A9-urbaine/44431666)
+- [Office fédéral du logement OFL, Coopératives d’habitation du
+  personnel de la Confédération,
+  admin.ch](https://www.bwo.admin.ch/bwo/fr/home/wohnraumfoerderung/wbg-bundespersonal.html)
