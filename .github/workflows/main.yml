@@ -7,6 +7,7 @@ env:
   tmp_dir: '/tmp'
   cache_dir: '../../.cache'
   overpass_server: 'http://overpass.osm.ch'
+  cooperative_buildings_tmp: 'swiss_housing_cooperative_buildings.json'
   cooperative_buildings_filename: 'swiss_housing_cooperative_buildings.geojson'
   cooperative_areas_filename: 'swiss_housing_cooperative_areas.geojson'
 
@@ -60,13 +61,15 @@ jobs:
           pip install --user pandoc-include
 
       - name: Download buildings overpass data
-        run: curl -sSd "$(<./query/overpass_query_buildings)" -X POST $overpass_server/api/interpreter > "$output_dir/$cooperative_buildings_filename"
+        run: curl -sSd "$(<./query/overpass_query_buildings)" -X POST $overpass_server/api/interpreter > "$output_dir/$cooperative_buildings_tmp"
 
       - name: Combine overpass data associated addresses node with ways
-        run: node ./scripts/combine_addresses.mjs "$output_dir/$cooperative_buildings_filename"
+        run: node ./scripts/combine_addresses.mjs "$output_dir/$cooperative_buildings_tmp"
 
       - name: Convert to geojson
-        run: osmtogeojson "$output_dir/$cooperative_buildings_filename" > "$output_dir/$cooperative_buildings_filename"
+        run: |
+          osmtogeojson "$output_dir/$cooperative_buildings_tmp" > "$output_dir/$cooperative_buildings_filename"
+          rm -rf "$output_dir/$cooperative_buildings_tmp"
 
       - name: Enhance osm data by parsing dates
         run: node ./scripts/parse_dates.mjs "$output_dir/$cooperative_buildings_filename"
