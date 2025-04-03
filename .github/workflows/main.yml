@@ -59,8 +59,14 @@ jobs:
           sudo apt-get install pandoc
           pip install --user pandoc-include
 
-      - name: Download buildings overpass data and convert to geojson
-        run: ./scripts/download_overpass_geojson.sh "./query/overpass_query_buildings" "$output_dir/$cooperative_buildings_filename"
+      - name: Download buildings overpass data
+        run: curl -sSd "$(<./query/overpass_query_buildings)" -X POST $overpass_server/api/interpreter
+
+      - name: Combine overpass data associated addresses node with ways
+        run: node ./scripts/combine_addresses.mjs "$output_dir/$cooperative_buildings_filename"
+
+      - name: Convert to geojson
+        run: osmtogeojson "$output_dir/$cooperative_buildings_filename" "$output_dir/$cooperative_buildings_filename"
 
       - name: Enhance osm data by parsing dates
         run: node ./scripts/parse_dates.mjs "$output_dir/$cooperative_buildings_filename"
@@ -68,11 +74,8 @@ jobs:
       - name: Enhance overpass data with wikidata
         run: node ./scripts/add_wikidata.mjs "$output_dir/$cooperative_buildings_filename"
 
-      - name: Enhance overpass data with nominatim to retrieve addresses of buildings without tags
-        run: node ./scripts/add_addresses.mjs "$output_dir/$cooperative_buildings_filename" "$cache_dir/nominatim_addresses.json"
-
       - name: Download areas overpass data and convert to geojson
-        run: ./scripts/download_overpass_geojson.sh "./query/overpass_query_areas" "$output_dir/$cooperative_areas_filename"
+        run: curl -sSd "$(<./query/overpass_query_areas)" -X POST $overpass_server/api/interpreter | osmtogeojson > "$output_dir/$cooperative_areas_filename"
 
       - name: Get list of cooperative owners
         run: |
