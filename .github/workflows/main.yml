@@ -66,7 +66,7 @@ jobs:
         run: node ./scripts/combine_addresses.mjs "$output_dir/$cooperative_buildings_filename"
 
       - name: Convert to geojson
-        run: osmtogeojson "$output_dir/$cooperative_buildings_filename" "$output_dir/$cooperative_buildings_filename"
+        run: osmtogeojson "$output_dir/$cooperative_buildings_filename" > "$output_dir/$cooperative_buildings_filename"
 
       - name: Enhance osm data by parsing dates
         run: node ./scripts/parse_dates.mjs "$output_dir/$cooperative_buildings_filename"
