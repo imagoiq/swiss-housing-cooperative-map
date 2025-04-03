@@ -60,7 +60,7 @@ jobs:
           pip install --user pandoc-include
 
       - name: Download buildings overpass data
-        run: curl -sSd "$(<./query/overpass_query_buildings)" -X POST $overpass_server/api/interpreter
+        run: curl -sSd "$(<./query/overpass_query_buildings)" -X POST $overpass_server/api/interpreter > "$output_dir/$cooperative_buildings_filename"
 
       - name: Combine overpass data associated addresses node with ways
         run: node ./scripts/combine_addresses.mjs "$output_dir/$cooperative_buildings_filename"
