@@ -10,7 +10,7 @@ foreach .building {
   
   foreach .addresses {
     convert associated_addresses 
-        "__associated_id"=building.set(id()),
+        "__associated_id"=building_area.u(id()),
         ::=::;
     out geom;
   }
