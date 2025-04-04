@@ -23,7 +23,8 @@ function mergeAddresses(featuresFile){
         featuresFile.elements[i].tags["addr"].push({
             "addr:city": element.tags["addr:city"],
             "addr:postcode": element.tags["addr:postcode"],
-            "addr:street": element.tags["addr:street"],
+            ...[("addr:street" in element.tags["addr:street"]) ? {"addr:street": element.tags["addr:street"]}: {}],
+            ...[("addr:place" in element.tags["addr:place"]) ? {"addr:place": element.tags["addr:place"]}: {}],
             "addr:housenumber": element.tags["addr:housenumber"],
         });
 
