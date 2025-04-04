@@ -10,7 +10,7 @@ check(featuresFile);
 function check(featuresFile){
     const featuresWithErrors = [];
 
-    featuresFile.forEach(feature => {
+    featuresFile.features.forEach(feature => {
         const errors = [];
 
         const hasAnAddrTag = Object.keys(feature.properties).find(props => /^addr:/.test(props));

@@ -95,7 +95,6 @@ jobs:
         run: |
           node ./scripts/data_quality/generate_data_quality_checker.mjs $output_dir/$cooperative_buildings_filename $data_quality_dir/building_errors.json
 
-
       - name: Update readme data quality section
         run: |
           query=$(base64 ./query/overpass_query_buildings)
