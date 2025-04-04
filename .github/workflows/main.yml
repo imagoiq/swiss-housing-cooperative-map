@@ -3,6 +3,7 @@ name: Data collection update
 env:
   root_dir: '../../'
   output_dir: '../../output'
+  data_quality_dir: '../../data_quality'
   templates_dir: './templates'
   tmp_dir: '/tmp'
   cache_dir: '../../.cache'
@@ -80,15 +81,20 @@ jobs:
       - name: Download areas overpass data and convert to geojson
         run: curl -sSd "$(<./query/overpass_query_areas)" -X POST $overpass_server/api/interpreter | osmtogeojson > "$output_dir/$cooperative_areas_filename"
 
-      - name: Get list of cooperative owners
+      - name: Generate list of cooperative owners
         run: |
           node ./scripts/output/generate_json_tsv.mjs "owner" $output_dir/$cooperative_buildings_filename $output_dir/swiss_housing_cooperative_list_owners.tsv
           node ./scripts/output/generate_json_tsv.mjs "owner" $output_dir/$cooperative_buildings_filename $output_dir/swiss_housing_cooperative_list_owners.json
 
-      - name: Get list of cooperative operators
+      - name: Generate list of cooperative operators
         run: |
           node ./scripts/output/generate_json_tsv.mjs "operator" $output_dir/$cooperative_buildings_filename $output_dir/swiss_housing_cooperative_list_operators.tsv
           node ./scripts/output/generate_json_tsv.mjs "operator" $output_dir/$cooperative_buildings_filename $output_dir/swiss_housing_cooperative_list_operators.json
+
+      - name: Generate data_quality json checker
+        run: |
+          node ./scripts/data_quality/generate_data_quality_checker.mjs $output_dir/$cooperative_buildings_filename $data_quality_dir/building_errors.json
+
 
       - name: Update readme data quality section
         run: |
