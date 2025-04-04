@@ -1,6 +1,6 @@
 import { readFileSync,writeFileSync } from 'node:fs';
 import { tsvFormat} from "d3-dsv";
-import {getCompletionRate, operatorFilter, ownerFilter } from "./utils.mjs";
+import {getCompletionRate, operatorFilter, ownerFilter } from "../utils.mjs";
 
 const identity = process.argv[2];
 const inputGeojsonPath = process.argv[3];
