@@ -43,11 +43,10 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
-      - name: Install node
-        run: |
-          sudo apt install nodejs
-          npm install -g n
-          sudo n lts
+      - uses: actions/setup-node@v4
+        with:
+          node-version: lts
+          cache: 'npm'
 
       - name: Install dependencies
         run: |
