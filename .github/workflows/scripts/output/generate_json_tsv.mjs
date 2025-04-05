@@ -1,5 +1,5 @@
 import { readFileSync,writeFileSync } from 'node:fs';
-//import { tsvFormat} from "d3-dsv";
+import { tsvFormat} from "d3-dsv";
 import { operatorFilter, ownerFilter, unique} from "../utils.mjs";
 
 const identity = process.argv[2];
