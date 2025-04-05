@@ -1,5 +1,5 @@
 import { readFileSync,writeFileSync } from 'node:fs';
-import { tsvFormat} from "d3-dsv";
+//import { tsvFormat} from "d3-dsv";
 import { operatorFilter, ownerFilter, unique} from "../utils.mjs";
 
 const identity = process.argv[2];
@@ -48,7 +48,7 @@ function getAggregatedIdentity(features, identity) {
         buildings_rent_regulated_count: features.filter(feature => feature.properties["rent:regulation"]).length,
         buildings_dormitory_count: features.filter(feature => feature.properties.building === "dormitory").length,
         buildings_sheltered_housing_count: features.filter(feature => feature.properties.building === "sheltered_housing").length,
-        buildings_locations: unique([...features.map(feature => feature.properties["addr:city"]), ...features.filter(feature => "addr" in feature.properties).map(feature => feature.properties["addr:city"])]),
-        buildings_postcode: unique([...features.map(feature => feature.properties["addr:postcode"]), ...features.filter(feature => "addr" in feature.properties).map(feature => feature.properties["addr:postcode"])])
+        buildings_locations: unique([...features.map(feature => feature.properties["addr:city"]), ...features.filter(feature => "addr" in feature.properties).map(feature => feature.properties["addr"].map(addr => addr["addr:city"])).flat()]),
+        buildings_postcode: unique([...features.map(feature => feature.properties["addr:postcode"]), ...features.filter(feature => "addr" in feature.properties).map(feature => feature.properties["addr"].map(addr => addr["addr:postcode"])).flat()])
     };
 }
