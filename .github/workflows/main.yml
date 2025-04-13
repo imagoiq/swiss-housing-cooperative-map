@@ -60,7 +60,7 @@ jobs:
           pip install --user pandoc-include
 
       - name: Download buildings overpass data
-        run: curl -sSd "$(<./query/overpass_query_buildings)" -X POST $overpass_server/api/interpreter > "$output_dir/$cooperative_buildings_tmp"
+        run: curl -sSd "$(<./query/buildings.overpassql)" -X POST $overpass_server/api/interpreter > "$output_dir/$cooperative_buildings_tmp"
 
       - name: Combine overpass data associated addresses node with ways
         run: node ./scripts/build_dataset/combine_addresses.mjs "$output_dir/$cooperative_buildings_tmp"
@@ -77,7 +77,7 @@ jobs:
         run: node ./scripts/build_dataset/add_wikidata.mjs "$output_dir/$cooperative_buildings_filename"
 
       - name: Download areas overpass data and convert to geojson
-        run: curl -sSd "$(<./query/overpass_query_areas)" -X POST $overpass_server/api/interpreter | osmtogeojson > "$output_dir/$cooperative_areas_filename"
+        run: curl -sSd "$(<./query/areas.overpassql)" -X POST $overpass_server/api/interpreter | osmtogeojson > "$output_dir/$cooperative_areas_filename"
 
       - name: Generate list of cooperative owners
         run: |
@@ -95,7 +95,7 @@ jobs:
 
       - name: Update readme data quality section
         run: |
-          query=$(base64 ./query/overpass_query_buildings)
+          query=$(base64 ./query/buildings.overpassql)
           node ./scripts/data_quality/generate_data_quality_table.mjs "owner" $output_dir/$cooperative_buildings_filename $tmp_dir/swiss_housing_cooperative_list_owners_data_quality.json
           node ./scripts/data_quality/generate_data_quality_table.mjs "operator" $output_dir/$cooperative_buildings_filename $tmp_dir/swiss_housing_cooperative_list_operators_data_quality.json
           
