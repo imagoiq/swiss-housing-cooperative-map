@@ -14,7 +14,7 @@ const groupedByIdentity = Object.groupBy(filteredFeatures, feature => feature.pr
 
 // Output
 const aggregatedData = Object.values(groupedByIdentity).map(features => getAggregatedIdentity(features, identity));
-const sortedAggregatedData = aggregatedData.sort((a,b) => a.name.localeCompare(b.name));
+const sortedAggregatedData = aggregatedData.sort((a,b) => a.name?.localeCompare(b.name));
 
 if(outputPath) {
     writeFileSync(outputPath, outputPath.endsWith('.tsv') ? tsvFormat(sortedAggregatedData) : JSON.stringify(sortedAggregatedData));

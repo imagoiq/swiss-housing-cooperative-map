@@ -27,8 +27,6 @@ function getAggregatedIdentity(features, identity) {
     const buildings_and_parts_count = features.length;
     const buildings_last_renovation_count = features.filter(feature => feature.properties.last_renovation).length;
 
-    console.log('features[0]', features[0]);
-
     return  {
         wikidata: features[0].properties[`${identity}:wikidata`],
         abbr: features[0].properties[`${identity}:abbr`],
