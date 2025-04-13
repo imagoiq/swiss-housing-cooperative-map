@@ -3,7 +3,7 @@
 Saviez-vous que les coopératives d'habitation sont une spécialité en Suisse depuis plus de 100 ans ? [^1] Il s'agit même d'une tradition vivante [^2] !
 
 Ceci est un projet expérimental ayant pour but de cartographier et de liste les immeubles des coopératives d'habitation de Suisse.
-Ce projet n'a pas pour but de jouer les intermédiaires ou de construire un nouvel outil, mais de documenter et de montrer ce qui est possible, et quelles sont les limites.
+Ce projet n'a pas pour but de jouer les intermédiaires ou de construire un nouvel outil, mais de documenter et de montrer ce qui est possible, et quelles sont les limites en utilisant OpenStreetMap et Wikidata.
 
 D'après mes recherches, aucune carte de ce type n'existe pour l'ensemble des cantons. À Genève, la Fondation pour la promotion du logement bon marché et de l'habitat coopératif (FPLC) fournit une \[carte pour le canton de Genève] (<https://fplc.ch/cartes/cooperatives.htm>).
 

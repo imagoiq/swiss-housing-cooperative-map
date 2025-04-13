@@ -7,7 +7,7 @@ Did you know that cooperative housing has been a specialty in Switzerland for ov
 This experimental project aimed at mapping and listing the housing
 cooperatives in Switzerland with a maximum of details. This project does
 not aim at playing an intermediate or building new tool, but document
-and show what is possible, and what are the limitations.
+and show what is possible, and what are the limitations using OpenStreetMap and Wikidata.
 
 No such map seems to exist across cantons. In Geneva, the
 Fondation pour la promotion du logement bon marché et de l'habitat
