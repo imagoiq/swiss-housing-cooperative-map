@@ -14,7 +14,7 @@ const groupedByIdentity = Object.groupBy(filteredFeatures, feature => feature.pr
 
 // Output
 const aggregatedData = Object.values(groupedByIdentity).map(features => getAggregatedIdentity(features, identity));
-const sortedAggregatedData = aggregatedData.sort((a,b) => a.name.localeCompare(b.name));
+const sortedAggregatedData = aggregatedData.sort((a,b) => a.name?.localeCompare(b.name));
 
 if(outputPath) {
     writeFileSync(outputPath, outputPath.endsWith('.tsv') ? tsvFormat(sortedAggregatedData) : JSON.stringify(sortedAggregatedData));
@@ -26,6 +26,8 @@ if(outputPath) {
 function getAggregatedIdentity(features, identity) {
     const buildings_and_parts_count = features.length;
     const buildings_last_renovation_count = features.filter(feature => feature.properties.last_renovation).length;
+
+    console.log('features[0]', features[0]);
 
     return  {
         wikidata: features[0].properties[`${identity}:wikidata`],
