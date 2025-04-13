@@ -8,7 +8,7 @@ Ceci est un projet expérimental ayant pour but de cartographier et de
 liste les immeubles des coopératives d’habitation de Suisse. Ce projet
 n’a pas pour but de jouer les intermédiaires ou de construire un nouvel
 outil, mais de documenter et de montrer ce qui est possible, et quelles
-sont les limites.
+sont les limites en utilisant OpenStreetMap et Wikidata.
 
 D’après mes recherches, aucune carte de ce type n’existe pour l’ensemble
 des cantons. À Genève, la Fondation pour la promotion du logement bon
@@ -327,6 +327,218 @@ Coopérative d&#39;habitation des employés du rail (CHER)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133284252%22%5D%5B!%22roof%3Ashape%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 43%
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q133459721">Q133459721</a>
+</td>
+<td>
+<a href="https://www.cooperative-equilibre.ch/">Coopérative d&#39;habitation Equilibre</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459721%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+40%
+</a>
+</td>
+<td>✅
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459721%22%5D%5B!%22heating%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459721%22%5D%5B!%22architect%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td>N/A
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459721%22%5D%5B!%22building%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+80%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459721%22%5D%5B!%22roof%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459721%22%5D%5B!%22roof%3Ashape%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q133459779">Q133459779</a>
+</td>
+<td>
+Coopérative d&#39;habitation Gilamont-Village
+</td>
+<td>✅
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459779%22%5D%5B!%22building%3Aflats%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459779%22%5D%5B!%22heating%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459779%22%5D%5B!%22architect%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td>N/A
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459779%22%5D%5B!%22building%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459779%22%5D%5B!%22roof%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459779%22%5D%5B!%22roof%3Ashape%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q133459822">Q133459822</a>
+</td>
+<td>
+<a href="https://lhabrik.ch/">Coopérative d&#39;habitation L&#39;habrik</a>
+</td>
+<td>✅
+</td>
+<td>✅
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459822%22%5D%5B!%22heating%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459822%22%5D%5B!%22architect%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td>N/A
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459822%22%5D%5B!%22building%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459822%22%5D%5B!%22roof%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459822%22%5D%5B!%22roof%3Ashape%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q133459856">Q133459856</a>
+</td>
+<td>
+Coopérative d&#39;habitation La Renouvelle
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459856%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459856%22%5D%5B!%22building%3Aflats%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459856%22%5D%5B!%22heating%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459856%22%5D%5B!%22architect%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459856%22%5D%5B!%22architect%3Arenovation%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td>✅
+</td>
+<td>✅
+</td>
+<td>✅
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q133459866">Q133459866</a>
+</td>
+<td>
+<a href="https://gchg.ch/membre/le-jet-deau/">Coopérative d&#39;habitation Le Jet d&#39;Eau</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459866%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td>✅
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459866%22%5D%5B!%22heating%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459866%22%5D%5B!%22architect%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td>N/A
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459866%22%5D%5B!%22building%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459866%22%5D%5B!%22roof%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459866%22%5D%5B!%22roof%3Ashape%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q133459875">Q133459875</a>
+</td>
+<td>
+<a href="https://gchg.ch/membre/le-verger-de-champlong-marbriers/">Coopérative d&#39;habitation Le Verger de Champlong-Marbriers</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459875%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td>✅
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459875%22%5D%5B!%22heating%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459875%22%5D%5B!%22architect%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td>N/A
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459875%22%5D%5B!%22building%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459875%22%5D%5B!%22roof%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459875%22%5D%5B!%22roof%3Ashape%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
 </a>
 </td>
 </tr>
@@ -856,6 +1068,42 @@ Coopérative d&#39;Immeuble Malpierres 11
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q133459653">Q133459653</a>
+</td>
+<td>
+<a href="http://domahabitare.ch/">Coopérative DomaHabitare</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459653%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459653%22%5D%5B!%22building%3Aflats%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td>✅
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459653%22%5D%5B!%22architect%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td>N/A
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459653%22%5D%5B!%22building%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459653%22%5D%5B!%22roof%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459653%22%5D%5B!%22roof%3Ashape%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+</tr>
+<tr>
+<td>
 <a href="https://www.wikidata.org/wiki/Q133282735">Q133282735</a>
 </td>
 <td>
@@ -1056,6 +1304,76 @@ Coopérative I6 (I6)
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q133460086">Q133460086</a>
+</td>
+<td>
+<a href="https://lessavoies.ch/">Coopérative Les Savoies</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133460086%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133460086%22%5D%5B!%22building%3Aflats%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133460086%22%5D%5B!%22heating%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133460086%22%5D%5B!%22architect%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td>N/A
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133460086%22%5D%5B!%22building%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133460086%22%5D%5B!%22roof%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133460086%22%5D%5B!%22roof%3Ashape%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q133284332">Q133284332</a>
+</td>
+<td>
+Coopérative pour l&#39;Habitation La Voie-Creuse
+</td>
+<td>✅
+</td>
+<td>✅
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133284332%22%5D%5B!%22heating%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133284332%22%5D%5B!%22architect%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td>N/A
+</td>
+<td>✅
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133284332%22%5D%5B!%22roof%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133284332%22%5D%5B!%22roof%3Ashape%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+</tr>
+<tr>
+<td>
 <a href="https://www.wikidata.org/wiki/Q132672906">Q132672906</a>
 </td>
 <td>
@@ -1120,6 +1438,44 @@ Coopérative I6 (I6)
 <td>✅
 </td>
 <td>✅
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q133282940">Q133282940</a>
+</td>
+<td>
+<a href="https://www.graphis.ch">Graphis</a>
+</td>
+<td>✅
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133282940%22%5D%5B!%22building%3Aflats%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+67%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133282940%22%5D%5B!%22heating%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133282940%22%5D%5B!%22architect%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133282940%22%5D%5B!%22architect%3Arenovation%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133282940%22%5D%5B!%22building%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+67%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133282940%22%5D%5B!%22roof%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+67%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133282940%22%5D%5B!%22roof%3Ashape%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
 </td>
 </tr>
 <tr>
@@ -1508,6 +1864,40 @@ Société coopérative d&#39;habitation Le Trèfle à Quatre
 </tr>
 <tr>
 <td>
+<a href="https://www.wikidata.org/wiki/Q133459984">Q133459984</a>
+</td>
+<td>
+<a href="https://heliotropes.ch/">Société coopérative d&#39;habitation Les Héliotropes</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459984%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td>✅
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459984%22%5D%5B!%22heating%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459984%22%5D%5B!%22architect%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td>N/A
+</td>
+<td>✅
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459984%22%5D%5B!%22roof%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459984%22%5D%5B!%22roof%3Ashape%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+</tr>
+<tr>
+<td>
 <a href="https://www.wikidata.org/wiki/Q132677586">Q132677586</a>
 </td>
 <td>
@@ -1746,6 +2136,44 @@ Société coopérative Jordils-Moulins
 <td>✅
 </td>
 <td>✅
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.wikidata.org/wiki/Q133459793">Q133459793</a>
+</td>
+<td>
+<a href="https://gchg.ch/membre/huit-et-demi/">undefined</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459793%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459793%22%5D%5B!%22building%3Aflats%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459793%22%5D%5B!%22heating%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459793%22%5D%5B!%22architect%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td>N/A
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459793%22%5D%5B!%22building%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459793%22%5D%5B!%22roof%3Alevels%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
+</td>
+<td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459793%22%5D%5B!%22roof%3Ashape%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
+0%
+</a>
 </td>
 </tr>
 </tbody>
