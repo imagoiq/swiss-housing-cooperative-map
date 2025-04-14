@@ -5,10 +5,12 @@ Q131743050		Coopérative Cité Derrière		https://citederriere.ch	1995-01-01T00:
 Q133282764		Coopérative CO2P L71			1998-01-01T00:00:00Z		1	0					0	0	0	0	0	Genève	1203
 Q132176222		Coopérative d’habitants La Meute	La Meute	http://www.meute.ch/	2011-01-01T00:00:00Z	CHE-350.649.084	1	25	2022-06-01T00:00:00.000Z	2022-06-01T00:00:00.000Z			0	0	0	0	0	Lausanne	1018
 Q133285984		Coopérative d'habitation B612				CHE-114.106.295	3	0					0	0	0	0	0	Lausanne	1005
+Q133461288		Coopérative d’Habitation de la Tourbière		https://tourbiere.ch/		CHE-251.947.336	1	0					0	0	0	0	0	La Chaux-de-Fonds	2300
 Q132176055	CHER	Coopérative d'habitation des employés du rail				CHE-102.316.733	4	142	1965-01-01T00:00:00.000Z	2019-01-01T00:00:00.000Z	2020-01-01T00:00:00.000Z		2	0	0	0	0	,Lausanne	,1007
 Q133284252		Coopérative d’habitation du quartier de l’Auge		https://cooperative-auge.ch/	1981-06-01T00:00:00Z	CHE-104.018.117	7	33	1400-01-01T00:00:00.000Z				3	0	0	0	0	Fribourg	1700
 Q133459721		Coopérative d'habitation Equilibre		https://www.cooperative-equilibre.ch/	2005-01-01T00:00:00Z	CHE-112.841.426	5	118	2011-01-01T00:00:00.000Z				0	0	0	0	0	,Genève,Meyrin,Confignon	,1203,1217,1232
 Q133459779		Coopérative d'habitation Gilamont-Village				CHE-100.575.436	1	0	1995-01-01T00:00:00.000Z	1995-01-01T00:00:00.000Z			0	0	0	0	0	,Vevey	,1800
+Q133459793		Coopérative d'habitation Huit et demi		https://gchg.ch/membre/huit-et-demi/	2005-01-01T00:00:00Z	CHE-112.781.907	1	0					0	0	0	0	0	Bernex	1233
 Q133459822		Coopérative d'habitation L'habrik		https://lhabrik.ch/		CHE-113.640.994	1	80	2023-01-01T00:00:00.000Z	2023-01-01T00:00:00.000Z			0	0	0	0	0	,Grand-Lancy	,1212
 Q133459856		Coopérative d'habitation La Renouvelle				CHE-174.689.305	1	0			2017-01-01T00:00:00.000Z	2017-01-01T00:00:00.000Z	1	0	0	0	0	,La Chaux-de-Fonds	,2300
 Q133459866		Coopérative d'habitation Le Jet d'Eau		https://gchg.ch/membre/le-jet-deau/	1976-01-01T00:00:00Z	CHE-100.292.412	4	211					0	0	0	0	0	,Genève,Thônex	,1209,1202,1226
@@ -22,6 +24,7 @@ Q133459668		Coopérative d'habitation Pan d'Ozi				CHE-239.400.334	1	0					0	0	0
 Q132179684		Coopérative d'habitation Rhône-Arve Pommier				CHE-113.799.264	1	0					0	0	0	0	0	,Le Grand-Saconnex	,1218
 Q133282694		Coopérative d'habitation Rocher 12				CHE-102.690.462	1	0					0	0	0	0	0	La Chaux-de-Fonds	2300
 Q133286063	CODHAVA	Coopérative d’Habitation Vie Alternative		https://chateaudecorcelles.ch/	1980-05-04T00:00:00Z	CHE-101.912.430	1	20					0	0	0	0	0	Corcelles-sur-Chavornay	1374
+Q133460114		Coopérative d'Habitations Collectives de Lully 2			1972-01-01T00:00:00Z	CHE-100.692.533	1	0			2020-01-01T00:00:00.000Z	2020-01-01T00:00:00.000Z	1	0	0	0	0	,Bernex	
 Q131885512		Coopérative d'habitations groupées des Liaudes			1986-07-23T00:00:00Z	CHE-102.132.446	6	0	1991-01-01T00:00:00.000Z	1991-01-01T00:00:00.000Z			0	0	0	0	0	Pully,	1009,
 Q133282702		Coopérative d'Immeuble Malpierres 11				CHE-102.587.048	1	0					0	0	0	0	0	Le Locle	2400
 Q133283856		Coopérative de construction et d'habitation MOUL2		https://coopmoul2.wixsite.com/moulin	2009-01-01T00:00:00Z	CHE-114.779.005	1	8			2017-01-01T00:00:00.000Z	2017-01-01T00:00:00.000Z	1	0	0	0	0	Bioley Magnoux	1407
@@ -32,12 +35,21 @@ Q133459653		Coopérative DomaHabitare		http://domahabitare.ch/		CHE-115.843.396	
 Q133282735	CLE	Coopérative du Logement Epalinges		https://cle-epalinges.ch/	1993-09-01T00:00:00Z	CHE-103.698.615	7	28	2000-01-01T00:00:00.000Z	2023-01-01T00:00:00.000Z			0	0	0	0	0	,Epalinges	,1066
 Q132179235	CLL	Coopérative du logement Lutry		https://cll-lutry.ch	1991-01-01T00:00:00Z	CHE-103.558.575	3	8	1996-01-01T00:00:00.000Z	2006-01-01T00:00:00.000Z			0	3	0	0	0	Lutry,	1095,
 Q132176017	I6	Coopérative I6				CHE-235.810.058	1	8	1887-01-01T00:00:00.000Z	1887-01-01T00:00:00.000Z	2017-01-01T00:00:00.000Z	2017-01-01T00:00:00.000Z	1	0	0	0	0	Lausanne	1005
+Q133459708		Coopérative Immobilière du Personnel Fédéral		https://www.cipef.ch/		CHE-103.914.078	9	169	1973-01-01T00:00:00.000Z	1996-01-01T00:00:00.000Z			0	0	0	0	0	,Préverenges,Chavanes-pres-Renens,Ecublens,Chavannes-près-Renens	,1022,1024,1028
 Q133282403		Coopérative INTI		https://www.cooperative-inti.ch	2003-01-01T00:00:00Z	CHE-101.089.032	1	19	2005-03-01T00:00:00.000Z	2005-03-01T00:00:00.000Z			0	0	0	0	0	,Confignon	,1232
 Q133282414		Coopérative La Ruche		https://gchg.ch/membre/la-ruche/	1957-01-01T00:00:00Z		1	86					0	0	0	0	0	Genève	1205
 Q133282419		Coopérative la Valsainte		https://www.cooperativevalsainte.ch/		CHE-103.552.354	2	0			2008-01-01T00:00:00.000Z	2008-01-01T00:00:00.000Z	2	0	0	0	0	Vevey	1800
 Q133460086		Coopérative Les Savoies		https://lessavoies.ch/		CHE-114.258.976	3	0					0	0	0	0	3	Salavaux	1585
+Q133461608		Coopérative Polygones		https://www.polygones.ch/	2008-04-01T00:00:00Z	CHE-114.540.786	1	25	2017-01-01T00:00:00.000Z	2017-01-01T00:00:00.000Z			0	0	0	0	0		
 Q133284332		Coopérative pour l'Habitation La Voie-Creuse				CHE-102.714.849	1	76	2000-05-01T00:00:00.000Z	2000-05-01T00:00:00.000Z			0	0	0	0	0	,Genève	,1202
+Q133460434		Coopérative Rue des Rois		https://gchg.ch/membre/cooperative-rue-des-rois/	1975-01-01T00:00:00Z	CHE-102.123.358	2	207					0	0	0	0	0	,Chêne-Bourg,Genève	,1225,1204
 Q132672906		Coopérative Voisinage		https://www.cooperative-voisinage.ch/	2008-01-01T00:00:00Z	CHE-114.781.189	1	0					0	0	0	0	0	,Meyrin	,1217
+Q133461688		Coprolo Bernex		https://coprolo.ch/cooperatives/coprolo-bernex		CHE-102.242.112	2	0	1973-07-01T00:00:00.000Z	1973-07-01T00:00:00.000Z			0	0	0	0	0	,Bernex	,1233
+Q133461743		Coprolo Croix-de-Rozon		https://coprolo.ch/cooperatives/coprolo-croix-de-rozon		CHE-102.223.600	1	10	1979-01-01T00:00:00.000Z	1979-01-01T00:00:00.000Z			0	0	0	0	0	,La Croix-de-Rozon	,1257
+Q133461712		Coprolo Le Grand-Pré		https://coprolo.ch/cooperatives/coprolo-grand-pre		CHE-101.832.452	1	31	1979-01-01T00:00:00.000Z	1979-01-01T00:00:00.000Z			0	0	0	0	0	,Onex	,1213
+Q133461702		Coprolo Luserna		https://coprolo.ch/cooperatives/coprolo-luserna		CHE-102.222.598	1	34	1976-01-01T00:00:00.000Z	1976-01-01T00:00:00.000Z	2022-01-01T00:00:00.000Z	2022-01-01T00:00:00.000Z	1	0	0	0	0	Genève	1203
+Q133461799		Coprolo Poterie		https://coprolo.ch/cooperatives/coprolo-poterie		CHE-102.562.864	1	8	2000-07-01T00:00:00.000Z	2000-07-01T00:00:00.000Z			0	0	0	0	0	,Genève	
+Q133461761		Coprolo Poussy		https://coprolo.ch/cooperatives/coprolo-poussy		CHE-102.516.924	13	0	1994-01-01T00:00:00.000Z	1994-01-01T00:00:00.000Z			0	0	0	0	0	Vernier	1214
 Q132179383		Ecopolis		https://ecopolis.ch/	2002-01-01T00:00:00Z	CHE-332.721.134	1	0	2023-01-01T00:00:00.000Z	2023-01-01T00:00:00.000Z			0	0	0	0	0	,Lausanne	,1018
 Q133282940		Graphis		https://www.graphis.ch	1945-01-01T00:00:00Z	CHE-105.949.857	6	402	1948-01-01T00:00:00.000Z	1955-01-01T00:00:00.000Z			1	0	0	0	0	,Fribourg,Genève	,1700,1202
 Q133282952	CDEF	La coopérative d'en face		https://www.cdef.ch/	2011-01-01T00:00:00Z	CHE-278.099.586	1	21					0	0	0	0	0	Neuchâtel	2000
@@ -51,12 +63,17 @@ Q132679940		Société coopérative d’habitation La Maison Ouvrière	La Maison 
 Q132179751		Société coopérative d'habitation La Paix		http://lapaix.ch/		CHE-100.726.681	12	0					0	0	0	0	0	Nyon	1260
 Q126741196	SCHL	Société coopérative d'habitation Lausanne		https://schl.ch/	1920-01-01T00:00:00Z	CHE-107.036.838	97	1850	1906-01-01T00:00:00.000Z	2023-08-01T00:00:00.000Z	1977-01-01T00:00:00.000Z		35	17	0	0	1	,Lausanne,Romanel-sur-Lausanne,Ecublens (VD),Pully,Chavannes-près-Renens,Bussigny,Le Mont-sur-Lausanne,Epalinges,Prilly,Cheseaux-sur-Lausanne,Lausanne 25,Orbe	,1007,1004,1006,1012,1032,1010,1018,1024,1009,1022,1030,1052,1066,1008,1033,1000,1350
 Q133283915		Société coopérative d'habitation Le Trèfle à Quatre			2013-01-16T00:00:00Z	CHE-193.419.746	1	14					0	0	0	0	0	St-Aubin FR	1566
-Q133459984		Société coopérative d'habitation Les Héliotropes		https://heliotropes.ch/		CHE-102.101.440	4	56					0	0	0	0	0	Cernier	2053
+Q133459984		Société coopérative d'habitation Les Héliotropes		https://heliotropes.ch/		CHE-102.101.440	4	56					0	0	0	0	0	,Cernier	,2053
+Q133456739		Société Coopérative d'Habitation Montreux		https://www.schamontreux.ch/	1932-01-01T00:00:00Z	CHE-114.789.110	9	226	1934-01-01T00:00:00.000Z	2019-01-01T00:00:00.000Z			3	0	0	0	0	,Clarens,Montreux,Territet	,1815,1820
 Q132677586		Société Coopérative d'habitation Morges				CHE-100.382.860	8	0					0	8	0	0	0	,Morges	,1110
+Q133460349		Société coopérative d'habitation Nouveau Comté		https://chnc.ch/	2014-05-24T00:00:00Z	CHE-106.400.373	1	12	2021-09-01T00:00:00.000Z	2021-09-01T00:00:00.000Z			0	0	0	0	0	Château-d'Oex	1660
 Q132179712	SCHP	Société coopérative d'habitation Pully		https://schpully.ch	1988-01-01T00:00:00Z	CHE-101.923.445	2	61	1991-01-01T00:00:00.000Z	2004-01-01T00:00:00.000Z	2016-01-01T00:00:00.000Z		1	0	0	0	0	,Pully	,1009
 Q133285952		Société coopérative d'habitation TerrAjoie		https://terrajoie.ch/		CHE-139.513.475	1	0			2026-01-01T00:00:00.000Z	2026-01-01T00:00:00.000Z	1	0	0	0	0		
+Q133460488		Société coopérative d'habitation Unilogis		https://gchg.ch/membre/unilogis/		CHE-112.244.733	1	127	2023-01-01T00:00:00.000Z	2023-01-01T00:00:00.000Z			0	0	0	0	0	,Genève	,1209
 Q133308087		Société Coopérative d'Habitations de l'Ouest MIXage	SCHO MIXage			CHE-114.780.965	1	0					0	0	0	0	0	Crissier	1023
 Q131310187		Société coopérative d'habitations Le Chêne	SCH Le Chêne	https://schlechene.ch		CHE-100.072.537	14	238	1951-01-01T00:00:00.000Z	1976-01-01T00:00:00.000Z			0	0	0	0	0	Gland,Nyon,,Coppet,Rolle	1196,1260,,1296,1180
 Q132179442		Société coopérative de construction et d’habitation Le Bled	SCCH Le Bled	https://lebled.ch	2015-01-01T00:00:00Z	CHE-232.069.729	1	77	2023-07-01T00:00:00.000Z	2023-07-01T00:00:00.000Z			0	0	0	0	0	,Lausanne	,1018
+Q133461672		Société coopérative de construction et d'habitation UV		https://gchg.ch/membre/uv/	2005-01-01T00:00:00Z	CHE-112.667.080	1	20					0	0	0	0	0	Genève	1202
 Q132781287		Société coopérative Jordils-Moulins				CHE-108.454.233	1	42	1998-01-01T00:00:00.000Z	1998-01-01T00:00:00.000Z			0	0	0	0	0	,Yverdon-les-Bains	,1400
-Q133459793				https://gchg.ch/membre/huit-et-demi/	2005-01-01T00:00:00Z	CHE-112.781.907	3	0					0	0	0	0	0	Bernex	1233
+Q133461585		Société coopérative Le Noirmont			1994-04-14T00:00:00Z	CHE-103.767.251	1	12	1999-01-01T00:00:00.000Z	1999-01-01T00:00:00.000Z			0	0	0	0	0	Le Noirmont	2340
+Q133459793				https://gchg.ch/membre/huit-et-demi/	2005-01-01T00:00:00Z	CHE-112.781.907	2	0					0	0	0	0	0	Bernex	1233
