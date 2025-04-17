@@ -40,7 +40,7 @@ If the building is managed by a cooperative, another type of company or another 
 - [`start_date=`](https://wiki.openstreetmap.org/wiki/Key:start_date) - date which indicate the end of the construction
 - [`building:flats=`](https://wiki.openstreetmap.org/wiki/Key:building:flats) - number of flats in total (including cluster)
 - [`building:flats:cluster`](https://taginfo.openstreetmap.org/keys/building%3Aflats%3Acluster) [tag de facto] - number of cluster flats
-- [`heating=gas|district_heating`](https://wiki.openstreetmap.org/wiki/Key:heating) or other [de facto] values [`heat_pump|oil|pellet|woodchip`](https://taginfo.openstreetmap.org/keys/heating#values)
+- [`heating=gas|district_heating`](https://wiki.openstreetmap.org/wiki/Key:heating) or other [de facto] values [`heat_pump|oil|pellet|woodchip|biogas`](https://taginfo.openstreetmap.org/keys/heating#values)
 
 If renovated:
 - [`building:condition=renovated`](https://wiki.openstreetmap.org/wiki/Key:building:condition)
