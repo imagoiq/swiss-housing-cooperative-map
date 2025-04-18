@@ -113,9 +113,9 @@ jobs:
       # Commit all changed files back to the repository
       - name: Set commit_message variable
         run: |
-          if [${{ github.event_name}} == 'schedule']; then
+          if ['${{ github.event_name}}' == 'schedule']; then
             echo "COMMIT_MSG=Weekly data update" >> $GITHUB_ENV
-          elif [${{ github.event_name}}  == 'push']; then
+          elif ['${{ github.event_name}}'  == 'push']; then
             echo "COMMIT_MSG=Update data after: ${{ github.event.commits[0].message }}" >> $GITHUB_ENV
           else
             echo "COMMIT_MSG=Manual data update" >> $GITHUB_ENV
