@@ -117,7 +117,7 @@ jobs:
           elif [${{ github.event_name == 'push'}}]; then
             echo "COMMIT_MSG=Scripts update" >> $GITHUB_ENV
           else
-            echo github.event_name
+            echo ${{ github.event_name }}
             echo "COMMIT_MSG=Manual data update" >> $GITHUB_ENV
           fi
 
