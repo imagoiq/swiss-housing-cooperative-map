@@ -15,11 +15,11 @@ env:
 on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-  # Push of this file
+  # Push of changes in scripts
   push:
     paths:
-      - .github/workflows/**
-      - '!.github/workflows/cache/**'
+      - .github/workflows/query
+      - .github/workflows/scripts
   # Every week, at 20:00 on Sunday
   schedule:
     - cron: '0 4 * * 0'
@@ -117,7 +117,8 @@ jobs:
           elif [${{ github.event_name == 'push'}}]; then
             echo "COMMIT_MSG=Scripts update" >> $GITHUB_ENV
           else
-            echo "COMMIT_MSG=Manual workflow update" >> $GITHUB_ENV
+            echo github.event_name
+            echo "COMMIT_MSG=Manual data update" >> $GITHUB_ENV
           fi
 
       - uses: stefanzweifel/git-auto-commit-action@v5
