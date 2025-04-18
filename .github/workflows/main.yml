@@ -22,7 +22,7 @@ on:
       - .github/workflows/scripts
   # Every week, at 20:00 on Sunday
   schedule:
-    - cron: '0 4 * * 0'
+    - cron: '16 18 * * 5'
 
 jobs:
   build:
