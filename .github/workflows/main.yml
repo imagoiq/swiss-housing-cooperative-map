@@ -20,9 +20,10 @@ on:
     paths:
       - .github/workflows/query
       - .github/workflows/scripts
+      - .github/workflows/main.yml
   # Every week, at 20:00 on Sunday
   schedule:
-    - cron: '20 17 * * 5'
+    - cron: '0 4 * * 0'
 
 jobs:
   build:
