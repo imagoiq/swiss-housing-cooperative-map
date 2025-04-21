@@ -33,7 +33,7 @@ cheatsheet](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/CONTR
 <a href="https://coopelia.ch/">Coopelia</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282712.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282712.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282712.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133282712.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -72,7 +72,7 @@ cheatsheet](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/CONTR
 <a href="https://coop-arcenciel.ch/">Coopérative Arc-en-ciel</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459586.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459586.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459586.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133459586.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -103,7 +103,7 @@ cheatsheet](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/CONTR
 <a href="https://ecopol.net/batir-groupe/">Coopérative Bâtir Groupé</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282337.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282337.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282337.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133282337.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -140,7 +140,7 @@ cheatsheet](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/CONTR
 <a href="https://citederriere.ch">Coopérative Cité Derrière</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q131743050.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q131743050.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q131743050.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q131743050.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q131743050%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 67%
@@ -183,7 +183,7 @@ cheatsheet](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/CONTR
 Coopérative CO2P L71
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282764.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282764.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282764.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133282764.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133282764%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -222,7 +222,7 @@ Coopérative CO2P L71
 <a href="http://www.meute.ch/">Coopérative d’habitants La Meute</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132176222.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132176222.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132176222.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132176222.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -253,7 +253,7 @@ Coopérative CO2P L71
 Coopérative d&#39;habitation B612
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133285984.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133285984.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133285984.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133285984.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133285984%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -294,7 +294,7 @@ Coopérative d&#39;habitation B612
 <a href="https://tourbiere.ch/">Coopérative d’Habitation de la Tourbière</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461288.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461288.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461288.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133461288.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133461288%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -335,7 +335,7 @@ Coopérative d&#39;habitation B612
 Coopérative d&#39;habitation des employés du rail (CHER)
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132176055.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132176055.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132176055.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132176055.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -372,7 +372,7 @@ Coopérative d&#39;habitation des employés du rail (CHER)
 <a href="https://cooperative-auge.ch/">Coopérative d’habitation du quartier de l’Auge</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133284252.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133284252.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133284252.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133284252.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133284252%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 29%
@@ -415,7 +415,7 @@ Coopérative d&#39;habitation des employés du rail (CHER)
 <a href="https://www.cooperative-equilibre.ch/">Coopérative d&#39;habitation Equilibre</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459721.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459721.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459721.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133459721.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459721%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 40%
@@ -454,7 +454,7 @@ Coopérative d&#39;habitation des employés du rail (CHER)
 Coopérative d&#39;habitation Gilamont-Village
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459779.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459779.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459779.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133459779.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -493,7 +493,7 @@ Coopérative d&#39;habitation Gilamont-Village
 <a href="https://gchg.ch/membre/huit-et-demi/">Coopérative d&#39;habitation Huit et demi</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459793.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459793.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459793.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133459793.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459793%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -534,7 +534,7 @@ Coopérative d&#39;habitation Gilamont-Village
 <a href="https://lhabrik.ch/">Coopérative d&#39;habitation L&#39;habrik</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459822.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459822.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459822.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133459822.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -571,7 +571,7 @@ Coopérative d&#39;habitation Gilamont-Village
 Coopérative d&#39;habitation La Renouvelle
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459856.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459856.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459856.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133459856.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459856%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -608,7 +608,7 @@ Coopérative d&#39;habitation La Renouvelle
 <a href="https://gchg.ch/membre/le-jet-deau/">Coopérative d&#39;habitation Le Jet d&#39;Eau</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459866.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459866.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459866.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133459866.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459866%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -647,7 +647,7 @@ Coopérative d&#39;habitation La Renouvelle
 <a href="https://gchg.ch/membre/le-verger-de-champlong-marbriers/">Coopérative d&#39;habitation Le Verger de Champlong-Marbriers</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459875.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459875.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459875.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133459875.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459875%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -686,7 +686,7 @@ Coopérative d&#39;habitation La Renouvelle
 <a href="https://www.lesailes.ch/">Coopérative d&#39;habitation Les Ailes</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459877.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459877.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459877.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133459877.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459877%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 80%
@@ -727,7 +727,7 @@ Coopérative d&#39;habitation La Renouvelle
 <a href="https://www.cooplescolories.ch">Coopérative d&#39;habitation Les Coloriés</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133284155.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133284155.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133284155.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133284155.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -760,7 +760,7 @@ Coopérative d&#39;habitation La Renouvelle
 <a href="https://jardinsdelapaix.ch/">Coopérative d&#39;habitation Les Jardins de la Paix</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179508.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179508.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179508.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132179508.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q132179508%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 71%
@@ -799,7 +799,7 @@ Coopérative d&#39;habitation La Renouvelle
 <a href="https://voirets.ch/">Coopérative d&#39;habitation Les Voirets</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282425.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282425.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282425.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133282425.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133282425%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -840,7 +840,7 @@ Coopérative d&#39;habitation La Renouvelle
 Coopérative d’habitation Les Voisins
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133285912.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133285912.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133285912.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133285912.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133285912%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -875,7 +875,7 @@ Coopérative d’habitation Les Voisins
 <a href="https://www.maison-neuve.ch/">Coopérative d&#39;habitation Maison Neuve</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282689.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282689.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282689.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133282689.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133282689%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -914,7 +914,7 @@ Coopérative d’habitation Les Voisins
 Coopérative d&#39;habitation Pan d&#39;Ozi
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459668.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459668.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459668.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133459668.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459668%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -955,7 +955,7 @@ Coopérative d&#39;habitation Pan d&#39;Ozi
 Coopérative d&#39;habitation Rhône-Arve Pommier
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179684.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179684.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179684.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132179684.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q132179684%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -990,7 +990,7 @@ Coopérative d&#39;habitation Rhône-Arve Pommier
 Coopérative d&#39;habitation Rocher 12
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282694.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282694.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282694.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133282694.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133282694%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -1027,7 +1027,7 @@ Coopérative d&#39;habitation Rocher 12
 <a href="https://chateaudecorcelles.ch/">Coopérative d’Habitation Vie Alternative (CODHAVA)</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133286063.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133286063.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133286063.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133286063.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133286063%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -1066,7 +1066,7 @@ Coopérative d&#39;habitation Rocher 12
 Coopérative d&#39;Habitations Collectives de Lully 2
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460114.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460114.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460114.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133460114.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133460114%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -1109,7 +1109,7 @@ Coopérative d&#39;Habitations Collectives de Lully 2
 Coopérative d&#39;habitations groupées des Liaudes
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q131885512.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q131885512.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q131885512.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q131885512.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -1148,7 +1148,7 @@ Coopérative d&#39;habitations groupées des Liaudes
 Coopérative d&#39;Immeuble Malpierres 11
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282702.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282702.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282702.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133282702.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133282702%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -1189,7 +1189,7 @@ Coopérative d&#39;Immeuble Malpierres 11
 <a href="https://coopmoul2.wixsite.com/moulin">Coopérative de construction et d&#39;habitation MOUL2</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133283856.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133283856.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133283856.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133283856.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133283856%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -1228,7 +1228,7 @@ Coopérative d&#39;Immeuble Malpierres 11
 <a href="https://www.codha.ch/">Coopérative de l’habitat associatif (CODHA)</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q86666680.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q86666680.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q86666680.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q86666680.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q86666680%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 73%
@@ -1267,7 +1267,7 @@ Coopérative d&#39;Immeuble Malpierres 11
 <a href="https://c-arts-ouches.ch/">Coopérative des Arts et des Ouches</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179159.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179159.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179159.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132179159.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -1298,7 +1298,7 @@ Coopérative d&#39;Immeuble Malpierres 11
 <a href="https://www.cheri-riviera.ch/">Coopérative des cheminots de la Riviera</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179211.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179211.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179211.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132179211.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q132179211%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -1339,7 +1339,7 @@ Coopérative d&#39;Immeuble Malpierres 11
 <a href="http://domahabitare.ch/">Coopérative DomaHabitare</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459653.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459653.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459653.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133459653.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459653%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -1378,7 +1378,7 @@ Coopérative d&#39;Immeuble Malpierres 11
 <a href="https://cle-epalinges.ch/">Coopérative du Logement Epalinges (CLE)</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282735.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282735.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282735.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133282735.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133282735%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 86%
@@ -1417,7 +1417,7 @@ Coopérative d&#39;Immeuble Malpierres 11
 <a href="https://cll-lutry.ch">Coopérative du logement Lutry (CLL)</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179235.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179235.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179235.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132179235.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -1454,7 +1454,7 @@ Coopérative d&#39;Immeuble Malpierres 11
 Coopérative I6 (I6)
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132176017.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132176017.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132176017.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132176017.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -1485,7 +1485,7 @@ Coopérative I6 (I6)
 <a href="https://www.cipef.ch/">Coopérative Immobilière du Personnel Fédéral (CIPEF)</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459708.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459708.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459708.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133459708.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -1520,7 +1520,7 @@ Coopérative I6 (I6)
 <a href="https://www.cooperative-inti.ch">Coopérative INTI</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282403.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282403.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282403.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133282403.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -1549,7 +1549,7 @@ Coopérative I6 (I6)
 <a href="https://gchg.ch/membre/la-ruche/">Coopérative La Ruche</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282414.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282414.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282414.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133282414.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133282414%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -1588,7 +1588,7 @@ Coopérative I6 (I6)
 <a href="https://www.cooperativevalsainte.ch/">Coopérative la Valsainte</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282419.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282419.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282419.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133282419.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133282419%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -1631,7 +1631,7 @@ Coopérative I6 (I6)
 <a href="https://lessavoies.ch/">Coopérative Les Savoies</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460086.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460086.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460086.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133460086.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133460086%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -1672,7 +1672,7 @@ Coopérative I6 (I6)
 <a href="https://www.polygones.ch/">Coopérative Polygones</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461608.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461608.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461608.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133461608.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -1701,7 +1701,7 @@ Coopérative I6 (I6)
 Coopérative pour l&#39;Habitation La Voie-Creuse
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133284332.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133284332.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133284332.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133284332.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -1736,7 +1736,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://gchg.ch/membre/cooperative-rue-des-rois/">Coopérative Rue des Rois</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460434.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460434.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460434.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133460434.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133460434%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -1775,7 +1775,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://www.cooperative-voisinage.ch/">Coopérative Voisinage</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132672906.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132672906.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132672906.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132672906.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q132672906%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -1816,7 +1816,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://coprolo.ch/cooperatives/coprolo-bernex">Coprolo Bernex</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461688.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461688.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461688.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133461688.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -1853,7 +1853,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://coprolo.ch/cooperatives/coprolo-cressy">Coprolo Cressy</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461836.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461836.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461836.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133461836.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -1888,7 +1888,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://coprolo.ch/cooperatives/coprolo-croix-de-rozon">Coprolo Croix-de-Rozon</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461743.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461743.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461743.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133461743.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -1923,7 +1923,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://coprolo.ch/cooperatives/coprolo-grand-pre">Coprolo Le Grand-Pré</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461712.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461712.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461712.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133461712.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -1956,7 +1956,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://coprolo.ch/cooperatives/coprolo-luserna">Coprolo Luserna</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461702.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461702.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461702.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133461702.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -1991,7 +1991,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://coprolo.ch/cooperatives/coprolo-poterie">Coprolo Poterie</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461799.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461799.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461799.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133461799.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -2026,7 +2026,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://coprolo.ch/cooperatives/coprolo-poussy">Coprolo Poussy</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461761.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461761.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461761.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133461761.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133461761%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 80%
@@ -2065,7 +2065,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://coprolo.ch/cooperatives/coprolo-soubeyran">Coprolo Soubeyran</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461864.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461864.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461864.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133461864.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -2096,7 +2096,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://coprolo.ch/cooperatives/coprolo-troenes">Coprolo Troènes</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461877.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461877.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461877.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133461877.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -2131,7 +2131,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://ecopolis.ch/">Ecopolis</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179383.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179383.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179383.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132179383.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -2164,7 +2164,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://gchg.ch/membre/fomhab/">Fomhab</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459738.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459738.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459738.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133459738.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459738%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -2205,7 +2205,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://www.graphis.ch">Graphis</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282940.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282940.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282940.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133282940.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -2246,7 +2246,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://www.cdef.ch/">La coopérative d&#39;en face (CDEF)</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282952.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282952.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133282952.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133282952.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133282952%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -2277,7 +2277,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://gchg.ch/membre/les-joyeux-logis/">Les Joyeux Logis</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460016.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460016.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460016.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133460016.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133460016%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -2318,7 +2318,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://lesrocailles.ch/">Les Rocailles</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460033.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460033.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460033.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133460033.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133460033%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -2359,7 +2359,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://www.logement-ideal.ch">Logement Idéal</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q131748305.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q131748305.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q131748305.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q131748305.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q131748305%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 2%
@@ -2400,7 +2400,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://www.monlogis.ch/">Mon Logis</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460337.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460337.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460337.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133460337.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133460337%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -2441,7 +2441,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 <a href="https://www.charmontey.ch/">Société Coopérative d’Habitation Charmontey</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179778.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179778.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179778.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132179778.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q132179778%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -2482,7 +2482,7 @@ Coopérative pour l&#39;Habitation La Voie-Creuse
 Société coopérative d’habitation Cité des Philosophes
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132678496.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132678496.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132678496.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132678496.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q132678496%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 17%
@@ -2517,7 +2517,7 @@ Société coopérative d’habitation Cité des Philosophes
 <a href="https://www.schrolle.ch">Société Coopérative d’Habitation de Rolle</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459619.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459619.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459619.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133459619.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459619%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 91%
@@ -2558,7 +2558,7 @@ Société coopérative d’habitation Cité des Philosophes
 <a href="https://chcg-ge.ch/">Société Coopérative d’Habitation des Cheminots de Genève (CHCG)</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133284185.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133284185.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133284185.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133284185.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -2595,7 +2595,7 @@ Société coopérative d’habitation Cité des Philosophes
 <a href="https://schg.ch/">Société Coopérative d’Habitation Genève (SCHG)</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179629.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179629.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179629.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132179629.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -2626,7 +2626,7 @@ Société coopérative d’habitation Cité des Philosophes
 <a href="https://la-maison-ouvriere.ch/">Société coopérative d’habitation La Maison Ouvrière</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132679940.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132679940.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132679940.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132679940.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q132679940%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 93%
@@ -2669,7 +2669,7 @@ Société coopérative d’habitation Cité des Philosophes
 <a href="http://lapaix.ch/">Société coopérative d&#39;habitation La Paix</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179751.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179751.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179751.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132179751.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q132179751%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -2710,7 +2710,7 @@ Société coopérative d’habitation Cité des Philosophes
 <a href="https://schl.ch/">Société coopérative d&#39;habitation Lausanne (SCHL)</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q126741196.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q126741196.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q126741196.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q126741196.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q126741196%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 96%
@@ -2753,7 +2753,7 @@ Société coopérative d’habitation Cité des Philosophes
 Société coopérative d&#39;habitation Le Trèfle à Quatre
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133283915.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133283915.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133283915.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133283915.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133283915%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -2786,7 +2786,7 @@ Société coopérative d&#39;habitation Le Trèfle à Quatre
 <a href="https://heliotropes.ch/">Société coopérative d&#39;habitation Les Héliotropes</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459984.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459984.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133459984.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133459984.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133459984%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -2823,7 +2823,7 @@ Société coopérative d&#39;habitation Le Trèfle à Quatre
 <a href="https://www.schamontreux.ch/">Société Coopérative d&#39;Habitation Montreux</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133456739.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133456739.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133456739.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133456739.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -2862,7 +2862,7 @@ Société coopérative d&#39;habitation Le Trèfle à Quatre
 Société Coopérative d&#39;habitation Morges
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132677586.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132677586.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132677586.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132677586.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q132677586%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -2903,7 +2903,7 @@ Société Coopérative d&#39;habitation Morges
 <a href="https://chnc.ch/">Société coopérative d&#39;habitation Nouveau Comté</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460349.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460349.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460349.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133460349.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -2934,7 +2934,7 @@ Société Coopérative d&#39;habitation Morges
 <a href="https://schpully.ch">Société coopérative d&#39;habitation Pully (SCHP)</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179712.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179712.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179712.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132179712.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -2973,7 +2973,7 @@ Société Coopérative d&#39;habitation Morges
 <a href="https://schrenens.ch/">Société coopérative d&#39;habitation Renens et agglomération (SCHR)</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133284313.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133284313.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133284313.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133284313.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133284313%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 86%
@@ -3016,7 +3016,7 @@ Société Coopérative d&#39;habitation Morges
 <a href="https://terrajoie.ch/">Société coopérative d&#39;habitation TerrAjoie</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133285952.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133285952.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133285952.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133285952.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133285952%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -3059,7 +3059,7 @@ Société Coopérative d&#39;habitation Morges
 <a href="https://gchg.ch/membre/unilogis/">Société coopérative d&#39;habitation Unilogis</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460488.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460488.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133460488.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133460488.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -3096,7 +3096,7 @@ Société Coopérative d&#39;habitation Morges
 Société Coopérative d&#39;Habitations de l&#39;Ouest MIXage
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133308087.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133308087.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133308087.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133308087.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133308087%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -3135,7 +3135,7 @@ Société Coopérative d&#39;Habitations de l&#39;Ouest MIXage
 <a href="https://schlechene.ch">Société coopérative d&#39;habitations Le Chêne</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q131310187.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q131310187.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q131310187.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q131310187.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -3174,7 +3174,7 @@ Société Coopérative d&#39;Habitations de l&#39;Ouest MIXage
 <a href="https://lebled.ch">Société coopérative de construction et d’habitation Le Bled</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179442.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179442.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132179442.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132179442.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -3207,7 +3207,7 @@ Société Coopérative d&#39;Habitations de l&#39;Ouest MIXage
 <a href="https://gchg.ch/membre/uv/">Société coopérative de construction et d&#39;habitation UV</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461672.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461672.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461672.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133461672.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22owner%3Awikidata%22%3D%22Q133461672%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 0%
@@ -3244,7 +3244,7 @@ Société Coopérative d&#39;Habitations de l&#39;Ouest MIXage
 Société coopérative Jordils-Moulins
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132781287.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132781287.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q132781287.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q132781287.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -3273,7 +3273,7 @@ Société coopérative Jordils-Moulins
 Société coopérative Le Noirmont
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461585.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461585.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q133461585.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q133461585.geojson.atom">RSS</a>)
 </td>
 <td>✅
 </td>
@@ -3331,7 +3331,7 @@ Société coopérative Le Noirmont
 <a href="https://schl.ch/">Société coopérative d&#39;habitation Lausanne (SCHL)</a>
 </td>
 <td>
-<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q126741196.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q126741196.geojson.atom">RSS</a>)
+<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_Q126741196.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_Q126741196.geojson.atom">RSS</a>)
 </td>
 <td><a href="https://overpass-turbo.osm.ch/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25000%5D%3B%0Aarea%5B%22name%3Aen%22%3D%22Switzerland%22%5D-%3E.ch%3B%0A(%0Away(area.ch)%5B~%22owner%3Atype%7Coperator%3Atype%22~%22cooperative%22%5D%5B~%22building%7Cbuilding%3Apart%7Cbuilding%3Ause%22~%22%5E(residental%7Capartments%7Cdormitory%7Csheltered_housing)%24%22%5D%20%20-%3E%20.building%3B%0A%0Aforeach%20.building%20%7B%0A%20%20map_to_area%20-%3E%20.building_area%3B%0A%20%20%2F%2F%20Filter%20addresses%20node%20by%20excluding%20node%20with%20name%20(so%20amenity%2C%20tourism%2C%20leisure%2C%20etc.)%0A%20%20node(area.building_area)%5B%22addr%3Ahousenumber%22%5D%5B!%22name%22%5D%5B%22operator%3Awikidata%22%3D%22Q126741196%22%5D%5B!%22start_date%22%5D%20-%3E.addresses%3B%0A%20%20%0A%20%20foreach%20.addresses%20%7B%0A%20%20%20%20convert%20associated_addresses%20%0A%20%20%20%20%20%20%20%20%22__associated_id%22%3Dbuilding_area.u(id())%2C%0A%20%20%20%20%20%20%20%20%3A%3A%3D%3A%3A%3B%0A%20%20%20%20out%20geom%3B%0A%20%20%7D%0A%7D%0A)%3B%0A.building%20out%20geom%3B%0A&R">
 91%
