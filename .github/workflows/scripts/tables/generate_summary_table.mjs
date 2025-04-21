@@ -17,6 +17,7 @@ if(outputPath) {
 
 function getAggregatedData(features) {
     const buildings_and_parts_count = features.length;
+    const buildings_last_renovation_count = features.filter(feature => feature.properties.last_renovation).length
 
     return  {
         number_cooperative: getWikidataId(features).size,
@@ -25,6 +26,7 @@ function getAggregatedData(features) {
         completion_buildings_flats_percentage: getCompletionRate(features.filter(feature => feature.properties["building:flats"]).length, buildings_and_parts_count),
         completion_buildings_heating_percentage: getCompletionRate(features.filter(feature => feature.properties.heating).length, buildings_and_parts_count),
         completion_buildings_architect_percentage: getCompletionRate(features.filter(feature => feature.properties.architect).length, buildings_and_parts_count),
+        completion_buildings_architect_renovation_percentage: getCompletionRate(features.filter(feature => feature.properties["architect:renovation"]).length, buildings_last_renovation_count),
         completion_buildings_levels_percentage: getCompletionRate(features.filter(feature => feature.properties["building:levels"]).length, buildings_and_parts_count),
         completion_buildings_roof_levels_percentage: getCompletionRate(features.filter(feature => feature.properties["roof:levels"]).length, buildings_and_parts_count),
         completion_buildings_roof_shape_percentage: getCompletionRate(features.filter(feature => feature.properties["roof:shape"]).length, buildings_and_parts_count)
