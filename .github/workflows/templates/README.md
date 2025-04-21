@@ -17,6 +17,8 @@ At the moment, data can be checked and viewed on [umap](https://umap.openstreetm
 
 !include`raw="html"` /tmp/summary_table.en.html
 
+Find more about each column in the [contribution cheatsheet](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/CONTRIBUTE.md).
+
 [View the full list of owners/operators](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/Data_quality.md)
 
 #### Checks

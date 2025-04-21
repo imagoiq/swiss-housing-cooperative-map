@@ -14,6 +14,8 @@ Pour l'instant les données peuvent être vérifiés et affichées sur [umap](ht
 
 !include`raw="html"` /tmp/summary_table.fr.html
 
+Pour en savoir plus sur chaque colonne, consultez [l'aide-mémoire sur les contributions] (https://github.com/imagoiq/swiss-housing-cooperative/blob/main/CONTRIBUTE.md).
+
 [Voir la liste complète des propriétaires/opérateurs](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/Data_quality.md)
 
 #### Validation
