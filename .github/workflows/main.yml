@@ -89,6 +89,10 @@ jobs:
           node ./scripts/output/generate_json_tsv.mjs "operator" $output_dir/$cooperative_buildings_filename $output_dir/swiss_housing_cooperative_list_operators.tsv
           node ./scripts/output/generate_json_tsv.mjs "operator" $output_dir/$cooperative_buildings_filename $output_dir/swiss_housing_cooperative_list_operators.json
 
+      - name: Generate each identity into a file
+        run: |
+          node ./scripts/output/generate_identity_file.mjs $output_dir/$cooperative_buildings_filename $output_dir/identity/
+
       - name: Generate Checks
         run: |
           node ./scripts/checks/generate_buildings_checks.mjs $output_dir/$cooperative_buildings_filename $checks_dir/buildings_errors.json
