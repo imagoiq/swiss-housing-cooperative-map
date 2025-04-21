@@ -29,7 +29,7 @@ cheatsheet](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/CONTR
 <a href="https://www.wikidata.org/wiki/Q133282712">Q133282712</a>
 </td>
 <td>
-Coopelia
+<a href="https://coopelia.ch/">Coopelia</a>
 </td>
 <td>✅
 </td>

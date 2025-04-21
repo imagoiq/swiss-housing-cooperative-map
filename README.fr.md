@@ -25,8 +25,8 @@ Pour l’instant les données peuvent être vérifiés et affichées sur
 <table>
 <thead>
 <tr>
-<th rowspan="2" scope="col">Wikidata</th>
-<th rowspan="2" scope="col">Name (abbreviation)</th>
+<th rowspan="2" scope="col">Number of cooperative</th>
+<th rowspan="2" scope="col">Number of buildings</th>
 <th colspan="8" scope="colgroup">Completion rate</th>
 </tr>
 <tr>
@@ -41,6 +41,26 @@ Pour l’instant les données peuvent être vérifiés et affichées sur
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>87</td>
+<td>797</td>
+<td>59%
+</td>
+<td>53%
+</td>
+<td>39%
+</td>
+<td>21%
+</td>
+<td>%
+</td>
+<td>57%
+</td>
+<td>39%
+</td>
+<td>38%
+</td>
+</tr>
 </tbody>
 </table>
 
