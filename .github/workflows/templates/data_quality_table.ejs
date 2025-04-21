@@ -35,7 +35,7 @@
             </td>
             <td>
                 <% if (locals[i].wikidata) { -%>
-                    <a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_<%= locals[i].wikidata %>.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_<%= locals[i].wikidata %>.geojson.atom">RSS</a>)
+                    <a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity/swiss_housing_cooperative_<%= locals[i].wikidata %>.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/commits/main/output/identity/swiss_housing_cooperative_<%= locals[i].wikidata %>.geojson.atom">RSS</a>)
                 <% } -%>
             </td>
             <td><%= displayCompletionRate(locals[i].completion_buildings_start_date_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"start_date\"]") -%></td>
