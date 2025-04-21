@@ -16,7 +16,7 @@ Q133459822		Coopérative d'habitation L'habrik		https://lhabrik.ch/		CHE-113.640
 Q133459856		Coopérative d'habitation La Renouvelle				CHE-174.689.305	1	0			2017-01-01T00:00:00.000Z	2017-01-01T00:00:00.000Z	1	0	0	0	0	,La Chaux-de-Fonds	,2300
 Q133459866		Coopérative d'habitation Le Jet d'Eau		https://gchg.ch/membre/le-jet-deau/	1976-01-01T00:00:00Z	CHE-100.292.412	4	211					0	0	0	0	0	,Genève,Thônex	,1209,1202,1226
 Q133459875		Coopérative d'habitation Le Verger de Champlong-Marbriers		https://gchg.ch/membre/le-verger-de-champlong-marbriers/	2010-01-01T00:00:00Z	CHE-293.874.329	1	38					0	0	0	0	0	,Petit-Lancy	,1213
-Q133459877		Coopérative d'habitation Les Ailes		https://www.lesailes.ch/	1955-01-01T00:00:00Z	CHE-102.227.609	15	513	2004-01-01T00:00:00.000Z				0	0	0	0	0	,Cointrin,Genève,Satigny,Onex,Meyrin	,1216,1202,1209,1201,1242,1213,1217
+Q133459877		Coopérative d'habitation Les Ailes		https://www.lesailes.ch/	1955-01-01T00:00:00Z	CHE-102.227.609	15	513	2004-01-01T00:00:00.000Z				0	0	0	0	0	,Cointrin,Genève,Le Grand-Saconnex,Satigny,Onex,Meyrin	,1216,1202,1218,1209,1201,1242,1213,1217
 Q133284155		Coopérative d'habitation Les Coloriés		https://www.cooplescolories.ch		CHE-307.980.218	1	6	1780-01-01T00:00:00.000Z	1780-01-01T00:00:00.000Z	2021-01-01T00:00:00.000Z	2021-01-01T00:00:00.000Z	1	0	0	0	0	Attalens	1616
 Q132179508		Coopérative d'habitation Les Jardins de la Paix	Les Jardins de la Paix	https://jardinsdelapaix.ch/	1990-01-01T00:00:00Z	CHE-102.428.645	7	65	1994-01-01T00:00:00.000Z				0	1	2	0	0	La Tour-de-Peilz,Vevey	1814,1800
 Q133282425		Coopérative d'habitation Les Voirets		https://voirets.ch/		CHE-100.638.315	29	0					0	0	0	0	0	,Plan-les-Ouates	,1228
@@ -59,7 +59,10 @@ Q132179383		Ecopolis		https://ecopolis.ch/	2002-01-01T00:00:00Z	CHE-332.721.134	
 Q133459738		Fomhab		https://gchg.ch/membre/fomhab/	1947-01-01T00:00:00Z	CHE-100.845.535	26	344					0	0	0	0	0	,Genève,Thônex,Les Avanchets,Bellevue,Confignon,Bernex,Carouge,Perly,Geneva	,1201,1226,1220,1293,1232,1233,1227,1258,1205,1203
 Q133282940		Graphis		https://www.graphis.ch	1945-01-01T00:00:00Z	CHE-105.949.857	6	402	1948-01-01T00:00:00.000Z	1955-01-01T00:00:00.000Z			1	0	0	0	0	,Fribourg,Genève	,1700,1202
 Q133282952	CDEF	La coopérative d'en face		https://www.cdef.ch/	2011-01-01T00:00:00Z	CHE-278.099.586	1	21					0	0	0	0	0	Neuchâtel	2000
+Q133460016		Les Joyeux Logis		https://gchg.ch/membre/les-joyeux-logis/	1970-01-01T00:00:00Z	CHE-102.239.156	11	64					0	0	0	0	0	Les Avanchets,,Bernex,Confignon,Carouge,Versoix,Geneva	1220,,1233,1232,1227,1290
+Q133460033		Les Rocailles		https://lesrocailles.ch/	1949-05-31T00:00:00Z	CHE-103.992.569	9	0					0	0	0	0	0	Peseux,,Neuchâtel	2034,,2000
 Q131748305		Logement Idéal		https://www.logement-ideal.ch	1960-01-01T00:00:00Z	CHE-101.746.261	58	875					0	12	37	0	2	,Lausanne,Pully,Romanel-sur-Lausanne,Crissier,Mézières VD,Granges-près-Marnand,Echallens,Epalinges,Corsier-sur-Vevey	,1006,1010,1018,1004,1009,1032,1023m,1083,1523,1007,1040,1066,1804
+Q133460337		Mon Logis		https://www.monlogis.ch/	1948-01-01T00:00:00Z	CHE-106.400.373	26	0					0	0	0	0	0	,Neuchâtel,Chez-le-Bart,Colombier,Les Hauts-Geneveys,Le Landeron,Bevaix	,2000,2025,2013,2208,2525,2022
 Q132179778		Société Coopérative d’Habitation Charmontey	SCH Charmontey	https://www.charmontey.ch/	1947-05-30T00:00:00Z	CHE-103.978.954	13	141					0	2	0	0	0	,Vevey	,1800
 Q132678496		Société coopérative d’habitation Cité des Philosophes				CHE-102.320.806	6	34					0	6	0	0	0	,Morges	,1110
 Q133459619		Société Coopérative d’Habitation de Rolle		https://www.schrolle.ch	1964-01-01T00:00:00Z	CHE-106.621.388	11	143	1974-01-01T00:00:00.000Z	2019-12-01T00:00:00.000Z			2	0	0	0	0	,Rolle,Mont-sur-Rolle	,1180,1185
@@ -74,6 +77,7 @@ Q133456739		Société Coopérative d'Habitation Montreux		https://www.schamontre
 Q132677586		Société Coopérative d'habitation Morges				CHE-100.382.860	8	0					0	8	0	0	0	,Morges	,1110
 Q133460349		Société coopérative d'habitation Nouveau Comté		https://chnc.ch/	2014-05-24T00:00:00Z	CHE-106.400.373	1	12	2021-09-01T00:00:00.000Z	2021-09-01T00:00:00.000Z			0	0	0	0	0	Château-d'Oex	1660
 Q132179712	SCHP	Société coopérative d'habitation Pully		https://schpully.ch	1988-01-01T00:00:00Z	CHE-101.923.445	2	61	1991-01-01T00:00:00.000Z	2004-01-01T00:00:00.000Z	2016-01-01T00:00:00.000Z		1	0	0	0	0	,Pully	,1009
+Q133284313	SCHR	Société coopérative d'habitation Renens et agglomération		https://schrenens.ch/		CHE-103.323.546	29	255	1969-01-01T00:00:00.000Z				22	0	0	0	0	,Renens	,1020
 Q133285952		Société coopérative d'habitation TerrAjoie		https://terrajoie.ch/		CHE-139.513.475	1	0			2026-01-01T00:00:00.000Z	2026-01-01T00:00:00.000Z	1	0	0	0	0		
 Q133460488		Société coopérative d'habitation Unilogis		https://gchg.ch/membre/unilogis/		CHE-112.244.733	1	127	2023-01-01T00:00:00.000Z	2023-01-01T00:00:00.000Z			0	0	0	0	0	,Genève	,1209
 Q133308087		Société Coopérative d'Habitations de l'Ouest MIXage	SCHO MIXage			CHE-114.780.965	1	0					0	0	0	0	0	Crissier	1023
