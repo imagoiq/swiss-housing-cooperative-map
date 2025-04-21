@@ -16,9 +16,11 @@ if(outputPath) {
 }
 
 function getAggregatedData(features) {
+    const buildings_and_parts_count = features.length;
+
     return  {
         number_cooperative: getWikidataId(features).size,
-        number_buildings: features.length,
+        number_buildings: buildings_and_parts_count,
         completion_buildings_start_date_percentage: getCompletionRate(features.filter(feature => feature.properties.start_date).length, buildings_and_parts_count),
         completion_buildings_flats_percentage: getCompletionRate(features.filter(feature => feature.properties["building:flats"]).length, buildings_and_parts_count),
         completion_buildings_heating_percentage: getCompletionRate(features.filter(feature => feature.properties.heating).length, buildings_and_parts_count),
