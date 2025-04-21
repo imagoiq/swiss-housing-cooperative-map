@@ -6,18 +6,18 @@ vivante [^2] !
 
 D’après mes recherches, aucune carte des coopératives d’habitation
 n’existe pour l’ensemble des cantons [^3]. Ceci est un projet
-expérimental ayant pour but de cartographier et de liste les immeubles
+expérimental ayant pour but de cartographier et de lister les immeubles
 des coopératives d’habitation de Suisse avec un maximum de détails.
 
 Ce projet n’a pas pour but de jouer les intermédiaires ou de construire
 un nouvel outil, mais de documenter et de montrer ce qui est possible,
 quelles sont les limites en utilisant OpenStreetMap et Wikidata ainsi
-que d’utiliser un minimum d’outil et avec le minimum de maintenance
+que d’utiliser un minimum d’outils et avec le minimum de maintenance
 possible.
 
 ## Les données
 
-Pour l’instant les données peuvent être vérifiés et affichées sur
+Pour l’instant, les données peuvent être vérifiées et affichées sur
 [umap](https://umap.openstreetmap.fr/fr/map/cooperative-dhabitations-en-suisse_1140470).
 
 ### Qualité des données
@@ -74,7 +74,7 @@ propriétaires/opérateurs](https://github.com/imagoiq/swiss-housing-cooperative
 #### Validation
 
 Pour garantir la qualité des données, certaines validations sont
-générées:
+générées :
 
 - [Liste des adresses dupliquées et incomplètes en
   JSON](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/checks/buildings_errors.json)
@@ -105,7 +105,14 @@ générées:
 
 ## Observer les changements
 
-TODO
+Utilisez les liens
+[RSS](https://www.journaldunet.fr/web-tech/guide-de-l-entreprise-digitale/1125572-rss-qu-est-ce-que-c-est/)
+pour suivre les changements pour la validation des données (voir
+ci-dessus), pour chaque opérateur/propriétaire ([voir le tableau de
+qualité des données des
+propriétaires/opérateurs](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/Data_quality.md))
+ou pour n’importe quel fichier de ce dépôt en ajoutant `.atom` à la fin
+du fichier.
 
 ## Contribuer
 
@@ -119,13 +126,13 @@ demandez de l’aide.
 Il n’existe pas (encore) de modèle spécialement pour les coopératives de
 logement, mais la plupart des clés proposées ici sont définies dans le
 wiki d’OpenStreetMap. Celles issues de taginfo ou de ma propre
-imagination sont déclaré sur cette page avec \[balise de facto\].
+imagination sont déclarées sur cette page avec \[balise de facto\].
 
 Pour cibler les coopératives de logement, la requête prend en compte les
-élèments avec la clé `owner=*` et `operator=*` qui sont associées avec
+éléments avec la clé `owner=*` et `operator=*` qui sont associées avec
 `building|building:part|building:use=residential|apartments|dormitory|sheltered_housing`.
 Cela permet d’éviter d’associer les coopératives culturelles et d’arts
-liés à un bâtiment (comme la [Space Alliance
+liées à un bâtiment (comme la [Space Alliance
 Coopérative](https://www.openstreetmap.org/way/38326020)). Probablement
 qu’à l’avenir, il faudra utiliser un filtre encore plus détaillé. À
 noter que parfois, le bâtiment est à la propriété d’une coopérative,
@@ -136,7 +143,7 @@ ces cas de figure.
 
 Les quartiers entièrement fondés par une coopérative sont également pris
 en compte dans les données à l’aide de la clé `landuse=residential`.
-Aussi, il est bien de rajouter les balises sur chaque bâtiment pour
+Aussi, il est bon de rajouter les balises sur chaque bâtiment pour
 pouvoir les comptabiliser par exemple.
 
 ### Balises de base
@@ -260,7 +267,7 @@ En Suisse, il existe deux types de logements abordables :
 
 #### Divers
 
-Très souvent les coopératives d’habitation possèdent des équipements
+Très souvent, les coopératives d’habitation possèdent des équipements
 supplémentaires :
 
 - Une salle commune. Si celle-ci est public, il est possible de la
