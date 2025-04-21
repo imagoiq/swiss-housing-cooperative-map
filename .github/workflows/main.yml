@@ -6,7 +6,6 @@ env:
   checks_dir: '../../checks'
   templates_dir: './templates'
   tmp_dir: '/tmp'
-  cache_dir: '../../.cache'
   overpass_server: 'http://overpass.osm.ch'
   cooperative_buildings_tmp: 'swiss_housing_cooperative_buildings.json'
   cooperative_buildings_filename: 'swiss_housing_cooperative_buildings.geojson'
@@ -103,7 +102,6 @@ jobs:
           node ./scripts/tables/generate_data_quality_table.mjs "operator" $output_dir/$cooperative_buildings_filename $tmp_dir/swiss_housing_cooperative_list_operators_data_quality.json
           node ./scripts/tables/generate_summary_table.mjs $output_dir/$cooperative_buildings_filename $tmp_dir/swiss_housing_cooperative_summary.json
           
-          
           # Data quality
           ejs ./templates/data_quality_table.ejs lang=en identity="owner" query="$query" -f $tmp_dir/swiss_housing_cooperative_list_owners_data_quality.json -o "$tmp_dir/owners_data_quality_table.html" -w
           ejs ./templates/data_quality_table.ejs lang=en identity="operator" query="$query" -f $tmp_dir/swiss_housing_cooperative_list_operators_data_quality.json -o "$tmp_dir/operators_data_quality_table.html" -w
@@ -111,11 +109,11 @@ jobs:
           pandoc "$templates_dir/Data_quality.md" --filter pandoc-include -o "$root_dir/Data_quality.md" -t gfm
           
           # English
-          ejs ./templates/data_quality_table.ejs lang=en -f $tmp_dir/swiss_housing_cooperative_summary.json -o "$tmp_dir/summary_table.en.html" -w
+          ejs ./templates/summary_table.ejs lang=en -f $tmp_dir/swiss_housing_cooperative_summary.json -o "$tmp_dir/summary_table.en.html" -w
           pandoc "$templates_dir/README.md" --filter pandoc-include -o "$root_dir/README.md" -t gfm
           
           # French
-          ejs ./templates/data_quality_table.ejs lang=en -f $tmp_dir/swiss_housing_cooperative_summary.json -o "$tmp_dir/summary_table.fr.html" -w
+          ejs ./templates/summary_table.ejs lang=en -f $tmp_dir/swiss_housing_cooperative_summary.json -o "$tmp_dir/summary_table.fr.html" -w
           pandoc "$templates_dir/README.fr.md" --filter pandoc-include -o "$root_dir/README.fr.md" -t gfm
 
       # Commit all changed files back to the repository
@@ -123,7 +121,7 @@ jobs:
         run: |
           if [[ '${{ github.event_name}}' == 'schedule' ]]; then
             echo "COMMIT_MSG=Weekly data update" >> $GITHUB_ENV
-          elif [[ '${{ github.event_name}}' -eq 'push' ]]; then
+          elif [[ '${{ github.event_name}}' == 'push' ]]; then
             echo "COMMIT_MSG=Update data after: ${{ github.event.commits[0].message }}" >> $GITHUB_ENV
           else
             echo "COMMIT_MSG=Manual data update" >> $GITHUB_ENV
