@@ -1,5 +1,4 @@
 import { readFileSync,writeFileSync } from 'node:fs';
-import { tsvFormat} from "d3-dsv";
 import {getCompletionRate, operatorFilter, ownerFilter } from "../utils.mjs";
 
 const identity = process.argv[2];
@@ -17,11 +16,10 @@ const aggregatedData = Object.values(groupedByIdentity).map(features => getAggre
 const sortedAggregatedData = aggregatedData.sort((a,b) => a.name?.localeCompare(b.name));
 
 if(outputPath) {
-    writeFileSync(outputPath, outputPath.endsWith('.tsv') ? tsvFormat(sortedAggregatedData) : JSON.stringify(sortedAggregatedData));
+    writeFileSync(outputPath, JSON.stringify(sortedAggregatedData));
 } else {
     console.log(JSON.stringify(sortedAggregatedData));
 }
-
 
 function getAggregatedIdentity(features, identity) {
     const buildings_and_parts_count = features.length;

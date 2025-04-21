@@ -2,31 +2,40 @@
 
 Saviez-vous que les coopératives d'habitation sont une spécialité en Suisse depuis plus de 100 ans ? [^1] Il s'agit même d'une tradition vivante [^2] !
 
-Ceci est un projet expérimental ayant pour but de cartographier et de liste les immeubles des coopératives d'habitation de Suisse.
-Ce projet n'a pas pour but de jouer les intermédiaires ou de construire un nouvel outil, mais de documenter et de montrer ce qui est possible, et quelles sont les limites en utilisant OpenStreetMap et Wikidata.
+D'après mes recherches, aucune carte des coopératives d'habitation n'existe pour l'ensemble des cantons [^3]. Ceci est un projet expérimental ayant pour but de cartographier et de liste les immeubles des coopératives d'habitation de Suisse avec un maximum de détails.
 
-D'après mes recherches, aucune carte de ce type n'existe pour l'ensemble des cantons. À Genève, la Fondation pour la promotion du logement bon marché et de l'habitat coopératif (FPLC) fournit une \[carte pour le canton de Genève] (<https://fplc.ch/cartes/cooperatives.htm>).
+Ce projet n'a pas pour but de jouer les intermédiaires ou de construire un nouvel outil, mais de documenter et de montrer ce qui est possible, quelles sont les limites en utilisant OpenStreetMap et Wikidata ainsi que d'utiliser un minimum d'outil et avec le minimum de maintenance possible.
 
-## Utiliser les données
+## Les données
 
-Pour l'instant les données sont visibles sur [umap](https://umap.openstreetmap.fr/fr/map/cooperative-dhabitations-en-suisse_1140470).
+Pour l'instant les données peuvent être vérifiés et affichées sur [umap](https://umap.openstreetmap.fr/fr/map/cooperative-dhabitations-en-suisse_1140470).
 
-- GeoJson
-  - [Bâtiments](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_buildings.geojson)
-  - [Quartiers](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_areas.geojson)
-- TSV
+### Qualité des données
+
+!include`raw="html"` /tmp/summary_table.fr.html
+
+[Voir la liste complète des propriétaires/opérateurs](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/Data_quality.md)
+
+#### Validation
+
+Pour garantir la qualité des données, certaines validations sont générées:
+
+- [Liste des adresses dupliquées et incomplètes en JSON](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/checks/buildings_errors.json) ([RSS](https://github.com/imagoiq/swiss-housing-cooperative-map/commits/main/checks/buildings_errors.json.atom))
+
+### Utiliser les données
+
+- TSV (utilisable dans votre tableur)
   - [Liste des propriétaires de type coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_owners.tsv)
   - [Liste des gestionnaires de type coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_operators.tsv)
+  - [Pour un propriétaire/gestionnaire en particulier](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity)
+- GeoJson (pour les applications web ou l'analyse de données)
+  - [Bâtiments](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_buildings.geojson)
+    -  [Pour un propriétaire/gestionnaire en particulier](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity)
+  - [Quartiers](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_areas.geojson)
 
-## Qualité des données
+## Observer les changements
 
-### Propriétaires
-
-!include`raw="html"` /tmp/owners_data_quality_table.fr.html
-
-### Gestionnaires
-
-!include`raw="html"` /tmp/operators_data_quality_table.fr.html
+TODO
 
 ## Contribuer
 
@@ -158,6 +167,7 @@ Chaque dimanche, les fichiers sont mis à jour automatiquement via un [workflow 
 
 [^1]: [Isabelle Rey-Lefebvre, Les coopératives d’habitants en Suisse, un modèle contre la spéculation immobilière, Le Monde, 20 septembre 2022](https://www.lemonde.fr/economie/article/2022/09/20/habitat-ecologique-convivial-et-antispeculatif-le-modele-suisse-des-cooperatives-d-habitants_6142336_3234.html)
 [^2]: [Les traditions vivantes en Suisse, Coopératives d'habitation](https://www.lebendige-traditionen.ch/tradition/fr/home/traditions/cooperatives-d_habitation.html)
+[^3]: À Genève, la Fondation pour la promotion du logement bon marché et de l'habitat coopératif (FPLC) fournit une [carte pour le canton de Genève](https://fplc.ch/cartes/cooperatives.htm).
 
 - [Pattaroni Luca, Marmy, Vanessa, Les coopératives de logement dans le Canton de Vaud, EPFL/SCL, octobre 2016](https://www.vd.ch/fileadmin/user_upload/themes/vie_privee/logement/fichiers_pdf/161013_etude-cooperatives-bd.pdf)
 - [Temps Présent, Coopératives d'habitants, plus belle la vie?, RTS, 26 avril 2018](https://www.rts.ch/play/tv/temps-present/video/cooperatives-dhabitants-plus-belle-la-vie?urn=urn:rts:video:9536679&showUrn=urn%3Arts%3Ashow%3Atv%3A9536679)

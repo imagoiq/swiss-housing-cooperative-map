@@ -4,39 +4,41 @@
 
 Did you know that cooperative housing has been a specialty in Switzerland for over 100 years? [^1] In fact, it's even a living tradition [^2]!
 
-This experimental project aimed at mapping and listing the housing
-cooperatives in Switzerland with a maximum of details. This project does
-not aim at playing an intermediate or building new tool, but document
-and show what is possible, and what are the limitations using OpenStreetMap and Wikidata.
+No cooperative housing map seems to exist across cantons [^3]. This experimental project aimed at mapping and listing the housing
+cooperatives in Switzerland with a maximum of details. 
 
-No such map seems to exist across cantons. In Geneva, the
-Fondation pour la promotion du logement bon marché et de l'habitat
-coopératif (FPLC) provide a [map for the canton of Geneva](https://fplc.ch/cartes/cooperatives.htm).
+This project does not aim at playing an intermediate or building new tool, but document shows what is possible and the limitations of using OpenStreetMap and Wikidata as well as using the minimum of tooling and target the minimum of maintenance.
 
-## Use the data
+## The data
 
-At the moment, data can be viewed on [umap](https://umap.openstreetmap.fr/fr/map/cooperative-dhabitations-en-suisse_1140470).
+At the moment, data can be checked and viewed on [umap](https://umap.openstreetmap.fr/fr/map/cooperative-dhabitations-en-suisse_1140470).
 
--   GeoJson
-    -   [Buildings](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_buildings.geojson)
-    -   [Areas](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_areas.geojson)
--   TSV
+### Data quality
+
+!include`raw="html"` /tmp/summary_table.en.html
+
+[View the full list of owners/operators](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/Data_quality.md)
+
+#### Checks
+
+To ensure qualitative data, some custom checks are generated:
+
+- [Duplicated and incomplete addresses list in JSON](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/checks/buildings_errors.json) ([RSS](https://github.com/imagoiq/swiss-housing-cooperative-map/commits/main/checks/buildings_errors.json.atom))
+
+### Usable output
+
+-   TSV (usable in your spreadsheet software)
     -   [List of cooperative owners](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_owners.tsv)
     -   [List of cooperative operators](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_operators.tsv)
+    -   [For a particular owner/operator](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity)
+-   GeoJson (for web application or data analysis)
+    -   [Buildings](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_buildings.geojson)
+      - [For a particular owner/operator](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity)
+    -   [Areas](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_areas.geojson)
 
-## Data quality
+## Watching for changes
 
-At the moment, all the following cooperatives have been mapped and retrieved.
-See [Status of the mapped data](https://github.com/imagoiq/swiss-housing-cooperative-map/issues/6) issue and [List of cooperative
-owners](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_owners.tsv) (completion percentage columns) for more information about data quality.
-
-### Owners
-
-!include`raw="html"` /tmp/owners_data_quality_table.html
-
-### Operators
-
-!include`raw="html"` /tmp/operators_data_quality_table.html
+TODO
 
 ## Contribute
 
@@ -147,6 +149,8 @@ In Switzerland, there are two kinds of affordable housing:
     propose to use [`rent:regulation=`](https://taginfo.openstreetmap.org/keys/rent%3Aregulation) with `yes` or `only` to differentiate a building where all the flat
     have it or only some.
 
+One limitation is that the subsidization in some part of Switzerland seems to be limited to a certain number of years. More knowledge and experience about it is more than welcome!
+
 #### Miscellaneous
 
 Very often, housing cooperatives have additional facilities:
@@ -201,6 +205,7 @@ Every Sunday, the output files are automatically updated via a [Github Workflow]
 
 [^1]: [French] [Isabelle Rey-Lefebvre, Les coopératives d’habitants en Suisse, un modèle contre la spéculation immobilière, Le Monde, 20 septemner 2022](https://www.lemonde.fr/economie/article/2022/09/20/habitat-ecologique-convivial-et-antispeculatif-le-modele-suisse-des-cooperatives-d-habitants_6142336_3234.html)
 [^2]: [Living Traditions in Switzerland, Housing cooperatives](https://www.lebendige-traditionen.ch/tradition/en/home/traditions/housing-cooperatives.html)
+[^3]: In Geneva, the Fondation pour la promotion du logement bon marché et de l'habitat coopératif (FPLC) provide a [map for the canton of Geneva](https://fplc.ch/cartes/cooperatives.htm).
 
 - [French] [Pattaroni Luca, Marmy, Vanessa, Les coopératives de logement dans le Canton de Vaud, EPFL/SCL, october 2016](https://www.vd.ch/fileadmin/user_upload/themes/vie_privee/logement/fichiers_pdf/161013_etude-cooperatives-bd.pdf)
 - [French] [Temps Présent, Coopératives d'habitants, plus belle la vie?, RTS, 26 april 2018](https://www.rts.ch/play/tv/temps-present/video/cooperatives-dhabitants-plus-belle-la-vie?urn=urn:rts:video:9536679&showUrn=urn%3Arts%3Ashow%3Atv%3A9536679)

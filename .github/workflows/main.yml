@@ -3,7 +3,7 @@ name: Data collection update
 env:
   root_dir: '../../'
   output_dir: '../../output'
-  data_quality_dir: '../../data_quality'
+  checks_dir: '../../checks'
   templates_dir: './templates'
   tmp_dir: '/tmp'
   cache_dir: '../../.cache'
@@ -90,24 +90,32 @@ jobs:
           node ./scripts/output/generate_json_tsv.mjs "operator" $output_dir/$cooperative_buildings_filename $output_dir/swiss_housing_cooperative_list_operators.tsv
           node ./scripts/output/generate_json_tsv.mjs "operator" $output_dir/$cooperative_buildings_filename $output_dir/swiss_housing_cooperative_list_operators.json
 
-      - name: Generate data_quality json checker
+      - name: Generate Checks
         run: |
-          node ./scripts/data_quality/generate_data_quality_checker.mjs $output_dir/$cooperative_buildings_filename $data_quality_dir/building_errors.json
+          node ./scripts/checks/generate_buildings_checks.mjs $output_dir/$cooperative_buildings_filename $checks_dir/buildings_errors.json
 
       - name: Update readme data quality section
         run: |
           query=$(base64 ./query/buildings.overpassql)
-          node ./scripts/data_quality/generate_data_quality_table.mjs "owner" $output_dir/$cooperative_buildings_filename $tmp_dir/swiss_housing_cooperative_list_owners_data_quality.json
-          node ./scripts/data_quality/generate_data_quality_table.mjs "operator" $output_dir/$cooperative_buildings_filename $tmp_dir/swiss_housing_cooperative_list_operators_data_quality.json
           
-          # English
+          # Data
+          node ./scripts/tables/generate_data_quality_table.mjs "owner" $output_dir/$cooperative_buildings_filename $tmp_dir/swiss_housing_cooperative_list_owners_data_quality.json
+          node ./scripts/tables/generate_data_quality_table.mjs "operator" $output_dir/$cooperative_buildings_filename $tmp_dir/swiss_housing_cooperative_list_operators_data_quality.json
+          node ./scripts/tables/generate_summary_table.mjs $output_dir/$cooperative_buildings_filename $tmp_dir/swiss_housing_cooperative_summary.json
+          
+          
+          # Data quality
           ejs ./templates/data_quality_table.ejs lang=en identity="owner" query="$query" -f $tmp_dir/swiss_housing_cooperative_list_owners_data_quality.json -o "$tmp_dir/owners_data_quality_table.html" -w
           ejs ./templates/data_quality_table.ejs lang=en identity="operator" query="$query" -f $tmp_dir/swiss_housing_cooperative_list_operators_data_quality.json -o "$tmp_dir/operators_data_quality_table.html" -w
+          
+          pandoc "$templates_dir/Data_quality.md" --filter pandoc-include -o "$root_dir/Data_quality.md" -t gfm
+          
+          # English
+          ejs ./templates/data_quality_table.ejs lang=en -f $tmp_dir/swiss_housing_cooperative_summary.json -o "$tmp_dir/summary_table.en.html" -w
           pandoc "$templates_dir/README.md" --filter pandoc-include -o "$root_dir/README.md" -t gfm
           
           # French
-          ejs ./templates/data_quality_table.ejs lang=fr identity="owner" query="$query" -f $tmp_dir/swiss_housing_cooperative_list_owners_data_quality.json -o "$tmp_dir/owners_data_quality_table.fr.html" -w
-          ejs ./templates/data_quality_table.ejs lang=fr identity="operator" query="$query" -f $tmp_dir/swiss_housing_cooperative_list_operators_data_quality.json -o "$tmp_dir/operators_data_quality_table.fr.html" -w
+          ejs ./templates/data_quality_table.ejs lang=en -f $tmp_dir/swiss_housing_cooperative_summary.json -o "$tmp_dir/summary_table.fr.html" -w
           pandoc "$templates_dir/README.fr.md" --filter pandoc-include -o "$root_dir/README.fr.md" -t gfm
 
       # Commit all changed files back to the repository
