@@ -96,6 +96,7 @@ jobs:
       - name: Generate Checks
         run: |
           node ./scripts/checks/generate_buildings_checks.mjs $output_dir/$cooperative_buildings_filename $checks_dir/buildings_errors.json
+          node ./scripts/checks/generate_wikidata_checks.mjs $output_dir/$cooperative_buildings_filename $checks_dir/wikidata_errors.json
 
       - name: Update readme data quality section
         run: |

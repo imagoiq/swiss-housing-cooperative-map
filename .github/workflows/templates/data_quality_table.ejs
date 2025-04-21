@@ -3,6 +3,7 @@
     <tr>
         <th rowspan="2" scope="col">Wikidata</th>
         <th rowspan="2" scope="col">Name (abbreviation)</th>
+        <th rowspan="2" scope="col">GeoJSON</th>
         <th colspan="8" scope="colgroup">Completion rate</th>
     </tr>
     <tr>
@@ -31,6 +32,11 @@
                 <% } else { -%>
                     <%= name %>
                  <% } -%>
+            </td>
+            <td>
+                <% if (locals[i].wikidata) { -%>
+                    <a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/identity/swiss_housing_cooperative_<%= locals[i].wikidata %>.geojson">GeoJSON</a> (<a href="https://github.com/imagoiq/swiss-housing-cooperative/blob/main/identity/swiss_housing_cooperative_<%= locals[i].wikidata %>.geojson.atom">RSS</a>)
+                <% } -%>
             </td>
             <td><%= displayCompletionRate(locals[i].completion_buildings_start_date_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"start_date\"]") -%></td>
             <td><%= displayCompletionRate(locals[i].completion_buildings_flats_percentage, getWikidataQueryPrefix(locals[i]) + "[!\"building:flats\"]") -%></td>

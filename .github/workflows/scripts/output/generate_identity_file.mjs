@@ -7,6 +7,7 @@ const outputPath = process.argv[3];
 const featuresFile = JSON.parse(await readFileSync(inputGeojsonPath, { encoding: 'utf8' }));
 
 const groupedByIdentity = Object.groupBy(featuresFile.features, feature => feature.properties["owner:wikidata"] || feature.properties["operator:wikidata"]);
+delete groupedByIdentity[undefined]
 
 // Output
 for(const identity in groupedByIdentity) {
