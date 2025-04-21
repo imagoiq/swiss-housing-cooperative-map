@@ -15,6 +15,10 @@ quelles sont les limites en utilisant OpenStreetMap et Wikidata ainsi
 que d’utiliser un minimum d’outils et avec le minimum de maintenance
 possible.
 
+Pour l’instant, le nom de ce projet peut être trompeur ou en tout cas un
+peu décevant, car la plupart des données concernent la Suisse romande.
+N’hésitez donc pas à ajouter d’autres données ailleurs en Suisse !
+
 ## Les données
 
 Pour l’instant, les données peuvent être vérifiées et affichées sur

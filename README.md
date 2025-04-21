@@ -16,6 +16,10 @@ tool, but document shows what is possible and the limitations of using
 OpenStreetMap and Wikidata as well as using the minimum of tooling and
 target the minimum of maintenance.
 
+At the moment, the name of this project might be misleading or deceptive
+as most of the data is from Western Switzerland, so feel free to add
+more data outside it!
+
 ## The data
 
 At the moment, data can be checked and viewed on
