@@ -26,6 +26,7 @@ Find more about each column in the [contribution cheatsheet](https://github.com/
 To ensure qualitative data, some custom checks are generated:
 
 - [Duplicated and incomplete addresses list in JSON](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/checks/buildings_errors.json) ([RSS](https://github.com/imagoiq/swiss-housing-cooperative-map/commits/main/checks/buildings_errors.json.atom))
+- [Missing owner/operator wikidata list in JSON](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/checks/wikidata_errors.json) ([RSS](https://github.com/imagoiq/swiss-housing-cooperative-map/commits/main/checks/wikidata_errors.json.atom))
 
 ### Usable output
 
