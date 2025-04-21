@@ -79,6 +79,9 @@ générées:
 - [Liste des adresses dupliquées et incomplètes en
   JSON](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/checks/buildings_errors.json)
   ([RSS](https://github.com/imagoiq/swiss-housing-cooperative-map/commits/main/checks/buildings_errors.json.atom))
+- [iste des propriétaires/opérateurs sans identifiant wikidata en
+  JSON](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/checks/buildings_errors.json)
+  ([RSS](https://github.com/imagoiq/swiss-housing-cooperative-map/commits/main/checks/buildings_errors.json.atom))
 
 ### Utiliser les données
 
