@@ -53,7 +53,7 @@ At the moment, data can be checked and viewed on
 </td>
 <td>21%
 </td>
-<td>%
+<td>8%
 </td>
 <td>57%
 </td>
@@ -85,11 +85,16 @@ To ensure qualitative data, some custom checks are generated:
     operators](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_operators.tsv)
   - [For a particular
     owner/operator](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity)
-- GeoJson (for web application or data analysis)
+- GeoJSON (for web application or data analysis)
   - [Buildings](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_buildings.geojson)
   - [For a particular
     owner/operator](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity)
   - [Areas](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_areas.geojson)
+- JSON (for data analysis)
+  - [List of cooperative
+    owners](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_owners.json)
+  - [List of cooperative
+    operators](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_operators.json)
 
 ## Watching for changes
 
