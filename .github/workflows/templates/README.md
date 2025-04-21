@@ -44,7 +44,7 @@ To ensure qualitative data, some custom checks are generated:
 
 ## Watching for changes
 
-TODO
+Use the [RSS](https://www.businessinsider.com/guides/tech/what-is-rss-feed) links to watch changes for checks (see above), for individual operator/owner ([see the owners/operators data quality table](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/Data_quality.md)) or any file in this repository by adding `.atom` to the end of the file.
 
 ## Contribute
 
