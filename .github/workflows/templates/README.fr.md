@@ -28,10 +28,13 @@ Pour garantir la qualité des données, certaines validations sont générées:
   - [Liste des propriétaires de type coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_owners.tsv)
   - [Liste des gestionnaires de type coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_operators.tsv)
   - [Pour un propriétaire/gestionnaire en particulier](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity)
-- GeoJson (pour les applications web ou l'analyse de données)
+- GeoJSON (pour les applications web ou l'analyse de données)
   - [Bâtiments](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_buildings.geojson)
     -  [Pour un propriétaire/gestionnaire en particulier](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity)
   - [Quartiers](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_areas.geojson)
+- JSON (pour l'analyse de données)
+  - [Liste des propriétaires de type coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_owners.json)
+  - [Liste des gestionnaires de type coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_operators.json)
 
 ## Observer les changements
 
