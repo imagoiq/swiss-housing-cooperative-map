@@ -6,11 +6,11 @@ const featuresFile = JSON.parse(await readFileSync(inputGeojsonPath, { encoding:
 
 for (let feature of featuresFile.features) {
     if(feature.properties.start_date) {
-        feature.properties.start_date = new Date(feature.properties.start_date);
+        feature.properties.start_date_parsed = new Date(feature.properties.start_date);
     }
 
     if(feature.properties.last_renovation) {
-        feature.properties.last_renovation = new Date(feature.properties.last_renovation);
+        feature.properties.last_renovation_parsed = new Date(feature.properties.last_renovation);
     }
 }
 

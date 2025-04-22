@@ -39,10 +39,10 @@ function getAggregatedIdentity(features, identity) {
         building_flats: features.reduce((acc, curr) => {
             return acc + (parseInt(curr?.properties["building:flats"], 10) || 0);
         }, 0),
-        building_start_date_first: features.sort((featureA, featureB) => new Date(featureA.properties.start_date) - new Date(featureB.properties.start_date)).at(0).properties.start_date,
-        building_start_date_last: features.sort((featureA, featureB) => new Date(featureA.properties.start_date) - new Date(featureB.properties.start_date)).at(-1).properties.start_date,
-        building_last_renovation_first: features.sort((featureA, featureB) => new Date(featureA.properties.last_renovation) - new Date(featureB.properties.last_renovation)).at(0).properties.last_renovation,
-        building_last_renovation_last: features.sort((featureA, featureB) => new Date(featureA.properties.last_renovation) - new Date(featureB.properties.last_renovation)).at(-1).properties.last_renovation,
+        building_start_date_first: features.sort((featureA, featureB) => new Date(featureA.properties.start_date_parsed) - new Date(featureB.properties.start_date_parsed)).at(0).properties.start_date_parsed,
+        building_start_date_last: features.sort((featureA, featureB) => new Date(featureA.properties.start_date_parsed) - new Date(featureB.properties.start_date_parsed)).at(-1).properties.start_date_parsed,
+        building_last_renovation_first: features.sort((featureA, featureB) => new Date(featureA.properties.last_renovation_parsed) - new Date(featureB.properties.last_renovation_parsed)).at(0).properties.last_renovation_parsed,
+        building_last_renovation_last: features.sort((featureA, featureB) => new Date(featureA.properties.last_renovation_parsed) - new Date(featureB.properties.last_renovation_parsed)).at(-1).properties.last_renovation_parsed,
         building_last_renovation_count: buildings_last_renovation_count,
         buildings_subsidized_count: features.filter(feature => feature.properties.subsidized).length,
         buildings_rent_regulated_count: features.filter(feature => feature.properties["rent:regulation"]).length,
