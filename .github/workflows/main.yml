@@ -17,8 +17,9 @@ on:
   # Push of changes in scripts
   push:
     paths:
-      - .github/workflows/query
-      - .github/workflows/scripts
+      - .github/workflows/query/**/*
+      - .github/workflows/scripts/**/*
+      - !.github/workflows/templates
       - .github/workflows/main.yml
   # Every week, at 20:00 on Sunday
   schedule:
