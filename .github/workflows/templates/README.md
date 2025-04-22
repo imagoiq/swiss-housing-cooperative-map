@@ -35,7 +35,6 @@ To ensure qualitative data, some custom checks are generated:
 -   TSV (usable in your spreadsheet software)
     -   [List of cooperative owners](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_owners.tsv)
     -   [List of cooperative operators](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_operators.tsv)
-    -   [For a particular owner/operator](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity)
 -   GeoJSON (for web application or data analysis)
     -   [Buildings](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_buildings.geojson)
       - [For a particular owner/operator](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity)
