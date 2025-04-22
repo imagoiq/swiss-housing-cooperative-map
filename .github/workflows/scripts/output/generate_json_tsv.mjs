@@ -1,6 +1,6 @@
 import { readFileSync,writeFileSync } from 'node:fs';
 import { tsvFormat} from "d3-dsv";
-import { operatorFilter, ownerFilter, unique} from "../utils.mjs";
+import { operatorFilter, ownerFilter, pickBy, unique } from "../utils.mjs";
 
 const identity = process.argv[2];
 const inputGeojsonPath = process.argv[3];
@@ -27,6 +27,8 @@ function getAggregatedIdentity(features, identity) {
     const buildings_and_parts_count = features.length;
     const buildings_last_renovation_count = features.filter(feature => feature.properties.last_renovation).length;
 
+    const addresses = getAddresses(features);
+
     return  {
         wikidata: features[0].properties[`${identity}:wikidata`],
         abbr: features[0].properties[`${identity}:abbr`],
@@ -48,7 +50,27 @@ function getAggregatedIdentity(features, identity) {
         buildings_rent_regulated_count: features.filter(feature => feature.properties["rent:regulation"]).length,
         buildings_dormitory_count: features.filter(feature => feature.properties.building === "dormitory").length,
         buildings_sheltered_housing_count: features.filter(feature => feature.properties.building === "sheltered_housing").length,
-        buildings_locations: unique([...features.map(feature => feature.properties["addr:city"]), ...features.filter(feature => "addr" in feature.properties).map(feature => feature.properties["addr"].map(addr => addr["addr:city"])).flat()]).filter(feature => feature),
-        buildings_postcode: unique([...features.map(feature => feature.properties["addr:postcode"]), ...features.filter(feature => "addr" in feature.properties).map(feature => feature.properties["addr"].map(addr => addr["addr:postcode"])).flat()]).filter(feature => feature)
+        buildings_locations: unique(addresses.map(addr => addr['addr:city'])),
+        buildings_postcode: unique(addresses.map(addr => addr['addr:postcode'])),
     };
 }
+
+function getAddresses(features) {
+    const addresses = [];
+
+    for (const feature of features) {
+        if("addr:city" in feature.properties) {
+            addresses.push(pickBy(feature.properties, (_, key) => key.startsWith("addr:")));
+        }
+
+        if("addr" in feature.properties){
+            for (const addr of feature.properties.addr) {
+                addresses.push(addr);
+            }
+        }
+    }
+
+    return addresses
+}
+
+
