@@ -56,7 +56,7 @@ Pour l’instant, les données peuvent être vérifiées et affichées sur
 </td>
 <td>20%
 </td>
-<td>8%
+<td>7%
 </td>
 <td>55%
 </td>
@@ -94,8 +94,6 @@ générées :
     coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_owners.tsv)
   - [Liste des gestionnaires de type
     coopérative](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_list_operators.tsv)
-  - [Pour un propriétaire/gestionnaire en
-    particulier](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/identity)
 - GeoJSON (pour les applications web ou l’analyse de données)
   - [Bâtiments](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/output/swiss_housing_cooperative_buildings.geojson)
     - [Pour un propriétaire/gestionnaire en
