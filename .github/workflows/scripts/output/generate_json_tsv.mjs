@@ -48,7 +48,7 @@ function getAggregatedIdentity(features, identity) {
         buildings_rent_regulated_count: features.filter(feature => feature.properties["rent:regulation"]).length,
         buildings_dormitory_count: features.filter(feature => feature.properties.building === "dormitory").length,
         buildings_sheltered_housing_count: features.filter(feature => feature.properties.building === "sheltered_housing").length,
-        buildings_locations: unique([...features.map(feature => feature.properties["addr:city"]), ...features.filter(feature => "addr" in feature.properties).map(feature => feature.properties["addr"].map(addr => addr["addr:city"])).flat()]),
-        buildings_postcode: unique([...features.map(feature => feature.properties["addr:postcode"]), ...features.filter(feature => "addr" in feature.properties).map(feature => feature.properties["addr"].map(addr => addr["addr:postcode"])).flat()])
+        buildings_locations: unique([...features.map(feature => feature.properties["addr:city"]), ...features.filter(feature => "addr" in feature.properties).map(feature => feature.properties["addr"].map(addr => addr["addr:city"])).flat()]).filter(feature => feature),
+        buildings_postcode: unique([...features.map(feature => feature.properties["addr:postcode"]), ...features.filter(feature => "addr" in feature.properties).map(feature => feature.properties["addr"].map(addr => addr["addr:postcode"])).flat()]).filter(feature => feature)
     };
 }
