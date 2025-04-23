@@ -1,1 +1,497 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/102576458","properties":{"building":"apartments","building:levels":"3","owner":"Société Coopérative d'habitation Morges","owner:type":"cooperative","owner:wikidata":"Q132677586","roof:levels":"1","roof:shape":"gabled","subsidized":"yes","addr":[{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Rue des Fossés","addr:housenumber":"4"}],"id":"way/102576458","owner:swiss_business_uid":"CHE-100.382.860"},"geometry":{"type":"Polygon","coordinates":[[[6.4981316,46.5103839],[6.497962,46.5104377],[6.4978176,46.5102086],[6.498002,46.5101368],[6.4980344,46.5101887],[6.4980523,46.5102173],[6.4980743,46.5102547],[6.4980977,46.5102896],[6.4980823,46.510316],[6.4981073,46.5103241],[6.4980996,46.5103415],[6.4981316,46.5103839]]]}},{"type":"Feature","id":"way/102857729","properties":{"building":"apartments","building:levels":"4","owner":"Société Coopérative d'habitation Morges","owner:type":"cooperative","owner:wikidata":"Q132677586","roof:levels":"0","roof:shape":"hipped","subsidized":"yes","addr":[{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Chemin de l'Alouette","addr:housenumber":"20"},{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Chemin de l'Alouette","addr:housenumber":"22"}],"id":"way/102857729","owner:swiss_business_uid":"CHE-100.382.860"},"geometry":{"type":"Polygon","coordinates":[[[6.5017386,46.5202221],[6.5018868,46.5199554],[6.5020426,46.5199964],[6.5018944,46.5202631],[6.5017386,46.5202221]]]}},{"type":"Feature","id":"way/298668959","properties":{"building":"apartments","building:levels":"4","owner":"Société Coopérative d'habitation Morges","owner:type":"cooperative","owner:wikidata":"Q132677586","roof:levels":"1","roof:shape":"gabled","subsidized":"yes","addr":[{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Rue de Couvaloup","addr:housenumber":"4"}],"id":"way/298668959","owner:swiss_business_uid":"CHE-100.382.860"},"geometry":{"type":"Polygon","coordinates":[[[6.4990001,46.510592],[6.4991016,46.5107005],[6.4990104,46.5107474],[6.4989789,46.5107622],[6.4988793,46.5106664],[6.4990001,46.510592]]]}},{"type":"Feature","id":"way/299003545","properties":{"building":"apartments","owner":"Société Coopérative d'habitation Morges","owner:type":"cooperative","owner:wikidata":"Q132677586","roof:shape":"gabled","subsidized":"yes","addr":[{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Rue de Couvaloup","addr:housenumber":"9"}],"id":"way/299003545","owner:swiss_business_uid":"CHE-100.382.860"},"geometry":{"type":"Polygon","coordinates":[[[6.4988015,46.5102337],[6.4989645,46.510153],[6.4991289,46.5103115],[6.4989783,46.5103825],[6.4988015,46.5102337]]]}},{"type":"Feature","id":"way/1361991807","properties":{"building":"apartments","building:levels":"4","owner":"Société Coopérative d'habitation Morges","owner:type":"cooperative","owner:wikidata":"Q132677586","roof:levels":"0","roof:shape":"hipped","subsidized":"yes","addr":[{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Chemin de l'Alouette","addr:housenumber":"16"},{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Chemin de l'Alouette","addr:housenumber":"18"}],"id":"way/1361991807","owner:swiss_business_uid":"CHE-100.382.860"},"geometry":{"type":"Polygon","coordinates":[[[6.5021665,46.5202918],[6.5023146,46.520025],[6.5024705,46.520066],[6.5023222,46.5203327],[6.5021665,46.5202918]]]}},{"type":"Feature","id":"way/1361991808","properties":{"building":"apartments","building:levels":"4","owner":"Société Coopérative d'habitation Morges","owner:type":"cooperative","owner:wikidata":"Q132677586","roof:levels":"0","roof:shape":"hipped","subsidized":"yes","addr":[{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Chemin de l'Alouette","addr:housenumber":"12"},{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Chemin de l'Alouette","addr:housenumber":"14"}],"id":"way/1361991808","owner:swiss_business_uid":"CHE-100.382.860"},"geometry":{"type":"Polygon","coordinates":[[[6.5025899,46.5203606],[6.502738,46.5200939],[6.5028939,46.5201349],[6.5027456,46.5204016],[6.5025899,46.5203606]]]}},{"type":"Feature","id":"way/1361992898","properties":{"building":"apartments","owner":"Société Coopérative d'habitation Morges","owner:type":"cooperative","owner:wikidata":"Q132677586","roof:shape":"gabled","subsidized":"yes","addr":[{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Rue des Charpentiers","addr:housenumber":"1"}],"id":"way/1361992898","owner:swiss_business_uid":"CHE-100.382.860"},"geometry":{"type":"Polygon","coordinates":[[[6.497907,46.5109034],[6.4978538,46.5108358],[6.4978073,46.5107915],[6.4979786,46.5106834],[6.498113,46.510869],[6.4980152,46.5109071],[6.497977,46.510925],[6.4979319,46.5108938],[6.497907,46.5109034]]]}},{"type":"Feature","id":"way/1361995588","properties":{"building":"apartments","owner":"Société Coopérative d'habitation Morges","owner:type":"cooperative","owner:wikidata":"Q132677586","subsidized":"yes","addr":[{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Place Saint-Louis","addr:housenumber":"9"}],"id":"way/1361995588","owner:swiss_business_uid":"CHE-100.382.860"},"geometry":{"type":"Polygon","coordinates":[[[6.4980152,46.5109071],[6.498113,46.510869],[6.498126,46.5108847],[6.4983185,46.5108143],[6.498369,46.5108798],[6.4984305,46.5109595],[6.4982785,46.5110151],[6.4982383,46.5110298],[6.4982132,46.5109973],[6.498113,46.5110339],[6.4980416,46.5109414],[6.4980152,46.5109071]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/102576458",
+    "properties": {
+      "building": "apartments",
+      "building:levels": "3",
+      "owner": "Société Coopérative d'habitation Morges",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132677586",
+      "roof:levels": "1",
+      "roof:shape": "gabled",
+      "subsidized": "yes",
+      "addr": [
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Rue des Fossés",
+          "addr:housenumber": "4"
+        }
+      ],
+      "id": "way/102576458",
+      "owner:swiss_business_uid": "CHE-100.382.860"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.4981316,
+            46.5103839
+          ],
+          [
+            6.497962,
+            46.5104377
+          ],
+          [
+            6.4978176,
+            46.5102086
+          ],
+          [
+            6.498002,
+            46.5101368
+          ],
+          [
+            6.4980344,
+            46.5101887
+          ],
+          [
+            6.4980523,
+            46.5102173
+          ],
+          [
+            6.4980743,
+            46.5102547
+          ],
+          [
+            6.4980977,
+            46.5102896
+          ],
+          [
+            6.4980823,
+            46.510316
+          ],
+          [
+            6.4981073,
+            46.5103241
+          ],
+          [
+            6.4980996,
+            46.5103415
+          ],
+          [
+            6.4981316,
+            46.5103839
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/102857729",
+    "properties": {
+      "building": "apartments",
+      "building:levels": "4",
+      "owner": "Société Coopérative d'habitation Morges",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132677586",
+      "roof:levels": "0",
+      "roof:shape": "hipped",
+      "subsidized": "yes",
+      "addr": [
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Chemin de l'Alouette",
+          "addr:housenumber": "20"
+        },
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Chemin de l'Alouette",
+          "addr:housenumber": "22"
+        }
+      ],
+      "id": "way/102857729",
+      "owner:swiss_business_uid": "CHE-100.382.860"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.5017386,
+            46.5202221
+          ],
+          [
+            6.5018868,
+            46.5199554
+          ],
+          [
+            6.5020426,
+            46.5199964
+          ],
+          [
+            6.5018944,
+            46.5202631
+          ],
+          [
+            6.5017386,
+            46.5202221
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/298668959",
+    "properties": {
+      "building": "apartments",
+      "building:levels": "4",
+      "owner": "Société Coopérative d'habitation Morges",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132677586",
+      "roof:levels": "1",
+      "roof:shape": "gabled",
+      "subsidized": "yes",
+      "addr": [
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Rue de Couvaloup",
+          "addr:housenumber": "4"
+        }
+      ],
+      "id": "way/298668959",
+      "owner:swiss_business_uid": "CHE-100.382.860"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.4990001,
+            46.510592
+          ],
+          [
+            6.4991016,
+            46.5107005
+          ],
+          [
+            6.4990104,
+            46.5107474
+          ],
+          [
+            6.4989789,
+            46.5107622
+          ],
+          [
+            6.4988793,
+            46.5106664
+          ],
+          [
+            6.4990001,
+            46.510592
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/299003545",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d'habitation Morges",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132677586",
+      "roof:shape": "gabled",
+      "subsidized": "yes",
+      "addr": [
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Rue de Couvaloup",
+          "addr:housenumber": "9"
+        }
+      ],
+      "id": "way/299003545",
+      "owner:swiss_business_uid": "CHE-100.382.860"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.4988015,
+            46.5102337
+          ],
+          [
+            6.4989645,
+            46.510153
+          ],
+          [
+            6.4991289,
+            46.5103115
+          ],
+          [
+            6.4989783,
+            46.5103825
+          ],
+          [
+            6.4988015,
+            46.5102337
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1361991807",
+    "properties": {
+      "building": "apartments",
+      "building:levels": "4",
+      "owner": "Société Coopérative d'habitation Morges",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132677586",
+      "roof:levels": "0",
+      "roof:shape": "hipped",
+      "subsidized": "yes",
+      "addr": [
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Chemin de l'Alouette",
+          "addr:housenumber": "16"
+        },
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Chemin de l'Alouette",
+          "addr:housenumber": "18"
+        }
+      ],
+      "id": "way/1361991807",
+      "owner:swiss_business_uid": "CHE-100.382.860"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.5021665,
+            46.5202918
+          ],
+          [
+            6.5023146,
+            46.520025
+          ],
+          [
+            6.5024705,
+            46.520066
+          ],
+          [
+            6.5023222,
+            46.5203327
+          ],
+          [
+            6.5021665,
+            46.5202918
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1361991808",
+    "properties": {
+      "building": "apartments",
+      "building:levels": "4",
+      "owner": "Société Coopérative d'habitation Morges",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132677586",
+      "roof:levels": "0",
+      "roof:shape": "hipped",
+      "subsidized": "yes",
+      "addr": [
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Chemin de l'Alouette",
+          "addr:housenumber": "12"
+        },
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Chemin de l'Alouette",
+          "addr:housenumber": "14"
+        }
+      ],
+      "id": "way/1361991808",
+      "owner:swiss_business_uid": "CHE-100.382.860"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.5025899,
+            46.5203606
+          ],
+          [
+            6.502738,
+            46.5200939
+          ],
+          [
+            6.5028939,
+            46.5201349
+          ],
+          [
+            6.5027456,
+            46.5204016
+          ],
+          [
+            6.5025899,
+            46.5203606
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1361992898",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d'habitation Morges",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132677586",
+      "roof:shape": "gabled",
+      "subsidized": "yes",
+      "addr": [
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Rue des Charpentiers",
+          "addr:housenumber": "1"
+        }
+      ],
+      "id": "way/1361992898",
+      "owner:swiss_business_uid": "CHE-100.382.860"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.497907,
+            46.5109034
+          ],
+          [
+            6.4978538,
+            46.5108358
+          ],
+          [
+            6.4978073,
+            46.5107915
+          ],
+          [
+            6.4979786,
+            46.5106834
+          ],
+          [
+            6.498113,
+            46.510869
+          ],
+          [
+            6.4980152,
+            46.5109071
+          ],
+          [
+            6.497977,
+            46.510925
+          ],
+          [
+            6.4979319,
+            46.5108938
+          ],
+          [
+            6.497907,
+            46.5109034
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1361995588",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d'habitation Morges",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132677586",
+      "subsidized": "yes",
+      "addr": [
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Place Saint-Louis",
+          "addr:housenumber": "9"
+        }
+      ],
+      "id": "way/1361995588",
+      "owner:swiss_business_uid": "CHE-100.382.860"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.4980152,
+            46.5109071
+          ],
+          [
+            6.498113,
+            46.510869
+          ],
+          [
+            6.498126,
+            46.5108847
+          ],
+          [
+            6.4983185,
+            46.5108143
+          ],
+          [
+            6.498369,
+            46.5108798
+          ],
+          [
+            6.4984305,
+            46.5109595
+          ],
+          [
+            6.4982785,
+            46.5110151
+          ],
+          [
+            6.4982383,
+            46.5110298
+          ],
+          [
+            6.4982132,
+            46.5109973
+          ],
+          [
+            6.498113,
+            46.5110339
+          ],
+          [
+            6.4980416,
+            46.5109414
+          ],
+          [
+            6.4980152,
+            46.5109071
+          ]
+        ]
+      ]
+    }
+  }
+]}

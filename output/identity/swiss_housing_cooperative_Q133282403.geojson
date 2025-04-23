@@ -1,1 +1,108 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/85344495","properties":{"building":"apartments","building:flats":"19","building:levels":"4","heating":"district_heating","name":"Coopérative INTI","owner":"Coopérative INTI","owner:type":"cooperative","owner:wikidata":"Q133282403","roof:levels":"0","roof:shape":"flat","start_date":"2005-03","website":"https://www.cooperative-inti.ch","addr":[{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Rue Edouard-Vallet","addr:housenumber":"1"},{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Rue Edouard-Vallet","addr:housenumber":"3"},{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Rue Edouard-Vallet","addr:housenumber":"5"}],"id":"way/85344495","start_date_parsed":"2005-03-01T00:00:00.000Z","owner:website":"https://www.cooperative-inti.ch","owner:start_date":"2003-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-101.089.032"},"geometry":{"type":"Polygon","coordinates":[[[6.0902589,46.1847377],[6.0902084,46.1847213],[6.0902015,46.1847298],[6.0901319,46.1847068],[6.0902304,46.1845651],[6.0904015,46.1843171],[6.0904408,46.1842337],[6.0905191,46.1842507],[6.0905252,46.1842425],[6.0905886,46.1842639],[6.0905524,46.184316],[6.0905235,46.1843576],[6.0904414,46.1844757],[6.0902589,46.1847377]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/85344495",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "19",
+      "building:levels": "4",
+      "heating": "district_heating",
+      "name": "Coopérative INTI",
+      "owner": "Coopérative INTI",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133282403",
+      "roof:levels": "0",
+      "roof:shape": "flat",
+      "start_date": "2005-03",
+      "website": "https://www.cooperative-inti.ch",
+      "addr": [
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Rue Edouard-Vallet",
+          "addr:housenumber": "1"
+        },
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Rue Edouard-Vallet",
+          "addr:housenumber": "3"
+        },
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Rue Edouard-Vallet",
+          "addr:housenumber": "5"
+        }
+      ],
+      "id": "way/85344495",
+      "start_date_parsed": "2005-03-01T00:00:00.000Z",
+      "owner:website": "https://www.cooperative-inti.ch",
+      "owner:start_date": "2003-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-101.089.032"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.0902589,
+            46.1847377
+          ],
+          [
+            6.0902084,
+            46.1847213
+          ],
+          [
+            6.0902015,
+            46.1847298
+          ],
+          [
+            6.0901319,
+            46.1847068
+          ],
+          [
+            6.0902304,
+            46.1845651
+          ],
+          [
+            6.0904015,
+            46.1843171
+          ],
+          [
+            6.0904408,
+            46.1842337
+          ],
+          [
+            6.0905191,
+            46.1842507
+          ],
+          [
+            6.0905252,
+            46.1842425
+          ],
+          [
+            6.0905886,
+            46.1842639
+          ],
+          [
+            6.0905524,
+            46.184316
+          ],
+          [
+            6.0905235,
+            46.1843576
+          ],
+          [
+            6.0904414,
+            46.1844757
+          ],
+          [
+            6.0902589,
+            46.1847377
+          ]
+        ]
+      ]
+    }
+  }
+]}

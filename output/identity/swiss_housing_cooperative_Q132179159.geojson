@@ -1,1 +1,84 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/1231417549","properties":{"architect":"Olivier Rochat","building":"apartments","building:flats":"33","building:levels":"9","heating":"heat_pump","owner":"Coopérative des Arts et des Ouches","owner:short":"C-Arts-Ouches","owner:type":"cooperative","owner:wikidata":"Q132179159","start_date":"2023","addr":[{"addr:city":"Lausanne","addr:postcode":"1018","addr:street":"Route des Plaines-du-Loup","addr:housenumber":"45"},{"addr:city":"Lausanne","addr:postcode":"1018","addr:street":"Route des Plaines-du-Loup","addr:housenumber":"47a"},{"addr:city":"Lausanne","addr:postcode":"1018","addr:street":"Rue Elisa-Serment","addr:housenumber":"2a"},{"addr:city":"Lausanne","addr:postcode":"1018","addr:street":"Rue Elisa-Serment","addr:housenumber":"2b"}],"id":"way/1231417549","start_date_parsed":"2023-01-01T00:00:00.000Z","owner:website":"https://c-arts-ouches.ch/","owner:start_date":"2011-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-378.681.114"},"geometry":{"type":"Polygon","coordinates":[[[6.6209395,46.5388909],[6.621075,46.5387333],[6.6215004,46.5389034],[6.6213116,46.5391076],[6.621125,46.5390175],[6.6211698,46.5389761],[6.6209395,46.5388909]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/1231417549",
+    "properties": {
+      "architect": "Olivier Rochat",
+      "building": "apartments",
+      "building:flats": "33",
+      "building:levels": "9",
+      "heating": "heat_pump",
+      "owner": "Coopérative des Arts et des Ouches",
+      "owner:short": "C-Arts-Ouches",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179159",
+      "start_date": "2023",
+      "addr": [
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1018",
+          "addr:street": "Route des Plaines-du-Loup",
+          "addr:housenumber": "45"
+        },
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1018",
+          "addr:street": "Route des Plaines-du-Loup",
+          "addr:housenumber": "47a"
+        },
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1018",
+          "addr:street": "Rue Elisa-Serment",
+          "addr:housenumber": "2a"
+        },
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1018",
+          "addr:street": "Rue Elisa-Serment",
+          "addr:housenumber": "2b"
+        }
+      ],
+      "id": "way/1231417549",
+      "start_date_parsed": "2023-01-01T00:00:00.000Z",
+      "owner:website": "https://c-arts-ouches.ch/",
+      "owner:start_date": "2011-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-378.681.114"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6209395,
+            46.5388909
+          ],
+          [
+            6.621075,
+            46.5387333
+          ],
+          [
+            6.6215004,
+            46.5389034
+          ],
+          [
+            6.6213116,
+            46.5391076
+          ],
+          [
+            6.621125,
+            46.5390175
+          ],
+          [
+            6.6211698,
+            46.5389761
+          ],
+          [
+            6.6209395,
+            46.5388909
+          ]
+        ]
+      ]
+    }
+  }
+]}

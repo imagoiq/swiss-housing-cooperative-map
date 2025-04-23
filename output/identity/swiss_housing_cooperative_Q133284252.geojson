@@ -1,1 +1,449 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/235127379","properties":{"addr:city":"Fribourg","addr:country":"CH","addr:housenumber":"24","addr:postcode":"1700","addr:street":"Goldgasse / Rue d'Or","building":"apartments","building:flats":"5","building:levels":"3","owner":"Coopérative d’habitation du quartier de l’Auge","owner:type":"cooperative","owner:wikidata":"Q133284252","roof:levels":"1","source":"Orthophoto 2016, Etat de Fribourg","start_date":"1400","id":"way/235127379","start_date_parsed":"1400-01-01T00:00:00.000Z","owner:website":"https://cooperative-auge.ch/","owner:start_date":"1981-06-01T00:00:00Z","owner:swiss_business_uid":"CHE-104.018.117"},"geometry":{"type":"Polygon","coordinates":[[[7.1684565,46.8039134],[7.1683899,46.8040201],[7.1681584,46.8040084],[7.1682413,46.803862],[7.168261,46.8038658],[7.1683484,46.8038829],[7.1683521,46.8038753],[7.1684565,46.8039134]]]}},{"type":"Feature","id":"way/615335654","properties":{"addr:city":"Fribourg","addr:country":"CH","addr:housenumber":"33","addr:postcode":"1700","addr:street":"Place du Petit-Saint-Jean","building":"apartments","building:flats":"5","building:levels":"4","last_renovation":"1992","owner":"Coopérative d’habitation du quartier de l’Auge","owner:type":"cooperative","owner:wikidata":"Q133284252","source":"Orthophoto 2016, Etat de Fribourg","id":"way/615335654","last_renovation_parsed":"1992-01-01T00:00:00.000Z","owner:website":"https://cooperative-auge.ch/","owner:start_date":"1981-06-01T00:00:00Z","owner:swiss_business_uid":"CHE-104.018.117"},"geometry":{"type":"Polygon","coordinates":[[[7.1683846,46.8037122],[7.1683095,46.8036801],[7.1683431,46.8035791],[7.1683243,46.8035011],[7.1683994,46.8034873],[7.1684249,46.8035654],[7.1684879,46.8035626],[7.1684913,46.8035998],[7.1684933,46.8036214],[7.1684168,46.8036058],[7.1683846,46.8037122]]]}},{"type":"Feature","id":"way/618917667","properties":{"addr:city":"Fribourg","addr:country":"CH","addr:housenumber":"6","addr:postcode":"1700","addr:street":"Rue de la Samaritaine","building":"apartments","building:flats":"6","building:levels":"3","last_renovation":"2015","owner":"Coopérative d’habitation du quartier de l’Auge","owner:type":"cooperative","owner:wikidata":"Q133284252","id":"way/618917667","last_renovation_parsed":"2015-01-01T00:00:00.000Z","owner:website":"https://cooperative-auge.ch/","owner:start_date":"1981-06-01T00:00:00Z","owner:swiss_business_uid":"CHE-104.018.117"},"geometry":{"type":"Polygon","coordinates":[[[7.1663462,46.8038215],[7.1664493,46.8038725],[7.166425,46.803908],[7.1663743,46.8040641],[7.1662235,46.8040549],[7.1662355,46.8039628],[7.1662898,46.8039734],[7.16631,46.803911],[7.1663462,46.8038215]]]}},{"type":"Feature","id":"way/638837201","properties":{"addr:city":"Fribourg","addr:country":"CH","addr:housenumber":"15","addr:postcode":"1700","addr:street":"Rue de la Samaritaine","building":"apartments","building:flats":"7","building:levels":"4","last_renovation":"1983","owner":"Coopérative d’habitation du quartier de l’Auge","owner:type":"cooperative","owner:wikidata":"Q133284252","roof:levels":"0.5","roof:shape":"gabled","id":"way/638837201","last_renovation_parsed":"1983-01-01T00:00:00.000Z","owner:website":"https://cooperative-auge.ch/","owner:start_date":"1981-06-01T00:00:00Z","owner:swiss_business_uid":"CHE-104.018.117"},"geometry":{"type":"Polygon","coordinates":[[[7.1668471,46.8039947],[7.1669715,46.8040794],[7.1669537,46.8040914],[7.1670154,46.8041363],[7.1670362,46.8041249],[7.1671522,46.8042098],[7.1670985,46.804246],[7.1670104,46.8041833],[7.1669792,46.8041611],[7.1669503,46.8041795],[7.1667746,46.8040491],[7.1668471,46.8039947]]]}},{"type":"Feature","id":"way/1375633967","properties":{"addr:city":"Fribourg","addr:housenumber":"16","addr:postcode":"1700","addr:street":"Petites-Rames","building":"apartments","building:flats":"4","building:levels":"2","owner":"Coopérative d’habitation du quartier de l’Auge","owner:type":"cooperative","owner:wikidata":"Q133284252","roof:levels":"1","roof:shape":"gabled","start_date":"1850","id":"way/1375633967","start_date_parsed":"1850-01-01T00:00:00.000Z","owner:website":"https://cooperative-auge.ch/","owner:start_date":"1981-06-01T00:00:00Z","owner:swiss_business_uid":"CHE-104.018.117"},"geometry":{"type":"Polygon","coordinates":[[[7.1598986,46.8031312],[7.1598925,46.8031386],[7.1597206,46.8030689],[7.1598049,46.8029715],[7.1599769,46.8030412],[7.1599445,46.8030791],[7.1598986,46.8031312]]]}},{"type":"Feature","id":"way/1375633968","properties":{"addr:city":"Fribourg","addr:housenumber":"18","addr:postcode":"1700","addr:street":"Petites-Rames","building":"apartments","owner":"Coopérative d’habitation du quartier de l’Auge","owner:type":"cooperative","owner:wikidata":"Q133284252","id":"way/1375633968","owner:website":"https://cooperative-auge.ch/","owner:start_date":"1981-06-01T00:00:00Z","owner:swiss_business_uid":"CHE-104.018.117"},"geometry":{"type":"Polygon","coordinates":[[[7.1597206,46.8030689],[7.1596367,46.8030344],[7.15972,46.8029376],[7.1598049,46.8029715],[7.1597206,46.8030689]]]}},{"type":"Feature","id":"way/1375636409","properties":{"addr:city":"Fribourg","addr:country":"CH","addr:housenumber":"32","addr:postcode":"1700","addr:street":"Planche-Supérieure","building":"apartments","building:flats":"6","building:levels":"3","owner":"Coopérative d’habitation du quartier de l’Auge","owner:type":"cooperative","owner:wikidata":"Q133284252","roof:levels":"1","roof:shape":"gabled","id":"way/1375636409","owner:website":"https://cooperative-auge.ch/","owner:start_date":"1981-06-01T00:00:00Z","owner:swiss_business_uid":"CHE-104.018.117"},"geometry":{"type":"Polygon","coordinates":[[[7.1618026,46.8024349],[7.1616406,46.8025416],[7.1615759,46.8025843],[7.1615147,46.80255],[7.1615695,46.8025112],[7.1617334,46.8023942],[7.1618026,46.8024349]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/235127379",
+    "properties": {
+      "addr:city": "Fribourg",
+      "addr:country": "CH",
+      "addr:housenumber": "24",
+      "addr:postcode": "1700",
+      "addr:street": "Goldgasse / Rue d'Or",
+      "building": "apartments",
+      "building:flats": "5",
+      "building:levels": "3",
+      "owner": "Coopérative d’habitation du quartier de l’Auge",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133284252",
+      "roof:levels": "1",
+      "source": "Orthophoto 2016, Etat de Fribourg",
+      "start_date": "1400",
+      "id": "way/235127379",
+      "start_date_parsed": "1400-01-01T00:00:00.000Z",
+      "owner:website": "https://cooperative-auge.ch/",
+      "owner:start_date": "1981-06-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-104.018.117"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            7.1684565,
+            46.8039134
+          ],
+          [
+            7.1683899,
+            46.8040201
+          ],
+          [
+            7.1681584,
+            46.8040084
+          ],
+          [
+            7.1682413,
+            46.803862
+          ],
+          [
+            7.168261,
+            46.8038658
+          ],
+          [
+            7.1683484,
+            46.8038829
+          ],
+          [
+            7.1683521,
+            46.8038753
+          ],
+          [
+            7.1684565,
+            46.8039134
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/615335654",
+    "properties": {
+      "addr:city": "Fribourg",
+      "addr:country": "CH",
+      "addr:housenumber": "33",
+      "addr:postcode": "1700",
+      "addr:street": "Place du Petit-Saint-Jean",
+      "building": "apartments",
+      "building:flats": "5",
+      "building:levels": "4",
+      "last_renovation": "1992",
+      "owner": "Coopérative d’habitation du quartier de l’Auge",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133284252",
+      "source": "Orthophoto 2016, Etat de Fribourg",
+      "id": "way/615335654",
+      "last_renovation_parsed": "1992-01-01T00:00:00.000Z",
+      "owner:website": "https://cooperative-auge.ch/",
+      "owner:start_date": "1981-06-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-104.018.117"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            7.1683846,
+            46.8037122
+          ],
+          [
+            7.1683095,
+            46.8036801
+          ],
+          [
+            7.1683431,
+            46.8035791
+          ],
+          [
+            7.1683243,
+            46.8035011
+          ],
+          [
+            7.1683994,
+            46.8034873
+          ],
+          [
+            7.1684249,
+            46.8035654
+          ],
+          [
+            7.1684879,
+            46.8035626
+          ],
+          [
+            7.1684913,
+            46.8035998
+          ],
+          [
+            7.1684933,
+            46.8036214
+          ],
+          [
+            7.1684168,
+            46.8036058
+          ],
+          [
+            7.1683846,
+            46.8037122
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/618917667",
+    "properties": {
+      "addr:city": "Fribourg",
+      "addr:country": "CH",
+      "addr:housenumber": "6",
+      "addr:postcode": "1700",
+      "addr:street": "Rue de la Samaritaine",
+      "building": "apartments",
+      "building:flats": "6",
+      "building:levels": "3",
+      "last_renovation": "2015",
+      "owner": "Coopérative d’habitation du quartier de l’Auge",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133284252",
+      "id": "way/618917667",
+      "last_renovation_parsed": "2015-01-01T00:00:00.000Z",
+      "owner:website": "https://cooperative-auge.ch/",
+      "owner:start_date": "1981-06-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-104.018.117"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            7.1663462,
+            46.8038215
+          ],
+          [
+            7.1664493,
+            46.8038725
+          ],
+          [
+            7.166425,
+            46.803908
+          ],
+          [
+            7.1663743,
+            46.8040641
+          ],
+          [
+            7.1662235,
+            46.8040549
+          ],
+          [
+            7.1662355,
+            46.8039628
+          ],
+          [
+            7.1662898,
+            46.8039734
+          ],
+          [
+            7.16631,
+            46.803911
+          ],
+          [
+            7.1663462,
+            46.8038215
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/638837201",
+    "properties": {
+      "addr:city": "Fribourg",
+      "addr:country": "CH",
+      "addr:housenumber": "15",
+      "addr:postcode": "1700",
+      "addr:street": "Rue de la Samaritaine",
+      "building": "apartments",
+      "building:flats": "7",
+      "building:levels": "4",
+      "last_renovation": "1983",
+      "owner": "Coopérative d’habitation du quartier de l’Auge",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133284252",
+      "roof:levels": "0.5",
+      "roof:shape": "gabled",
+      "id": "way/638837201",
+      "last_renovation_parsed": "1983-01-01T00:00:00.000Z",
+      "owner:website": "https://cooperative-auge.ch/",
+      "owner:start_date": "1981-06-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-104.018.117"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            7.1668471,
+            46.8039947
+          ],
+          [
+            7.1669715,
+            46.8040794
+          ],
+          [
+            7.1669537,
+            46.8040914
+          ],
+          [
+            7.1670154,
+            46.8041363
+          ],
+          [
+            7.1670362,
+            46.8041249
+          ],
+          [
+            7.1671522,
+            46.8042098
+          ],
+          [
+            7.1670985,
+            46.804246
+          ],
+          [
+            7.1670104,
+            46.8041833
+          ],
+          [
+            7.1669792,
+            46.8041611
+          ],
+          [
+            7.1669503,
+            46.8041795
+          ],
+          [
+            7.1667746,
+            46.8040491
+          ],
+          [
+            7.1668471,
+            46.8039947
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1375633967",
+    "properties": {
+      "addr:city": "Fribourg",
+      "addr:housenumber": "16",
+      "addr:postcode": "1700",
+      "addr:street": "Petites-Rames",
+      "building": "apartments",
+      "building:flats": "4",
+      "building:levels": "2",
+      "owner": "Coopérative d’habitation du quartier de l’Auge",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133284252",
+      "roof:levels": "1",
+      "roof:shape": "gabled",
+      "start_date": "1850",
+      "id": "way/1375633967",
+      "start_date_parsed": "1850-01-01T00:00:00.000Z",
+      "owner:website": "https://cooperative-auge.ch/",
+      "owner:start_date": "1981-06-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-104.018.117"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            7.1598986,
+            46.8031312
+          ],
+          [
+            7.1598925,
+            46.8031386
+          ],
+          [
+            7.1597206,
+            46.8030689
+          ],
+          [
+            7.1598049,
+            46.8029715
+          ],
+          [
+            7.1599769,
+            46.8030412
+          ],
+          [
+            7.1599445,
+            46.8030791
+          ],
+          [
+            7.1598986,
+            46.8031312
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1375633968",
+    "properties": {
+      "addr:city": "Fribourg",
+      "addr:housenumber": "18",
+      "addr:postcode": "1700",
+      "addr:street": "Petites-Rames",
+      "building": "apartments",
+      "owner": "Coopérative d’habitation du quartier de l’Auge",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133284252",
+      "id": "way/1375633968",
+      "owner:website": "https://cooperative-auge.ch/",
+      "owner:start_date": "1981-06-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-104.018.117"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            7.1597206,
+            46.8030689
+          ],
+          [
+            7.1596367,
+            46.8030344
+          ],
+          [
+            7.15972,
+            46.8029376
+          ],
+          [
+            7.1598049,
+            46.8029715
+          ],
+          [
+            7.1597206,
+            46.8030689
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1375636409",
+    "properties": {
+      "addr:city": "Fribourg",
+      "addr:country": "CH",
+      "addr:housenumber": "32",
+      "addr:postcode": "1700",
+      "addr:street": "Planche-Supérieure",
+      "building": "apartments",
+      "building:flats": "6",
+      "building:levels": "3",
+      "owner": "Coopérative d’habitation du quartier de l’Auge",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133284252",
+      "roof:levels": "1",
+      "roof:shape": "gabled",
+      "id": "way/1375636409",
+      "owner:website": "https://cooperative-auge.ch/",
+      "owner:start_date": "1981-06-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-104.018.117"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            7.1618026,
+            46.8024349
+          ],
+          [
+            7.1616406,
+            46.8025416
+          ],
+          [
+            7.1615759,
+            46.8025843
+          ],
+          [
+            7.1615147,
+            46.80255
+          ],
+          [
+            7.1615695,
+            46.8025112
+          ],
+          [
+            7.1617334,
+            46.8023942
+          ],
+          [
+            7.1618026,
+            46.8024349
+          ]
+        ]
+      ]
+    }
+  }
+]}

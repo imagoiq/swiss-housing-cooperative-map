@@ -1,1 +1,77 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/82082984","properties":{"addr:city":"Genève","addr:housenumber":"24","addr:postcode":"1203","addr:street":"Rue Edouard-Rod","architect":"Rodolphe Garabedian","architect:renovation":"David Vidal","building":"apartments","building:flats":"34","last_renovation":"2022","owner":"Coprolo Luserna","owner:type":"cooperative","owner:wikidata":"Q133461702","start_date":"1976","id":"way/82082984","start_date_parsed":"1976-01-01T00:00:00.000Z","last_renovation_parsed":"2022-01-01T00:00:00.000Z","owner:website":"https://coprolo.ch/cooperatives/coprolo-luserna","owner:swiss_business_uid":"CHE-102.222.598"},"geometry":{"type":"Polygon","coordinates":[[[6.1235486,46.2142316],[6.123724,46.2141507],[6.1238408,46.2142748],[6.1236772,46.2143485],[6.1236654,46.2143538],[6.1236387,46.2143278],[6.1236193,46.2143353],[6.1235774,46.2142912],[6.1235537,46.2142662],[6.1235725,46.2142579],[6.1235486,46.2142316]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/82082984",
+    "properties": {
+      "addr:city": "Genève",
+      "addr:housenumber": "24",
+      "addr:postcode": "1203",
+      "addr:street": "Rue Edouard-Rod",
+      "architect": "Rodolphe Garabedian",
+      "architect:renovation": "David Vidal",
+      "building": "apartments",
+      "building:flats": "34",
+      "last_renovation": "2022",
+      "owner": "Coprolo Luserna",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133461702",
+      "start_date": "1976",
+      "id": "way/82082984",
+      "start_date_parsed": "1976-01-01T00:00:00.000Z",
+      "last_renovation_parsed": "2022-01-01T00:00:00.000Z",
+      "owner:website": "https://coprolo.ch/cooperatives/coprolo-luserna",
+      "owner:swiss_business_uid": "CHE-102.222.598"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1235486,
+            46.2142316
+          ],
+          [
+            6.123724,
+            46.2141507
+          ],
+          [
+            6.1238408,
+            46.2142748
+          ],
+          [
+            6.1236772,
+            46.2143485
+          ],
+          [
+            6.1236654,
+            46.2143538
+          ],
+          [
+            6.1236387,
+            46.2143278
+          ],
+          [
+            6.1236193,
+            46.2143353
+          ],
+          [
+            6.1235774,
+            46.2142912
+          ],
+          [
+            6.1235537,
+            46.2142662
+          ],
+          [
+            6.1235725,
+            46.2142579
+          ],
+          [
+            6.1235486,
+            46.2142316
+          ]
+        ]
+      ]
+    }
+  }
+]}

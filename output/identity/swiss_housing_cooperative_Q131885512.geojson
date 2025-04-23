@@ -1,1 +1,402 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/89615503","properties":{"addr:city":"Pully","addr:housenumber":"51","addr:postcode":"1009","addr:street":"Chemin du Liaudoz","building":"apartments","owner":"Coopérative d'habitations groupées des Liaudes","owner:type":"cooperative","owner:wikidata":"Q131885512","source":"Orthophoto Pully swisstopo","start_date":"1991","id":"way/89615503","start_date_parsed":"1991-01-01T00:00:00.000Z","owner:start_date":"1986-07-23T00:00:00Z","owner:swiss_business_uid":"CHE-102.132.446"},"geometry":{"type":"Polygon","coordinates":[[[6.6558099,46.5178344],[6.6558162,46.5176961],[6.6560229,46.517699],[6.6560167,46.5178358],[6.6558099,46.5178344]]]}},{"type":"Feature","id":"way/89615504","properties":{"addr:city":"Pully","addr:housenumber":"59","addr:postcode":"1009","addr:street":"Chemin du Liaudoz","building":"apartments","owner":"Coopérative d'habitations groupées des Liaudes","owner:type":"cooperative","owner:wikidata":"Q131885512","source":"Orthophoto Pully swisstopo","start_date":"1991","id":"way/89615504","start_date_parsed":"1991-01-01T00:00:00.000Z","owner:start_date":"1986-07-23T00:00:00Z","owner:swiss_business_uid":"CHE-102.132.446"},"geometry":{"type":"Polygon","coordinates":[[[6.6555032,46.5178344],[6.6555114,46.5176813],[6.6557143,46.5176864],[6.6557111,46.5177456],[6.6556784,46.5177448],[6.6556768,46.5177742],[6.6557097,46.5177751],[6.6557062,46.5178396],[6.6555032,46.5178344]]]}},{"type":"Feature","id":"way/89615505","properties":{"addr:city":"Pully","addr:housenumber":"61","addr:postcode":"1009","addr:street":"Chemin du Liaudoz","building":"apartments","owner":"Coopérative d'habitations groupées des Liaudes","owner:type":"cooperative","owner:wikidata":"Q131885512","source":"Orthophoto Pully swisstopo","start_date":"1991","id":"way/89615505","start_date_parsed":"1991-01-01T00:00:00.000Z","owner:start_date":"1986-07-23T00:00:00Z","owner:swiss_business_uid":"CHE-102.132.446"},"geometry":{"type":"Polygon","coordinates":[[[6.6555622,46.518001],[6.6555667,46.5178671],[6.6557833,46.5178705],[6.6557816,46.5179212],[6.6557482,46.5179207],[6.6557474,46.5179435],[6.6557801,46.517944],[6.6557781,46.5180044],[6.6555622,46.518001]]]}},{"type":"Feature","id":"way/89615506","properties":{"building":"apartments","owner":"Coopérative d'habitations groupées des Liaudes","owner:type":"cooperative","owner:wikidata":"Q131885512","source":"Orthophoto Pully swisstopo","start_date":"1991","addr":[{"addr:city":"Pully","addr:postcode":"1009","addr:street":"Chemin du Liaudoz","addr:housenumber":"55"},{"addr:city":"Pully","addr:postcode":"1009","addr:street":"Chemin du Liaudoz","addr:housenumber":"53"}],"id":"way/89615506","start_date_parsed":"1991-01-01T00:00:00.000Z","owner:start_date":"1986-07-23T00:00:00Z","owner:swiss_business_uid":"CHE-102.132.446"},"geometry":{"type":"Polygon","coordinates":[[[6.6557841,46.5182048],[6.655785,46.5180334],[6.6560024,46.5180339],[6.6560015,46.5182054],[6.6557841,46.5182048]]]}},{"type":"Feature","id":"way/1354020730","properties":{"building":"apartments","owner":"Coopérative d'habitations groupées des Liaudes","owner:type":"cooperative","owner:wikidata":"Q131885512","start_date":"1991","addr":[{"addr:city":"Pully","addr:postcode":"1009","addr:street":"Chemin du Liaudoz","addr:housenumber":"49"}],"id":"way/1354020730","start_date_parsed":"1991-01-01T00:00:00.000Z","owner:start_date":"1986-07-23T00:00:00Z","owner:swiss_business_uid":"CHE-102.132.446"},"geometry":{"type":"Polygon","coordinates":[[[6.6561967,46.5179161],[6.6564131,46.5179191],[6.6564112,46.5179839],[6.6563914,46.5179837],[6.6563897,46.5180424],[6.6563545,46.5180419],[6.6563536,46.518073],[6.6563916,46.5180735],[6.6563894,46.5181456],[6.6561762,46.5181426],[6.6561811,46.517978],[6.6561948,46.5179782],[6.6561967,46.5179161]]]}},{"type":"Feature","id":"way/1354022708","properties":{"building:part":"apartments","owner":"Coopérative d'habitations groupées des Liaudes","owner:type":"cooperative","owner:wikidata":"Q131885512","start_date":"1991","addr":[{"addr:city":"Pully","addr:postcode":"1009","addr:street":"Chemin du Liaudoz","addr:housenumber":"47"},{"addr:city":"Pully","addr:postcode":"1009","addr:street":"Chemin du Liaudoz","addr:housenumber":"45"}],"id":"way/1354022708","start_date_parsed":"1991-01-01T00:00:00.000Z","owner:start_date":"1986-07-23T00:00:00Z","owner:swiss_business_uid":"CHE-102.132.446"},"geometry":{"type":"Polygon","coordinates":[[[6.6561996,46.5178871],[6.6562046,46.5178294],[6.6561894,46.5178288],[6.6561962,46.5176676],[6.6564028,46.5176723],[6.6563995,46.5177413],[6.6563646,46.5177405],[6.656363,46.5177732],[6.6564004,46.517774],[6.6563977,46.51783],[6.6564109,46.5178303],[6.656408,46.5178918],[6.6561996,46.5178871]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/89615503",
+    "properties": {
+      "addr:city": "Pully",
+      "addr:housenumber": "51",
+      "addr:postcode": "1009",
+      "addr:street": "Chemin du Liaudoz",
+      "building": "apartments",
+      "owner": "Coopérative d'habitations groupées des Liaudes",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q131885512",
+      "source": "Orthophoto Pully swisstopo",
+      "start_date": "1991",
+      "id": "way/89615503",
+      "start_date_parsed": "1991-01-01T00:00:00.000Z",
+      "owner:start_date": "1986-07-23T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-102.132.446"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6558099,
+            46.5178344
+          ],
+          [
+            6.6558162,
+            46.5176961
+          ],
+          [
+            6.6560229,
+            46.517699
+          ],
+          [
+            6.6560167,
+            46.5178358
+          ],
+          [
+            6.6558099,
+            46.5178344
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/89615504",
+    "properties": {
+      "addr:city": "Pully",
+      "addr:housenumber": "59",
+      "addr:postcode": "1009",
+      "addr:street": "Chemin du Liaudoz",
+      "building": "apartments",
+      "owner": "Coopérative d'habitations groupées des Liaudes",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q131885512",
+      "source": "Orthophoto Pully swisstopo",
+      "start_date": "1991",
+      "id": "way/89615504",
+      "start_date_parsed": "1991-01-01T00:00:00.000Z",
+      "owner:start_date": "1986-07-23T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-102.132.446"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6555032,
+            46.5178344
+          ],
+          [
+            6.6555114,
+            46.5176813
+          ],
+          [
+            6.6557143,
+            46.5176864
+          ],
+          [
+            6.6557111,
+            46.5177456
+          ],
+          [
+            6.6556784,
+            46.5177448
+          ],
+          [
+            6.6556768,
+            46.5177742
+          ],
+          [
+            6.6557097,
+            46.5177751
+          ],
+          [
+            6.6557062,
+            46.5178396
+          ],
+          [
+            6.6555032,
+            46.5178344
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/89615505",
+    "properties": {
+      "addr:city": "Pully",
+      "addr:housenumber": "61",
+      "addr:postcode": "1009",
+      "addr:street": "Chemin du Liaudoz",
+      "building": "apartments",
+      "owner": "Coopérative d'habitations groupées des Liaudes",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q131885512",
+      "source": "Orthophoto Pully swisstopo",
+      "start_date": "1991",
+      "id": "way/89615505",
+      "start_date_parsed": "1991-01-01T00:00:00.000Z",
+      "owner:start_date": "1986-07-23T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-102.132.446"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6555622,
+            46.518001
+          ],
+          [
+            6.6555667,
+            46.5178671
+          ],
+          [
+            6.6557833,
+            46.5178705
+          ],
+          [
+            6.6557816,
+            46.5179212
+          ],
+          [
+            6.6557482,
+            46.5179207
+          ],
+          [
+            6.6557474,
+            46.5179435
+          ],
+          [
+            6.6557801,
+            46.517944
+          ],
+          [
+            6.6557781,
+            46.5180044
+          ],
+          [
+            6.6555622,
+            46.518001
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/89615506",
+    "properties": {
+      "building": "apartments",
+      "owner": "Coopérative d'habitations groupées des Liaudes",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q131885512",
+      "source": "Orthophoto Pully swisstopo",
+      "start_date": "1991",
+      "addr": [
+        {
+          "addr:city": "Pully",
+          "addr:postcode": "1009",
+          "addr:street": "Chemin du Liaudoz",
+          "addr:housenumber": "55"
+        },
+        {
+          "addr:city": "Pully",
+          "addr:postcode": "1009",
+          "addr:street": "Chemin du Liaudoz",
+          "addr:housenumber": "53"
+        }
+      ],
+      "id": "way/89615506",
+      "start_date_parsed": "1991-01-01T00:00:00.000Z",
+      "owner:start_date": "1986-07-23T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-102.132.446"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6557841,
+            46.5182048
+          ],
+          [
+            6.655785,
+            46.5180334
+          ],
+          [
+            6.6560024,
+            46.5180339
+          ],
+          [
+            6.6560015,
+            46.5182054
+          ],
+          [
+            6.6557841,
+            46.5182048
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1354020730",
+    "properties": {
+      "building": "apartments",
+      "owner": "Coopérative d'habitations groupées des Liaudes",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q131885512",
+      "start_date": "1991",
+      "addr": [
+        {
+          "addr:city": "Pully",
+          "addr:postcode": "1009",
+          "addr:street": "Chemin du Liaudoz",
+          "addr:housenumber": "49"
+        }
+      ],
+      "id": "way/1354020730",
+      "start_date_parsed": "1991-01-01T00:00:00.000Z",
+      "owner:start_date": "1986-07-23T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-102.132.446"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6561967,
+            46.5179161
+          ],
+          [
+            6.6564131,
+            46.5179191
+          ],
+          [
+            6.6564112,
+            46.5179839
+          ],
+          [
+            6.6563914,
+            46.5179837
+          ],
+          [
+            6.6563897,
+            46.5180424
+          ],
+          [
+            6.6563545,
+            46.5180419
+          ],
+          [
+            6.6563536,
+            46.518073
+          ],
+          [
+            6.6563916,
+            46.5180735
+          ],
+          [
+            6.6563894,
+            46.5181456
+          ],
+          [
+            6.6561762,
+            46.5181426
+          ],
+          [
+            6.6561811,
+            46.517978
+          ],
+          [
+            6.6561948,
+            46.5179782
+          ],
+          [
+            6.6561967,
+            46.5179161
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1354022708",
+    "properties": {
+      "building:part": "apartments",
+      "owner": "Coopérative d'habitations groupées des Liaudes",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q131885512",
+      "start_date": "1991",
+      "addr": [
+        {
+          "addr:city": "Pully",
+          "addr:postcode": "1009",
+          "addr:street": "Chemin du Liaudoz",
+          "addr:housenumber": "47"
+        },
+        {
+          "addr:city": "Pully",
+          "addr:postcode": "1009",
+          "addr:street": "Chemin du Liaudoz",
+          "addr:housenumber": "45"
+        }
+      ],
+      "id": "way/1354022708",
+      "start_date_parsed": "1991-01-01T00:00:00.000Z",
+      "owner:start_date": "1986-07-23T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-102.132.446"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6561996,
+            46.5178871
+          ],
+          [
+            6.6562046,
+            46.5178294
+          ],
+          [
+            6.6561894,
+            46.5178288
+          ],
+          [
+            6.6561962,
+            46.5176676
+          ],
+          [
+            6.6564028,
+            46.5176723
+          ],
+          [
+            6.6563995,
+            46.5177413
+          ],
+          [
+            6.6563646,
+            46.5177405
+          ],
+          [
+            6.656363,
+            46.5177732
+          ],
+          [
+            6.6564004,
+            46.517774
+          ],
+          [
+            6.6563977,
+            46.51783
+          ],
+          [
+            6.6564109,
+            46.5178303
+          ],
+          [
+            6.656408,
+            46.5178918
+          ],
+          [
+            6.6561996,
+            46.5178871
+          ]
+        ]
+      ]
+    }
+  }
+]}

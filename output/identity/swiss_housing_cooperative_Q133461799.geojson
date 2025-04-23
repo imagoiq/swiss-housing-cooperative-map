@@ -1,1 +1,120 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/177024422","properties":{"architect":"Carlo Steffen,Gérard Berlie","building":"apartments","building:flats":"8","owner":"Coprolo Poterie","owner:type":"cooperative","owner:wikidata":"Q133461799","start_date":"2000-07","addr":[{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue de Lyon","addr:housenumber":"50"},{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue de la Poterie","addr:housenumber":"1"}],"id":"way/177024422","start_date_parsed":"2000-07-01T00:00:00.000Z","owner:website":"https://coprolo.ch/cooperatives/coprolo-poterie","owner:swiss_business_uid":"CHE-102.562.864"},"geometry":{"type":"Polygon","coordinates":[[[6.1321643,46.2091376],[6.132146,46.2091075],[6.1321324,46.2091118],[6.1321077,46.2090668],[6.1321214,46.2090637],[6.1321021,46.2090284],[6.1320838,46.2090337],[6.1320627,46.2089975],[6.1320829,46.2089922],[6.1320596,46.208951],[6.1321027,46.2089444],[6.1321639,46.208946],[6.1321702,46.2089562],[6.1322208,46.2089519],[6.1322281,46.2089617],[6.1322431,46.208958],[6.1323225,46.2090988],[6.132307,46.2091025],[6.1323079,46.2091254],[6.1321643,46.2091376]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/177024422",
+    "properties": {
+      "architect": "Carlo Steffen,Gérard Berlie",
+      "building": "apartments",
+      "building:flats": "8",
+      "owner": "Coprolo Poterie",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133461799",
+      "start_date": "2000-07",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue de Lyon",
+          "addr:housenumber": "50"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue de la Poterie",
+          "addr:housenumber": "1"
+        }
+      ],
+      "id": "way/177024422",
+      "start_date_parsed": "2000-07-01T00:00:00.000Z",
+      "owner:website": "https://coprolo.ch/cooperatives/coprolo-poterie",
+      "owner:swiss_business_uid": "CHE-102.562.864"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1321643,
+            46.2091376
+          ],
+          [
+            6.132146,
+            46.2091075
+          ],
+          [
+            6.1321324,
+            46.2091118
+          ],
+          [
+            6.1321077,
+            46.2090668
+          ],
+          [
+            6.1321214,
+            46.2090637
+          ],
+          [
+            6.1321021,
+            46.2090284
+          ],
+          [
+            6.1320838,
+            46.2090337
+          ],
+          [
+            6.1320627,
+            46.2089975
+          ],
+          [
+            6.1320829,
+            46.2089922
+          ],
+          [
+            6.1320596,
+            46.208951
+          ],
+          [
+            6.1321027,
+            46.2089444
+          ],
+          [
+            6.1321639,
+            46.208946
+          ],
+          [
+            6.1321702,
+            46.2089562
+          ],
+          [
+            6.1322208,
+            46.2089519
+          ],
+          [
+            6.1322281,
+            46.2089617
+          ],
+          [
+            6.1322431,
+            46.208958
+          ],
+          [
+            6.1323225,
+            46.2090988
+          ],
+          [
+            6.132307,
+            46.2091025
+          ],
+          [
+            6.1323079,
+            46.2091254
+          ],
+          [
+            6.1321643,
+            46.2091376
+          ]
+        ]
+      ]
+    }
+  }
+]}

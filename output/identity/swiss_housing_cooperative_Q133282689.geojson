@@ -1,1 +1,108 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/113623272","properties":{"addr:city":"Bernex","addr:housenumber":"1","addr:postcode":"1233","addr:street":"Chemin de Champ-Fleury","building":"apartments","heating":"heat_pump","owner":"Coopérative d'habitation Maison Neuve","owner:type":"cooperative","owner:wikidata":"Q133282689","id":"way/113623272","owner:website":"https://www.maison-neuve.ch/","owner:swiss_business_uid":"CHE-324.445.682"},"geometry":{"type":"Polygon","coordinates":[[[6.0584704,46.1628565],[6.0584021,46.1629349],[6.0583876,46.1629288],[6.0581183,46.1628165],[6.0580797,46.1628004],[6.0581451,46.1627242],[6.0584704,46.1628565]]]}},{"type":"Feature","id":"way/893968011","properties":{"addr:city":"Bernex","addr:housenumber":"1a","addr:postcode":"1233","addr:street":"Chemin de Champ-Fleury","building":"apartments","heating":"heat_pump","owner":"Coopérative d'habitation Maison Neuve","owner:type":"cooperative","owner:wikidata":"Q133282689","id":"way/893968011","owner:website":"https://www.maison-neuve.ch/","owner:swiss_business_uid":"CHE-324.445.682"},"geometry":{"type":"Polygon","coordinates":[[[6.0581456,46.1628567],[6.0580673,46.1629503],[6.0580592,46.16296],[6.0579412,46.1629127],[6.0580276,46.1628094],[6.0580998,46.1628383],[6.0581456,46.1628567]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/113623272",
+    "properties": {
+      "addr:city": "Bernex",
+      "addr:housenumber": "1",
+      "addr:postcode": "1233",
+      "addr:street": "Chemin de Champ-Fleury",
+      "building": "apartments",
+      "heating": "heat_pump",
+      "owner": "Coopérative d'habitation Maison Neuve",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133282689",
+      "id": "way/113623272",
+      "owner:website": "https://www.maison-neuve.ch/",
+      "owner:swiss_business_uid": "CHE-324.445.682"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.0584704,
+            46.1628565
+          ],
+          [
+            6.0584021,
+            46.1629349
+          ],
+          [
+            6.0583876,
+            46.1629288
+          ],
+          [
+            6.0581183,
+            46.1628165
+          ],
+          [
+            6.0580797,
+            46.1628004
+          ],
+          [
+            6.0581451,
+            46.1627242
+          ],
+          [
+            6.0584704,
+            46.1628565
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/893968011",
+    "properties": {
+      "addr:city": "Bernex",
+      "addr:housenumber": "1a",
+      "addr:postcode": "1233",
+      "addr:street": "Chemin de Champ-Fleury",
+      "building": "apartments",
+      "heating": "heat_pump",
+      "owner": "Coopérative d'habitation Maison Neuve",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133282689",
+      "id": "way/893968011",
+      "owner:website": "https://www.maison-neuve.ch/",
+      "owner:swiss_business_uid": "CHE-324.445.682"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.0581456,
+            46.1628567
+          ],
+          [
+            6.0580673,
+            46.1629503
+          ],
+          [
+            6.0580592,
+            46.16296
+          ],
+          [
+            6.0579412,
+            46.1629127
+          ],
+          [
+            6.0580276,
+            46.1628094
+          ],
+          [
+            6.0580998,
+            46.1628383
+          ],
+          [
+            6.0581456,
+            46.1628567
+          ]
+        ]
+      ]
+    }
+  }
+]}

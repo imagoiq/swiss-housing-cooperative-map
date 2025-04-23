@@ -1,1 +1,818 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/35543381","properties":{"building":"apartments","building:flats":"40","building:levels":"11","owner":"Coopérative Immobilière du Personnel Fédéral","owner:abbr":"CIPEF","owner:type":"cooperative","owner:wikidata":"Q133459708","roof:shape":"flat","source":"EPFL ortho","start_date":"1976","addr":[{"addr:city":"Chavannes-près-Renens","addr:postcode":"1022","addr:street":"Rue de la Mouline","addr:housenumber":"22"},{"addr:city":"Chavannes-près-Renens","addr:postcode":"1022","addr:street":"Rue de la Mouline","addr:housenumber":"20"}],"id":"way/35543381","start_date_parsed":"1976-01-01T00:00:00.000Z","owner:website":"https://www.cipef.ch/","owner:swiss_business_uid":"CHE-103.914.078"},"geometry":{"type":"Polygon","coordinates":[[[6.5768991,46.5266341],[6.5770224,46.5265266],[6.5773621,46.5267111],[6.5772387,46.5268186],[6.5768991,46.5266341]]]}},{"type":"Feature","id":"way/35543382","properties":{"building":"apartments","building:flats":"64","building:levels":"8","owner":"Coopérative Immobilière du Personnel Fédéral","owner:abbr":"CIPEF","owner:type":"cooperative","owner:wikidata":"Q133459708","roof:shape":"flat","source":"EPFL ortho","start_date":"1973","addr":[{"addr:city":"Chavannes-près-Renens","addr:postcode":"1022","addr:street":"Rue de la Mouline","addr:housenumber":"12"},{"addr:city":"Chavannes-près-Renens","addr:postcode":"1022","addr:street":"Rue de la Mouline","addr:housenumber":"14"},{"addr:city":"Chavannes-près-Renens","addr:postcode":"1022","addr:street":"Rue de la Mouline","addr:housenumber":"16"},{"addr:city":"Chavannes-près-Renens","addr:postcode":"1022","addr:street":"Rue de la Mouline","addr:housenumber":"18"}],"id":"way/35543382","start_date_parsed":"1973-01-01T00:00:00.000Z","owner:website":"https://www.cipef.ch/","owner:swiss_business_uid":"CHE-103.914.078"},"geometry":{"type":"Polygon","coordinates":[[[6.5758571,46.5272991],[6.5763828,46.5268492],[6.5765359,46.5269338],[6.5760103,46.5273839],[6.5758571,46.5272991]]]}},{"type":"Feature","id":"way/35543385","properties":{"addr:city":"Chavanes-pres-Renens","addr:country":"CH","addr:housenumber":"10","addr:postcode":"1022","addr:street":"Chemin des Berges","building":"apartments","building:flats":"29","building:levels":"4","owner":"Coopérative Immobilière du Personnel Fédéral","owner:abbr":"CIPEF","owner:type":"cooperative","owner:wikidata":"Q133459708","roof:levels":"0","roof:shape":"flat","source":"EPFL ortho","start_date":"1989","id":"way/35543385","start_date_parsed":"1989-01-01T00:00:00.000Z","owner:website":"https://www.cipef.ch/","owner:swiss_business_uid":"CHE-103.914.078"},"geometry":{"type":"Polygon","coordinates":[[[6.5754927,46.5263283],[6.5757666,46.5260611],[6.5759877,46.5261684],[6.5759,46.5262556],[6.5758744,46.5262432],[6.5758518,46.5262593],[6.5758378,46.5262526],[6.5757811,46.5263079],[6.5757968,46.5263155],[6.5757844,46.526331],[6.5758076,46.5263422],[6.5757139,46.5264356],[6.5754927,46.5263283]]]}},{"type":"Feature","id":"way/210240312","properties":{"addr:city":"Préverenges","addr:housenumber":"5","addr:postcode":"1028","addr:street":"Chemin Neuf","building":"apartments","building:levels":"4","owner":"Coopérative Immobilière du Personnel Fédéral","owner:abbr":"CIPEF","owner:type":"cooperative","owner:wikidata":"Q133459708","roof:levels":"0.5","roof:shape":"hipped","start_date":"1987","id":"way/210240312","start_date_parsed":"1987-01-01T00:00:00.000Z","owner:website":"https://www.cipef.ch/","owner:swiss_business_uid":"CHE-103.914.078"},"geometry":{"type":"Polygon","coordinates":[[[6.5317079,46.5159007],[6.5316617,46.5157989],[6.5319145,46.5157445],[6.5319607,46.5158464],[6.5317079,46.5159007]]]}},{"type":"Feature","id":"way/210240332","properties":{"building":"apartments","building:levels":"4","owner":"Coopérative Immobilière du Personnel Fédéral","owner:abbr":"CIPEF","owner:type":"cooperative","owner:wikidata":"Q133459708","roof:levels":"0.5","roof:shape":"hipped","start_date":"1987","addr":[{"addr:city":"Préverenges","addr:postcode":"1028","addr:street":"Chemin Neuf","addr:housenumber":"1"},{"addr:city":"Préverenges","addr:postcode":"1028","addr:street":"Chemin Neuf","addr:housenumber":"3"}],"id":"way/210240332","start_date_parsed":"1987-01-01T00:00:00.000Z","owner:website":"https://www.cipef.ch/","owner:swiss_business_uid":"CHE-103.914.078"},"geometry":{"type":"Polygon","coordinates":[[[6.5320875,46.5160772],[6.5320505,46.5159981],[6.5324954,46.5158994],[6.5325325,46.5159786],[6.5320875,46.5160772]]]}},{"type":"Feature","id":"way/210240397","properties":{"building":"apartments","building:levels":"4","owner":"Coopérative Immobilière du Personnel Fédéral","owner:abbr":"CIPEF","owner:type":"cooperative","owner:wikidata":"Q133459708","roof:levels":"0.5","roof:shape":"hipped","start_date":"1987","addr":[{"addr:city":"Préverenges","addr:postcode":"1028","addr:street":"Chemin Neuf","addr:housenumber":"7"},{"addr:city":"Préverenges","addr:postcode":"1028","addr:street":"Chemin Neuf","addr:housenumber":"9"}],"id":"way/210240397","start_date_parsed":"1987-01-01T00:00:00.000Z","owner:website":"https://www.cipef.ch/","owner:swiss_business_uid":"CHE-103.914.078"},"geometry":{"type":"Polygon","coordinates":[[[6.5319259,46.5155708],[6.5318911,46.515559],[6.5318642,46.5155024],[6.5318843,46.5154649],[6.5323023,46.5153751],[6.5323476,46.515474],[6.5319259,46.5155708]]]}},{"type":"Feature","id":"way/1005082513","properties":{"addr:city":"Ecublens","addr:country":"CH","addr:housenumber":"8","addr:postcode":"1024","addr:street":"Chemin des Triaudes","building":"apartments","building:flats":"12","building:levels":"4","owner":"Coopérative Immobilière du Personnel Fédéral","owner:abbr":"CIPEF","owner:type":"cooperative","owner:wikidata":"Q133459708","roof:levels":"0","roof:shape":"flat","source":"EPFL ortho","start_date":"1996","id":"way/1005082513","start_date_parsed":"1996-01-01T00:00:00.000Z","owner:website":"https://www.cipef.ch/","owner:swiss_business_uid":"CHE-103.914.078"},"geometry":{"type":"Polygon","coordinates":[[[6.5659851,46.5241851],[6.5659535,46.5240965],[6.5660105,46.5240887],[6.5660649,46.5240808],[6.5661279,46.5240818],[6.5661312,46.5241007],[6.5661876,46.5241039],[6.5662533,46.524109],[6.5663002,46.5241191],[6.5662969,46.5241376],[6.5663512,46.52415],[6.5664015,46.5241639],[6.5664524,46.5241786],[6.5663834,46.5242622],[6.5663452,46.5242455],[6.5663083,46.5242345],[6.566256,46.5242215],[6.5662593,46.5242132],[6.5662198,46.5242068],[6.5661775,46.5242026],[6.5661259,46.5242017],[6.5661232,46.5242257],[6.5660803,46.5242262],[6.5660783,46.5241759],[6.5660374,46.5241786],[6.5659851,46.5241851]]]}},{"type":"Feature","id":"way/1005082514","properties":{"addr:city":"Ecublens","addr:country":"CH","addr:housenumber":"10","addr:postcode":"1024","addr:street":"Chemin des Triaudes","building":"apartments","building:flats":"12","building:levels":"4","owner":"Coopérative Immobilière du Personnel Fédéral","owner:abbr":"CIPEF","owner:type":"cooperative","owner:wikidata":"Q133459708","roof:levels":"0","roof:shape":"flat","source":"EPFL ortho","start_date":"1996","id":"way/1005082514","start_date_parsed":"1996-01-01T00:00:00.000Z","owner:website":"https://www.cipef.ch/","owner:swiss_business_uid":"CHE-103.914.078"},"geometry":{"type":"Polygon","coordinates":[[[6.5659791,46.5245112],[6.5659469,46.5244176],[6.566014,46.5244088],[6.566075,46.5244046],[6.5661273,46.5244046],[6.566128,46.5244217],[6.566187,46.5244231],[6.566244,46.5244291],[6.5662963,46.5244406],[6.5662949,46.5244591],[6.5663613,46.5244757],[6.5664136,46.5244914],[6.5664478,46.5245043],[6.5663821,46.524586],[6.5663492,46.524574],[6.5663124,46.524562],[6.5662493,46.5245477],[6.566254,46.524538],[6.566199,46.5245292],[6.5661548,46.5245251],[6.5661219,46.5245251],[6.5661199,46.5245523],[6.5660716,46.5245532],[6.5660723,46.5245015],[6.5660435,46.5245025],[6.5660126,46.5245052],[6.5659791,46.5245112]]]}},{"type":"Feature","id":"way/1005082516","properties":{"addr:city":"Ecublens","addr:country":"CH","addr:housenumber":"12","addr:postcode":"1024","addr:street":"Chemin des Triaudes","building":"apartments","building:flats":"12","building:levels":"4","owner":"Coopérative Immobilière du Personnel Fédéral","owner:abbr":"CIPEF","owner:type":"cooperative","owner:wikidata":"Q133459708","roof:levels":"0","roof:shape":"flat","source":"EPFL ortho","start_date":"1996","id":"way/1005082516","start_date_parsed":"1996-01-01T00:00:00.000Z","owner:website":"https://www.cipef.ch/","owner:swiss_business_uid":"CHE-103.914.078"},"geometry":{"type":"Polygon","coordinates":[[[6.5659737,46.5248582],[6.5659415,46.5247645],[6.5660086,46.5247557],[6.5660696,46.5247516],[6.5661219,46.5247516],[6.5661226,46.5247687],[6.5661816,46.52477],[6.5662386,46.524776],[6.5662909,46.5247876],[6.5662896,46.524806],[6.5663559,46.5248226],[6.5664083,46.5248383],[6.5664425,46.5248512],[6.5663767,46.5249329],[6.5663439,46.5249209],[6.566307,46.5249089],[6.566244,46.5248946],[6.5662487,46.5248849],[6.5661937,46.5248762],[6.5661494,46.524872],[6.5661166,46.524872],[6.5661146,46.5248992],[6.5660663,46.5249002],[6.5660669,46.5248485],[6.5660381,46.5248494],[6.5660073,46.5248522],[6.5659737,46.5248582]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/35543381",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "40",
+      "building:levels": "11",
+      "owner": "Coopérative Immobilière du Personnel Fédéral",
+      "owner:abbr": "CIPEF",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459708",
+      "roof:shape": "flat",
+      "source": "EPFL ortho",
+      "start_date": "1976",
+      "addr": [
+        {
+          "addr:city": "Chavannes-près-Renens",
+          "addr:postcode": "1022",
+          "addr:street": "Rue de la Mouline",
+          "addr:housenumber": "22"
+        },
+        {
+          "addr:city": "Chavannes-près-Renens",
+          "addr:postcode": "1022",
+          "addr:street": "Rue de la Mouline",
+          "addr:housenumber": "20"
+        }
+      ],
+      "id": "way/35543381",
+      "start_date_parsed": "1976-01-01T00:00:00.000Z",
+      "owner:website": "https://www.cipef.ch/",
+      "owner:swiss_business_uid": "CHE-103.914.078"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.5768991,
+            46.5266341
+          ],
+          [
+            6.5770224,
+            46.5265266
+          ],
+          [
+            6.5773621,
+            46.5267111
+          ],
+          [
+            6.5772387,
+            46.5268186
+          ],
+          [
+            6.5768991,
+            46.5266341
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/35543382",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "64",
+      "building:levels": "8",
+      "owner": "Coopérative Immobilière du Personnel Fédéral",
+      "owner:abbr": "CIPEF",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459708",
+      "roof:shape": "flat",
+      "source": "EPFL ortho",
+      "start_date": "1973",
+      "addr": [
+        {
+          "addr:city": "Chavannes-près-Renens",
+          "addr:postcode": "1022",
+          "addr:street": "Rue de la Mouline",
+          "addr:housenumber": "12"
+        },
+        {
+          "addr:city": "Chavannes-près-Renens",
+          "addr:postcode": "1022",
+          "addr:street": "Rue de la Mouline",
+          "addr:housenumber": "14"
+        },
+        {
+          "addr:city": "Chavannes-près-Renens",
+          "addr:postcode": "1022",
+          "addr:street": "Rue de la Mouline",
+          "addr:housenumber": "16"
+        },
+        {
+          "addr:city": "Chavannes-près-Renens",
+          "addr:postcode": "1022",
+          "addr:street": "Rue de la Mouline",
+          "addr:housenumber": "18"
+        }
+      ],
+      "id": "way/35543382",
+      "start_date_parsed": "1973-01-01T00:00:00.000Z",
+      "owner:website": "https://www.cipef.ch/",
+      "owner:swiss_business_uid": "CHE-103.914.078"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.5758571,
+            46.5272991
+          ],
+          [
+            6.5763828,
+            46.5268492
+          ],
+          [
+            6.5765359,
+            46.5269338
+          ],
+          [
+            6.5760103,
+            46.5273839
+          ],
+          [
+            6.5758571,
+            46.5272991
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/35543385",
+    "properties": {
+      "addr:city": "Chavanes-pres-Renens",
+      "addr:country": "CH",
+      "addr:housenumber": "10",
+      "addr:postcode": "1022",
+      "addr:street": "Chemin des Berges",
+      "building": "apartments",
+      "building:flats": "29",
+      "building:levels": "4",
+      "owner": "Coopérative Immobilière du Personnel Fédéral",
+      "owner:abbr": "CIPEF",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459708",
+      "roof:levels": "0",
+      "roof:shape": "flat",
+      "source": "EPFL ortho",
+      "start_date": "1989",
+      "id": "way/35543385",
+      "start_date_parsed": "1989-01-01T00:00:00.000Z",
+      "owner:website": "https://www.cipef.ch/",
+      "owner:swiss_business_uid": "CHE-103.914.078"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.5754927,
+            46.5263283
+          ],
+          [
+            6.5757666,
+            46.5260611
+          ],
+          [
+            6.5759877,
+            46.5261684
+          ],
+          [
+            6.5759,
+            46.5262556
+          ],
+          [
+            6.5758744,
+            46.5262432
+          ],
+          [
+            6.5758518,
+            46.5262593
+          ],
+          [
+            6.5758378,
+            46.5262526
+          ],
+          [
+            6.5757811,
+            46.5263079
+          ],
+          [
+            6.5757968,
+            46.5263155
+          ],
+          [
+            6.5757844,
+            46.526331
+          ],
+          [
+            6.5758076,
+            46.5263422
+          ],
+          [
+            6.5757139,
+            46.5264356
+          ],
+          [
+            6.5754927,
+            46.5263283
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/210240312",
+    "properties": {
+      "addr:city": "Préverenges",
+      "addr:housenumber": "5",
+      "addr:postcode": "1028",
+      "addr:street": "Chemin Neuf",
+      "building": "apartments",
+      "building:levels": "4",
+      "owner": "Coopérative Immobilière du Personnel Fédéral",
+      "owner:abbr": "CIPEF",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459708",
+      "roof:levels": "0.5",
+      "roof:shape": "hipped",
+      "start_date": "1987",
+      "id": "way/210240312",
+      "start_date_parsed": "1987-01-01T00:00:00.000Z",
+      "owner:website": "https://www.cipef.ch/",
+      "owner:swiss_business_uid": "CHE-103.914.078"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.5317079,
+            46.5159007
+          ],
+          [
+            6.5316617,
+            46.5157989
+          ],
+          [
+            6.5319145,
+            46.5157445
+          ],
+          [
+            6.5319607,
+            46.5158464
+          ],
+          [
+            6.5317079,
+            46.5159007
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/210240332",
+    "properties": {
+      "building": "apartments",
+      "building:levels": "4",
+      "owner": "Coopérative Immobilière du Personnel Fédéral",
+      "owner:abbr": "CIPEF",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459708",
+      "roof:levels": "0.5",
+      "roof:shape": "hipped",
+      "start_date": "1987",
+      "addr": [
+        {
+          "addr:city": "Préverenges",
+          "addr:postcode": "1028",
+          "addr:street": "Chemin Neuf",
+          "addr:housenumber": "1"
+        },
+        {
+          "addr:city": "Préverenges",
+          "addr:postcode": "1028",
+          "addr:street": "Chemin Neuf",
+          "addr:housenumber": "3"
+        }
+      ],
+      "id": "way/210240332",
+      "start_date_parsed": "1987-01-01T00:00:00.000Z",
+      "owner:website": "https://www.cipef.ch/",
+      "owner:swiss_business_uid": "CHE-103.914.078"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.5320875,
+            46.5160772
+          ],
+          [
+            6.5320505,
+            46.5159981
+          ],
+          [
+            6.5324954,
+            46.5158994
+          ],
+          [
+            6.5325325,
+            46.5159786
+          ],
+          [
+            6.5320875,
+            46.5160772
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/210240397",
+    "properties": {
+      "building": "apartments",
+      "building:levels": "4",
+      "owner": "Coopérative Immobilière du Personnel Fédéral",
+      "owner:abbr": "CIPEF",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459708",
+      "roof:levels": "0.5",
+      "roof:shape": "hipped",
+      "start_date": "1987",
+      "addr": [
+        {
+          "addr:city": "Préverenges",
+          "addr:postcode": "1028",
+          "addr:street": "Chemin Neuf",
+          "addr:housenumber": "7"
+        },
+        {
+          "addr:city": "Préverenges",
+          "addr:postcode": "1028",
+          "addr:street": "Chemin Neuf",
+          "addr:housenumber": "9"
+        }
+      ],
+      "id": "way/210240397",
+      "start_date_parsed": "1987-01-01T00:00:00.000Z",
+      "owner:website": "https://www.cipef.ch/",
+      "owner:swiss_business_uid": "CHE-103.914.078"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.5319259,
+            46.5155708
+          ],
+          [
+            6.5318911,
+            46.515559
+          ],
+          [
+            6.5318642,
+            46.5155024
+          ],
+          [
+            6.5318843,
+            46.5154649
+          ],
+          [
+            6.5323023,
+            46.5153751
+          ],
+          [
+            6.5323476,
+            46.515474
+          ],
+          [
+            6.5319259,
+            46.5155708
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1005082513",
+    "properties": {
+      "addr:city": "Ecublens",
+      "addr:country": "CH",
+      "addr:housenumber": "8",
+      "addr:postcode": "1024",
+      "addr:street": "Chemin des Triaudes",
+      "building": "apartments",
+      "building:flats": "12",
+      "building:levels": "4",
+      "owner": "Coopérative Immobilière du Personnel Fédéral",
+      "owner:abbr": "CIPEF",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459708",
+      "roof:levels": "0",
+      "roof:shape": "flat",
+      "source": "EPFL ortho",
+      "start_date": "1996",
+      "id": "way/1005082513",
+      "start_date_parsed": "1996-01-01T00:00:00.000Z",
+      "owner:website": "https://www.cipef.ch/",
+      "owner:swiss_business_uid": "CHE-103.914.078"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.5659851,
+            46.5241851
+          ],
+          [
+            6.5659535,
+            46.5240965
+          ],
+          [
+            6.5660105,
+            46.5240887
+          ],
+          [
+            6.5660649,
+            46.5240808
+          ],
+          [
+            6.5661279,
+            46.5240818
+          ],
+          [
+            6.5661312,
+            46.5241007
+          ],
+          [
+            6.5661876,
+            46.5241039
+          ],
+          [
+            6.5662533,
+            46.524109
+          ],
+          [
+            6.5663002,
+            46.5241191
+          ],
+          [
+            6.5662969,
+            46.5241376
+          ],
+          [
+            6.5663512,
+            46.52415
+          ],
+          [
+            6.5664015,
+            46.5241639
+          ],
+          [
+            6.5664524,
+            46.5241786
+          ],
+          [
+            6.5663834,
+            46.5242622
+          ],
+          [
+            6.5663452,
+            46.5242455
+          ],
+          [
+            6.5663083,
+            46.5242345
+          ],
+          [
+            6.566256,
+            46.5242215
+          ],
+          [
+            6.5662593,
+            46.5242132
+          ],
+          [
+            6.5662198,
+            46.5242068
+          ],
+          [
+            6.5661775,
+            46.5242026
+          ],
+          [
+            6.5661259,
+            46.5242017
+          ],
+          [
+            6.5661232,
+            46.5242257
+          ],
+          [
+            6.5660803,
+            46.5242262
+          ],
+          [
+            6.5660783,
+            46.5241759
+          ],
+          [
+            6.5660374,
+            46.5241786
+          ],
+          [
+            6.5659851,
+            46.5241851
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1005082514",
+    "properties": {
+      "addr:city": "Ecublens",
+      "addr:country": "CH",
+      "addr:housenumber": "10",
+      "addr:postcode": "1024",
+      "addr:street": "Chemin des Triaudes",
+      "building": "apartments",
+      "building:flats": "12",
+      "building:levels": "4",
+      "owner": "Coopérative Immobilière du Personnel Fédéral",
+      "owner:abbr": "CIPEF",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459708",
+      "roof:levels": "0",
+      "roof:shape": "flat",
+      "source": "EPFL ortho",
+      "start_date": "1996",
+      "id": "way/1005082514",
+      "start_date_parsed": "1996-01-01T00:00:00.000Z",
+      "owner:website": "https://www.cipef.ch/",
+      "owner:swiss_business_uid": "CHE-103.914.078"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.5659791,
+            46.5245112
+          ],
+          [
+            6.5659469,
+            46.5244176
+          ],
+          [
+            6.566014,
+            46.5244088
+          ],
+          [
+            6.566075,
+            46.5244046
+          ],
+          [
+            6.5661273,
+            46.5244046
+          ],
+          [
+            6.566128,
+            46.5244217
+          ],
+          [
+            6.566187,
+            46.5244231
+          ],
+          [
+            6.566244,
+            46.5244291
+          ],
+          [
+            6.5662963,
+            46.5244406
+          ],
+          [
+            6.5662949,
+            46.5244591
+          ],
+          [
+            6.5663613,
+            46.5244757
+          ],
+          [
+            6.5664136,
+            46.5244914
+          ],
+          [
+            6.5664478,
+            46.5245043
+          ],
+          [
+            6.5663821,
+            46.524586
+          ],
+          [
+            6.5663492,
+            46.524574
+          ],
+          [
+            6.5663124,
+            46.524562
+          ],
+          [
+            6.5662493,
+            46.5245477
+          ],
+          [
+            6.566254,
+            46.524538
+          ],
+          [
+            6.566199,
+            46.5245292
+          ],
+          [
+            6.5661548,
+            46.5245251
+          ],
+          [
+            6.5661219,
+            46.5245251
+          ],
+          [
+            6.5661199,
+            46.5245523
+          ],
+          [
+            6.5660716,
+            46.5245532
+          ],
+          [
+            6.5660723,
+            46.5245015
+          ],
+          [
+            6.5660435,
+            46.5245025
+          ],
+          [
+            6.5660126,
+            46.5245052
+          ],
+          [
+            6.5659791,
+            46.5245112
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1005082516",
+    "properties": {
+      "addr:city": "Ecublens",
+      "addr:country": "CH",
+      "addr:housenumber": "12",
+      "addr:postcode": "1024",
+      "addr:street": "Chemin des Triaudes",
+      "building": "apartments",
+      "building:flats": "12",
+      "building:levels": "4",
+      "owner": "Coopérative Immobilière du Personnel Fédéral",
+      "owner:abbr": "CIPEF",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459708",
+      "roof:levels": "0",
+      "roof:shape": "flat",
+      "source": "EPFL ortho",
+      "start_date": "1996",
+      "id": "way/1005082516",
+      "start_date_parsed": "1996-01-01T00:00:00.000Z",
+      "owner:website": "https://www.cipef.ch/",
+      "owner:swiss_business_uid": "CHE-103.914.078"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.5659737,
+            46.5248582
+          ],
+          [
+            6.5659415,
+            46.5247645
+          ],
+          [
+            6.5660086,
+            46.5247557
+          ],
+          [
+            6.5660696,
+            46.5247516
+          ],
+          [
+            6.5661219,
+            46.5247516
+          ],
+          [
+            6.5661226,
+            46.5247687
+          ],
+          [
+            6.5661816,
+            46.52477
+          ],
+          [
+            6.5662386,
+            46.524776
+          ],
+          [
+            6.5662909,
+            46.5247876
+          ],
+          [
+            6.5662896,
+            46.524806
+          ],
+          [
+            6.5663559,
+            46.5248226
+          ],
+          [
+            6.5664083,
+            46.5248383
+          ],
+          [
+            6.5664425,
+            46.5248512
+          ],
+          [
+            6.5663767,
+            46.5249329
+          ],
+          [
+            6.5663439,
+            46.5249209
+          ],
+          [
+            6.566307,
+            46.5249089
+          ],
+          [
+            6.566244,
+            46.5248946
+          ],
+          [
+            6.5662487,
+            46.5248849
+          ],
+          [
+            6.5661937,
+            46.5248762
+          ],
+          [
+            6.5661494,
+            46.524872
+          ],
+          [
+            6.5661166,
+            46.524872
+          ],
+          [
+            6.5661146,
+            46.5248992
+          ],
+          [
+            6.5660663,
+            46.5249002
+          ],
+          [
+            6.5660669,
+            46.5248485
+          ],
+          [
+            6.5660381,
+            46.5248494
+          ],
+          [
+            6.5660073,
+            46.5248522
+          ],
+          [
+            6.5659737,
+            46.5248582
+          ]
+        ]
+      ]
+    }
+  }
+]}

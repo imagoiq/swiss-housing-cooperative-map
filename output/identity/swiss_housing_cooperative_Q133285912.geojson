@@ -1,1 +1,51 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/106876338","properties":{"addr:city":"Courtételle","addr:housenumber":"3","addr:postcode":"2852","addr:street":"Rue du Mont","building":"apartments","building:flats":"7","building:levels":"2","last_renovation":"2023","owner":"Coopérative d’habitation Les Voisins","owner:type":"cooperative","owner:wikidata":"Q133285912","roof:levels":"1","roof:shape":"gabled","id":"way/106876338","last_renovation_parsed":"2023-01-01T00:00:00.000Z","owner:swiss_business_uid":"CHE-390.400.007"},"geometry":{"type":"Polygon","coordinates":[[[7.3194418,47.3381273],[7.319499,47.3379415],[7.3197642,47.337979],[7.3197069,47.3381648],[7.3194418,47.3381273]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/106876338",
+    "properties": {
+      "addr:city": "Courtételle",
+      "addr:housenumber": "3",
+      "addr:postcode": "2852",
+      "addr:street": "Rue du Mont",
+      "building": "apartments",
+      "building:flats": "7",
+      "building:levels": "2",
+      "last_renovation": "2023",
+      "owner": "Coopérative d’habitation Les Voisins",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133285912",
+      "roof:levels": "1",
+      "roof:shape": "gabled",
+      "id": "way/106876338",
+      "last_renovation_parsed": "2023-01-01T00:00:00.000Z",
+      "owner:swiss_business_uid": "CHE-390.400.007"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            7.3194418,
+            47.3381273
+          ],
+          [
+            7.319499,
+            47.3379415
+          ],
+          [
+            7.3197642,
+            47.337979
+          ],
+          [
+            7.3197069,
+            47.3381648
+          ],
+          [
+            7.3194418,
+            47.3381273
+          ]
+        ]
+      ]
+    }
+  }
+]}

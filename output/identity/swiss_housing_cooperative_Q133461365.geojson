@@ -1,1 +1,530 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/45749596","properties":{"addr:city":"Lausanne","addr:country":"CH","addr:housenumber":"4","addr:postcode":"1018","addr:street":"Chemin des Sauges","building":"apartments","building:levels":"4","owner":"Cité Joie","owner:type":"cooperative","owner:wikidata":"Q133461365","roof:levels":"0","roof:shape":"flat","source":"Orthophotos de la Ville de Lausanne (2008)","id":"way/45749596","owner:website":"http://www.cite-joie.ch/","owner:start_date":"1958-06-13T00:00:00Z","owner:swiss_business_uid":"CHE-101.956.628"},"geometry":{"type":"Polygon","coordinates":[[[6.6214377,46.5407487],[6.6215666,46.5405146],[6.6217394,46.5405596],[6.6216103,46.5407937],[6.6214377,46.5407487]]]}},{"type":"Feature","id":"way/45750617","properties":{"addr:city":"Lausanne","addr:country":"CH","addr:housenumber":"17","addr:postcode":"1018","addr:street":"Chemin de la Cassinette","building":"apartments","building:levels":"5","owner":"Cité Joie","owner:type":"cooperative","owner:wikidata":"Q133461365","roof:levels":"0","roof:shape":"flat","source":"Orthophotos de la Ville de Lausanne (2008)","id":"way/45750617","owner:website":"http://www.cite-joie.ch/","owner:start_date":"1958-06-13T00:00:00Z","owner:swiss_business_uid":"CHE-101.956.628"},"geometry":{"type":"Polygon","coordinates":[[[6.6217291,46.5404221],[6.6218226,46.5402118],[6.6216885,46.5401836],[6.6217343,46.5400805],[6.6219942,46.5401352],[6.6218549,46.5404485],[6.6217291,46.5404221]]]}},{"type":"Feature","id":"way/46948397","properties":{"addr:city":"Lausanne","addr:country":"CH","addr:housenumber":"51","addr:postcode":"1018","addr:street":"Avenue du Grey","building":"apartments","building:levels":"4","owner":"Cité Joie","owner:type":"cooperative","owner:wikidata":"Q133461365","roof:levels":"0","roof:shape":"hipped","source":"Orthophoto Ville de Lausanne 2008","id":"way/46948397","owner:website":"http://www.cite-joie.ch/","owner:start_date":"1958-06-13T00:00:00Z","owner:swiss_business_uid":"CHE-101.956.628"},"geometry":{"type":"Polygon","coordinates":[[[6.6199811,46.5351539],[6.6201207,46.5353487],[6.6199697,46.5353999],[6.6198302,46.5352051],[6.6199811,46.5351539]]]}},{"type":"Feature","id":"way/46989693","properties":{"addr:city":"Lausanne","addr:country":"CH","addr:housenumber":"99","addr:postcode":"1018","addr:street":"Route du Pavement","building":"apartments","owner":"Cité Joie","owner:type":"cooperative","owner:wikidata":"Q133461365","roof:shape":"flat","source":"Orthophoto Ville de Lausanne 2008","id":"way/46989693","owner:website":"http://www.cite-joie.ch/","owner:start_date":"1958-06-13T00:00:00Z","owner:swiss_business_uid":"CHE-101.956.628"},"geometry":{"type":"Polygon","coordinates":[[[6.6338309,46.5395113],[6.6338481,46.5394477],[6.6338305,46.539445],[6.6338469,46.5393864],[6.6338664,46.5393897],[6.6338677,46.539384],[6.6339321,46.5393915],[6.6339346,46.5393862],[6.6339433,46.5393811],[6.6339571,46.5393809],[6.6341336,46.5394069],[6.6341297,46.5394208],[6.6341395,46.539423],[6.634102,46.5395486],[6.6338309,46.5395113]]]}},{"type":"Feature","id":"way/47359758","properties":{"building":"apartments","owner":"Cité Joie","owner:type":"cooperative","owner:wikidata":"Q133461365","source":"Orthophoto Ville de Lausanne 2008","addr":[{"addr:city":"Lausanne","addr:postcode":"1018","addr:street":"Rue de la Borde","addr:housenumber":"55"},{"addr:city":"Lausanne","addr:postcode":"1018","addr:street":"Rue de la Borde","addr:housenumber":"53"},{"addr:city":"Lausanne","addr:postcode":"1018","addr:street":"Rue de la Borde","addr:housenumber":"57"}],"id":"way/47359758","owner:website":"http://www.cite-joie.ch/","owner:start_date":"1958-06-13T00:00:00Z","owner:swiss_business_uid":"CHE-101.956.628"},"geometry":{"type":"Polygon","coordinates":[[[6.6302358,46.5314784],[6.6303682,46.5315457],[6.6299904,46.5318642],[6.629865,46.5317938],[6.6302358,46.5314784]]]}},{"type":"Feature","id":"way/47359765","properties":{"addr:city":"Lausanne","addr:country":"CH","addr:housenumber":"51","addr:postcode":"1018","addr:street":"Rue de la Borde","building":"apartments","owner":"Cité Joie","owner:type":"cooperative","owner:wikidata":"Q133461365","source":"Bing Imagery 2010 + guichet cartographique canton de Vaud","id":"way/47359765","owner:website":"http://www.cite-joie.ch/","owner:start_date":"1958-06-13T00:00:00Z","owner:swiss_business_uid":"CHE-101.956.628"},"geometry":{"type":"Polygon","coordinates":[[[6.629961,46.531282],[6.6302155,46.5314237],[6.6301084,46.5315147],[6.6298539,46.531373],[6.629961,46.531282]]]}},{"type":"Feature","id":"way/97661734","properties":{"building":"apartments","owner":"Cité Joie","owner:type":"cooperative","owner:wikidata":"Q133461365","addr":[{"addr:city":"Clarens","addr:postcode":"1815","addr:street":"Avenue Mayor-Vautier","addr:housenumber":"23"},{"addr:city":"Clarens","addr:postcode":"1815","addr:street":"Avenue Jean-Jacques Rousseau","addr:housenumber":"22b"}],"id":"way/97661734","owner:website":"http://www.cite-joie.ch/","owner:start_date":"1958-06-13T00:00:00Z","owner:swiss_business_uid":"CHE-101.956.628"},"geometry":{"type":"Polygon","coordinates":[[[6.8921541,46.4424145],[6.8921055,46.4423288],[6.8922455,46.4422928],[6.8923824,46.442508],[6.8922119,46.4425358],[6.8922139,46.4425477],[6.8917664,46.4426279],[6.891689,46.4424981],[6.8921541,46.4424145]]]}},{"type":"Feature","id":"way/104979310","properties":{"building":"apartments","building:levels":"3","owner":"Cité Joie","owner:type":"cooperative","owner:wikidata":"Q133461365","roof:levels":"2","addr":[{"addr:city":"Clarens","addr:postcode":"1815","addr:street":"Route de Chailly","addr:housenumber":"24"},{"addr:city":"Clarens","addr:postcode":"1815","addr:street":"Route de Chailly","addr:housenumber":"26"}],"id":"way/104979310","owner:website":"http://www.cite-joie.ch/","owner:start_date":"1958-06-13T00:00:00Z","owner:swiss_business_uid":"CHE-101.956.628"},"geometry":{"type":"Polygon","coordinates":[[[6.8915105,46.449755],[6.8916333,46.4494393],[6.8918581,46.4494808],[6.8917353,46.4497965],[6.8915105,46.449755]]]}},{"type":"Feature","id":"way/237222136","properties":{"addr:city":"Montreux","addr:housenumber":"5","addr:postcode":"1820","addr:street":"Chemin du Taux","building":"apartments","owner":"Cité Joie","owner:type":"cooperative","owner:wikidata":"Q133461365","id":"way/237222136","owner:website":"http://www.cite-joie.ch/","owner:start_date":"1958-06-13T00:00:00Z","owner:swiss_business_uid":"CHE-101.956.628"},"geometry":{"type":"Polygon","coordinates":[[[6.9114441,46.4398672],[6.9115557,46.4396853],[6.911816,46.4397611],[6.9117044,46.439943],[6.9114441,46.4398672]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/45749596",
+    "properties": {
+      "addr:city": "Lausanne",
+      "addr:country": "CH",
+      "addr:housenumber": "4",
+      "addr:postcode": "1018",
+      "addr:street": "Chemin des Sauges",
+      "building": "apartments",
+      "building:levels": "4",
+      "owner": "Cité Joie",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133461365",
+      "roof:levels": "0",
+      "roof:shape": "flat",
+      "source": "Orthophotos de la Ville de Lausanne (2008)",
+      "id": "way/45749596",
+      "owner:website": "http://www.cite-joie.ch/",
+      "owner:start_date": "1958-06-13T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-101.956.628"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6214377,
+            46.5407487
+          ],
+          [
+            6.6215666,
+            46.5405146
+          ],
+          [
+            6.6217394,
+            46.5405596
+          ],
+          [
+            6.6216103,
+            46.5407937
+          ],
+          [
+            6.6214377,
+            46.5407487
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/45750617",
+    "properties": {
+      "addr:city": "Lausanne",
+      "addr:country": "CH",
+      "addr:housenumber": "17",
+      "addr:postcode": "1018",
+      "addr:street": "Chemin de la Cassinette",
+      "building": "apartments",
+      "building:levels": "5",
+      "owner": "Cité Joie",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133461365",
+      "roof:levels": "0",
+      "roof:shape": "flat",
+      "source": "Orthophotos de la Ville de Lausanne (2008)",
+      "id": "way/45750617",
+      "owner:website": "http://www.cite-joie.ch/",
+      "owner:start_date": "1958-06-13T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-101.956.628"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6217291,
+            46.5404221
+          ],
+          [
+            6.6218226,
+            46.5402118
+          ],
+          [
+            6.6216885,
+            46.5401836
+          ],
+          [
+            6.6217343,
+            46.5400805
+          ],
+          [
+            6.6219942,
+            46.5401352
+          ],
+          [
+            6.6218549,
+            46.5404485
+          ],
+          [
+            6.6217291,
+            46.5404221
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/46948397",
+    "properties": {
+      "addr:city": "Lausanne",
+      "addr:country": "CH",
+      "addr:housenumber": "51",
+      "addr:postcode": "1018",
+      "addr:street": "Avenue du Grey",
+      "building": "apartments",
+      "building:levels": "4",
+      "owner": "Cité Joie",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133461365",
+      "roof:levels": "0",
+      "roof:shape": "hipped",
+      "source": "Orthophoto Ville de Lausanne 2008",
+      "id": "way/46948397",
+      "owner:website": "http://www.cite-joie.ch/",
+      "owner:start_date": "1958-06-13T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-101.956.628"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6199811,
+            46.5351539
+          ],
+          [
+            6.6201207,
+            46.5353487
+          ],
+          [
+            6.6199697,
+            46.5353999
+          ],
+          [
+            6.6198302,
+            46.5352051
+          ],
+          [
+            6.6199811,
+            46.5351539
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/46989693",
+    "properties": {
+      "addr:city": "Lausanne",
+      "addr:country": "CH",
+      "addr:housenumber": "99",
+      "addr:postcode": "1018",
+      "addr:street": "Route du Pavement",
+      "building": "apartments",
+      "owner": "Cité Joie",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133461365",
+      "roof:shape": "flat",
+      "source": "Orthophoto Ville de Lausanne 2008",
+      "id": "way/46989693",
+      "owner:website": "http://www.cite-joie.ch/",
+      "owner:start_date": "1958-06-13T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-101.956.628"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6338309,
+            46.5395113
+          ],
+          [
+            6.6338481,
+            46.5394477
+          ],
+          [
+            6.6338305,
+            46.539445
+          ],
+          [
+            6.6338469,
+            46.5393864
+          ],
+          [
+            6.6338664,
+            46.5393897
+          ],
+          [
+            6.6338677,
+            46.539384
+          ],
+          [
+            6.6339321,
+            46.5393915
+          ],
+          [
+            6.6339346,
+            46.5393862
+          ],
+          [
+            6.6339433,
+            46.5393811
+          ],
+          [
+            6.6339571,
+            46.5393809
+          ],
+          [
+            6.6341336,
+            46.5394069
+          ],
+          [
+            6.6341297,
+            46.5394208
+          ],
+          [
+            6.6341395,
+            46.539423
+          ],
+          [
+            6.634102,
+            46.5395486
+          ],
+          [
+            6.6338309,
+            46.5395113
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/47359758",
+    "properties": {
+      "building": "apartments",
+      "owner": "Cité Joie",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133461365",
+      "source": "Orthophoto Ville de Lausanne 2008",
+      "addr": [
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1018",
+          "addr:street": "Rue de la Borde",
+          "addr:housenumber": "55"
+        },
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1018",
+          "addr:street": "Rue de la Borde",
+          "addr:housenumber": "53"
+        },
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1018",
+          "addr:street": "Rue de la Borde",
+          "addr:housenumber": "57"
+        }
+      ],
+      "id": "way/47359758",
+      "owner:website": "http://www.cite-joie.ch/",
+      "owner:start_date": "1958-06-13T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-101.956.628"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6302358,
+            46.5314784
+          ],
+          [
+            6.6303682,
+            46.5315457
+          ],
+          [
+            6.6299904,
+            46.5318642
+          ],
+          [
+            6.629865,
+            46.5317938
+          ],
+          [
+            6.6302358,
+            46.5314784
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/47359765",
+    "properties": {
+      "addr:city": "Lausanne",
+      "addr:country": "CH",
+      "addr:housenumber": "51",
+      "addr:postcode": "1018",
+      "addr:street": "Rue de la Borde",
+      "building": "apartments",
+      "owner": "Cité Joie",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133461365",
+      "source": "Bing Imagery 2010 + guichet cartographique canton de Vaud",
+      "id": "way/47359765",
+      "owner:website": "http://www.cite-joie.ch/",
+      "owner:start_date": "1958-06-13T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-101.956.628"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.629961,
+            46.531282
+          ],
+          [
+            6.6302155,
+            46.5314237
+          ],
+          [
+            6.6301084,
+            46.5315147
+          ],
+          [
+            6.6298539,
+            46.531373
+          ],
+          [
+            6.629961,
+            46.531282
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/97661734",
+    "properties": {
+      "building": "apartments",
+      "owner": "Cité Joie",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133461365",
+      "addr": [
+        {
+          "addr:city": "Clarens",
+          "addr:postcode": "1815",
+          "addr:street": "Avenue Mayor-Vautier",
+          "addr:housenumber": "23"
+        },
+        {
+          "addr:city": "Clarens",
+          "addr:postcode": "1815",
+          "addr:street": "Avenue Jean-Jacques Rousseau",
+          "addr:housenumber": "22b"
+        }
+      ],
+      "id": "way/97661734",
+      "owner:website": "http://www.cite-joie.ch/",
+      "owner:start_date": "1958-06-13T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-101.956.628"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.8921541,
+            46.4424145
+          ],
+          [
+            6.8921055,
+            46.4423288
+          ],
+          [
+            6.8922455,
+            46.4422928
+          ],
+          [
+            6.8923824,
+            46.442508
+          ],
+          [
+            6.8922119,
+            46.4425358
+          ],
+          [
+            6.8922139,
+            46.4425477
+          ],
+          [
+            6.8917664,
+            46.4426279
+          ],
+          [
+            6.891689,
+            46.4424981
+          ],
+          [
+            6.8921541,
+            46.4424145
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/104979310",
+    "properties": {
+      "building": "apartments",
+      "building:levels": "3",
+      "owner": "Cité Joie",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133461365",
+      "roof:levels": "2",
+      "addr": [
+        {
+          "addr:city": "Clarens",
+          "addr:postcode": "1815",
+          "addr:street": "Route de Chailly",
+          "addr:housenumber": "24"
+        },
+        {
+          "addr:city": "Clarens",
+          "addr:postcode": "1815",
+          "addr:street": "Route de Chailly",
+          "addr:housenumber": "26"
+        }
+      ],
+      "id": "way/104979310",
+      "owner:website": "http://www.cite-joie.ch/",
+      "owner:start_date": "1958-06-13T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-101.956.628"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.8915105,
+            46.449755
+          ],
+          [
+            6.8916333,
+            46.4494393
+          ],
+          [
+            6.8918581,
+            46.4494808
+          ],
+          [
+            6.8917353,
+            46.4497965
+          ],
+          [
+            6.8915105,
+            46.449755
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/237222136",
+    "properties": {
+      "addr:city": "Montreux",
+      "addr:housenumber": "5",
+      "addr:postcode": "1820",
+      "addr:street": "Chemin du Taux",
+      "building": "apartments",
+      "owner": "Cité Joie",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133461365",
+      "id": "way/237222136",
+      "owner:website": "http://www.cite-joie.ch/",
+      "owner:start_date": "1958-06-13T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-101.956.628"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.9114441,
+            46.4398672
+          ],
+          [
+            6.9115557,
+            46.4396853
+          ],
+          [
+            6.911816,
+            46.4397611
+          ],
+          [
+            6.9117044,
+            46.439943
+          ],
+          [
+            6.9114441,
+            46.4398672
+          ]
+        ]
+      ]
+    }
+  }
+]}

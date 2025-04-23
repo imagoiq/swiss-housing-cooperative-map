@@ -1,1 +1,53 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/1358134078","properties":{"architect":"De Giovannini SA","building":"apartments","building:levels":"6","heating":"heat_pump","owner":"Coopérative d'habitation Rhône-Arve Pommier","owner:type":"cooperative","owner:wikidata":"Q132179684","ref":"B2","addr":[{"addr:city":"Le Grand-Saconnex","addr:postcode":"1218","addr:street":"Rue Sonnex","addr:housenumber":"34"}],"id":"way/1358134078","owner:swiss_business_uid":"CHE-113.799.264"},"geometry":{"type":"Polygon","coordinates":[[[6.1194038,46.2284829],[6.1192607,46.2283768],[6.1194628,46.2282534],[6.1196026,46.2283565],[6.1194038,46.2284829]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/1358134078",
+    "properties": {
+      "architect": "De Giovannini SA",
+      "building": "apartments",
+      "building:levels": "6",
+      "heating": "heat_pump",
+      "owner": "Coopérative d'habitation Rhône-Arve Pommier",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179684",
+      "ref": "B2",
+      "addr": [
+        {
+          "addr:city": "Le Grand-Saconnex",
+          "addr:postcode": "1218",
+          "addr:street": "Rue Sonnex",
+          "addr:housenumber": "34"
+        }
+      ],
+      "id": "way/1358134078",
+      "owner:swiss_business_uid": "CHE-113.799.264"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1194038,
+            46.2284829
+          ],
+          [
+            6.1192607,
+            46.2283768
+          ],
+          [
+            6.1194628,
+            46.2282534
+          ],
+          [
+            6.1196026,
+            46.2283565
+          ],
+          [
+            6.1194038,
+            46.2284829
+          ]
+        ]
+      ]
+    }
+  }
+]}

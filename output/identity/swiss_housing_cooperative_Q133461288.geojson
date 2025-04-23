@@ -1,1 +1,56 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/49404993","properties":{"addr:city":"La Chaux-de-Fonds","addr:country":"CH","addr:housenumber":"11","addr:postcode":"2300","addr:street":"Rue de Beauregard","building":"apartments","owner":"Coopérative d’Habitation de la Tourbière","owner:type":"cooperative","owner:wikidata":"Q133461288","source":"orthophotos2017sitn50cm","id":"way/49404993","owner:website":"https://tourbiere.ch/","owner:swiss_business_uid":"CHE-251.947.336"},"geometry":{"type":"Polygon","coordinates":[[[6.8241301,47.1070964],[6.8239199,47.1069334],[6.8240388,47.1068601],[6.8241323,47.1069396],[6.8241651,47.106921],[6.8242737,47.1070051],[6.8241301,47.1070964]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/49404993",
+    "properties": {
+      "addr:city": "La Chaux-de-Fonds",
+      "addr:country": "CH",
+      "addr:housenumber": "11",
+      "addr:postcode": "2300",
+      "addr:street": "Rue de Beauregard",
+      "building": "apartments",
+      "owner": "Coopérative d’Habitation de la Tourbière",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133461288",
+      "source": "orthophotos2017sitn50cm",
+      "id": "way/49404993",
+      "owner:website": "https://tourbiere.ch/",
+      "owner:swiss_business_uid": "CHE-251.947.336"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.8241301,
+            47.1070964
+          ],
+          [
+            6.8239199,
+            47.1069334
+          ],
+          [
+            6.8240388,
+            47.1068601
+          ],
+          [
+            6.8241323,
+            47.1069396
+          ],
+          [
+            6.8241651,
+            47.106921
+          ],
+          [
+            6.8242737,
+            47.1070051
+          ],
+          [
+            6.8241301,
+            47.1070964
+          ]
+        ]
+      ]
+    }
+  }
+]}

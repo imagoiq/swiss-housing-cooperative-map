@@ -1,1 +1,134 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/426361678","properties":{"addr:city":"Salavaux","addr:housenumber":"50","addr:postcode":"1585","addr:street":"Route d'Avenches","building":"sheltered_housing","owner":"Coopérative Les Savoies","owner:type":"cooperative","owner:wikidata":"Q133460086","id":"way/426361678","owner:website":"https://lessavoies.ch/","owner:swiss_business_uid":"CHE-114.258.976"},"geometry":{"type":"Polygon","coordinates":[[[7.0237227,46.9157197],[7.0238719,46.9156167],[7.0240341,46.9157263],[7.0238849,46.9158293],[7.0237227,46.9157197]]]}},{"type":"Feature","id":"way/426361717","properties":{"addr:city":"Salavaux","addr:housenumber":"52","addr:postcode":"1585","addr:street":"Route d'Avenches","building":"sheltered_housing","owner":"Coopérative Les Savoies","owner:type":"cooperative","owner:wikidata":"Q133460086","id":"way/426361717","owner:website":"https://lessavoies.ch/","owner:swiss_business_uid":"CHE-114.258.976"},"geometry":{"type":"Polygon","coordinates":[[[7.0240678,46.9155449],[7.0242164,46.9154456],[7.0243733,46.9155552],[7.0242247,46.9156545],[7.0240678,46.9155449]]]}},{"type":"Feature","id":"way/426361841","properties":{"addr:city":"Salavaux","addr:housenumber":"54","addr:postcode":"1585","addr:street":"Route d'Avenches","building":"sheltered_housing","owner":"Coopérative Les Savoies","owner:type":"cooperative","owner:wikidata":"Q133460086","id":"way/426361841","owner:website":"https://lessavoies.ch/","owner:swiss_business_uid":"CHE-114.258.976"},"geometry":{"type":"Polygon","coordinates":[[[7.0243308,46.9153164],[7.0244819,46.9152157],[7.024641,46.9153269],[7.0244899,46.9154277],[7.0243308,46.9153164]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/426361678",
+    "properties": {
+      "addr:city": "Salavaux",
+      "addr:housenumber": "50",
+      "addr:postcode": "1585",
+      "addr:street": "Route d'Avenches",
+      "building": "sheltered_housing",
+      "owner": "Coopérative Les Savoies",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133460086",
+      "id": "way/426361678",
+      "owner:website": "https://lessavoies.ch/",
+      "owner:swiss_business_uid": "CHE-114.258.976"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            7.0237227,
+            46.9157197
+          ],
+          [
+            7.0238719,
+            46.9156167
+          ],
+          [
+            7.0240341,
+            46.9157263
+          ],
+          [
+            7.0238849,
+            46.9158293
+          ],
+          [
+            7.0237227,
+            46.9157197
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/426361717",
+    "properties": {
+      "addr:city": "Salavaux",
+      "addr:housenumber": "52",
+      "addr:postcode": "1585",
+      "addr:street": "Route d'Avenches",
+      "building": "sheltered_housing",
+      "owner": "Coopérative Les Savoies",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133460086",
+      "id": "way/426361717",
+      "owner:website": "https://lessavoies.ch/",
+      "owner:swiss_business_uid": "CHE-114.258.976"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            7.0240678,
+            46.9155449
+          ],
+          [
+            7.0242164,
+            46.9154456
+          ],
+          [
+            7.0243733,
+            46.9155552
+          ],
+          [
+            7.0242247,
+            46.9156545
+          ],
+          [
+            7.0240678,
+            46.9155449
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/426361841",
+    "properties": {
+      "addr:city": "Salavaux",
+      "addr:housenumber": "54",
+      "addr:postcode": "1585",
+      "addr:street": "Route d'Avenches",
+      "building": "sheltered_housing",
+      "owner": "Coopérative Les Savoies",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133460086",
+      "id": "way/426361841",
+      "owner:website": "https://lessavoies.ch/",
+      "owner:swiss_business_uid": "CHE-114.258.976"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            7.0243308,
+            46.9153164
+          ],
+          [
+            7.0244819,
+            46.9152157
+          ],
+          [
+            7.024641,
+            46.9153269
+          ],
+          [
+            7.0244899,
+            46.9154277
+          ],
+          [
+            7.0243308,
+            46.9153164
+          ]
+        ]
+      ]
+    }
+  }
+]}

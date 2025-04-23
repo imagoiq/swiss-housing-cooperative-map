@@ -1,1 +1,55 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/191058884","properties":{"architect":"Strub & Duboule","building:flats":"31","building:levels":"12","building:part":"apartments","owner":"Coprolo Le Grand-Pré","owner:type":"cooperative","owner:wikidata":"Q133461712","start_date":"1979","addr":[{"addr:city":"Onex","addr:postcode":"1213","addr:street":"Rue des Bossons","addr:housenumber":"17"}],"id":"way/191058884","start_date_parsed":"1979-01-01T00:00:00.000Z","owner:website":"https://coprolo.ch/cooperatives/coprolo-grand-pre","owner:swiss_business_uid":"CHE-101.832.452"},"geometry":{"type":"Polygon","coordinates":[[[6.1041879,46.187613],[6.1039967,46.187549],[6.1040763,46.1874336],[6.1042682,46.1874979],[6.1041879,46.187613]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/191058884",
+    "properties": {
+      "architect": "Strub & Duboule",
+      "building:flats": "31",
+      "building:levels": "12",
+      "building:part": "apartments",
+      "owner": "Coprolo Le Grand-Pré",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133461712",
+      "start_date": "1979",
+      "addr": [
+        {
+          "addr:city": "Onex",
+          "addr:postcode": "1213",
+          "addr:street": "Rue des Bossons",
+          "addr:housenumber": "17"
+        }
+      ],
+      "id": "way/191058884",
+      "start_date_parsed": "1979-01-01T00:00:00.000Z",
+      "owner:website": "https://coprolo.ch/cooperatives/coprolo-grand-pre",
+      "owner:swiss_business_uid": "CHE-101.832.452"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1041879,
+            46.187613
+          ],
+          [
+            6.1039967,
+            46.187549
+          ],
+          [
+            6.1040763,
+            46.1874336
+          ],
+          [
+            6.1042682,
+            46.1874979
+          ],
+          [
+            6.1041879,
+            46.187613
+          ]
+        ]
+      ]
+    }
+  }
+]}

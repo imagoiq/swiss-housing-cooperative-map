@@ -1,1 +1,157 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/81446428","properties":{"building":"apartments","building:flats":"64","building:levels":"8","owner":"Coopérative Rue des Rois","owner:type":"cooperative","owner:wikidata":"Q133460434","addr":[{"addr:city":"Genève","addr:postcode":"1204","addr:street":"Rue des Rois","addr:housenumber":"4"},{"addr:city":"Genève","addr:postcode":"1204","addr:street":"Rue des Rois","addr:housenumber":"2"}],"id":"way/81446428","owner:website":"https://gchg.ch/membre/cooperative-rue-des-rois/","owner:start_date":"1975-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-102.123.358"},"geometry":{"type":"Polygon","coordinates":[[[6.137217,46.2038318],[6.1372486,46.2036269],[6.1372813,46.20342],[6.1374684,46.2034344],[6.1374108,46.2038466],[6.137217,46.2038318]]]}},{"type":"Feature","id":"way/85639181","properties":{"building":"apartments","building:flats":"143","owner":"Coopérative Rue des Rois","owner:type":"cooperative","owner:wikidata":"Q133460434","addr":[{"addr:city":"Chêne-Bourg","addr:postcode":"1225","addr:street":"Parc Dinu-Lipatti","addr:housenumber":"5"},{"addr:city":"Chêne-Bourg","addr:postcode":"1225","addr:street":"Parc Dinu-Lipatti","addr:housenumber":"7"},{"addr:city":"Chêne-Bourg","addr:postcode":"1225","addr:street":"Parc Dinu-Lipatti","addr:housenumber":"9"},{"addr:city":"Chêne-Bourg","addr:postcode":"1225","addr:street":"Parc Dinu-Lipatti","addr:housenumber":"11"},{"addr:city":"Chêne-Bourg","addr:postcode":"1225","addr:street":"Parc Dinu-Lipatti","addr:housenumber":"13"}],"id":"way/85639181","owner:website":"https://gchg.ch/membre/cooperative-rue-des-rois/","owner:start_date":"1975-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-102.123.358"},"geometry":{"type":"Polygon","coordinates":[[[6.1926492,46.1971434],[6.1919889,46.1963035],[6.1921328,46.1962493],[6.1921746,46.1963025],[6.1922712,46.1964252],[6.192399,46.1965877],[6.1925288,46.1967528],[6.1925551,46.1967862],[6.1927933,46.1970891],[6.1926492,46.1971434]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/81446428",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "64",
+      "building:levels": "8",
+      "owner": "Coopérative Rue des Rois",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133460434",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1204",
+          "addr:street": "Rue des Rois",
+          "addr:housenumber": "4"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1204",
+          "addr:street": "Rue des Rois",
+          "addr:housenumber": "2"
+        }
+      ],
+      "id": "way/81446428",
+      "owner:website": "https://gchg.ch/membre/cooperative-rue-des-rois/",
+      "owner:start_date": "1975-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-102.123.358"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.137217,
+            46.2038318
+          ],
+          [
+            6.1372486,
+            46.2036269
+          ],
+          [
+            6.1372813,
+            46.20342
+          ],
+          [
+            6.1374684,
+            46.2034344
+          ],
+          [
+            6.1374108,
+            46.2038466
+          ],
+          [
+            6.137217,
+            46.2038318
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/85639181",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "143",
+      "owner": "Coopérative Rue des Rois",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133460434",
+      "addr": [
+        {
+          "addr:city": "Chêne-Bourg",
+          "addr:postcode": "1225",
+          "addr:street": "Parc Dinu-Lipatti",
+          "addr:housenumber": "5"
+        },
+        {
+          "addr:city": "Chêne-Bourg",
+          "addr:postcode": "1225",
+          "addr:street": "Parc Dinu-Lipatti",
+          "addr:housenumber": "7"
+        },
+        {
+          "addr:city": "Chêne-Bourg",
+          "addr:postcode": "1225",
+          "addr:street": "Parc Dinu-Lipatti",
+          "addr:housenumber": "9"
+        },
+        {
+          "addr:city": "Chêne-Bourg",
+          "addr:postcode": "1225",
+          "addr:street": "Parc Dinu-Lipatti",
+          "addr:housenumber": "11"
+        },
+        {
+          "addr:city": "Chêne-Bourg",
+          "addr:postcode": "1225",
+          "addr:street": "Parc Dinu-Lipatti",
+          "addr:housenumber": "13"
+        }
+      ],
+      "id": "way/85639181",
+      "owner:website": "https://gchg.ch/membre/cooperative-rue-des-rois/",
+      "owner:start_date": "1975-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-102.123.358"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1926492,
+            46.1971434
+          ],
+          [
+            6.1919889,
+            46.1963035
+          ],
+          [
+            6.1921328,
+            46.1962493
+          ],
+          [
+            6.1921746,
+            46.1963025
+          ],
+          [
+            6.1922712,
+            46.1964252
+          ],
+          [
+            6.192399,
+            46.1965877
+          ],
+          [
+            6.1925288,
+            46.1967528
+          ],
+          [
+            6.1925551,
+            46.1967862
+          ],
+          [
+            6.1927933,
+            46.1970891
+          ],
+          [
+            6.1926492,
+            46.1971434
+          ]
+        ]
+      ]
+    }
+  }
+]}

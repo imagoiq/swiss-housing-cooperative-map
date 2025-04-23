@@ -1,1 +1,343 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/102608133","properties":{"building":"apartments","building:levels":"3","owner":"Société coopérative d’habitation Cité des Philosophes","owner:type":"cooperative","owner:wikidata":"Q132678496","roof:levels":"1","roof:shape":"gabled","subsidized":"yes","addr":[{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Avenue de Plan","addr:housenumber":"17B"}],"id":"way/102608133","owner:swiss_business_uid":"CHE-102.320.806"},"geometry":{"type":"Polygon","coordinates":[[[6.5059472,46.5184479],[6.505883,46.5185231],[6.5057023,46.51845],[6.5057664,46.5183748],[6.5059472,46.5184479]]]}},{"type":"Feature","id":"way/147330937","properties":{"building":"apartments","building:levels":"6","height":"18","owner":"Société coopérative d’habitation Cité des Philosophes","owner:type":"cooperative","owner:wikidata":"Q132678496","roof:levels":"0","roof:shape":"hipped","source":"Bing","subsidized":"yes","addr":[{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Chemin du Risoux","addr:housenumber":"7"},{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Chemin du Risoux","addr:housenumber":"5"}],"id":"way/147330937","owner:swiss_business_uid":"CHE-102.320.806"},"geometry":{"type":"Polygon","coordinates":[[[6.4819868,46.5114256],[6.4820846,46.5115148],[6.4817345,46.5116968],[6.4816366,46.5116075],[6.4819868,46.5114256]]]}},{"type":"Feature","id":"way/169879663","properties":{"architect":"Fehlmann Architecte","building":"apartments","building:flats":"34","building:levels":"5","heating":"district_heating","owner":"Société coopérative d’habitation Cité des Philosophes","owner:type":"cooperative","owner:wikidata":"Q132678496","roof:levels":"1","roof:shape":"hipped","start_date":"2022","subsidized":"yes","addr":[{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Chemin Abraham-Louis Buvelot","addr:housenumber":"20"},{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Chemin Abraham-Louis Buvelot","addr:housenumber":"18"}],"id":"way/169879663","start_date_parsed":"2022-01-01T00:00:00.000Z","owner:swiss_business_uid":"CHE-102.320.806"},"geometry":{"type":"Polygon","coordinates":[[[6.5103095,46.5188411],[6.5101716,46.5187817],[6.510443,46.5184837],[6.5105808,46.5185432],[6.5103095,46.5188411]]]}},{"type":"Feature","id":"way/210389048","properties":{"building":"apartments","building:levels":"6","owner":"Société coopérative d’habitation Cité des Philosophes","owner:type":"cooperative","owner:wikidata":"Q132678496","roof:levels":"0","roof:shape":"gabled","subsidized":"yes","addr":[{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Rue Saint-Louis","addr:housenumber":"5"}],"id":"way/210389048","owner:swiss_business_uid":"CHE-102.320.806"},"geometry":{"type":"Polygon","coordinates":[[[6.4973398,46.5113672],[6.4974427,46.5114583],[6.497398,46.5114822],[6.4972514,46.5115606],[6.4971454,46.5114667],[6.4971114,46.5114366],[6.4972614,46.5113563],[6.4973026,46.5113343],[6.4973398,46.5113672]]]}},{"type":"Feature","id":"way/1362001040","properties":{"building":"apartments","building:levels":"3","owner":"Société coopérative d’habitation Cité des Philosophes","owner:type":"cooperative","owner:wikidata":"Q132678496","roof:levels":"1","roof:shape":"gabled","subsidized":"yes","addr":[{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Avenue de Plan","addr:housenumber":"17C"}],"id":"way/1362001040","owner:swiss_business_uid":"CHE-102.320.806"},"geometry":{"type":"Polygon","coordinates":[[[6.505793,46.5186202],[6.5057288,46.5186954],[6.505548,46.5186223],[6.5056122,46.5185471],[6.505793,46.5186202]]]}},{"type":"Feature","id":"way/1362001041","properties":{"building":"apartments","building:levels":"3","owner":"Société coopérative d’habitation Cité des Philosophes","owner:type":"cooperative","owner:wikidata":"Q132678496","roof:levels":"1","roof:shape":"gabled","subsidized":"yes","addr":[{"addr:city":"Morges","addr:postcode":"1110","addr:street":"Avenue de Plan","addr:housenumber":"17A"}],"id":"way/1362001041","owner:swiss_business_uid":"CHE-102.320.806"},"geometry":{"type":"Polygon","coordinates":[[[6.5059897,46.5181744],[6.5060977,46.5182201],[6.5059878,46.5183429],[6.5058798,46.5182972],[6.5059897,46.5181744]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/102608133",
+    "properties": {
+      "building": "apartments",
+      "building:levels": "3",
+      "owner": "Société coopérative d’habitation Cité des Philosophes",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132678496",
+      "roof:levels": "1",
+      "roof:shape": "gabled",
+      "subsidized": "yes",
+      "addr": [
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Avenue de Plan",
+          "addr:housenumber": "17B"
+        }
+      ],
+      "id": "way/102608133",
+      "owner:swiss_business_uid": "CHE-102.320.806"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.5059472,
+            46.5184479
+          ],
+          [
+            6.505883,
+            46.5185231
+          ],
+          [
+            6.5057023,
+            46.51845
+          ],
+          [
+            6.5057664,
+            46.5183748
+          ],
+          [
+            6.5059472,
+            46.5184479
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/147330937",
+    "properties": {
+      "building": "apartments",
+      "building:levels": "6",
+      "height": "18",
+      "owner": "Société coopérative d’habitation Cité des Philosophes",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132678496",
+      "roof:levels": "0",
+      "roof:shape": "hipped",
+      "source": "Bing",
+      "subsidized": "yes",
+      "addr": [
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Chemin du Risoux",
+          "addr:housenumber": "7"
+        },
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Chemin du Risoux",
+          "addr:housenumber": "5"
+        }
+      ],
+      "id": "way/147330937",
+      "owner:swiss_business_uid": "CHE-102.320.806"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.4819868,
+            46.5114256
+          ],
+          [
+            6.4820846,
+            46.5115148
+          ],
+          [
+            6.4817345,
+            46.5116968
+          ],
+          [
+            6.4816366,
+            46.5116075
+          ],
+          [
+            6.4819868,
+            46.5114256
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/169879663",
+    "properties": {
+      "architect": "Fehlmann Architecte",
+      "building": "apartments",
+      "building:flats": "34",
+      "building:levels": "5",
+      "heating": "district_heating",
+      "owner": "Société coopérative d’habitation Cité des Philosophes",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132678496",
+      "roof:levels": "1",
+      "roof:shape": "hipped",
+      "start_date": "2022",
+      "subsidized": "yes",
+      "addr": [
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Chemin Abraham-Louis Buvelot",
+          "addr:housenumber": "20"
+        },
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Chemin Abraham-Louis Buvelot",
+          "addr:housenumber": "18"
+        }
+      ],
+      "id": "way/169879663",
+      "start_date_parsed": "2022-01-01T00:00:00.000Z",
+      "owner:swiss_business_uid": "CHE-102.320.806"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.5103095,
+            46.5188411
+          ],
+          [
+            6.5101716,
+            46.5187817
+          ],
+          [
+            6.510443,
+            46.5184837
+          ],
+          [
+            6.5105808,
+            46.5185432
+          ],
+          [
+            6.5103095,
+            46.5188411
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/210389048",
+    "properties": {
+      "building": "apartments",
+      "building:levels": "6",
+      "owner": "Société coopérative d’habitation Cité des Philosophes",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132678496",
+      "roof:levels": "0",
+      "roof:shape": "gabled",
+      "subsidized": "yes",
+      "addr": [
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Rue Saint-Louis",
+          "addr:housenumber": "5"
+        }
+      ],
+      "id": "way/210389048",
+      "owner:swiss_business_uid": "CHE-102.320.806"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.4973398,
+            46.5113672
+          ],
+          [
+            6.4974427,
+            46.5114583
+          ],
+          [
+            6.497398,
+            46.5114822
+          ],
+          [
+            6.4972514,
+            46.5115606
+          ],
+          [
+            6.4971454,
+            46.5114667
+          ],
+          [
+            6.4971114,
+            46.5114366
+          ],
+          [
+            6.4972614,
+            46.5113563
+          ],
+          [
+            6.4973026,
+            46.5113343
+          ],
+          [
+            6.4973398,
+            46.5113672
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1362001040",
+    "properties": {
+      "building": "apartments",
+      "building:levels": "3",
+      "owner": "Société coopérative d’habitation Cité des Philosophes",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132678496",
+      "roof:levels": "1",
+      "roof:shape": "gabled",
+      "subsidized": "yes",
+      "addr": [
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Avenue de Plan",
+          "addr:housenumber": "17C"
+        }
+      ],
+      "id": "way/1362001040",
+      "owner:swiss_business_uid": "CHE-102.320.806"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.505793,
+            46.5186202
+          ],
+          [
+            6.5057288,
+            46.5186954
+          ],
+          [
+            6.505548,
+            46.5186223
+          ],
+          [
+            6.5056122,
+            46.5185471
+          ],
+          [
+            6.505793,
+            46.5186202
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1362001041",
+    "properties": {
+      "building": "apartments",
+      "building:levels": "3",
+      "owner": "Société coopérative d’habitation Cité des Philosophes",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132678496",
+      "roof:levels": "1",
+      "roof:shape": "gabled",
+      "subsidized": "yes",
+      "addr": [
+        {
+          "addr:city": "Morges",
+          "addr:postcode": "1110",
+          "addr:street": "Avenue de Plan",
+          "addr:housenumber": "17A"
+        }
+      ],
+      "id": "way/1362001041",
+      "owner:swiss_business_uid": "CHE-102.320.806"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.5059897,
+            46.5181744
+          ],
+          [
+            6.5060977,
+            46.5182201
+          ],
+          [
+            6.5059878,
+            46.5183429
+          ],
+          [
+            6.5058798,
+            46.5182972
+          ],
+          [
+            6.5059897,
+            46.5181744
+          ]
+        ]
+      ]
+    }
+  }
+]}

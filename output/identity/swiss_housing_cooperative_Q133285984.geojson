@@ -1,1 +1,174 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/44604945","properties":{"addr:city":"Lausanne","addr:country":"CH","addr:housenumber":"18","addr:postcode":"1005","addr:street":"Rue Louis-Auguste-Curtat","building":"apartments","owner":"Coopérative d'habitation B612","owner:type":"cooperative","owner:wikidata":"Q133285984","source":"Lausanne - Orthophoto technique 2012","id":"way/44604945","owner:swiss_business_uid":"CHE-114.106.295"},"geometry":{"type":"Polygon","coordinates":[[[6.6366652,46.5226602],[6.6366093,46.5226456],[6.6365914,46.5226296],[6.6365542,46.5225959],[6.6367008,46.5225379],[6.6367685,46.5226137],[6.6366652,46.5226602]]]}},{"type":"Feature","id":"way/44604947","properties":{"addr:city":"Lausanne","addr:country":"CH","addr:housenumber":"22","addr:postcode":"1005","addr:street":"Rue Louis-Auguste-Curtat","building":"apartments","copyright":"OpenAddresses","oa:imported_by":"sbrunner","oa:lat":"46.52282715","oa:lon":"6.63688993","oa:version":"oa2osm - 0.2 - sax","owner":"Coopérative d'habitation B612","owner:type":"cooperative","owner:wikidata":"Q133285984","source":"Orthophoto Ville de Lausanne 2008","id":"way/44604947","owner:swiss_business_uid":"CHE-114.106.295"},"geometry":{"type":"Polygon","coordinates":[[[6.6369515,46.5228726],[6.6369325,46.522875],[6.6368214,46.5228294],[6.6369009,46.5227611],[6.6369204,46.5227856],[6.6369385,46.5227798],[6.6369515,46.5228726]]]}},{"type":"Feature","id":"way/53181648","properties":{"addr:city":"Lausanne","addr:country":"CH","addr:housenumber":"20","addr:postcode":"1005","addr:street":"Rue Louis-Auguste-Curtat","building":"apartments","owner":"Coopérative d'habitation B612","owner:type":"cooperative","owner:wikidata":"Q133285984","source":"Lausanne - Orthophoto technique 2012","id":"way/53181648","owner:swiss_business_uid":"CHE-114.106.295"},"geometry":{"type":"Polygon","coordinates":[[[6.6365914,46.5226296],[6.6366093,46.5226456],[6.6366652,46.5226602],[6.6367862,46.5227788],[6.6367536,46.5228],[6.6366398,46.5227381],[6.6365682,46.5226777],[6.6365467,46.5226525],[6.6365914,46.5226296]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/44604945",
+    "properties": {
+      "addr:city": "Lausanne",
+      "addr:country": "CH",
+      "addr:housenumber": "18",
+      "addr:postcode": "1005",
+      "addr:street": "Rue Louis-Auguste-Curtat",
+      "building": "apartments",
+      "owner": "Coopérative d'habitation B612",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133285984",
+      "source": "Lausanne - Orthophoto technique 2012",
+      "id": "way/44604945",
+      "owner:swiss_business_uid": "CHE-114.106.295"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6366652,
+            46.5226602
+          ],
+          [
+            6.6366093,
+            46.5226456
+          ],
+          [
+            6.6365914,
+            46.5226296
+          ],
+          [
+            6.6365542,
+            46.5225959
+          ],
+          [
+            6.6367008,
+            46.5225379
+          ],
+          [
+            6.6367685,
+            46.5226137
+          ],
+          [
+            6.6366652,
+            46.5226602
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/44604947",
+    "properties": {
+      "addr:city": "Lausanne",
+      "addr:country": "CH",
+      "addr:housenumber": "22",
+      "addr:postcode": "1005",
+      "addr:street": "Rue Louis-Auguste-Curtat",
+      "building": "apartments",
+      "copyright": "OpenAddresses",
+      "oa:imported_by": "sbrunner",
+      "oa:lat": "46.52282715",
+      "oa:lon": "6.63688993",
+      "oa:version": "oa2osm - 0.2 - sax",
+      "owner": "Coopérative d'habitation B612",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133285984",
+      "source": "Orthophoto Ville de Lausanne 2008",
+      "id": "way/44604947",
+      "owner:swiss_business_uid": "CHE-114.106.295"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6369515,
+            46.5228726
+          ],
+          [
+            6.6369325,
+            46.522875
+          ],
+          [
+            6.6368214,
+            46.5228294
+          ],
+          [
+            6.6369009,
+            46.5227611
+          ],
+          [
+            6.6369204,
+            46.5227856
+          ],
+          [
+            6.6369385,
+            46.5227798
+          ],
+          [
+            6.6369515,
+            46.5228726
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/53181648",
+    "properties": {
+      "addr:city": "Lausanne",
+      "addr:country": "CH",
+      "addr:housenumber": "20",
+      "addr:postcode": "1005",
+      "addr:street": "Rue Louis-Auguste-Curtat",
+      "building": "apartments",
+      "owner": "Coopérative d'habitation B612",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133285984",
+      "source": "Lausanne - Orthophoto technique 2012",
+      "id": "way/53181648",
+      "owner:swiss_business_uid": "CHE-114.106.295"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6365914,
+            46.5226296
+          ],
+          [
+            6.6366093,
+            46.5226456
+          ],
+          [
+            6.6366652,
+            46.5226602
+          ],
+          [
+            6.6367862,
+            46.5227788
+          ],
+          [
+            6.6367536,
+            46.5228
+          ],
+          [
+            6.6366398,
+            46.5227381
+          ],
+          [
+            6.6365682,
+            46.5226777
+          ],
+          [
+            6.6365467,
+            46.5226525
+          ],
+          [
+            6.6365914,
+            46.5226296
+          ]
+        ]
+      ]
+    }
+  }
+]}

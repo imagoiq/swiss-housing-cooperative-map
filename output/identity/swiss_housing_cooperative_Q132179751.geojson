@@ -1,1 +1,574 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/260484633","properties":{"addr:city":"Nyon","addr:country":"CH","addr:housenumber":"1","addr:postcode":"1260","addr:street":"Chemin des Plantaz","building":"apartments","owner":"Société coopérative d'habitation La Paix","owner:type":"cooperative","owner:wikidata":"Q132179751","id":"way/260484633","owner:website":"http://lapaix.ch/","owner:swiss_business_uid":"CHE-100.726.681"},"geometry":{"type":"Polygon","coordinates":[[[6.2349572,46.3901377],[6.2350092,46.3900416],[6.2352517,46.3901039],[6.2351997,46.3902],[6.2349572,46.3901377]]]}},{"type":"Feature","id":"way/260484634","properties":{"addr:city":"Nyon","addr:country":"CH","addr:housenumber":"3","addr:postcode":"1260","addr:street":"Chemin des Plantaz","building":"apartments","owner":"Société coopérative d'habitation La Paix","owner:type":"cooperative","owner:wikidata":"Q132179751","id":"way/260484634","owner:website":"http://lapaix.ch/","owner:swiss_business_uid":"CHE-100.726.681"},"geometry":{"type":"Polygon","coordinates":[[[6.2347707,46.3904742],[6.2348213,46.3903794],[6.2350656,46.3904414],[6.2350149,46.3905363],[6.2347707,46.3904742]]]}},{"type":"Feature","id":"way/260484635","properties":{"addr:city":"Nyon","addr:country":"CH","addr:housenumber":"5","addr:postcode":"1260","addr:street":"Chemin des Plantaz","building":"apartments","owner":"Société coopérative d'habitation La Paix","owner:type":"cooperative","owner:wikidata":"Q132179751","id":"way/260484635","owner:website":"http://lapaix.ch/","owner:swiss_business_uid":"CHE-100.726.681"},"geometry":{"type":"Polygon","coordinates":[[[6.2345635,46.3908114],[6.2346306,46.390714],[6.2348694,46.3907922],[6.2348023,46.3908896],[6.2345635,46.3908114]]]}},{"type":"Feature","id":"way/260484636","properties":{"addr:city":"Nyon","addr:country":"CH","addr:housenumber":"4","addr:postcode":"1260","addr:street":"Chemin de la Paix","building":"apartments","owner":"Société coopérative d'habitation La Paix","owner:type":"cooperative","owner:wikidata":"Q132179751","id":"way/260484636","owner:website":"http://lapaix.ch/","owner:swiss_business_uid":"CHE-100.726.681"},"geometry":{"type":"Polygon","coordinates":[[[6.2352715,46.3903445],[6.2353184,46.3902524],[6.2355648,46.3903194],[6.2355164,46.3904024],[6.235511,46.3904116],[6.2352715,46.3903445]]]}},{"type":"Feature","id":"way/260484637","properties":{"addr:city":"Nyon","addr:country":"CH","addr:housenumber":"2","addr:postcode":"1260","addr:street":"Chemin de la Paix","building":"apartments","owner":"Société coopérative d'habitation La Paix","owner:type":"cooperative","owner:wikidata":"Q132179751","id":"way/260484637","owner:website":"http://lapaix.ch/","owner:swiss_business_uid":"CHE-100.726.681"},"geometry":{"type":"Polygon","coordinates":[[[6.2355164,46.3904024],[6.2355648,46.3903194],[6.2355687,46.39031],[6.2357519,46.3903628],[6.2356997,46.3904515],[6.2355164,46.3904024]]]}},{"type":"Feature","id":"way/260484638","properties":{"addr:city":"Nyon","addr:country":"CH","addr:housenumber":"7","addr:postcode":"1260","addr:street":"Chemin des Plantaz","building":"apartments","owner":"Société coopérative d'habitation La Paix","owner:type":"cooperative","owner:wikidata":"Q132179751","id":"way/260484638","owner:website":"http://lapaix.ch/","owner:swiss_business_uid":"CHE-100.726.681"},"geometry":{"type":"Polygon","coordinates":[[[6.2343916,46.3911247],[6.2344875,46.3910477],[6.2346829,46.3911674],[6.2345882,46.3912394],[6.2343916,46.3911247]]]}},{"type":"Feature","id":"way/260484639","properties":{"addr:city":"Nyon","addr:country":"CH","addr:housenumber":"12","addr:postcode":"1260","addr:street":"Chemin de la Paix","building":"apartments","owner":"Société coopérative d'habitation La Paix","owner:type":"cooperative","owner:wikidata":"Q132179751","id":"way/260484639","owner:website":"http://lapaix.ch/","owner:swiss_business_uid":"CHE-100.726.681"},"geometry":{"type":"Polygon","coordinates":[[[6.2348176,46.3914484],[6.2346198,46.3913287],[6.2347193,46.3912567],[6.2349123,46.3913756],[6.2348274,46.3914409],[6.2348176,46.3914484]]]}},{"type":"Feature","id":"way/260484640","properties":{"addr:city":"Nyon","addr:country":"CH","addr:housenumber":"10","addr:postcode":"1260","addr:street":"Chemin de la Paix","building":"apartments","owner":"Société coopérative d'habitation La Paix","owner:type":"cooperative","owner:wikidata":"Q132179751","id":"way/260484640","owner:website":"http://lapaix.ch/","owner:swiss_business_uid":"CHE-100.726.681"},"geometry":{"type":"Polygon","coordinates":[[[6.2348274,46.3914409],[6.2349123,46.3913756],[6.2349244,46.3913654],[6.2350731,46.3914579],[6.2349788,46.3915321],[6.2348274,46.3914409]]]}},{"type":"Feature","id":"way/260484641","properties":{"addr:city":"Nyon","addr:country":"CH","addr:housenumber":"8","addr:postcode":"1260","addr:street":"Chemin de la Paix","building":"apartments","owner":"Société coopérative d'habitation La Paix","owner:type":"cooperative","owner:wikidata":"Q132179751","id":"way/260484641","owner:website":"http://lapaix.ch/","owner:swiss_business_uid":"CHE-100.726.681"},"geometry":{"type":"Polygon","coordinates":[[[6.2349866,46.3908598],[6.2350482,46.3907689],[6.2352803,46.3908473],[6.2352262,46.3909257],[6.2352162,46.3909382],[6.2349866,46.3908598]]]}},{"type":"Feature","id":"way/260484642","properties":{"addr:city":"Nyon","addr:country":"CH","addr:housenumber":"6","addr:postcode":"1260","addr:street":"Chemin de la Paix","building":"apartments","owner":"Société coopérative d'habitation La Paix","owner:type":"cooperative","owner:wikidata":"Q132179751","id":"way/260484642","owner:website":"http://lapaix.ch/","owner:swiss_business_uid":"CHE-100.726.681"},"geometry":{"type":"Polygon","coordinates":[[[6.2352262,46.3909257],[6.2352803,46.3908473],[6.2352879,46.3908363],[6.2354611,46.390893],[6.2353994,46.3909825],[6.2352262,46.3909257]]]}},{"type":"Feature","id":"way/274035495","properties":{"addr:city":"Nyon","addr:country":"CH","addr:housenumber":"8b","addr:postcode":"1260","addr:street":"Chemin de la Paix","building":"apartments","owner":"Société coopérative d'habitation La Paix","owner:type":"cooperative","owner:wikidata":"Q132179751","id":"way/274035495","owner:website":"http://lapaix.ch/","owner:swiss_business_uid":"CHE-100.726.681"},"geometry":{"type":"Polygon","coordinates":[[[6.2348375,46.3911229],[6.2349181,46.3910438],[6.2352092,46.3910872],[6.2352468,46.3911921],[6.235127,46.3912318],[6.2348375,46.3911229]]]}},{"type":"Feature","id":"way/274035497","properties":{"addr:city":"Nyon","addr:country":"CH","addr:housenumber":"4b","addr:postcode":"1260","addr:street":"Chemin de la Paix","building":"apartments","owner":"Société coopérative d'habitation La Paix","owner:type":"cooperative","owner:wikidata":"Q132179751","id":"way/274035497","owner:website":"http://lapaix.ch/","owner:swiss_business_uid":"CHE-100.726.681"},"geometry":{"type":"Polygon","coordinates":[[[6.2351484,46.3906178],[6.2352124,46.3905385],[6.2354902,46.3905705],[6.2355557,46.3906656],[6.2354451,46.3907174],[6.2351484,46.3906178]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/260484633",
+    "properties": {
+      "addr:city": "Nyon",
+      "addr:country": "CH",
+      "addr:housenumber": "1",
+      "addr:postcode": "1260",
+      "addr:street": "Chemin des Plantaz",
+      "building": "apartments",
+      "owner": "Société coopérative d'habitation La Paix",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179751",
+      "id": "way/260484633",
+      "owner:website": "http://lapaix.ch/",
+      "owner:swiss_business_uid": "CHE-100.726.681"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.2349572,
+            46.3901377
+          ],
+          [
+            6.2350092,
+            46.3900416
+          ],
+          [
+            6.2352517,
+            46.3901039
+          ],
+          [
+            6.2351997,
+            46.3902
+          ],
+          [
+            6.2349572,
+            46.3901377
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/260484634",
+    "properties": {
+      "addr:city": "Nyon",
+      "addr:country": "CH",
+      "addr:housenumber": "3",
+      "addr:postcode": "1260",
+      "addr:street": "Chemin des Plantaz",
+      "building": "apartments",
+      "owner": "Société coopérative d'habitation La Paix",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179751",
+      "id": "way/260484634",
+      "owner:website": "http://lapaix.ch/",
+      "owner:swiss_business_uid": "CHE-100.726.681"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.2347707,
+            46.3904742
+          ],
+          [
+            6.2348213,
+            46.3903794
+          ],
+          [
+            6.2350656,
+            46.3904414
+          ],
+          [
+            6.2350149,
+            46.3905363
+          ],
+          [
+            6.2347707,
+            46.3904742
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/260484635",
+    "properties": {
+      "addr:city": "Nyon",
+      "addr:country": "CH",
+      "addr:housenumber": "5",
+      "addr:postcode": "1260",
+      "addr:street": "Chemin des Plantaz",
+      "building": "apartments",
+      "owner": "Société coopérative d'habitation La Paix",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179751",
+      "id": "way/260484635",
+      "owner:website": "http://lapaix.ch/",
+      "owner:swiss_business_uid": "CHE-100.726.681"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.2345635,
+            46.3908114
+          ],
+          [
+            6.2346306,
+            46.390714
+          ],
+          [
+            6.2348694,
+            46.3907922
+          ],
+          [
+            6.2348023,
+            46.3908896
+          ],
+          [
+            6.2345635,
+            46.3908114
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/260484636",
+    "properties": {
+      "addr:city": "Nyon",
+      "addr:country": "CH",
+      "addr:housenumber": "4",
+      "addr:postcode": "1260",
+      "addr:street": "Chemin de la Paix",
+      "building": "apartments",
+      "owner": "Société coopérative d'habitation La Paix",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179751",
+      "id": "way/260484636",
+      "owner:website": "http://lapaix.ch/",
+      "owner:swiss_business_uid": "CHE-100.726.681"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.2352715,
+            46.3903445
+          ],
+          [
+            6.2353184,
+            46.3902524
+          ],
+          [
+            6.2355648,
+            46.3903194
+          ],
+          [
+            6.2355164,
+            46.3904024
+          ],
+          [
+            6.235511,
+            46.3904116
+          ],
+          [
+            6.2352715,
+            46.3903445
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/260484637",
+    "properties": {
+      "addr:city": "Nyon",
+      "addr:country": "CH",
+      "addr:housenumber": "2",
+      "addr:postcode": "1260",
+      "addr:street": "Chemin de la Paix",
+      "building": "apartments",
+      "owner": "Société coopérative d'habitation La Paix",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179751",
+      "id": "way/260484637",
+      "owner:website": "http://lapaix.ch/",
+      "owner:swiss_business_uid": "CHE-100.726.681"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.2355164,
+            46.3904024
+          ],
+          [
+            6.2355648,
+            46.3903194
+          ],
+          [
+            6.2355687,
+            46.39031
+          ],
+          [
+            6.2357519,
+            46.3903628
+          ],
+          [
+            6.2356997,
+            46.3904515
+          ],
+          [
+            6.2355164,
+            46.3904024
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/260484638",
+    "properties": {
+      "addr:city": "Nyon",
+      "addr:country": "CH",
+      "addr:housenumber": "7",
+      "addr:postcode": "1260",
+      "addr:street": "Chemin des Plantaz",
+      "building": "apartments",
+      "owner": "Société coopérative d'habitation La Paix",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179751",
+      "id": "way/260484638",
+      "owner:website": "http://lapaix.ch/",
+      "owner:swiss_business_uid": "CHE-100.726.681"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.2343916,
+            46.3911247
+          ],
+          [
+            6.2344875,
+            46.3910477
+          ],
+          [
+            6.2346829,
+            46.3911674
+          ],
+          [
+            6.2345882,
+            46.3912394
+          ],
+          [
+            6.2343916,
+            46.3911247
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/260484639",
+    "properties": {
+      "addr:city": "Nyon",
+      "addr:country": "CH",
+      "addr:housenumber": "12",
+      "addr:postcode": "1260",
+      "addr:street": "Chemin de la Paix",
+      "building": "apartments",
+      "owner": "Société coopérative d'habitation La Paix",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179751",
+      "id": "way/260484639",
+      "owner:website": "http://lapaix.ch/",
+      "owner:swiss_business_uid": "CHE-100.726.681"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.2348176,
+            46.3914484
+          ],
+          [
+            6.2346198,
+            46.3913287
+          ],
+          [
+            6.2347193,
+            46.3912567
+          ],
+          [
+            6.2349123,
+            46.3913756
+          ],
+          [
+            6.2348274,
+            46.3914409
+          ],
+          [
+            6.2348176,
+            46.3914484
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/260484640",
+    "properties": {
+      "addr:city": "Nyon",
+      "addr:country": "CH",
+      "addr:housenumber": "10",
+      "addr:postcode": "1260",
+      "addr:street": "Chemin de la Paix",
+      "building": "apartments",
+      "owner": "Société coopérative d'habitation La Paix",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179751",
+      "id": "way/260484640",
+      "owner:website": "http://lapaix.ch/",
+      "owner:swiss_business_uid": "CHE-100.726.681"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.2348274,
+            46.3914409
+          ],
+          [
+            6.2349123,
+            46.3913756
+          ],
+          [
+            6.2349244,
+            46.3913654
+          ],
+          [
+            6.2350731,
+            46.3914579
+          ],
+          [
+            6.2349788,
+            46.3915321
+          ],
+          [
+            6.2348274,
+            46.3914409
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/260484641",
+    "properties": {
+      "addr:city": "Nyon",
+      "addr:country": "CH",
+      "addr:housenumber": "8",
+      "addr:postcode": "1260",
+      "addr:street": "Chemin de la Paix",
+      "building": "apartments",
+      "owner": "Société coopérative d'habitation La Paix",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179751",
+      "id": "way/260484641",
+      "owner:website": "http://lapaix.ch/",
+      "owner:swiss_business_uid": "CHE-100.726.681"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.2349866,
+            46.3908598
+          ],
+          [
+            6.2350482,
+            46.3907689
+          ],
+          [
+            6.2352803,
+            46.3908473
+          ],
+          [
+            6.2352262,
+            46.3909257
+          ],
+          [
+            6.2352162,
+            46.3909382
+          ],
+          [
+            6.2349866,
+            46.3908598
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/260484642",
+    "properties": {
+      "addr:city": "Nyon",
+      "addr:country": "CH",
+      "addr:housenumber": "6",
+      "addr:postcode": "1260",
+      "addr:street": "Chemin de la Paix",
+      "building": "apartments",
+      "owner": "Société coopérative d'habitation La Paix",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179751",
+      "id": "way/260484642",
+      "owner:website": "http://lapaix.ch/",
+      "owner:swiss_business_uid": "CHE-100.726.681"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.2352262,
+            46.3909257
+          ],
+          [
+            6.2352803,
+            46.3908473
+          ],
+          [
+            6.2352879,
+            46.3908363
+          ],
+          [
+            6.2354611,
+            46.390893
+          ],
+          [
+            6.2353994,
+            46.3909825
+          ],
+          [
+            6.2352262,
+            46.3909257
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/274035495",
+    "properties": {
+      "addr:city": "Nyon",
+      "addr:country": "CH",
+      "addr:housenumber": "8b",
+      "addr:postcode": "1260",
+      "addr:street": "Chemin de la Paix",
+      "building": "apartments",
+      "owner": "Société coopérative d'habitation La Paix",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179751",
+      "id": "way/274035495",
+      "owner:website": "http://lapaix.ch/",
+      "owner:swiss_business_uid": "CHE-100.726.681"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.2348375,
+            46.3911229
+          ],
+          [
+            6.2349181,
+            46.3910438
+          ],
+          [
+            6.2352092,
+            46.3910872
+          ],
+          [
+            6.2352468,
+            46.3911921
+          ],
+          [
+            6.235127,
+            46.3912318
+          ],
+          [
+            6.2348375,
+            46.3911229
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/274035497",
+    "properties": {
+      "addr:city": "Nyon",
+      "addr:country": "CH",
+      "addr:housenumber": "4b",
+      "addr:postcode": "1260",
+      "addr:street": "Chemin de la Paix",
+      "building": "apartments",
+      "owner": "Société coopérative d'habitation La Paix",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179751",
+      "id": "way/274035497",
+      "owner:website": "http://lapaix.ch/",
+      "owner:swiss_business_uid": "CHE-100.726.681"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.2351484,
+            46.3906178
+          ],
+          [
+            6.2352124,
+            46.3905385
+          ],
+          [
+            6.2354902,
+            46.3905705
+          ],
+          [
+            6.2355557,
+            46.3906656
+          ],
+          [
+            6.2354451,
+            46.3907174
+          ],
+          [
+            6.2351484,
+            46.3906178
+          ]
+        ]
+      ]
+    }
+  }
+]}

@@ -1,1 +1,1932 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/78393158","properties":{"building":"apartments","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","addr":[{"addr:city":"Bellevue","addr:postcode":"1293","addr:street":"Chemin de la Roselière","addr:housenumber":"10"},{"addr:city":"Bellevue","addr:postcode":"1293","addr:street":"Chemin de la Roselière","addr:housenumber":"12"},{"addr:city":"Bellevue","addr:postcode":"1293","addr:street":"Chemin de la Roselière","addr:housenumber":"14"}],"id":"way/78393158","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.1430171,46.2550168],[6.1432016,46.2550845],[6.1429236,46.2554472],[6.1427389,46.2553795],[6.1430171,46.2550168]]]}},{"type":"Feature","id":"way/80680347","properties":{"building":"apartments","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","addr":[{"addr:city":"Bellevue","addr:postcode":"1293","addr:street":"Chemin de la Roselière","addr:housenumber":"16"},{"addr:city":"Bellevue","addr:postcode":"1293","addr:street":"Chemin de la Roselière","addr:housenumber":"18"}],"id":"way/80680347","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.1432814,46.2547736],[6.1434674,46.2548401],[6.1432826,46.2550872],[6.1430966,46.2550208],[6.1432814,46.2547736]]]}},{"type":"Feature","id":"way/80881784","properties":{"addr:city":"Genève","addr:housenumber":"3","addr:postcode":"1201","addr:street":"Rue Benjamin-Franklin","building":"apartments","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","id":"way/80881784","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.1371152,46.2083313],[6.1369575,46.2083687],[6.1368839,46.2082247],[6.1370436,46.2081872],[6.1371152,46.2083313]]]}},{"type":"Feature","id":"way/85344327","properties":{"building":"apartments","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","addr":[{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Rue René-Jollien","addr:housenumber":"10"},{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Rue René-Jollien","addr:housenumber":"12"},{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Rue René-Jollien","addr:housenumber":"14"}],"id":"way/85344327","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.0913848,46.1830477],[6.0912077,46.1830006],[6.0912442,46.1829349],[6.0912793,46.1828718],[6.0914179,46.1826223],[6.0915951,46.1826695],[6.0914559,46.1829198],[6.0913848,46.1830477]]]}},{"type":"Feature","id":"way/85344382","properties":{"building":"apartments","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","addr":[{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Rue René-Jollien","addr:housenumber":"4"},{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Rue René-Jollien","addr:housenumber":"6"},{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Rue René-Jollien","addr:housenumber":"8"}],"id":"way/85344382","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.0919825,46.1832055],[6.091804,46.1831576],[6.0918401,46.1830931],[6.0918746,46.1830316],[6.0920137,46.1827832],[6.0921923,46.1828312],[6.0919825,46.1832055]]]}},{"type":"Feature","id":"way/85344389","properties":{"building":"apartments","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","addr":[{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Rue Edouard-Vallet","addr:housenumber":"15"},{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Rue Edouard-Vallet","addr:housenumber":"17"},{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Rue Edouard-Vallet","addr:housenumber":"19"},{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Rue Edouard-Vallet","addr:housenumber":"21"}],"id":"way/85344389","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.0910715,46.1833502],[6.0911375,46.1832304],[6.0912315,46.1832552],[6.0913182,46.183278],[6.0918613,46.1834213],[6.0917954,46.183541],[6.0910715,46.1833502]]]}},{"type":"Feature","id":"way/85762345","properties":{"building":"apartments","building:flats":"11","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","addr":[{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Chemin de Sous-le-Clos","addr:housenumber":"16"},{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Chemin de Sous-le-Clos","addr:housenumber":"18"}],"id":"way/85762345","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.080542,46.1760078],[6.0806787,46.1758999],[6.0809895,46.17609],[6.0808528,46.1761978],[6.080542,46.1760078]]]}},{"type":"Feature","id":"way/85913155","properties":{"building":"apartments","building:flats":"11","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","addr":[{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Chemin de Vuillonnex","addr:housenumber":"31"},{"addr:city":"Confignon","addr:postcode":"1232","addr:street":"Chemin de Vuillonnex","addr:housenumber":"33"}],"id":"way/85913155","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.0798916,46.1756191],[6.0797379,46.1755186],[6.0798769,46.1754166],[6.0798519,46.1754003],[6.080002,46.1752902],[6.0801465,46.1753846],[6.0800162,46.1754802],[6.0800504,46.1755026],[6.0798916,46.1756191]]]}},{"type":"Feature","id":"way/86272923","properties":{"building":"apartments","building:flats":"16","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","addr":[{"addr:city":"Bernex","addr:postcode":"1233","addr:street":"Chemin de Saule","addr:housenumber":"81"},{"addr:city":"Bernex","addr:postcode":"1233","addr:street":"Chemin de Saule","addr:housenumber":"83"},{"addr:city":"Bernex","addr:postcode":"1233","addr:street":"Chemin de Saule","addr:housenumber":"85"}],"id":"way/86272923","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.0672525,46.1746287],[6.0673458,46.1745207],[6.0674993,46.1745842],[6.0675225,46.1745573],[6.067784,46.1746655],[6.0678067,46.1746391],[6.0679772,46.1747097],[6.0678859,46.1748156],[6.0677296,46.1747509],[6.0677066,46.1747777],[6.0674385,46.1746668],[6.0674137,46.1746954],[6.0672525,46.1746287]]]}},{"type":"Feature","id":"way/88803239","properties":{"building":"apartments","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","addr":[{"addr:city":"Carouge","addr:postcode":"1227","addr:street":"Rue de La-Tambourine","addr:housenumber":"31"},{"addr:city":"Carouge","addr:postcode":"1227","addr:street":"Rue de La-Tambourine","addr:housenumber":"33"}],"id":"way/88803239","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.1408822,46.1759415],[6.1410683,46.1758411],[6.1412557,46.1757407],[6.1412689,46.1757529],[6.1412982,46.1757368],[6.1414108,46.1758376],[6.1412956,46.1758996],[6.1413069,46.1759104],[6.1412373,46.175948],[6.1412247,46.1759372],[6.1411906,46.1759538],[6.1411661,46.1759686],[6.1411775,46.175979],[6.141104,46.1760174],[6.141092,46.1760075],[6.1409812,46.1760669],[6.1408705,46.1759693],[6.1408951,46.1759544],[6.1408822,46.1759415]]]}},{"type":"Feature","id":"way/113320228","properties":{"building":"apartments","building:flats":"36","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","source":"Orthophotos 2009 du SITG (Système d'Information du Territoire Genevois)","addr":[{"addr:city":"Perly","addr:postcode":"1258","addr:street":"Chemin du Relai","addr:housenumber":"21"},{"addr:city":"Perly","addr:postcode":"1258","addr:street":"Chemin du Relai","addr:housenumber":"19"},{"addr:city":"Perly","addr:postcode":"1258","addr:street":"Chemin du Relai","addr:housenumber":"17"},{"addr:city":"Perly","addr:postcode":"1258","addr:street":"Chemin du Relai","addr:housenumber":"25"},{"addr:city":"Perly","addr:postcode":"1258","addr:street":"Chemin du Relai","addr:housenumber":"23"}],"id":"way/113320228","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.0912969,46.1570492],[6.0911498,46.1571381],[6.0910207,46.1570356],[6.090963,46.1570705],[6.0906993,46.1568612],[6.0906731,46.156877],[6.0905416,46.1567726],[6.0905143,46.1567891],[6.0903722,46.1566764],[6.090516,46.1565894],[6.0906507,46.1566963],[6.0906806,46.1566782],[6.0908129,46.1567833],[6.0908417,46.1567659],[6.0911068,46.1569763],[6.0911626,46.1569426],[6.0912969,46.1570492]]]}},{"type":"Feature","id":"way/113631404","properties":{"building":"apartments","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","source":"Orthophotos 2009 du SITG (Système d'Information du Territoire Genevois)","addr":[{"addr:city":"Bernex","addr:postcode":"1233","addr:street":"Chemin des Grands-Buissons","addr:housenumber":"26"},{"addr:city":"Bernex","addr:postcode":"1233","addr:street":"Chemin des Grands-Buissons","addr:housenumber":"28"},{"addr:city":"Bernex","addr:postcode":"1233","addr:street":"Chemin des Grands-Buissons","addr:housenumber":"30"}],"id":"way/113631404","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.0553751,46.1632541],[6.0555309,46.1633374],[6.0554071,46.1634491],[6.0553699,46.1634292],[6.0551184,46.1636562],[6.0549625,46.1635728],[6.055215,46.1633448],[6.0552524,46.1633648],[6.0553751,46.1632541]]]}},{"type":"Feature","id":"way/113631405","properties":{"building":"apartments","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","source":"Orthophotos 2009 du SITG (Système d'Information du Territoire Genevois)","addr":[{"addr:city":"Bernex","addr:postcode":"1233","addr:street":"Chemin des Grands-Buissons","addr:housenumber":"32"},{"addr:city":"Bernex","addr:postcode":"1233","addr:street":"Chemin des Grands-Buissons","addr:housenumber":"34"},{"addr:city":"Bernex","addr:postcode":"1233","addr:street":"Chemin des Grands-Buissons","addr:housenumber":"36"},{"addr:city":"Bernex","addr:postcode":"1233","addr:street":"Chemin des Grands-Buissons","addr:housenumber":"38"}],"id":"way/113631405","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.0547875,46.1628808],[6.0549059,46.1627722],[6.0550635,46.1628553],[6.0550925,46.1628287],[6.0552536,46.1629136],[6.0552831,46.1628865],[6.0556138,46.1630606],[6.05549,46.1631741],[6.0551664,46.1630037],[6.0551392,46.1630286],[6.0549805,46.162945],[6.0549546,46.1629688],[6.0547875,46.1628808]]]}},{"type":"Feature","id":"way/134161559","properties":{"addr:city":"Thônex","addr:housenumber":"75","addr:postcode":"1226","addr:street":"Chemin du Bois-des-Arts","building":"apartments","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","id":"way/134161559","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.1998323,46.1887085],[6.1998535,46.1887874],[6.1998646,46.1888296],[6.1997052,46.1888489],[6.1996754,46.1887276],[6.1997528,46.1887181],[6.1998323,46.1887085]]]}},{"type":"Feature","id":"way/180058868","properties":{"building":"apartments","building:flats":"54","building:levels":"6","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","addr":[{"addr:city":"Genève","addr:postcode":"1201","addr:street":"Rue Lamartine","addr:housenumber":"41"},{"addr:city":"Genève","addr:postcode":"1201","addr:street":"Rue Lamartine","addr:housenumber":"43"},{"addr:city":"Genève","addr:postcode":"1201","addr:street":"Rue Lamartine","addr:housenumber":"45"}],"id":"way/180058868","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.1296339,46.2115958],[6.1296319,46.212045],[6.1294822,46.2120446],[6.1294843,46.2115955],[6.1296339,46.2115958]]]}},{"type":"Feature","id":"way/181013688","properties":{"building":"apartments","building:flats":"36","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","addr":[{"addr:city":"Genève","addr:postcode":"1205","addr:street":"Boulevard de la Cluse","addr:housenumber":"2"},{"addr:city":"Genève","addr:postcode":"1205","addr:street":"Boulevard de la Cluse","addr:housenumber":"4"}],"id":"way/181013688","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.1444514,46.1878172],[6.1443004,46.187423],[6.1444417,46.1873971],[6.1445926,46.1877913],[6.1444514,46.1878172]]]}},{"type":"Feature","id":"way/181013735","properties":{"building":"apartments","building:flats":"36","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","addr":[{"addr:city":"Geneva","addr:postcode":"1205","addr:street":"Quai Capo d'Istria","addr:housenumber":"17"},{"addr:city":"Genève","addr:postcode":"1205","addr:street":"Rue de la Colline","addr:housenumber":"16"}],"id":"way/181013735","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.1450069,46.1876996],[6.1449389,46.1875174],[6.1448661,46.1873249],[6.1450113,46.1872986],[6.1450841,46.1874911],[6.1451512,46.1876736],[6.1450069,46.1876996]]]}},{"type":"Feature","id":"way/188269074","properties":{"building":"apartments","building:flats":"90","building:levels":"6","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Avenue Soret","addr:housenumber":"1e"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Avenue Soret","addr:housenumber":"1a"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Avenue Soret","addr:housenumber":"1b"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Avenue Soret","addr:housenumber":"1c"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Avenue Soret","addr:housenumber":"1d"}],"id":"way/188269074","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.1274265,46.2111001],[6.1274268,46.2109963],[6.1284815,46.2109979],[6.1284811,46.2111018],[6.1274265,46.2111001]]]}},{"type":"Feature","id":"way/188269110","properties":{"building":"apartments","building:flats":"54","building:levels":"7","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Lamartine","addr:housenumber":"11a"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Lamartine","addr:housenumber":"11b"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Lamartine","addr:housenumber":"11c"}],"id":"way/188269110","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.1282626,46.2100723],[6.1281385,46.2100724],[6.1279274,46.2100727],[6.1278408,46.2100728],[6.1278405,46.2099651],[6.1284763,46.2099643],[6.1284765,46.210072],[6.1283528,46.2100722],[6.1282626,46.2100723]]]}},{"type":"Feature","id":"way/208087596","properties":{"addr:city":"Thônex","addr:housenumber":"77","addr:postcode":"1226","addr:street":"Chemin du Bois-des-Arts","building":"apartments","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","id":"way/208087596","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.1998535,46.1887874],[6.1998323,46.1887085],[6.1998229,46.1886725],[6.199911,46.1886626],[6.1999096,46.1886351],[6.1999061,46.1885626],[6.2000533,46.1885599],[6.2000743,46.1885595],[6.2000773,46.1886357],[6.1999999,46.1886375],[6.2000019,46.1886748],[6.2000784,46.188672],[6.2000796,46.1886973],[6.2000825,46.1887595],[6.1999639,46.188774],[6.1998535,46.1887874]]]}},{"type":"Feature","id":"way/208344677","properties":{"building":"apartments","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","addr":[{"addr:city":"Thônex","addr:postcode":"1226","addr:street":"Chemin du Bois-des-Arts","addr:housenumber":"83"},{"addr:city":"Thônex","addr:postcode":"1226","addr:street":"Chemin du Bois-des-Arts","addr:housenumber":"81"},{"addr:city":"Thônex","addr:postcode":"1226","addr:street":"Chemin du Bois-des-Arts","addr:housenumber":"79"}],"id":"way/208344677","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.2004175,46.1886907],[6.2002603,46.1886933],[6.2001059,46.1886969],[6.2001066,46.188582],[6.2002555,46.1885786],[6.2003323,46.1885779],[6.200413,46.1885771],[6.2004125,46.1885544],[6.2005269,46.1885528],[6.2005414,46.1885878],[6.2005446,46.1886268],[6.2004976,46.1886277],[6.2004993,46.1886894],[6.2004175,46.1886907]]]}},{"type":"Feature","id":"way/223208878","properties":{"addr:city":"Les Avanchets","addr:country":"CH","addr:housenumber":"15","addr:postcode":"1220","addr:street":"Rue Oscar-Bider","building":"apartments","building:levels":"2","note":"surveyed by Alex-7 with OsmPad and bicycle (the GPS trace of survey was uploaded)","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","source":"survey","survey:date":"2013-09-28","id":"way/223208878","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.107542,46.2198084],[6.1073897,46.219713],[6.1074998,46.2196274],[6.1075445,46.2196549],[6.1075777,46.2196414],[6.1076769,46.2197042],[6.1076588,46.2197286],[6.1076308,46.2197404],[6.107599,46.2197652],[6.1075813,46.2197879],[6.107542,46.2198084]]]}},{"type":"Feature","id":"way/223208879","properties":{"addr:city":"Les Avanchets","addr:housenumber":"14","addr:postcode":"1220","addr:street":"Rue Oscar-Bider","building":"apartments","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","id":"way/223208879","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.1073814,46.219878],[6.1072544,46.2197983],[6.1073235,46.2197457],[6.1073366,46.2197547],[6.1073897,46.219713],[6.107542,46.2198084],[6.1075195,46.2198375],[6.1074888,46.2198514],[6.1074649,46.2198686],[6.1074485,46.2198918],[6.1074005,46.2198634],[6.1073814,46.219878]]]}},{"type":"Feature","id":"way/223208881","properties":{"addr:city":"Les Avanchets","addr:country":"CH","addr:housenumber":"5","addr:postcode":"1220","addr:street":"Rue Oscar-Bider","building":"apartments","building:levels":"2","note":"surveyed by Alex-7 with OsmPad and bicycle (the GPS trace of survey was uploaded)","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","source":"survey","survey:date":"2013-09-28","id":"way/223208881","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.1061177,46.2206736],[6.1060995,46.2206892],[6.1061471,46.2207189],[6.1061169,46.2207313],[6.1060904,46.2207518],[6.1060739,46.2207749],[6.1060353,46.220793],[6.1058807,46.2207003],[6.1059364,46.2206569],[6.1059226,46.2206488],[6.1059916,46.2205973],[6.1061177,46.2206736]]]}},{"type":"Feature","id":"way/223208889","properties":{"addr:city":"Les Avanchets","addr:country":"CH","addr:housenumber":"6","addr:postcode":"1220","addr:street":"Rue Oscar-Bider","building":"apartments","building:levels":"2","note":"surveyed by Alex-7 with OsmPad and bicycle (the GPS trace of survey was uploaded)","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","source":"survey","survey:date":"2013-09-28","id":"way/223208889","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.1060353,46.220793],[6.1060098,46.2208236],[6.1059796,46.2208373],[6.1059651,46.2208588],[6.1059265,46.2208795],[6.1057732,46.2207833],[6.1058807,46.2207003],[6.1060353,46.220793]]]}},{"type":"Feature","id":"way/1378909500","properties":{"building":"apartments","owner":"Fomhab","owner:type":"cooperative","owner:wikidata":"Q133459738","addr":[{"addr:city":"Perly","addr:postcode":"1258","addr:street":"Chemin du Relai","addr:housenumber":"15"},{"addr:city":"Perly","addr:postcode":"1258","addr:street":"Chemin du Relai","addr:housenumber":"15a"}],"id":"way/1378909500","owner:website":"https://gchg.ch/membre/fomhab/","owner:start_date":"1947-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-100.845.535"},"geometry":{"type":"Polygon","coordinates":[[[6.0911498,46.1571381],[6.0912969,46.1570492],[6.0915753,46.1572716],[6.0914202,46.1573623],[6.0911498,46.1571381]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/78393158",
+    "properties": {
+      "building": "apartments",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "addr": [
+        {
+          "addr:city": "Bellevue",
+          "addr:postcode": "1293",
+          "addr:street": "Chemin de la Roselière",
+          "addr:housenumber": "10"
+        },
+        {
+          "addr:city": "Bellevue",
+          "addr:postcode": "1293",
+          "addr:street": "Chemin de la Roselière",
+          "addr:housenumber": "12"
+        },
+        {
+          "addr:city": "Bellevue",
+          "addr:postcode": "1293",
+          "addr:street": "Chemin de la Roselière",
+          "addr:housenumber": "14"
+        }
+      ],
+      "id": "way/78393158",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1430171,
+            46.2550168
+          ],
+          [
+            6.1432016,
+            46.2550845
+          ],
+          [
+            6.1429236,
+            46.2554472
+          ],
+          [
+            6.1427389,
+            46.2553795
+          ],
+          [
+            6.1430171,
+            46.2550168
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/80680347",
+    "properties": {
+      "building": "apartments",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "addr": [
+        {
+          "addr:city": "Bellevue",
+          "addr:postcode": "1293",
+          "addr:street": "Chemin de la Roselière",
+          "addr:housenumber": "16"
+        },
+        {
+          "addr:city": "Bellevue",
+          "addr:postcode": "1293",
+          "addr:street": "Chemin de la Roselière",
+          "addr:housenumber": "18"
+        }
+      ],
+      "id": "way/80680347",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1432814,
+            46.2547736
+          ],
+          [
+            6.1434674,
+            46.2548401
+          ],
+          [
+            6.1432826,
+            46.2550872
+          ],
+          [
+            6.1430966,
+            46.2550208
+          ],
+          [
+            6.1432814,
+            46.2547736
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/80881784",
+    "properties": {
+      "addr:city": "Genève",
+      "addr:housenumber": "3",
+      "addr:postcode": "1201",
+      "addr:street": "Rue Benjamin-Franklin",
+      "building": "apartments",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "id": "way/80881784",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1371152,
+            46.2083313
+          ],
+          [
+            6.1369575,
+            46.2083687
+          ],
+          [
+            6.1368839,
+            46.2082247
+          ],
+          [
+            6.1370436,
+            46.2081872
+          ],
+          [
+            6.1371152,
+            46.2083313
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/85344327",
+    "properties": {
+      "building": "apartments",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "addr": [
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Rue René-Jollien",
+          "addr:housenumber": "10"
+        },
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Rue René-Jollien",
+          "addr:housenumber": "12"
+        },
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Rue René-Jollien",
+          "addr:housenumber": "14"
+        }
+      ],
+      "id": "way/85344327",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.0913848,
+            46.1830477
+          ],
+          [
+            6.0912077,
+            46.1830006
+          ],
+          [
+            6.0912442,
+            46.1829349
+          ],
+          [
+            6.0912793,
+            46.1828718
+          ],
+          [
+            6.0914179,
+            46.1826223
+          ],
+          [
+            6.0915951,
+            46.1826695
+          ],
+          [
+            6.0914559,
+            46.1829198
+          ],
+          [
+            6.0913848,
+            46.1830477
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/85344382",
+    "properties": {
+      "building": "apartments",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "addr": [
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Rue René-Jollien",
+          "addr:housenumber": "4"
+        },
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Rue René-Jollien",
+          "addr:housenumber": "6"
+        },
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Rue René-Jollien",
+          "addr:housenumber": "8"
+        }
+      ],
+      "id": "way/85344382",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.0919825,
+            46.1832055
+          ],
+          [
+            6.091804,
+            46.1831576
+          ],
+          [
+            6.0918401,
+            46.1830931
+          ],
+          [
+            6.0918746,
+            46.1830316
+          ],
+          [
+            6.0920137,
+            46.1827832
+          ],
+          [
+            6.0921923,
+            46.1828312
+          ],
+          [
+            6.0919825,
+            46.1832055
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/85344389",
+    "properties": {
+      "building": "apartments",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "addr": [
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Rue Edouard-Vallet",
+          "addr:housenumber": "15"
+        },
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Rue Edouard-Vallet",
+          "addr:housenumber": "17"
+        },
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Rue Edouard-Vallet",
+          "addr:housenumber": "19"
+        },
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Rue Edouard-Vallet",
+          "addr:housenumber": "21"
+        }
+      ],
+      "id": "way/85344389",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.0910715,
+            46.1833502
+          ],
+          [
+            6.0911375,
+            46.1832304
+          ],
+          [
+            6.0912315,
+            46.1832552
+          ],
+          [
+            6.0913182,
+            46.183278
+          ],
+          [
+            6.0918613,
+            46.1834213
+          ],
+          [
+            6.0917954,
+            46.183541
+          ],
+          [
+            6.0910715,
+            46.1833502
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/85762345",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "11",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "addr": [
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Chemin de Sous-le-Clos",
+          "addr:housenumber": "16"
+        },
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Chemin de Sous-le-Clos",
+          "addr:housenumber": "18"
+        }
+      ],
+      "id": "way/85762345",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.080542,
+            46.1760078
+          ],
+          [
+            6.0806787,
+            46.1758999
+          ],
+          [
+            6.0809895,
+            46.17609
+          ],
+          [
+            6.0808528,
+            46.1761978
+          ],
+          [
+            6.080542,
+            46.1760078
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/85913155",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "11",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "addr": [
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Chemin de Vuillonnex",
+          "addr:housenumber": "31"
+        },
+        {
+          "addr:city": "Confignon",
+          "addr:postcode": "1232",
+          "addr:street": "Chemin de Vuillonnex",
+          "addr:housenumber": "33"
+        }
+      ],
+      "id": "way/85913155",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.0798916,
+            46.1756191
+          ],
+          [
+            6.0797379,
+            46.1755186
+          ],
+          [
+            6.0798769,
+            46.1754166
+          ],
+          [
+            6.0798519,
+            46.1754003
+          ],
+          [
+            6.080002,
+            46.1752902
+          ],
+          [
+            6.0801465,
+            46.1753846
+          ],
+          [
+            6.0800162,
+            46.1754802
+          ],
+          [
+            6.0800504,
+            46.1755026
+          ],
+          [
+            6.0798916,
+            46.1756191
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/86272923",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "16",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "addr": [
+        {
+          "addr:city": "Bernex",
+          "addr:postcode": "1233",
+          "addr:street": "Chemin de Saule",
+          "addr:housenumber": "81"
+        },
+        {
+          "addr:city": "Bernex",
+          "addr:postcode": "1233",
+          "addr:street": "Chemin de Saule",
+          "addr:housenumber": "83"
+        },
+        {
+          "addr:city": "Bernex",
+          "addr:postcode": "1233",
+          "addr:street": "Chemin de Saule",
+          "addr:housenumber": "85"
+        }
+      ],
+      "id": "way/86272923",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.0672525,
+            46.1746287
+          ],
+          [
+            6.0673458,
+            46.1745207
+          ],
+          [
+            6.0674993,
+            46.1745842
+          ],
+          [
+            6.0675225,
+            46.1745573
+          ],
+          [
+            6.067784,
+            46.1746655
+          ],
+          [
+            6.0678067,
+            46.1746391
+          ],
+          [
+            6.0679772,
+            46.1747097
+          ],
+          [
+            6.0678859,
+            46.1748156
+          ],
+          [
+            6.0677296,
+            46.1747509
+          ],
+          [
+            6.0677066,
+            46.1747777
+          ],
+          [
+            6.0674385,
+            46.1746668
+          ],
+          [
+            6.0674137,
+            46.1746954
+          ],
+          [
+            6.0672525,
+            46.1746287
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/88803239",
+    "properties": {
+      "building": "apartments",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "addr": [
+        {
+          "addr:city": "Carouge",
+          "addr:postcode": "1227",
+          "addr:street": "Rue de La-Tambourine",
+          "addr:housenumber": "31"
+        },
+        {
+          "addr:city": "Carouge",
+          "addr:postcode": "1227",
+          "addr:street": "Rue de La-Tambourine",
+          "addr:housenumber": "33"
+        }
+      ],
+      "id": "way/88803239",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1408822,
+            46.1759415
+          ],
+          [
+            6.1410683,
+            46.1758411
+          ],
+          [
+            6.1412557,
+            46.1757407
+          ],
+          [
+            6.1412689,
+            46.1757529
+          ],
+          [
+            6.1412982,
+            46.1757368
+          ],
+          [
+            6.1414108,
+            46.1758376
+          ],
+          [
+            6.1412956,
+            46.1758996
+          ],
+          [
+            6.1413069,
+            46.1759104
+          ],
+          [
+            6.1412373,
+            46.175948
+          ],
+          [
+            6.1412247,
+            46.1759372
+          ],
+          [
+            6.1411906,
+            46.1759538
+          ],
+          [
+            6.1411661,
+            46.1759686
+          ],
+          [
+            6.1411775,
+            46.175979
+          ],
+          [
+            6.141104,
+            46.1760174
+          ],
+          [
+            6.141092,
+            46.1760075
+          ],
+          [
+            6.1409812,
+            46.1760669
+          ],
+          [
+            6.1408705,
+            46.1759693
+          ],
+          [
+            6.1408951,
+            46.1759544
+          ],
+          [
+            6.1408822,
+            46.1759415
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/113320228",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "36",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "source": "Orthophotos 2009 du SITG (Système d'Information du Territoire Genevois)",
+      "addr": [
+        {
+          "addr:city": "Perly",
+          "addr:postcode": "1258",
+          "addr:street": "Chemin du Relai",
+          "addr:housenumber": "21"
+        },
+        {
+          "addr:city": "Perly",
+          "addr:postcode": "1258",
+          "addr:street": "Chemin du Relai",
+          "addr:housenumber": "19"
+        },
+        {
+          "addr:city": "Perly",
+          "addr:postcode": "1258",
+          "addr:street": "Chemin du Relai",
+          "addr:housenumber": "17"
+        },
+        {
+          "addr:city": "Perly",
+          "addr:postcode": "1258",
+          "addr:street": "Chemin du Relai",
+          "addr:housenumber": "25"
+        },
+        {
+          "addr:city": "Perly",
+          "addr:postcode": "1258",
+          "addr:street": "Chemin du Relai",
+          "addr:housenumber": "23"
+        }
+      ],
+      "id": "way/113320228",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.0912969,
+            46.1570492
+          ],
+          [
+            6.0911498,
+            46.1571381
+          ],
+          [
+            6.0910207,
+            46.1570356
+          ],
+          [
+            6.090963,
+            46.1570705
+          ],
+          [
+            6.0906993,
+            46.1568612
+          ],
+          [
+            6.0906731,
+            46.156877
+          ],
+          [
+            6.0905416,
+            46.1567726
+          ],
+          [
+            6.0905143,
+            46.1567891
+          ],
+          [
+            6.0903722,
+            46.1566764
+          ],
+          [
+            6.090516,
+            46.1565894
+          ],
+          [
+            6.0906507,
+            46.1566963
+          ],
+          [
+            6.0906806,
+            46.1566782
+          ],
+          [
+            6.0908129,
+            46.1567833
+          ],
+          [
+            6.0908417,
+            46.1567659
+          ],
+          [
+            6.0911068,
+            46.1569763
+          ],
+          [
+            6.0911626,
+            46.1569426
+          ],
+          [
+            6.0912969,
+            46.1570492
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/113631404",
+    "properties": {
+      "building": "apartments",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "source": "Orthophotos 2009 du SITG (Système d'Information du Territoire Genevois)",
+      "addr": [
+        {
+          "addr:city": "Bernex",
+          "addr:postcode": "1233",
+          "addr:street": "Chemin des Grands-Buissons",
+          "addr:housenumber": "26"
+        },
+        {
+          "addr:city": "Bernex",
+          "addr:postcode": "1233",
+          "addr:street": "Chemin des Grands-Buissons",
+          "addr:housenumber": "28"
+        },
+        {
+          "addr:city": "Bernex",
+          "addr:postcode": "1233",
+          "addr:street": "Chemin des Grands-Buissons",
+          "addr:housenumber": "30"
+        }
+      ],
+      "id": "way/113631404",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.0553751,
+            46.1632541
+          ],
+          [
+            6.0555309,
+            46.1633374
+          ],
+          [
+            6.0554071,
+            46.1634491
+          ],
+          [
+            6.0553699,
+            46.1634292
+          ],
+          [
+            6.0551184,
+            46.1636562
+          ],
+          [
+            6.0549625,
+            46.1635728
+          ],
+          [
+            6.055215,
+            46.1633448
+          ],
+          [
+            6.0552524,
+            46.1633648
+          ],
+          [
+            6.0553751,
+            46.1632541
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/113631405",
+    "properties": {
+      "building": "apartments",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "source": "Orthophotos 2009 du SITG (Système d'Information du Territoire Genevois)",
+      "addr": [
+        {
+          "addr:city": "Bernex",
+          "addr:postcode": "1233",
+          "addr:street": "Chemin des Grands-Buissons",
+          "addr:housenumber": "32"
+        },
+        {
+          "addr:city": "Bernex",
+          "addr:postcode": "1233",
+          "addr:street": "Chemin des Grands-Buissons",
+          "addr:housenumber": "34"
+        },
+        {
+          "addr:city": "Bernex",
+          "addr:postcode": "1233",
+          "addr:street": "Chemin des Grands-Buissons",
+          "addr:housenumber": "36"
+        },
+        {
+          "addr:city": "Bernex",
+          "addr:postcode": "1233",
+          "addr:street": "Chemin des Grands-Buissons",
+          "addr:housenumber": "38"
+        }
+      ],
+      "id": "way/113631405",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.0547875,
+            46.1628808
+          ],
+          [
+            6.0549059,
+            46.1627722
+          ],
+          [
+            6.0550635,
+            46.1628553
+          ],
+          [
+            6.0550925,
+            46.1628287
+          ],
+          [
+            6.0552536,
+            46.1629136
+          ],
+          [
+            6.0552831,
+            46.1628865
+          ],
+          [
+            6.0556138,
+            46.1630606
+          ],
+          [
+            6.05549,
+            46.1631741
+          ],
+          [
+            6.0551664,
+            46.1630037
+          ],
+          [
+            6.0551392,
+            46.1630286
+          ],
+          [
+            6.0549805,
+            46.162945
+          ],
+          [
+            6.0549546,
+            46.1629688
+          ],
+          [
+            6.0547875,
+            46.1628808
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/134161559",
+    "properties": {
+      "addr:city": "Thônex",
+      "addr:housenumber": "75",
+      "addr:postcode": "1226",
+      "addr:street": "Chemin du Bois-des-Arts",
+      "building": "apartments",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "id": "way/134161559",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1998323,
+            46.1887085
+          ],
+          [
+            6.1998535,
+            46.1887874
+          ],
+          [
+            6.1998646,
+            46.1888296
+          ],
+          [
+            6.1997052,
+            46.1888489
+          ],
+          [
+            6.1996754,
+            46.1887276
+          ],
+          [
+            6.1997528,
+            46.1887181
+          ],
+          [
+            6.1998323,
+            46.1887085
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/180058868",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "54",
+      "building:levels": "6",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1201",
+          "addr:street": "Rue Lamartine",
+          "addr:housenumber": "41"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1201",
+          "addr:street": "Rue Lamartine",
+          "addr:housenumber": "43"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1201",
+          "addr:street": "Rue Lamartine",
+          "addr:housenumber": "45"
+        }
+      ],
+      "id": "way/180058868",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1296339,
+            46.2115958
+          ],
+          [
+            6.1296319,
+            46.212045
+          ],
+          [
+            6.1294822,
+            46.2120446
+          ],
+          [
+            6.1294843,
+            46.2115955
+          ],
+          [
+            6.1296339,
+            46.2115958
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/181013688",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "36",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1205",
+          "addr:street": "Boulevard de la Cluse",
+          "addr:housenumber": "2"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1205",
+          "addr:street": "Boulevard de la Cluse",
+          "addr:housenumber": "4"
+        }
+      ],
+      "id": "way/181013688",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1444514,
+            46.1878172
+          ],
+          [
+            6.1443004,
+            46.187423
+          ],
+          [
+            6.1444417,
+            46.1873971
+          ],
+          [
+            6.1445926,
+            46.1877913
+          ],
+          [
+            6.1444514,
+            46.1878172
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/181013735",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "36",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "addr": [
+        {
+          "addr:city": "Geneva",
+          "addr:postcode": "1205",
+          "addr:street": "Quai Capo d'Istria",
+          "addr:housenumber": "17"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1205",
+          "addr:street": "Rue de la Colline",
+          "addr:housenumber": "16"
+        }
+      ],
+      "id": "way/181013735",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1450069,
+            46.1876996
+          ],
+          [
+            6.1449389,
+            46.1875174
+          ],
+          [
+            6.1448661,
+            46.1873249
+          ],
+          [
+            6.1450113,
+            46.1872986
+          ],
+          [
+            6.1450841,
+            46.1874911
+          ],
+          [
+            6.1451512,
+            46.1876736
+          ],
+          [
+            6.1450069,
+            46.1876996
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/188269074",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "90",
+      "building:levels": "6",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Avenue Soret",
+          "addr:housenumber": "1e"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Avenue Soret",
+          "addr:housenumber": "1a"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Avenue Soret",
+          "addr:housenumber": "1b"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Avenue Soret",
+          "addr:housenumber": "1c"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Avenue Soret",
+          "addr:housenumber": "1d"
+        }
+      ],
+      "id": "way/188269074",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1274265,
+            46.2111001
+          ],
+          [
+            6.1274268,
+            46.2109963
+          ],
+          [
+            6.1284815,
+            46.2109979
+          ],
+          [
+            6.1284811,
+            46.2111018
+          ],
+          [
+            6.1274265,
+            46.2111001
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/188269110",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "54",
+      "building:levels": "7",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Lamartine",
+          "addr:housenumber": "11a"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Lamartine",
+          "addr:housenumber": "11b"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Lamartine",
+          "addr:housenumber": "11c"
+        }
+      ],
+      "id": "way/188269110",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1282626,
+            46.2100723
+          ],
+          [
+            6.1281385,
+            46.2100724
+          ],
+          [
+            6.1279274,
+            46.2100727
+          ],
+          [
+            6.1278408,
+            46.2100728
+          ],
+          [
+            6.1278405,
+            46.2099651
+          ],
+          [
+            6.1284763,
+            46.2099643
+          ],
+          [
+            6.1284765,
+            46.210072
+          ],
+          [
+            6.1283528,
+            46.2100722
+          ],
+          [
+            6.1282626,
+            46.2100723
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/208087596",
+    "properties": {
+      "addr:city": "Thônex",
+      "addr:housenumber": "77",
+      "addr:postcode": "1226",
+      "addr:street": "Chemin du Bois-des-Arts",
+      "building": "apartments",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "id": "way/208087596",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1998535,
+            46.1887874
+          ],
+          [
+            6.1998323,
+            46.1887085
+          ],
+          [
+            6.1998229,
+            46.1886725
+          ],
+          [
+            6.199911,
+            46.1886626
+          ],
+          [
+            6.1999096,
+            46.1886351
+          ],
+          [
+            6.1999061,
+            46.1885626
+          ],
+          [
+            6.2000533,
+            46.1885599
+          ],
+          [
+            6.2000743,
+            46.1885595
+          ],
+          [
+            6.2000773,
+            46.1886357
+          ],
+          [
+            6.1999999,
+            46.1886375
+          ],
+          [
+            6.2000019,
+            46.1886748
+          ],
+          [
+            6.2000784,
+            46.188672
+          ],
+          [
+            6.2000796,
+            46.1886973
+          ],
+          [
+            6.2000825,
+            46.1887595
+          ],
+          [
+            6.1999639,
+            46.188774
+          ],
+          [
+            6.1998535,
+            46.1887874
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/208344677",
+    "properties": {
+      "building": "apartments",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "addr": [
+        {
+          "addr:city": "Thônex",
+          "addr:postcode": "1226",
+          "addr:street": "Chemin du Bois-des-Arts",
+          "addr:housenumber": "83"
+        },
+        {
+          "addr:city": "Thônex",
+          "addr:postcode": "1226",
+          "addr:street": "Chemin du Bois-des-Arts",
+          "addr:housenumber": "81"
+        },
+        {
+          "addr:city": "Thônex",
+          "addr:postcode": "1226",
+          "addr:street": "Chemin du Bois-des-Arts",
+          "addr:housenumber": "79"
+        }
+      ],
+      "id": "way/208344677",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.2004175,
+            46.1886907
+          ],
+          [
+            6.2002603,
+            46.1886933
+          ],
+          [
+            6.2001059,
+            46.1886969
+          ],
+          [
+            6.2001066,
+            46.188582
+          ],
+          [
+            6.2002555,
+            46.1885786
+          ],
+          [
+            6.2003323,
+            46.1885779
+          ],
+          [
+            6.200413,
+            46.1885771
+          ],
+          [
+            6.2004125,
+            46.1885544
+          ],
+          [
+            6.2005269,
+            46.1885528
+          ],
+          [
+            6.2005414,
+            46.1885878
+          ],
+          [
+            6.2005446,
+            46.1886268
+          ],
+          [
+            6.2004976,
+            46.1886277
+          ],
+          [
+            6.2004993,
+            46.1886894
+          ],
+          [
+            6.2004175,
+            46.1886907
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/223208878",
+    "properties": {
+      "addr:city": "Les Avanchets",
+      "addr:country": "CH",
+      "addr:housenumber": "15",
+      "addr:postcode": "1220",
+      "addr:street": "Rue Oscar-Bider",
+      "building": "apartments",
+      "building:levels": "2",
+      "note": "surveyed by Alex-7 with OsmPad and bicycle (the GPS trace of survey was uploaded)",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "source": "survey",
+      "survey:date": "2013-09-28",
+      "id": "way/223208878",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.107542,
+            46.2198084
+          ],
+          [
+            6.1073897,
+            46.219713
+          ],
+          [
+            6.1074998,
+            46.2196274
+          ],
+          [
+            6.1075445,
+            46.2196549
+          ],
+          [
+            6.1075777,
+            46.2196414
+          ],
+          [
+            6.1076769,
+            46.2197042
+          ],
+          [
+            6.1076588,
+            46.2197286
+          ],
+          [
+            6.1076308,
+            46.2197404
+          ],
+          [
+            6.107599,
+            46.2197652
+          ],
+          [
+            6.1075813,
+            46.2197879
+          ],
+          [
+            6.107542,
+            46.2198084
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/223208879",
+    "properties": {
+      "addr:city": "Les Avanchets",
+      "addr:housenumber": "14",
+      "addr:postcode": "1220",
+      "addr:street": "Rue Oscar-Bider",
+      "building": "apartments",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "id": "way/223208879",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1073814,
+            46.219878
+          ],
+          [
+            6.1072544,
+            46.2197983
+          ],
+          [
+            6.1073235,
+            46.2197457
+          ],
+          [
+            6.1073366,
+            46.2197547
+          ],
+          [
+            6.1073897,
+            46.219713
+          ],
+          [
+            6.107542,
+            46.2198084
+          ],
+          [
+            6.1075195,
+            46.2198375
+          ],
+          [
+            6.1074888,
+            46.2198514
+          ],
+          [
+            6.1074649,
+            46.2198686
+          ],
+          [
+            6.1074485,
+            46.2198918
+          ],
+          [
+            6.1074005,
+            46.2198634
+          ],
+          [
+            6.1073814,
+            46.219878
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/223208881",
+    "properties": {
+      "addr:city": "Les Avanchets",
+      "addr:country": "CH",
+      "addr:housenumber": "5",
+      "addr:postcode": "1220",
+      "addr:street": "Rue Oscar-Bider",
+      "building": "apartments",
+      "building:levels": "2",
+      "note": "surveyed by Alex-7 with OsmPad and bicycle (the GPS trace of survey was uploaded)",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "source": "survey",
+      "survey:date": "2013-09-28",
+      "id": "way/223208881",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1061177,
+            46.2206736
+          ],
+          [
+            6.1060995,
+            46.2206892
+          ],
+          [
+            6.1061471,
+            46.2207189
+          ],
+          [
+            6.1061169,
+            46.2207313
+          ],
+          [
+            6.1060904,
+            46.2207518
+          ],
+          [
+            6.1060739,
+            46.2207749
+          ],
+          [
+            6.1060353,
+            46.220793
+          ],
+          [
+            6.1058807,
+            46.2207003
+          ],
+          [
+            6.1059364,
+            46.2206569
+          ],
+          [
+            6.1059226,
+            46.2206488
+          ],
+          [
+            6.1059916,
+            46.2205973
+          ],
+          [
+            6.1061177,
+            46.2206736
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/223208889",
+    "properties": {
+      "addr:city": "Les Avanchets",
+      "addr:country": "CH",
+      "addr:housenumber": "6",
+      "addr:postcode": "1220",
+      "addr:street": "Rue Oscar-Bider",
+      "building": "apartments",
+      "building:levels": "2",
+      "note": "surveyed by Alex-7 with OsmPad and bicycle (the GPS trace of survey was uploaded)",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "source": "survey",
+      "survey:date": "2013-09-28",
+      "id": "way/223208889",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1060353,
+            46.220793
+          ],
+          [
+            6.1060098,
+            46.2208236
+          ],
+          [
+            6.1059796,
+            46.2208373
+          ],
+          [
+            6.1059651,
+            46.2208588
+          ],
+          [
+            6.1059265,
+            46.2208795
+          ],
+          [
+            6.1057732,
+            46.2207833
+          ],
+          [
+            6.1058807,
+            46.2207003
+          ],
+          [
+            6.1060353,
+            46.220793
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1378909500",
+    "properties": {
+      "building": "apartments",
+      "owner": "Fomhab",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459738",
+      "addr": [
+        {
+          "addr:city": "Perly",
+          "addr:postcode": "1258",
+          "addr:street": "Chemin du Relai",
+          "addr:housenumber": "15"
+        },
+        {
+          "addr:city": "Perly",
+          "addr:postcode": "1258",
+          "addr:street": "Chemin du Relai",
+          "addr:housenumber": "15a"
+        }
+      ],
+      "id": "way/1378909500",
+      "owner:website": "https://gchg.ch/membre/fomhab/",
+      "owner:start_date": "1947-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-100.845.535"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.0911498,
+            46.1571381
+          ],
+          [
+            6.0912969,
+            46.1570492
+          ],
+          [
+            6.0915753,
+            46.1572716
+          ],
+          [
+            6.0914202,
+            46.1573623
+          ],
+          [
+            6.0911498,
+            46.1571381
+          ]
+        ]
+      ]
+    }
+  }
+]}

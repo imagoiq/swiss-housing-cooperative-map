@@ -1,1 +1,84 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/310735697","properties":{"addr:city":"Bioley Magnoux","addr:country":"CH","addr:housenumber":"35","addr:postcode":"1407","addr:street":"Route d'Ogens","building":"apartments","building:flats":"8","building:levels":"1","last_renovation":"2017","owner":"Coopérative de construction et d'habitation MOUL2","owner:type":"cooperative","owner:wikidata":"Q133283856","id":"way/310735697","last_renovation_parsed":"2017-01-01T00:00:00.000Z","owner:website":"https://coopmoul2.wixsite.com/moulin","owner:start_date":"2009-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-114.779.005"},"geometry":{"type":"Polygon","coordinates":[[[6.7121098,46.71687],[6.7121709,46.7168918],[6.7122775,46.7168438],[6.7123526,46.7169208],[6.7123689,46.7169375],[6.7122057,46.7170109],[6.7120391,46.7170872],[6.7119863,46.717033],[6.711927,46.7170617],[6.7118495,46.7169832],[6.7119126,46.7169574],[6.7120792,46.7168811],[6.7121098,46.71687]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/310735697",
+    "properties": {
+      "addr:city": "Bioley Magnoux",
+      "addr:country": "CH",
+      "addr:housenumber": "35",
+      "addr:postcode": "1407",
+      "addr:street": "Route d'Ogens",
+      "building": "apartments",
+      "building:flats": "8",
+      "building:levels": "1",
+      "last_renovation": "2017",
+      "owner": "Coopérative de construction et d'habitation MOUL2",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133283856",
+      "id": "way/310735697",
+      "last_renovation_parsed": "2017-01-01T00:00:00.000Z",
+      "owner:website": "https://coopmoul2.wixsite.com/moulin",
+      "owner:start_date": "2009-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-114.779.005"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.7121098,
+            46.71687
+          ],
+          [
+            6.7121709,
+            46.7168918
+          ],
+          [
+            6.7122775,
+            46.7168438
+          ],
+          [
+            6.7123526,
+            46.7169208
+          ],
+          [
+            6.7123689,
+            46.7169375
+          ],
+          [
+            6.7122057,
+            46.7170109
+          ],
+          [
+            6.7120391,
+            46.7170872
+          ],
+          [
+            6.7119863,
+            46.717033
+          ],
+          [
+            6.711927,
+            46.7170617
+          ],
+          [
+            6.7118495,
+            46.7169832
+          ],
+          [
+            6.7119126,
+            46.7169574
+          ],
+          [
+            6.7120792,
+            46.7168811
+          ],
+          [
+            6.7121098,
+            46.71687
+          ]
+        ]
+      ]
+    }
+  }
+]}

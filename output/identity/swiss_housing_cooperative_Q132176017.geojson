@@ -1,1 +1,72 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/46871557","properties":{"addr:city":"Lausanne","addr:housenumber":"6","addr:postcode":"1005","addr:street":"Rue de l'Industrie","architect:renovation":"O. Rochat Architectes","building":"apartments","building:condition":"renovated","building:flats":"8","building:levels":"4","last_renovation":"2017","operator":"Société coopérative d'habitation Lausanne","operator:abbr":"SCHL","operator:type":"cooperative","operator:website":"https://schl.ch/","operator:wikidata":"Q126741196","owner":"Coopérative I6","owner:abbr":"I6","owner:type":"cooperative","owner:wikidata":"Q132176017","roof:levels":"1","roof:shape":"hipped","source":"Orthophotos de la Ville de Lausanne (2008)","start_date":"1887","id":"way/46871557","start_date_parsed":"1887-01-01T00:00:00.000Z","last_renovation_parsed":"2017-01-01T00:00:00.000Z","owner:swiss_business_uid":"CHE-235.810.058","operator:start_date":"1920-01-01T00:00:00Z","operator:swiss_business_uid":"CHE-107.036.838"},"geometry":{"type":"Polygon","coordinates":[[[6.6383019,46.5257836],[6.6381701,46.5257025],[6.6380726,46.5255778],[6.6381905,46.5255343],[6.6382691,46.5256286],[6.6383775,46.5257018],[6.6383019,46.5257836]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/46871557",
+    "properties": {
+      "addr:city": "Lausanne",
+      "addr:housenumber": "6",
+      "addr:postcode": "1005",
+      "addr:street": "Rue de l'Industrie",
+      "architect:renovation": "O. Rochat Architectes",
+      "building": "apartments",
+      "building:condition": "renovated",
+      "building:flats": "8",
+      "building:levels": "4",
+      "last_renovation": "2017",
+      "operator": "Société coopérative d'habitation Lausanne",
+      "operator:abbr": "SCHL",
+      "operator:type": "cooperative",
+      "operator:website": "https://schl.ch/",
+      "operator:wikidata": "Q126741196",
+      "owner": "Coopérative I6",
+      "owner:abbr": "I6",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132176017",
+      "roof:levels": "1",
+      "roof:shape": "hipped",
+      "source": "Orthophotos de la Ville de Lausanne (2008)",
+      "start_date": "1887",
+      "id": "way/46871557",
+      "start_date_parsed": "1887-01-01T00:00:00.000Z",
+      "last_renovation_parsed": "2017-01-01T00:00:00.000Z",
+      "owner:swiss_business_uid": "CHE-235.810.058",
+      "operator:start_date": "1920-01-01T00:00:00Z",
+      "operator:swiss_business_uid": "CHE-107.036.838"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6383019,
+            46.5257836
+          ],
+          [
+            6.6381701,
+            46.5257025
+          ],
+          [
+            6.6380726,
+            46.5255778
+          ],
+          [
+            6.6381905,
+            46.5255343
+          ],
+          [
+            6.6382691,
+            46.5256286
+          ],
+          [
+            6.6383775,
+            46.5257018
+          ],
+          [
+            6.6383019,
+            46.5257836
+          ]
+        ]
+      ]
+    }
+  }
+]}

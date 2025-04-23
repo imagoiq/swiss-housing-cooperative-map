@@ -1,1 +1,262 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/429146354","properties":{"building":"apartments","building:flats":"14","building:levels":"4","owner":"Société coopérative d'habitation Les Héliotropes","owner:type":"cooperative","owner:wikidata":"Q133459984","source":"Orthophotos2006sitn50cm","addr":[{"addr:city":"Cernier","addr:postcode":"2053","addr:street":"Impasse des Saules","addr:housenumber":"4"},{"addr:city":"Cernier","addr:postcode":"2053","addr:street":"Impasse des Saules","addr:housenumber":"2"}],"id":"way/429146354","owner:website":"https://heliotropes.ch/","owner:swiss_business_uid":"CHE-102.101.440"},"geometry":{"type":"Polygon","coordinates":[[[6.9074849,47.0612104],[6.9074088,47.0611779],[6.9072567,47.061113],[6.9071777,47.0610793],[6.9072698,47.0609791],[6.907577,47.0611102],[6.9074849,47.0612104]]]}},{"type":"Feature","id":"way/429146356","properties":{"building":"apartments","building:flats":"14","building:levels":"4","owner":"Société coopérative d'habitation Les Héliotropes","owner:type":"cooperative","owner:wikidata":"Q133459984","source":"Orthophotos2006sitn50cm","addr":[{"addr:city":"Cernier","addr:postcode":"2053","addr:street":"Impasse des Saules","addr:housenumber":"8"},{"addr:city":"Cernier","addr:postcode":"2053","addr:street":"Impasse des Saules","addr:housenumber":"6"}],"id":"way/429146356","owner:website":"https://heliotropes.ch/","owner:swiss_business_uid":"CHE-102.101.440"},"geometry":{"type":"Polygon","coordinates":[[[6.907925,47.0613999],[6.9078464,47.0613657],[6.9076933,47.061299],[6.9076181,47.0612662],[6.9077112,47.0611673],[6.9080152,47.061303],[6.907925,47.0613999]]]}},{"type":"Feature","id":"way/429146361","properties":{"building":"apartments","building:flats":"14","building:levels":"4","owner":"Société coopérative d'habitation Les Héliotropes","owner:type":"cooperative","owner:wikidata":"Q133459984","source":"Orthophotos2006sitn50cm","addr":[{"addr:city":"Cernier","addr:postcode":"2053","addr:street":"Impasse des Saules","addr:housenumber":"12"},{"addr:city":"Cernier","addr:postcode":"2053","addr:street":"Impasse des Saules","addr:housenumber":"10"}],"id":"way/429146361","owner:website":"https://heliotropes.ch/","owner:swiss_business_uid":"CHE-102.101.440"},"geometry":{"type":"Polygon","coordinates":[[[6.9083608,47.061589],[6.9082818,47.0615542],[6.9081279,47.0614882],[6.9080512,47.061455],[6.9081361,47.061355],[6.9084485,47.0614885],[6.9083608,47.061589]]]}},{"type":"Feature","id":"way/429146365","properties":{"building":"apartments","building:flats":"14","building:levels":"4","owner":"Société coopérative d'habitation Les Héliotropes","owner:type":"cooperative","owner:wikidata":"Q133459984","source":"Orthophotos2006sitn50cm","addr":[{"addr:city":"Cernier","addr:postcode":"2053","addr:street":"Impasse des Saules","addr:housenumber":"16"},{"addr:city":"Cernier","addr:postcode":"2053","addr:street":"Impasse des Saules","addr:housenumber":"14"}],"id":"way/429146365","owner:website":"https://heliotropes.ch/","owner:swiss_business_uid":"CHE-102.101.440"},"geometry":{"type":"Polygon","coordinates":[[[6.9089237,47.0618319],[6.9088495,47.0617995],[6.908703,47.0617379],[6.9086211,47.0617057],[6.9087145,47.0615998],[6.9090154,47.0617333],[6.9089237,47.0618319]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/429146354",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "14",
+      "building:levels": "4",
+      "owner": "Société coopérative d'habitation Les Héliotropes",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459984",
+      "source": "Orthophotos2006sitn50cm",
+      "addr": [
+        {
+          "addr:city": "Cernier",
+          "addr:postcode": "2053",
+          "addr:street": "Impasse des Saules",
+          "addr:housenumber": "4"
+        },
+        {
+          "addr:city": "Cernier",
+          "addr:postcode": "2053",
+          "addr:street": "Impasse des Saules",
+          "addr:housenumber": "2"
+        }
+      ],
+      "id": "way/429146354",
+      "owner:website": "https://heliotropes.ch/",
+      "owner:swiss_business_uid": "CHE-102.101.440"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.9074849,
+            47.0612104
+          ],
+          [
+            6.9074088,
+            47.0611779
+          ],
+          [
+            6.9072567,
+            47.061113
+          ],
+          [
+            6.9071777,
+            47.0610793
+          ],
+          [
+            6.9072698,
+            47.0609791
+          ],
+          [
+            6.907577,
+            47.0611102
+          ],
+          [
+            6.9074849,
+            47.0612104
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/429146356",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "14",
+      "building:levels": "4",
+      "owner": "Société coopérative d'habitation Les Héliotropes",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459984",
+      "source": "Orthophotos2006sitn50cm",
+      "addr": [
+        {
+          "addr:city": "Cernier",
+          "addr:postcode": "2053",
+          "addr:street": "Impasse des Saules",
+          "addr:housenumber": "8"
+        },
+        {
+          "addr:city": "Cernier",
+          "addr:postcode": "2053",
+          "addr:street": "Impasse des Saules",
+          "addr:housenumber": "6"
+        }
+      ],
+      "id": "way/429146356",
+      "owner:website": "https://heliotropes.ch/",
+      "owner:swiss_business_uid": "CHE-102.101.440"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.907925,
+            47.0613999
+          ],
+          [
+            6.9078464,
+            47.0613657
+          ],
+          [
+            6.9076933,
+            47.061299
+          ],
+          [
+            6.9076181,
+            47.0612662
+          ],
+          [
+            6.9077112,
+            47.0611673
+          ],
+          [
+            6.9080152,
+            47.061303
+          ],
+          [
+            6.907925,
+            47.0613999
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/429146361",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "14",
+      "building:levels": "4",
+      "owner": "Société coopérative d'habitation Les Héliotropes",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459984",
+      "source": "Orthophotos2006sitn50cm",
+      "addr": [
+        {
+          "addr:city": "Cernier",
+          "addr:postcode": "2053",
+          "addr:street": "Impasse des Saules",
+          "addr:housenumber": "12"
+        },
+        {
+          "addr:city": "Cernier",
+          "addr:postcode": "2053",
+          "addr:street": "Impasse des Saules",
+          "addr:housenumber": "10"
+        }
+      ],
+      "id": "way/429146361",
+      "owner:website": "https://heliotropes.ch/",
+      "owner:swiss_business_uid": "CHE-102.101.440"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.9083608,
+            47.061589
+          ],
+          [
+            6.9082818,
+            47.0615542
+          ],
+          [
+            6.9081279,
+            47.0614882
+          ],
+          [
+            6.9080512,
+            47.061455
+          ],
+          [
+            6.9081361,
+            47.061355
+          ],
+          [
+            6.9084485,
+            47.0614885
+          ],
+          [
+            6.9083608,
+            47.061589
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/429146365",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "14",
+      "building:levels": "4",
+      "owner": "Société coopérative d'habitation Les Héliotropes",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133459984",
+      "source": "Orthophotos2006sitn50cm",
+      "addr": [
+        {
+          "addr:city": "Cernier",
+          "addr:postcode": "2053",
+          "addr:street": "Impasse des Saules",
+          "addr:housenumber": "16"
+        },
+        {
+          "addr:city": "Cernier",
+          "addr:postcode": "2053",
+          "addr:street": "Impasse des Saules",
+          "addr:housenumber": "14"
+        }
+      ],
+      "id": "way/429146365",
+      "owner:website": "https://heliotropes.ch/",
+      "owner:swiss_business_uid": "CHE-102.101.440"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.9089237,
+            47.0618319
+          ],
+          [
+            6.9088495,
+            47.0617995
+          ],
+          [
+            6.908703,
+            47.0617379
+          ],
+          [
+            6.9086211,
+            47.0617057
+          ],
+          [
+            6.9087145,
+            47.0615998
+          ],
+          [
+            6.9090154,
+            47.0617333
+          ],
+          [
+            6.9089237,
+            47.0618319
+          ]
+        ]
+      ]
+    }
+  }
+]}

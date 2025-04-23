@@ -1,1 +1,466 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/82988339","properties":{"building":"apartments","building:flats":"90","building:levels":"7","owner":"Graphis","owner:type":"cooperative","owner:wikidata":"Q133282940","roof:levels":"1","start_date":"1949","addr":[{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue du Grand-Pré","addr:housenumber":"10"},{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue du Grand-Pré","addr:housenumber":"12"},{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue du Grand-Pré","addr:housenumber":"14"},{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue du Grand-Pré","addr:housenumber":"16"},{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue du Grand-Pré","addr:housenumber":"18"},{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue du Grand-Pré","addr:housenumber":"20"}],"id":"way/82988339","start_date_parsed":"1949-01-01T00:00:00.000Z","owner:website":"https://www.graphis.ch","owner:start_date":"1945-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-105.949.857"},"geometry":{"type":"Polygon","coordinates":[[[6.1367899,46.2137259],[6.1378596,46.2132472],[6.1379603,46.2133549],[6.1368908,46.2138337],[6.1367899,46.2137259]]]}},{"type":"Feature","id":"way/186488700","properties":{"building":"apartments","building:flats":"120","building:levels":"7","last_renovation":"2017","owner":"Graphis","owner:type":"cooperative","owner:wikidata":"Q133282940","roof:levels":"1","start_date":"1951","addr":[{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue du Grand-Pré","addr:housenumber":"2"},{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue du Grand-Pré","addr:housenumber":"4"},{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue du Grand-Pré","addr:housenumber":"6"},{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue du Grand-Pré","addr:housenumber":"8"}],"id":"way/186488700","start_date_parsed":"1951-01-01T00:00:00.000Z","last_renovation_parsed":"2017-01-01T00:00:00.000Z","owner:website":"https://www.graphis.ch","owner:start_date":"1945-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-105.949.857"},"geometry":{"type":"Polygon","coordinates":[[[6.1381568,46.2127004],[6.1387888,46.2133791],[6.1386314,46.2134493],[6.1379995,46.2127705],[6.1380108,46.2127655],[6.1381568,46.2127004]]]}},{"type":"Feature","id":"way/187423664","properties":{"building":"apartments","building:flats":"160","building:levels":"9","note":"surveyed by Alex-7 with OSMpad on bicycle","owner":"Graphis","owner:type":"cooperative","owner:wikidata":"Q133282940","roof:levels":"0","source":"survey","start_date":"1952","survey:date":"2013-05-12","addr":[{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue Elisabeth-Baulacre","addr:housenumber":"5"},{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue Elisabeth-Baulacre","addr:housenumber":"7"},{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue Elisabeth-Baulacre","addr:housenumber":"9"},{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue Elisabeth-Baulacre","addr:housenumber":"11"}],"id":"way/187423664","start_date_parsed":"1952-01-01T00:00:00.000Z","owner:website":"https://www.graphis.ch","owner:start_date":"1945-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-105.949.857"},"geometry":{"type":"Polygon","coordinates":[[[6.1395576,46.2160009],[6.1393547,46.2160094],[6.1392844,46.2152015],[6.1394876,46.215193],[6.1394937,46.215263],[6.1395576,46.2160009]]]}},{"type":"Feature","id":"way/187423665","properties":{"building":"apartments","building:flats":"32","building:levels":"9","note":"surveyed by Alex-7 with OSMpad on bicycle","owner":"Graphis","owner:type":"cooperative","owner:wikidata":"Q133282940","roof:levels":"1","source":"survey","start_date":"1955","survey:date":"2013-05-12","addr":[{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue du Vidollet","addr:housenumber":"7"},{"addr:city":"Genève","addr:postcode":"1202","addr:street":"Rue du Vidollet","addr:housenumber":"5"}],"id":"way/187423665","start_date_parsed":"1955-01-01T00:00:00.000Z","owner:website":"https://www.graphis.ch","owner:start_date":"1945-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-105.949.857"},"geometry":{"type":"Polygon","coordinates":[[[6.1389532,46.2164048],[6.1389212,46.2162853],[6.1391906,46.2162503],[6.1391846,46.2162315],[6.1393064,46.2162157],[6.1393418,46.2163551],[6.1389532,46.2164048]]]}},{"type":"Feature","id":"way/202233302","properties":{"building":"apartments","owner":"Graphis","owner:type":"cooperative","owner:wikidata":"Q133282940","source":"Imageries canton de Fribourg 2005 + Guichet cartographique canton Fribourg","start_date":"1948","addr":[{"addr:city":"Fribourg","addr:postcode":"1700","addr:street":"Route de Bertigny","addr:housenumber":"22"},{"addr:city":"Fribourg","addr:postcode":"1700","addr:street":"Route de Bertigny","addr:housenumber":"24"}],"id":"way/202233302","start_date_parsed":"1948-01-01T00:00:00.000Z","owner:website":"https://www.graphis.ch","owner:start_date":"1945-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-105.949.857"},"geometry":{"type":"Polygon","coordinates":[[[7.1415646,46.801864],[7.1412988,46.8016444],[7.1413954,46.8015852],[7.1416679,46.8018076],[7.1415646,46.801864]]]}},{"type":"Feature","id":"way/202280861","properties":{"building":"apartments","owner":"Graphis","owner:type":"cooperative","owner:wikidata":"Q133282940","source":"Imageries canton de Fribourg 2005 + Guichet cartographique canton Fribourg","start_date":"1948","addr":[{"addr:city":"Fribourg","addr:postcode":"1700","addr:street":"Route de Bertigny","addr:housenumber":"26"},{"addr:city":"Fribourg","addr:postcode":"1700","addr:street":"Route de Bertigny","addr:housenumber":"28"},{"addr:city":"Fribourg","addr:postcode":"1700","addr:street":"Route de Bertigny","addr:housenumber":"30"},{"addr:city":"Fribourg","addr:postcode":"1700","addr:street":"Route de Bertigny","addr:housenumber":"32"}],"id":"way/202280861","start_date_parsed":"1948-01-01T00:00:00.000Z","owner:website":"https://www.graphis.ch","owner:start_date":"1945-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-105.949.857"},"geometry":{"type":"Polygon","coordinates":[[[7.1417854,46.8011488],[7.1418807,46.8012271],[7.1414202,46.8014894],[7.1414311,46.8014984],[7.1412397,46.8016076],[7.1411342,46.801521],[7.1413073,46.8014223],[7.1412994,46.8014157],[7.1414586,46.8013249],[7.1414657,46.8013308],[7.1417854,46.8011488]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/82988339",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "90",
+      "building:levels": "7",
+      "owner": "Graphis",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133282940",
+      "roof:levels": "1",
+      "start_date": "1949",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue du Grand-Pré",
+          "addr:housenumber": "10"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue du Grand-Pré",
+          "addr:housenumber": "12"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue du Grand-Pré",
+          "addr:housenumber": "14"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue du Grand-Pré",
+          "addr:housenumber": "16"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue du Grand-Pré",
+          "addr:housenumber": "18"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue du Grand-Pré",
+          "addr:housenumber": "20"
+        }
+      ],
+      "id": "way/82988339",
+      "start_date_parsed": "1949-01-01T00:00:00.000Z",
+      "owner:website": "https://www.graphis.ch",
+      "owner:start_date": "1945-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-105.949.857"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1367899,
+            46.2137259
+          ],
+          [
+            6.1378596,
+            46.2132472
+          ],
+          [
+            6.1379603,
+            46.2133549
+          ],
+          [
+            6.1368908,
+            46.2138337
+          ],
+          [
+            6.1367899,
+            46.2137259
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/186488700",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "120",
+      "building:levels": "7",
+      "last_renovation": "2017",
+      "owner": "Graphis",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133282940",
+      "roof:levels": "1",
+      "start_date": "1951",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue du Grand-Pré",
+          "addr:housenumber": "2"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue du Grand-Pré",
+          "addr:housenumber": "4"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue du Grand-Pré",
+          "addr:housenumber": "6"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue du Grand-Pré",
+          "addr:housenumber": "8"
+        }
+      ],
+      "id": "way/186488700",
+      "start_date_parsed": "1951-01-01T00:00:00.000Z",
+      "last_renovation_parsed": "2017-01-01T00:00:00.000Z",
+      "owner:website": "https://www.graphis.ch",
+      "owner:start_date": "1945-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-105.949.857"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1381568,
+            46.2127004
+          ],
+          [
+            6.1387888,
+            46.2133791
+          ],
+          [
+            6.1386314,
+            46.2134493
+          ],
+          [
+            6.1379995,
+            46.2127705
+          ],
+          [
+            6.1380108,
+            46.2127655
+          ],
+          [
+            6.1381568,
+            46.2127004
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/187423664",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "160",
+      "building:levels": "9",
+      "note": "surveyed by Alex-7 with OSMpad on bicycle",
+      "owner": "Graphis",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133282940",
+      "roof:levels": "0",
+      "source": "survey",
+      "start_date": "1952",
+      "survey:date": "2013-05-12",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue Elisabeth-Baulacre",
+          "addr:housenumber": "5"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue Elisabeth-Baulacre",
+          "addr:housenumber": "7"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue Elisabeth-Baulacre",
+          "addr:housenumber": "9"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue Elisabeth-Baulacre",
+          "addr:housenumber": "11"
+        }
+      ],
+      "id": "way/187423664",
+      "start_date_parsed": "1952-01-01T00:00:00.000Z",
+      "owner:website": "https://www.graphis.ch",
+      "owner:start_date": "1945-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-105.949.857"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1395576,
+            46.2160009
+          ],
+          [
+            6.1393547,
+            46.2160094
+          ],
+          [
+            6.1392844,
+            46.2152015
+          ],
+          [
+            6.1394876,
+            46.215193
+          ],
+          [
+            6.1394937,
+            46.215263
+          ],
+          [
+            6.1395576,
+            46.2160009
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/187423665",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "32",
+      "building:levels": "9",
+      "note": "surveyed by Alex-7 with OSMpad on bicycle",
+      "owner": "Graphis",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133282940",
+      "roof:levels": "1",
+      "source": "survey",
+      "start_date": "1955",
+      "survey:date": "2013-05-12",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue du Vidollet",
+          "addr:housenumber": "7"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1202",
+          "addr:street": "Rue du Vidollet",
+          "addr:housenumber": "5"
+        }
+      ],
+      "id": "way/187423665",
+      "start_date_parsed": "1955-01-01T00:00:00.000Z",
+      "owner:website": "https://www.graphis.ch",
+      "owner:start_date": "1945-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-105.949.857"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1389532,
+            46.2164048
+          ],
+          [
+            6.1389212,
+            46.2162853
+          ],
+          [
+            6.1391906,
+            46.2162503
+          ],
+          [
+            6.1391846,
+            46.2162315
+          ],
+          [
+            6.1393064,
+            46.2162157
+          ],
+          [
+            6.1393418,
+            46.2163551
+          ],
+          [
+            6.1389532,
+            46.2164048
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/202233302",
+    "properties": {
+      "building": "apartments",
+      "owner": "Graphis",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133282940",
+      "source": "Imageries canton de Fribourg 2005 + Guichet cartographique canton Fribourg",
+      "start_date": "1948",
+      "addr": [
+        {
+          "addr:city": "Fribourg",
+          "addr:postcode": "1700",
+          "addr:street": "Route de Bertigny",
+          "addr:housenumber": "22"
+        },
+        {
+          "addr:city": "Fribourg",
+          "addr:postcode": "1700",
+          "addr:street": "Route de Bertigny",
+          "addr:housenumber": "24"
+        }
+      ],
+      "id": "way/202233302",
+      "start_date_parsed": "1948-01-01T00:00:00.000Z",
+      "owner:website": "https://www.graphis.ch",
+      "owner:start_date": "1945-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-105.949.857"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            7.1415646,
+            46.801864
+          ],
+          [
+            7.1412988,
+            46.8016444
+          ],
+          [
+            7.1413954,
+            46.8015852
+          ],
+          [
+            7.1416679,
+            46.8018076
+          ],
+          [
+            7.1415646,
+            46.801864
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/202280861",
+    "properties": {
+      "building": "apartments",
+      "owner": "Graphis",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133282940",
+      "source": "Imageries canton de Fribourg 2005 + Guichet cartographique canton Fribourg",
+      "start_date": "1948",
+      "addr": [
+        {
+          "addr:city": "Fribourg",
+          "addr:postcode": "1700",
+          "addr:street": "Route de Bertigny",
+          "addr:housenumber": "26"
+        },
+        {
+          "addr:city": "Fribourg",
+          "addr:postcode": "1700",
+          "addr:street": "Route de Bertigny",
+          "addr:housenumber": "28"
+        },
+        {
+          "addr:city": "Fribourg",
+          "addr:postcode": "1700",
+          "addr:street": "Route de Bertigny",
+          "addr:housenumber": "30"
+        },
+        {
+          "addr:city": "Fribourg",
+          "addr:postcode": "1700",
+          "addr:street": "Route de Bertigny",
+          "addr:housenumber": "32"
+        }
+      ],
+      "id": "way/202280861",
+      "start_date_parsed": "1948-01-01T00:00:00.000Z",
+      "owner:website": "https://www.graphis.ch",
+      "owner:start_date": "1945-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-105.949.857"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            7.1417854,
+            46.8011488
+          ],
+          [
+            7.1418807,
+            46.8012271
+          ],
+          [
+            7.1414202,
+            46.8014894
+          ],
+          [
+            7.1414311,
+            46.8014984
+          ],
+          [
+            7.1412397,
+            46.8016076
+          ],
+          [
+            7.1411342,
+            46.801521
+          ],
+          [
+            7.1413073,
+            46.8014223
+          ],
+          [
+            7.1412994,
+            46.8014157
+          ],
+          [
+            7.1414586,
+            46.8013249
+          ],
+          [
+            7.1414657,
+            46.8013308
+          ],
+          [
+            7.1417854,
+            46.8011488
+          ]
+        ]
+      ]
+    }
+  }
+]}

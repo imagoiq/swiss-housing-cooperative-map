@@ -1,1 +1,91 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/1377244640","properties":{"building":"apartments","building:flats":"127","owner":"Société coopérative d'habitation Unilogis","owner:type":"cooperative","owner:wikidata":"Q133460488","start_date":"2023","addr":[{"addr:city":"Genève","addr:postcode":"1209","addr:street":"Avenue de Joli-Mont","addr:housenumber":"12"},{"addr:city":"Genève","addr:postcode":"1209","addr:street":"Avenue de Joli-Mont","addr:housenumber":"14"}],"id":"way/1377244640","start_date_parsed":"2023-01-01T00:00:00.000Z","owner:website":"https://gchg.ch/membre/unilogis/","owner:swiss_business_uid":"CHE-112.244.733"},"geometry":{"type":"Polygon","coordinates":[[[6.117254,46.219316],[6.1171207,46.2194236],[6.1168861,46.2192844],[6.1168592,46.2193061],[6.1166375,46.2191747],[6.1166536,46.2191617],[6.1166005,46.2191301],[6.116706,46.219045],[6.1169583,46.2191948],[6.1170512,46.2191199],[6.1171742,46.219193],[6.1171202,46.2192365],[6.117254,46.219316]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/1377244640",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "127",
+      "owner": "Société coopérative d'habitation Unilogis",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133460488",
+      "start_date": "2023",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1209",
+          "addr:street": "Avenue de Joli-Mont",
+          "addr:housenumber": "12"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1209",
+          "addr:street": "Avenue de Joli-Mont",
+          "addr:housenumber": "14"
+        }
+      ],
+      "id": "way/1377244640",
+      "start_date_parsed": "2023-01-01T00:00:00.000Z",
+      "owner:website": "https://gchg.ch/membre/unilogis/",
+      "owner:swiss_business_uid": "CHE-112.244.733"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.117254,
+            46.219316
+          ],
+          [
+            6.1171207,
+            46.2194236
+          ],
+          [
+            6.1168861,
+            46.2192844
+          ],
+          [
+            6.1168592,
+            46.2193061
+          ],
+          [
+            6.1166375,
+            46.2191747
+          ],
+          [
+            6.1166536,
+            46.2191617
+          ],
+          [
+            6.1166005,
+            46.2191301
+          ],
+          [
+            6.116706,
+            46.219045
+          ],
+          [
+            6.1169583,
+            46.2191948
+          ],
+          [
+            6.1170512,
+            46.2191199
+          ],
+          [
+            6.1171742,
+            46.219193
+          ],
+          [
+            6.1171202,
+            46.2192365
+          ],
+          [
+            6.117254,
+            46.219316
+          ]
+        ]
+      ]
+    }
+  }
+]}

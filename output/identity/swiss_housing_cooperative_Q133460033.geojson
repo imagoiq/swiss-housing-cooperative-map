@@ -1,1 +1,638 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/36831023","properties":{"addr:city":"Peseux","addr:housenumber":"43a","addr:postcode":"2034","addr:street":"Rue de Neuchâtel","building":"apartments","owner":"Les Rocailles","owner:type":"cooperative","owner:wikidata":"Q133460033","source":"Orthophotos 2006 SITN 50cm","id":"way/36831023","owner:website":"https://lesrocailles.ch/","owner:start_date":"1949-05-31T00:00:00Z","owner:swiss_business_uid":"CHE-103.992.569"},"geometry":{"type":"Polygon","coordinates":[[[6.8969856,46.9890298],[6.8972064,46.9890499],[6.8971889,46.9891393],[6.8969681,46.9891191],[6.8969856,46.9890298]]]}},{"type":"Feature","id":"way/36831870","properties":{"building":"apartments","owner":"Les Rocailles","owner:type":"cooperative","owner:wikidata":"Q133460033","source":"Orthophotos 2006 SITN 50cm","addr":[{"addr:city":"Neuchâtel","addr:postcode":"2000","addr:street":"Rue Varnoz","addr:housenumber":"2"},{"addr:city":"Neuchâtel","addr:postcode":"2000","addr:street":"Rue Varnoz","addr:housenumber":"4"}],"id":"way/36831870","owner:website":"https://lesrocailles.ch/","owner:start_date":"1949-05-31T00:00:00Z","owner:swiss_business_uid":"CHE-103.992.569"},"geometry":{"type":"Polygon","coordinates":[[[6.8992758,46.9866787],[6.8995087,46.9867322],[6.8995209,46.9867075],[6.8997389,46.9867575],[6.899681,46.9868749],[6.8994655,46.9868255],[6.8994523,46.9868523],[6.8992168,46.9867982],[6.8992758,46.9866787]]]}},{"type":"Feature","id":"way/36831872","properties":{"building":"apartments","owner":"Les Rocailles","owner:type":"cooperative","owner:wikidata":"Q133460033","source":"Orthophotos 2006 SITN 50cm","addr":[{"addr:city":"Neuchâtel","addr:postcode":"2000","addr:street":"Rue Caselle","addr:housenumber":"3"},{"addr:city":"Neuchâtel","addr:postcode":"2000","addr:street":"Rue Caselle","addr:housenumber":"1"}],"id":"way/36831872","owner:website":"https://lesrocailles.ch/","owner:start_date":"1949-05-31T00:00:00Z","owner:swiss_business_uid":"CHE-103.992.569"},"geometry":{"type":"Polygon","coordinates":[[[6.9001833,46.9865592],[6.9003597,46.9865958],[6.9002878,46.9867581],[6.900248,46.9867499],[6.900177,46.9869102],[6.9000037,46.9868742],[6.9000753,46.9867125],[6.900112,46.9867201],[6.9001833,46.9865592]]]}},{"type":"Feature","id":"way/37214950","properties":{"building":"apartments","owner":"Les Rocailles","owner:type":"cooperative","owner:wikidata":"Q133460033","source":"Orthophotos2006sitn50cm","addr":[{"addr:city":"Neuchâtel","addr:postcode":"2000","addr:street":"Rue Pierre-de-Vingle","addr:housenumber":"12"},{"addr:city":"Neuchâtel","addr:postcode":"2000","addr:street":"Rue Pierre-de-Vingle","addr:housenumber":"10"}],"id":"way/37214950","owner:website":"https://lesrocailles.ch/","owner:start_date":"1949-05-31T00:00:00Z","owner:swiss_business_uid":"CHE-103.992.569"},"geometry":{"type":"Polygon","coordinates":[[[6.8967999,46.9815008],[6.8972753,46.9814948],[6.8972782,46.9816019],[6.8968027,46.9816078],[6.8967999,46.9815008]]]}},{"type":"Feature","id":"way/39415749","properties":{"building":"apartments","owner":"Les Rocailles","owner:type":"cooperative","owner:wikidata":"Q133460033","source":"Orthophotos 2006 SITN 50cm","addr":[{"addr:city":"Neuchâtel","addr:postcode":"2000","addr:street":"Rue des Acacias","addr:housenumber":"2"},{"addr:city":"Neuchâtel","addr:postcode":"2000","addr:street":"Rue des Acacias","addr:housenumber":"4"},{"addr:city":"Neuchâtel","addr:postcode":"2000","addr:street":"Rue des Acacias","addr:housenumber":"6"}],"id":"way/39415749","owner:website":"https://lesrocailles.ch/","owner:start_date":"1949-05-31T00:00:00Z","owner:swiss_business_uid":"CHE-103.992.569"},"geometry":{"type":"Polygon","coordinates":[[[6.9207444,47.0001464],[6.9208141,47.0001509],[6.9209772,47.0001613],[6.9209745,47.0001808],[6.9212082,47.0001958],[6.9212068,47.0002058],[6.9213509,47.0002151],[6.9214613,47.0002222],[6.9214497,47.000306],[6.9214694,47.0003073],[6.9214625,47.0003571],[6.9211943,47.0003398],[6.9211968,47.0003222],[6.9209583,47.0003069],[6.9209601,47.0002939],[6.920704,47.0002775],[6.9207094,47.0002387],[6.9207315,47.0002401],[6.9207444,47.0001464]]]}},{"type":"Feature","id":"way/40268740","properties":{"addr:city":"Neuchâtel","addr:country":"CH","addr:housenumber":"8","addr:postcode":"2000","addr:street":"Chemin des Liserons","building":"apartments","owner":"Les Rocailles","owner:type":"cooperative","owner:wikidata":"Q133460033","source":"Orthophotos2006sitn50cm","id":"way/40268740","owner:website":"https://lesrocailles.ch/","owner:start_date":"1949-05-31T00:00:00Z","owner:swiss_business_uid":"CHE-103.992.569"},"geometry":{"type":"Polygon","coordinates":[[[6.9430878,47.0004899],[6.9431559,47.0004146],[6.9433396,47.0004919],[6.9432714,47.0005672],[6.9430878,47.0004899]]]}},{"type":"Feature","id":"way/40271924","properties":{"addr:city":"Neuchâtel","addr:country":"CH","addr:housenumber":"231","addr:postcode":"2000","addr:street":"Rue des Fahys","building":"apartments","owner":"Les Rocailles","owner:type":"cooperative","owner:wikidata":"Q133460033","source":"Orthophotos2006sitn50cm","id":"way/40271924","owner:website":"https://lesrocailles.ch/","owner:start_date":"1949-05-31T00:00:00Z","owner:swiss_business_uid":"CHE-103.992.569"},"geometry":{"type":"Polygon","coordinates":[[[6.9483999,47.0021515],[6.9484226,47.0020653],[6.9486906,47.002098],[6.9486679,47.0021843],[6.9483999,47.0021515]]]}},{"type":"Feature","id":"way/48922734","properties":{"building":"apartments","owner":"Les Rocailles","owner:type":"cooperative","owner:wikidata":"Q133460033","source":"Orthophotos 2006 SITN 50cm","addr":[{"addr:city":"Neuchâtel","addr:postcode":"2000","addr:street":"Chemin des Valangines","addr:housenumber":"23"},{"addr:city":"Neuchâtel","addr:postcode":"2000","addr:street":"Chemin des Valangines","addr:housenumber":"21"}],"id":"way/48922734","owner:website":"https://lesrocailles.ch/","owner:start_date":"1949-05-31T00:00:00Z","owner:swiss_business_uid":"CHE-103.992.569"},"geometry":{"type":"Polygon","coordinates":[[[6.9100987,46.9914733],[6.9101286,46.9913708],[6.9105406,46.9914268],[6.9105106,46.9915293],[6.9100987,46.9914733]]]}},{"type":"Feature","id":"way/1379253531","properties":{"building":"apartments","owner":"Les Rocailles","owner:type":"cooperative","owner:wikidata":"Q133460033","source":"Orthophotos 2006 SITN 50cm","addr":[{"addr:city":"Neuchâtel","addr:postcode":"2000","addr:street":"Rue des Acacias","addr:housenumber":"8"},{"addr:city":"Neuchâtel","addr:postcode":"2000","addr:street":"Rue des Acacias","addr:housenumber":"10"},{"addr:city":"Neuchâtel","addr:postcode":"2000","addr:street":"Rue des Acacias","addr:housenumber":"12"}],"id":"way/1379253531","owner:website":"https://lesrocailles.ch/","owner:start_date":"1949-05-31T00:00:00Z","owner:swiss_business_uid":"CHE-103.992.569"},"geometry":{"type":"Polygon","coordinates":[[[6.9216377,47.0004031],[6.9217524,47.0004098],[6.9218662,47.0004165],[6.9218639,47.0004344],[6.921962,47.0004402],[6.9221009,47.0004483],[6.9220993,47.0004608],[6.9222155,47.0004676],[6.9223516,47.0004756],[6.9223401,47.0005669],[6.92236,47.0005681],[6.9223553,47.0006054],[6.9220874,47.0005897],[6.9220897,47.0005714],[6.9218483,47.0005573],[6.9218504,47.0005408],[6.9216001,47.0005261],[6.9216033,47.0005013],[6.9216252,47.0005026],[6.9216377,47.0004031]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/36831023",
+    "properties": {
+      "addr:city": "Peseux",
+      "addr:housenumber": "43a",
+      "addr:postcode": "2034",
+      "addr:street": "Rue de Neuchâtel",
+      "building": "apartments",
+      "owner": "Les Rocailles",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133460033",
+      "source": "Orthophotos 2006 SITN 50cm",
+      "id": "way/36831023",
+      "owner:website": "https://lesrocailles.ch/",
+      "owner:start_date": "1949-05-31T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-103.992.569"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.8969856,
+            46.9890298
+          ],
+          [
+            6.8972064,
+            46.9890499
+          ],
+          [
+            6.8971889,
+            46.9891393
+          ],
+          [
+            6.8969681,
+            46.9891191
+          ],
+          [
+            6.8969856,
+            46.9890298
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/36831870",
+    "properties": {
+      "building": "apartments",
+      "owner": "Les Rocailles",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133460033",
+      "source": "Orthophotos 2006 SITN 50cm",
+      "addr": [
+        {
+          "addr:city": "Neuchâtel",
+          "addr:postcode": "2000",
+          "addr:street": "Rue Varnoz",
+          "addr:housenumber": "2"
+        },
+        {
+          "addr:city": "Neuchâtel",
+          "addr:postcode": "2000",
+          "addr:street": "Rue Varnoz",
+          "addr:housenumber": "4"
+        }
+      ],
+      "id": "way/36831870",
+      "owner:website": "https://lesrocailles.ch/",
+      "owner:start_date": "1949-05-31T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-103.992.569"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.8992758,
+            46.9866787
+          ],
+          [
+            6.8995087,
+            46.9867322
+          ],
+          [
+            6.8995209,
+            46.9867075
+          ],
+          [
+            6.8997389,
+            46.9867575
+          ],
+          [
+            6.899681,
+            46.9868749
+          ],
+          [
+            6.8994655,
+            46.9868255
+          ],
+          [
+            6.8994523,
+            46.9868523
+          ],
+          [
+            6.8992168,
+            46.9867982
+          ],
+          [
+            6.8992758,
+            46.9866787
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/36831872",
+    "properties": {
+      "building": "apartments",
+      "owner": "Les Rocailles",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133460033",
+      "source": "Orthophotos 2006 SITN 50cm",
+      "addr": [
+        {
+          "addr:city": "Neuchâtel",
+          "addr:postcode": "2000",
+          "addr:street": "Rue Caselle",
+          "addr:housenumber": "3"
+        },
+        {
+          "addr:city": "Neuchâtel",
+          "addr:postcode": "2000",
+          "addr:street": "Rue Caselle",
+          "addr:housenumber": "1"
+        }
+      ],
+      "id": "way/36831872",
+      "owner:website": "https://lesrocailles.ch/",
+      "owner:start_date": "1949-05-31T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-103.992.569"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.9001833,
+            46.9865592
+          ],
+          [
+            6.9003597,
+            46.9865958
+          ],
+          [
+            6.9002878,
+            46.9867581
+          ],
+          [
+            6.900248,
+            46.9867499
+          ],
+          [
+            6.900177,
+            46.9869102
+          ],
+          [
+            6.9000037,
+            46.9868742
+          ],
+          [
+            6.9000753,
+            46.9867125
+          ],
+          [
+            6.900112,
+            46.9867201
+          ],
+          [
+            6.9001833,
+            46.9865592
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/37214950",
+    "properties": {
+      "building": "apartments",
+      "owner": "Les Rocailles",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133460033",
+      "source": "Orthophotos2006sitn50cm",
+      "addr": [
+        {
+          "addr:city": "Neuchâtel",
+          "addr:postcode": "2000",
+          "addr:street": "Rue Pierre-de-Vingle",
+          "addr:housenumber": "12"
+        },
+        {
+          "addr:city": "Neuchâtel",
+          "addr:postcode": "2000",
+          "addr:street": "Rue Pierre-de-Vingle",
+          "addr:housenumber": "10"
+        }
+      ],
+      "id": "way/37214950",
+      "owner:website": "https://lesrocailles.ch/",
+      "owner:start_date": "1949-05-31T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-103.992.569"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.8967999,
+            46.9815008
+          ],
+          [
+            6.8972753,
+            46.9814948
+          ],
+          [
+            6.8972782,
+            46.9816019
+          ],
+          [
+            6.8968027,
+            46.9816078
+          ],
+          [
+            6.8967999,
+            46.9815008
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/39415749",
+    "properties": {
+      "building": "apartments",
+      "owner": "Les Rocailles",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133460033",
+      "source": "Orthophotos 2006 SITN 50cm",
+      "addr": [
+        {
+          "addr:city": "Neuchâtel",
+          "addr:postcode": "2000",
+          "addr:street": "Rue des Acacias",
+          "addr:housenumber": "2"
+        },
+        {
+          "addr:city": "Neuchâtel",
+          "addr:postcode": "2000",
+          "addr:street": "Rue des Acacias",
+          "addr:housenumber": "4"
+        },
+        {
+          "addr:city": "Neuchâtel",
+          "addr:postcode": "2000",
+          "addr:street": "Rue des Acacias",
+          "addr:housenumber": "6"
+        }
+      ],
+      "id": "way/39415749",
+      "owner:website": "https://lesrocailles.ch/",
+      "owner:start_date": "1949-05-31T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-103.992.569"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.9207444,
+            47.0001464
+          ],
+          [
+            6.9208141,
+            47.0001509
+          ],
+          [
+            6.9209772,
+            47.0001613
+          ],
+          [
+            6.9209745,
+            47.0001808
+          ],
+          [
+            6.9212082,
+            47.0001958
+          ],
+          [
+            6.9212068,
+            47.0002058
+          ],
+          [
+            6.9213509,
+            47.0002151
+          ],
+          [
+            6.9214613,
+            47.0002222
+          ],
+          [
+            6.9214497,
+            47.000306
+          ],
+          [
+            6.9214694,
+            47.0003073
+          ],
+          [
+            6.9214625,
+            47.0003571
+          ],
+          [
+            6.9211943,
+            47.0003398
+          ],
+          [
+            6.9211968,
+            47.0003222
+          ],
+          [
+            6.9209583,
+            47.0003069
+          ],
+          [
+            6.9209601,
+            47.0002939
+          ],
+          [
+            6.920704,
+            47.0002775
+          ],
+          [
+            6.9207094,
+            47.0002387
+          ],
+          [
+            6.9207315,
+            47.0002401
+          ],
+          [
+            6.9207444,
+            47.0001464
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/40268740",
+    "properties": {
+      "addr:city": "Neuchâtel",
+      "addr:country": "CH",
+      "addr:housenumber": "8",
+      "addr:postcode": "2000",
+      "addr:street": "Chemin des Liserons",
+      "building": "apartments",
+      "owner": "Les Rocailles",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133460033",
+      "source": "Orthophotos2006sitn50cm",
+      "id": "way/40268740",
+      "owner:website": "https://lesrocailles.ch/",
+      "owner:start_date": "1949-05-31T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-103.992.569"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.9430878,
+            47.0004899
+          ],
+          [
+            6.9431559,
+            47.0004146
+          ],
+          [
+            6.9433396,
+            47.0004919
+          ],
+          [
+            6.9432714,
+            47.0005672
+          ],
+          [
+            6.9430878,
+            47.0004899
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/40271924",
+    "properties": {
+      "addr:city": "Neuchâtel",
+      "addr:country": "CH",
+      "addr:housenumber": "231",
+      "addr:postcode": "2000",
+      "addr:street": "Rue des Fahys",
+      "building": "apartments",
+      "owner": "Les Rocailles",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133460033",
+      "source": "Orthophotos2006sitn50cm",
+      "id": "way/40271924",
+      "owner:website": "https://lesrocailles.ch/",
+      "owner:start_date": "1949-05-31T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-103.992.569"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.9483999,
+            47.0021515
+          ],
+          [
+            6.9484226,
+            47.0020653
+          ],
+          [
+            6.9486906,
+            47.002098
+          ],
+          [
+            6.9486679,
+            47.0021843
+          ],
+          [
+            6.9483999,
+            47.0021515
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/48922734",
+    "properties": {
+      "building": "apartments",
+      "owner": "Les Rocailles",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133460033",
+      "source": "Orthophotos 2006 SITN 50cm",
+      "addr": [
+        {
+          "addr:city": "Neuchâtel",
+          "addr:postcode": "2000",
+          "addr:street": "Chemin des Valangines",
+          "addr:housenumber": "23"
+        },
+        {
+          "addr:city": "Neuchâtel",
+          "addr:postcode": "2000",
+          "addr:street": "Chemin des Valangines",
+          "addr:housenumber": "21"
+        }
+      ],
+      "id": "way/48922734",
+      "owner:website": "https://lesrocailles.ch/",
+      "owner:start_date": "1949-05-31T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-103.992.569"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.9100987,
+            46.9914733
+          ],
+          [
+            6.9101286,
+            46.9913708
+          ],
+          [
+            6.9105406,
+            46.9914268
+          ],
+          [
+            6.9105106,
+            46.9915293
+          ],
+          [
+            6.9100987,
+            46.9914733
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1379253531",
+    "properties": {
+      "building": "apartments",
+      "owner": "Les Rocailles",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133460033",
+      "source": "Orthophotos 2006 SITN 50cm",
+      "addr": [
+        {
+          "addr:city": "Neuchâtel",
+          "addr:postcode": "2000",
+          "addr:street": "Rue des Acacias",
+          "addr:housenumber": "8"
+        },
+        {
+          "addr:city": "Neuchâtel",
+          "addr:postcode": "2000",
+          "addr:street": "Rue des Acacias",
+          "addr:housenumber": "10"
+        },
+        {
+          "addr:city": "Neuchâtel",
+          "addr:postcode": "2000",
+          "addr:street": "Rue des Acacias",
+          "addr:housenumber": "12"
+        }
+      ],
+      "id": "way/1379253531",
+      "owner:website": "https://lesrocailles.ch/",
+      "owner:start_date": "1949-05-31T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-103.992.569"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.9216377,
+            47.0004031
+          ],
+          [
+            6.9217524,
+            47.0004098
+          ],
+          [
+            6.9218662,
+            47.0004165
+          ],
+          [
+            6.9218639,
+            47.0004344
+          ],
+          [
+            6.921962,
+            47.0004402
+          ],
+          [
+            6.9221009,
+            47.0004483
+          ],
+          [
+            6.9220993,
+            47.0004608
+          ],
+          [
+            6.9222155,
+            47.0004676
+          ],
+          [
+            6.9223516,
+            47.0004756
+          ],
+          [
+            6.9223401,
+            47.0005669
+          ],
+          [
+            6.92236,
+            47.0005681
+          ],
+          [
+            6.9223553,
+            47.0006054
+          ],
+          [
+            6.9220874,
+            47.0005897
+          ],
+          [
+            6.9220897,
+            47.0005714
+          ],
+          [
+            6.9218483,
+            47.0005573
+          ],
+          [
+            6.9218504,
+            47.0005408
+          ],
+          [
+            6.9216001,
+            47.0005261
+          ],
+          [
+            6.9216033,
+            47.0005013
+          ],
+          [
+            6.9216252,
+            47.0005026
+          ],
+          [
+            6.9216377,
+            47.0004031
+          ]
+        ]
+      ]
+    }
+  }
+]}

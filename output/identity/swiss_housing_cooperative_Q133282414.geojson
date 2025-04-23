@@ -1,1 +1,83 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/81482956","properties":{"addr:city":"Genève","addr:housenumber":"11","addr:postcode":"1205","addr:street":"Rue des Maraîchers","building":"apartments","building:flats":"86","owner":"Coopérative La Ruche","owner:type":"cooperative","owner:wikidata":"Q133282414","id":"way/81482956","owner:website":"https://gchg.ch/membre/la-ruche/","owner:start_date":"1957-01-01T00:00:00Z"},"geometry":{"type":"Polygon","coordinates":[[[6.1357578,46.1990031],[6.1358771,46.1989353],[6.1361285,46.1991548],[6.1361207,46.1991589],[6.1361365,46.1991789],[6.1361497,46.1991956],[6.1361594,46.1991944],[6.1362195,46.199326],[6.1360742,46.1993616],[6.1360124,46.1992285],[6.1360457,46.1992193],[6.136035,46.1992045],[6.1360075,46.1992205],[6.1357578,46.1990031]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/81482956",
+    "properties": {
+      "addr:city": "Genève",
+      "addr:housenumber": "11",
+      "addr:postcode": "1205",
+      "addr:street": "Rue des Maraîchers",
+      "building": "apartments",
+      "building:flats": "86",
+      "owner": "Coopérative La Ruche",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q133282414",
+      "id": "way/81482956",
+      "owner:website": "https://gchg.ch/membre/la-ruche/",
+      "owner:start_date": "1957-01-01T00:00:00Z"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1357578,
+            46.1990031
+          ],
+          [
+            6.1358771,
+            46.1989353
+          ],
+          [
+            6.1361285,
+            46.1991548
+          ],
+          [
+            6.1361207,
+            46.1991589
+          ],
+          [
+            6.1361365,
+            46.1991789
+          ],
+          [
+            6.1361497,
+            46.1991956
+          ],
+          [
+            6.1361594,
+            46.1991944
+          ],
+          [
+            6.1362195,
+            46.199326
+          ],
+          [
+            6.1360742,
+            46.1993616
+          ],
+          [
+            6.1360124,
+            46.1992285
+          ],
+          [
+            6.1360457,
+            46.1992193
+          ],
+          [
+            6.136035,
+            46.1992045
+          ],
+          [
+            6.1360075,
+            46.1992205
+          ],
+          [
+            6.1357578,
+            46.1990031
+          ]
+        ]
+      ]
+    }
+  }
+]}

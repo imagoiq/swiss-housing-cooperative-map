@@ -1,1 +1,3129 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/79278332","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"11"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"13"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"15"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"17"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"19"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"21"}],"id":"way/79278332","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1214634,46.2140334],[6.1215297,46.214008],[6.1216546,46.2139601],[6.1218118,46.2141544],[6.121963,46.2143361],[6.1226459,46.214334],[6.1226438,46.2144784],[6.1219123,46.2144701],[6.1218558,46.2144947],[6.121635,46.2142245],[6.1214634,46.2140334]]]}},{"type":"Feature","id":"way/79278334","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"1"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"3"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"5"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"7"}],"id":"way/79278334","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1208588,46.2145881],[6.120265,46.2138832],[6.1204422,46.2138135],[6.1210278,46.2145192],[6.1208588,46.2145881]]]}},{"type":"Feature","id":"way/79278338","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"2"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"4"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"6"}],"id":"way/79278338","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.121053,46.2137608],[6.120927,46.2136077],[6.1206996,46.2133316],[6.1206639,46.2132882],[6.1208355,46.2132205],[6.121044,46.2134736],[6.1212248,46.2136931],[6.1211963,46.2137043],[6.121053,46.2137608]]]}},{"type":"Feature","id":"way/79278340","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Route des Franchises","addr:housenumber":"46"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Route des Franchises","addr:housenumber":"48"}],"id":"way/79278340","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1196419,46.2143387],[6.1199776,46.2140997],[6.1200634,46.2141573],[6.1197278,46.2143964],[6.1196419,46.2143387]]]}},{"type":"Feature","id":"way/79278343","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Route des Franchises","addr:housenumber":"38"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Route des Franchises","addr:housenumber":"40"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Route des Franchises","addr:housenumber":"42"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Route des Franchises","addr:housenumber":"44"}],"id":"way/79278343","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1194149,46.2142483],[6.118808,46.2139369],[6.1188788,46.2138738],[6.1194829,46.2141844],[6.1194149,46.2142483]]]}},{"type":"Feature","id":"way/82082876","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"40"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"38"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"36"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"34"}],"id":"way/82082876","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1215128,46.215454],[6.1213845,46.2154782],[6.1211791,46.214955],[6.1213073,46.2149309],[6.1215128,46.215454]]]}},{"type":"Feature","id":"way/82082894","properties":{"building":"apartments","building:levels":"3","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","roof:levels":"0","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"32"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"30"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"28"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"26"}],"id":"way/82082894","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1216559,46.2148696],[6.121778,46.2148449],[6.1219931,46.215354],[6.121948,46.2153631],[6.1219528,46.2153745],[6.1218759,46.2153901],[6.1216559,46.2148696]]]}},{"type":"Feature","id":"way/82082953","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Route des Franchises","addr:housenumber":"50"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Route des Franchises","addr:housenumber":"52"}],"id":"way/82082953","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.11995,46.2145902],[6.1202885,46.2144157],[6.1203655,46.2144871],[6.1200268,46.2146616],[6.11995,46.2145902]]]}},{"type":"Feature","id":"way/82082965","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"56"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"54"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"52"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"50"}],"id":"way/82082965","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1203869,46.215663],[6.1201883,46.2151332],[6.1203125,46.2151109],[6.1205113,46.2156407],[6.1203869,46.215663]]]}},{"type":"Feature","id":"way/82082991","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"58"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"60"}],"id":"way/82082991","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1201884,46.2148729],[6.1206305,46.2147226],[6.120687,46.2148023],[6.1203479,46.2149175],[6.120245,46.2149525],[6.1201884,46.2148729]]]}},{"type":"Feature","id":"way/82083013","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"48"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"46"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"44"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Villars","addr:housenumber":"42"}],"id":"way/82083013","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1206844,46.215048],[6.1208073,46.2150255],[6.1210084,46.2155509],[6.1208853,46.2155735],[6.1206844,46.215048]]]}},{"type":"Feature","id":"way/82092615","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Camille-Martin","addr:housenumber":"1"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Camille-Martin","addr:housenumber":"3"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Camille-Martin","addr:housenumber":"5"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Camille-Martin","addr:housenumber":"7"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Camille-Martin","addr:housenumber":"9"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Camille-Martin","addr:housenumber":"11"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Camille-Martin","addr:housenumber":"13"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Camille-Martin","addr:housenumber":"15"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Camille-Martin","addr:housenumber":"17"}],"id":"way/82092615","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1175696,46.206458],[6.1170848,46.2063493],[6.1159424,46.2068092],[6.1158386,46.2066857],[6.1170643,46.2061922],[6.1176342,46.20632],[6.1175696,46.206458]]]}},{"type":"Feature","id":"way/82092636","properties":{"building:part":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"80"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"78"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"76"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"74"}],"id":"way/82092636","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.117344,46.2091031],[6.1175107,46.2090426],[6.1181597,46.2097855],[6.1181439,46.209804],[6.1179806,46.2098691],[6.117344,46.2091031]]]}},{"type":"Feature","id":"way/82092640","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"2"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"4"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"6"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"8"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"10"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"12"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"14"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"16"}],"id":"way/82092640","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1148888,46.2056952],[6.1148107,46.2058528],[6.1155765,46.2067919],[6.1154135,46.2068572],[6.1145964,46.2058664],[6.1146978,46.2056506],[6.1148888,46.2056952]]]}},{"type":"Feature","id":"way/82235038","properties":{"architect":"Clivaz et Exquis Architectes","building":"apartments","building:flats":"46","building:levels":"7","heating":"heat_pump","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","ref":"A","start_date":"2010","subsidized":"yes","addr":[{"addr:city":"Le Grand-Saconnex","addr:postcode":"1218","addr:street":"Rue Sonnex","addr:housenumber":"30"},{"addr:city":"Le Grand-Saconnex","addr:postcode":"1218","addr:street":"Rue Sonnex","addr:housenumber":"32"}],"id":"way/82235038","start_date_parsed":"2010-01-01T00:00:00.000Z","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1194038,46.2284829],[6.1189722,46.2287664],[6.118835,46.2286602],[6.1190988,46.2284757],[6.1192607,46.2283768],[6.1194038,46.2284829]]]}},{"type":"Feature","id":"way/83268844","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","roof:shape":"gabled","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"29"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"31"}],"id":"way/83268844","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1138393,46.2073822],[6.1138722,46.2073726],[6.1139309,46.2073537],[6.1139836,46.2074349],[6.1139217,46.207456],[6.1138925,46.2074643],[6.1138393,46.2073822]]]}},{"type":"Feature","id":"way/83268857","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Promenade Jean-Treina","addr:housenumber":"3"}],"id":"way/83268857","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1141402,46.2068914],[6.1142118,46.2069977],[6.1141724,46.2070091],[6.114153,46.2070453],[6.114168,46.2070696],[6.114015,46.2071163],[6.1139135,46.2069629],[6.1141402,46.2068914]]]}},{"type":"Feature","id":"way/83268921","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Promenade Jean-Treina","addr:housenumber":"4"}],"id":"way/83268921","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1140831,46.2066069],[6.1142339,46.2065605],[6.1143347,46.2067117],[6.1141095,46.2067852],[6.1140399,46.2066804],[6.1140741,46.206671],[6.1140963,46.2066308],[6.1140831,46.2066069]]]}},{"type":"Feature","id":"way/83268951","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"2"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"4"}],"id":"way/83268951","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1130101,46.2056713],[6.1130473,46.205659],[6.1130999,46.2056429],[6.1131444,46.2057165],[6.1131024,46.2057295],[6.1130576,46.2057439],[6.1130101,46.2056713]]]}},{"type":"Feature","id":"way/83269023","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","roof:shape":"gabled","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"1"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"3"}],"id":"way/83269023","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1128708,46.2058916],[6.1128218,46.2058147],[6.1128685,46.2058014],[6.112915,46.2057883],[6.1129617,46.2058615],[6.112912,46.2058793],[6.1128708,46.2058916]]]}},{"type":"Feature","id":"way/171707007","properties":{"addr:city":"Le Grand-Saconnex","addr:housenumber":"13","addr:postcode":"1218","addr:street":"Rue Sonnex","building":"apartments","building:levels":"6","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","roof:levels":"1","id":"way/171707007","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.121167,46.2286159],[6.1209085,46.2287802],[6.120937,46.2288018],[6.1208011,46.2288882],[6.1207723,46.2288664],[6.1207525,46.228879],[6.1206186,46.2287775],[6.1210328,46.2285142],[6.121167,46.2286159]]]}},{"type":"Feature","id":"way/187785563","properties":{"building":"apartments","building:levels":"16","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"16"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"18"}],"id":"way/187785563","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1220309,46.2135667],[6.121925,46.2134405],[6.1219364,46.2134361],[6.1218989,46.21339],[6.1219301,46.2133778],[6.1218696,46.2133037],[6.121931,46.2132797],[6.121924,46.2132711],[6.1219919,46.2132445],[6.1219997,46.2132541],[6.1220608,46.2132302],[6.1221687,46.2133625],[6.1221556,46.2133676],[6.1221931,46.2134136],[6.1221656,46.2134243],[6.1222543,46.2135334],[6.1222811,46.213523],[6.1223359,46.2135904],[6.1222845,46.2136112],[6.1223607,46.2137],[6.1221556,46.213782],[6.1219869,46.2135892],[6.1220309,46.2135667]]]}},{"type":"Feature","id":"way/187785565","properties":{"addr:city":"Genève","addr:housenumber":"12","addr:postcode":"1203","addr:street":"Cité Vieusseux","building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","id":"way/187785565","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1205596,46.2125079],[6.1203653,46.2124298],[6.1203495,46.2124231],[6.1204624,46.2122829],[6.1204547,46.212271],[6.1204636,46.2122563],[6.1204766,46.2122476],[6.1204907,46.2122419],[6.1205309,46.2121912],[6.1205388,46.2121934],[6.1205751,46.2121487],[6.1205884,46.2121543],[6.1205978,46.2121439],[6.1207839,46.2122187],[6.1207752,46.2122283],[6.120789,46.2122335],[6.1207089,46.2123272],[6.1207128,46.2123429],[6.1207101,46.2123526],[6.1206934,46.2123638],[6.1206763,46.2123669],[6.1205596,46.2125079]]]}},{"type":"Feature","id":"way/187861310","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Edouard-Rod","addr:housenumber":"4"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Edouard-Rod","addr:housenumber":"4a"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Edouard-Rod","addr:housenumber":"4b"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Edouard-Rod","addr:housenumber":"4c"}],"id":"way/187861310","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1214824,46.2121864],[6.1214142,46.2120481],[6.1219675,46.2119174],[6.1222103,46.2118601],[6.1222785,46.2119984],[6.1214824,46.2121864]]]}},{"type":"Feature","id":"way/215652067","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Promenade Jean-Treina","addr:housenumber":"1"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Promenade Jean-Treina","addr:housenumber":"2"}],"id":"way/215652067","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.114168,46.2070696],[6.1142351,46.207172],[6.1140821,46.2072194],[6.1140453,46.2072308],[6.1140233,46.2071975],[6.1140052,46.2071942],[6.1139914,46.2071709],[6.1140002,46.2071593],[6.1139781,46.2071269],[6.114015,46.2071163],[6.114168,46.2070696]]]}},{"type":"Feature","id":"way/215652071","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Camille-Martin","addr:housenumber":"23"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Camille-Martin","addr:housenumber":"25"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Camille-Martin","addr:housenumber":"29"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Camille-Martin","addr:housenumber":"31"}],"id":"way/215652071","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1148804,46.2071539],[6.1149014,46.207187],[6.1144535,46.2073233],[6.1144253,46.207278],[6.114382,46.2072088],[6.1143648,46.2071838],[6.1148131,46.2070472],[6.1148293,46.2070423],[6.1148451,46.2070375],[6.1148669,46.2070006],[6.1148512,46.2069765],[6.1150012,46.2069296],[6.1151021,46.2070846],[6.1149825,46.2071219],[6.1149764,46.207135],[6.1149435,46.2071445],[6.1149267,46.2071398],[6.1149174,46.2071426],[6.1148998,46.207148],[6.1148804,46.2071539]]]}},{"type":"Feature","id":"way/215652078","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","roof:shape":"gabled","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"21"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"23"}],"id":"way/215652078","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.113734,46.20705],[6.1136706,46.2070692],[6.1136419,46.207078],[6.1135903,46.2070005],[6.113623,46.2069906],[6.1136817,46.2069715],[6.113734,46.20705]]]}},{"type":"Feature","id":"way/215652081","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","roof:shape":"gabled","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"25"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"27"}],"id":"way/215652081","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1138604,46.2072405],[6.1137994,46.2072605],[6.1137663,46.2072706],[6.1137159,46.2071951],[6.1137521,46.2071841],[6.1138102,46.2071652],[6.1138604,46.2072405]]]}},{"type":"Feature","id":"way/216459401","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","roof:shape":"hipped","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"1"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"3"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"5"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"7"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"9"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin des Sports","addr:housenumber":"11"}],"id":"way/216459401","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1138773,46.2056515],[6.1137847,46.2056885],[6.1135894,46.205455],[6.113682,46.2054179],[6.1138773,46.2056515]]]}},{"type":"Feature","id":"way/216459418","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","roof:shape":"gabled","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"13"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"15"}],"id":"way/216459418","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1133726,46.2066657],[6.1133208,46.2065873],[6.1133549,46.2065765],[6.1134149,46.2065575],[6.1134673,46.2066367],[6.1134041,46.206656],[6.1133726,46.2066657]]]}},{"type":"Feature","id":"way/216459436","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","roof:shape":"gabled","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"17"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"19"}],"id":"way/216459436","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1136022,46.2068478],[6.1135376,46.2068662],[6.113507,46.2068754],[6.113457,46.2067972],[6.113492,46.2067872],[6.113551,46.2067675],[6.1136022,46.2068478]]]}},{"type":"Feature","id":"way/485538025","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1209","addr:street":"Avenue de Joli-Mont","addr:housenumber":"11"},{"addr:city":"Genève","addr:postcode":"1209","addr:street":"Avenue de Joli-Mont","addr:housenumber":"9"},{"addr:city":"Genève","addr:postcode":"1209","addr:street":"Avenue de Joli-Mont","addr:housenumber":"7"}],"id":"way/485538025","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1167072,46.2197802],[6.1166004,46.2197218],[6.1166141,46.2197098],[6.1161568,46.2194595],[6.1162416,46.2193853],[6.1162703,46.219401],[6.1163105,46.2193658],[6.1168459,46.219659],[6.1167072,46.2197802]]]}},{"type":"Feature","id":"way/951514320","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"23"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"25"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Cité Vieusseux","addr:housenumber":"27"}],"id":"way/951514320","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1226459,46.214334],[6.1226814,46.2143208],[6.1230671,46.2141719],[6.1231755,46.2143187],[6.1227937,46.2144771],[6.1226713,46.2144791],[6.1226438,46.2144784],[6.1226459,46.214334]]]}},{"type":"Feature","id":"way/1015840795","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Louisa-Vuille","addr:housenumber":"6"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Louisa-Vuille","addr:housenumber":"8"}],"id":"way/1015840795","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1203168,46.213352],[6.1204416,46.2135061],[6.1201063,46.2136434],[6.1199641,46.2138142],[6.1197455,46.2137269],[6.1199266,46.2135154],[6.1203168,46.213352]]]}},{"type":"Feature","id":"way/1249475210","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Charles-Burklin","addr:housenumber":"2"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Charles-Burklin","addr:housenumber":"4"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Charles-Burklin","addr:housenumber":"6"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Rue Charles-Burklin","addr:housenumber":"8"}],"id":"way/1249475210","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1224334,46.2149075],[6.122438,46.2147312],[6.1230203,46.2147297],[6.1235921,46.2148738],[6.1235057,46.2150398],[6.1229762,46.2149075],[6.1224334,46.2149075]]]}},{"type":"Feature","id":"way/1379376858","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","roof:shape":"gabled","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"9"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"11"}],"id":"way/1379376858","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1131747,46.2063504],[6.113151,46.2063152],[6.1131262,46.2062784],[6.1131658,46.2062667],[6.1132152,46.2062492],[6.1132649,46.2063232],[6.11322,46.2063365],[6.1131747,46.2063504]]]}},{"type":"Feature","id":"way/1379376859","properties":{"area":"yes","building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","roof:shape":"gabled","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"5"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Chemin de l'Essor","addr:housenumber":"7"}],"id":"way/1379376859","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1130245,46.2061283],[6.1129991,46.2060874],[6.112976,46.20605],[6.1130207,46.2060363],[6.1130671,46.2060242],[6.1131138,46.2060996],[6.1130683,46.2061157],[6.1130245,46.2061283]]]}},{"type":"Feature","id":"way/1379382938","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Promenade Jean-Treina","addr:housenumber":"13"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Promenade Jean-Treina","addr:housenumber":"14"}],"id":"way/1379382938","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1134004,46.2062416],[6.1133324,46.2061371],[6.1133706,46.2061249],[6.113269,46.2059728],[6.1134935,46.2059011],[6.1135062,46.2059205],[6.1135502,46.2059878],[6.1135623,46.2060063],[6.1135278,46.2060199],[6.1135083,46.2060557],[6.1135213,46.206077],[6.1135899,46.2061822],[6.1134004,46.2062416]]]}},{"type":"Feature","id":"way/1379382939","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Promenade Jean-Treina","addr:housenumber":"9"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Promenade Jean-Treina","addr:housenumber":"10"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Promenade Jean-Treina","addr:housenumber":"11"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Promenade Jean-Treina","addr:housenumber":"12"}],"id":"way/1379382939","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1135949,46.2059971],[6.1135381,46.2059105],[6.1135098,46.2058657],[6.1138067,46.205772],[6.1138232,46.2057978],[6.1140447,46.2057304],[6.1141462,46.2058823],[6.1141799,46.205871],[6.1142471,46.2059813],[6.1142358,46.2059833],[6.1140738,46.2060308],[6.11406,46.2060335],[6.1139907,46.2059307],[6.113976,46.205907],[6.1139223,46.2058929],[6.1138906,46.2059034],[6.1135949,46.2059971]]]}},{"type":"Feature","id":"way/1379382940","properties":{"building":"apartments","owner":"Société Coopérative d’Habitation Genève","owner:abbr":"SCHG","owner:type":"cooperative","owner:wikidata":"Q132179629","addr":[{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Promenade Jean-Treina","addr:housenumber":"8"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Promenade Jean-Treina","addr:housenumber":"5"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Promenade Jean-Treina","addr:housenumber":"6"},{"addr:city":"Genève","addr:postcode":"1203","addr:street":"Promenade Jean-Treina","addr:housenumber":"7"}],"id":"way/1379382940","owner:website":"https://schg.ch/","owner:start_date":"1919-01-01T00:00:00Z","owner:swiss_business_uid":"CHE-107.744.183"},"geometry":{"type":"Polygon","coordinates":[[[6.1140886,46.2060805],[6.1142641,46.2060295],[6.1142885,46.2060213],[6.1143499,46.2061273],[6.1143114,46.2061365],[6.1144116,46.2062909],[6.1141882,46.2063614],[6.1141528,46.2063742],[6.1141351,46.2064081],[6.114151,46.2064326],[6.1142162,46.2065332],[6.1142339,46.2065605],[6.1140831,46.2066069],[6.1140503,46.2065582],[6.1138972,46.2063273],[6.114119,46.2062557],[6.1141535,46.2062455],[6.1141734,46.2062062],[6.1141575,46.2061837],[6.1140886,46.2060805]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/79278332",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "11"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "13"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "15"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "17"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "19"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "21"
+        }
+      ],
+      "id": "way/79278332",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1214634,
+            46.2140334
+          ],
+          [
+            6.1215297,
+            46.214008
+          ],
+          [
+            6.1216546,
+            46.2139601
+          ],
+          [
+            6.1218118,
+            46.2141544
+          ],
+          [
+            6.121963,
+            46.2143361
+          ],
+          [
+            6.1226459,
+            46.214334
+          ],
+          [
+            6.1226438,
+            46.2144784
+          ],
+          [
+            6.1219123,
+            46.2144701
+          ],
+          [
+            6.1218558,
+            46.2144947
+          ],
+          [
+            6.121635,
+            46.2142245
+          ],
+          [
+            6.1214634,
+            46.2140334
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/79278334",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "1"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "3"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "5"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "7"
+        }
+      ],
+      "id": "way/79278334",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1208588,
+            46.2145881
+          ],
+          [
+            6.120265,
+            46.2138832
+          ],
+          [
+            6.1204422,
+            46.2138135
+          ],
+          [
+            6.1210278,
+            46.2145192
+          ],
+          [
+            6.1208588,
+            46.2145881
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/79278338",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "2"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "4"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "6"
+        }
+      ],
+      "id": "way/79278338",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.121053,
+            46.2137608
+          ],
+          [
+            6.120927,
+            46.2136077
+          ],
+          [
+            6.1206996,
+            46.2133316
+          ],
+          [
+            6.1206639,
+            46.2132882
+          ],
+          [
+            6.1208355,
+            46.2132205
+          ],
+          [
+            6.121044,
+            46.2134736
+          ],
+          [
+            6.1212248,
+            46.2136931
+          ],
+          [
+            6.1211963,
+            46.2137043
+          ],
+          [
+            6.121053,
+            46.2137608
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/79278340",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Route des Franchises",
+          "addr:housenumber": "46"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Route des Franchises",
+          "addr:housenumber": "48"
+        }
+      ],
+      "id": "way/79278340",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1196419,
+            46.2143387
+          ],
+          [
+            6.1199776,
+            46.2140997
+          ],
+          [
+            6.1200634,
+            46.2141573
+          ],
+          [
+            6.1197278,
+            46.2143964
+          ],
+          [
+            6.1196419,
+            46.2143387
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/79278343",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Route des Franchises",
+          "addr:housenumber": "38"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Route des Franchises",
+          "addr:housenumber": "40"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Route des Franchises",
+          "addr:housenumber": "42"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Route des Franchises",
+          "addr:housenumber": "44"
+        }
+      ],
+      "id": "way/79278343",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1194149,
+            46.2142483
+          ],
+          [
+            6.118808,
+            46.2139369
+          ],
+          [
+            6.1188788,
+            46.2138738
+          ],
+          [
+            6.1194829,
+            46.2141844
+          ],
+          [
+            6.1194149,
+            46.2142483
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/82082876",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "40"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "38"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "36"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "34"
+        }
+      ],
+      "id": "way/82082876",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1215128,
+            46.215454
+          ],
+          [
+            6.1213845,
+            46.2154782
+          ],
+          [
+            6.1211791,
+            46.214955
+          ],
+          [
+            6.1213073,
+            46.2149309
+          ],
+          [
+            6.1215128,
+            46.215454
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/82082894",
+    "properties": {
+      "building": "apartments",
+      "building:levels": "3",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "roof:levels": "0",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "32"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "30"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "28"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "26"
+        }
+      ],
+      "id": "way/82082894",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1216559,
+            46.2148696
+          ],
+          [
+            6.121778,
+            46.2148449
+          ],
+          [
+            6.1219931,
+            46.215354
+          ],
+          [
+            6.121948,
+            46.2153631
+          ],
+          [
+            6.1219528,
+            46.2153745
+          ],
+          [
+            6.1218759,
+            46.2153901
+          ],
+          [
+            6.1216559,
+            46.2148696
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/82082953",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Route des Franchises",
+          "addr:housenumber": "50"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Route des Franchises",
+          "addr:housenumber": "52"
+        }
+      ],
+      "id": "way/82082953",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.11995,
+            46.2145902
+          ],
+          [
+            6.1202885,
+            46.2144157
+          ],
+          [
+            6.1203655,
+            46.2144871
+          ],
+          [
+            6.1200268,
+            46.2146616
+          ],
+          [
+            6.11995,
+            46.2145902
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/82082965",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "56"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "54"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "52"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "50"
+        }
+      ],
+      "id": "way/82082965",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1203869,
+            46.215663
+          ],
+          [
+            6.1201883,
+            46.2151332
+          ],
+          [
+            6.1203125,
+            46.2151109
+          ],
+          [
+            6.1205113,
+            46.2156407
+          ],
+          [
+            6.1203869,
+            46.215663
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/82082991",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "58"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "60"
+        }
+      ],
+      "id": "way/82082991",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1201884,
+            46.2148729
+          ],
+          [
+            6.1206305,
+            46.2147226
+          ],
+          [
+            6.120687,
+            46.2148023
+          ],
+          [
+            6.1203479,
+            46.2149175
+          ],
+          [
+            6.120245,
+            46.2149525
+          ],
+          [
+            6.1201884,
+            46.2148729
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/82083013",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "48"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "46"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "44"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Villars",
+          "addr:housenumber": "42"
+        }
+      ],
+      "id": "way/82083013",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1206844,
+            46.215048
+          ],
+          [
+            6.1208073,
+            46.2150255
+          ],
+          [
+            6.1210084,
+            46.2155509
+          ],
+          [
+            6.1208853,
+            46.2155735
+          ],
+          [
+            6.1206844,
+            46.215048
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/82092615",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Camille-Martin",
+          "addr:housenumber": "1"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Camille-Martin",
+          "addr:housenumber": "3"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Camille-Martin",
+          "addr:housenumber": "5"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Camille-Martin",
+          "addr:housenumber": "7"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Camille-Martin",
+          "addr:housenumber": "9"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Camille-Martin",
+          "addr:housenumber": "11"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Camille-Martin",
+          "addr:housenumber": "13"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Camille-Martin",
+          "addr:housenumber": "15"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Camille-Martin",
+          "addr:housenumber": "17"
+        }
+      ],
+      "id": "way/82092615",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1175696,
+            46.206458
+          ],
+          [
+            6.1170848,
+            46.2063493
+          ],
+          [
+            6.1159424,
+            46.2068092
+          ],
+          [
+            6.1158386,
+            46.2066857
+          ],
+          [
+            6.1170643,
+            46.2061922
+          ],
+          [
+            6.1176342,
+            46.20632
+          ],
+          [
+            6.1175696,
+            46.206458
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/82092636",
+    "properties": {
+      "building:part": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "80"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "78"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "76"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "74"
+        }
+      ],
+      "id": "way/82092636",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.117344,
+            46.2091031
+          ],
+          [
+            6.1175107,
+            46.2090426
+          ],
+          [
+            6.1181597,
+            46.2097855
+          ],
+          [
+            6.1181439,
+            46.209804
+          ],
+          [
+            6.1179806,
+            46.2098691
+          ],
+          [
+            6.117344,
+            46.2091031
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/82092640",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "2"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "4"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "6"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "8"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "10"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "12"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "14"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "16"
+        }
+      ],
+      "id": "way/82092640",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1148888,
+            46.2056952
+          ],
+          [
+            6.1148107,
+            46.2058528
+          ],
+          [
+            6.1155765,
+            46.2067919
+          ],
+          [
+            6.1154135,
+            46.2068572
+          ],
+          [
+            6.1145964,
+            46.2058664
+          ],
+          [
+            6.1146978,
+            46.2056506
+          ],
+          [
+            6.1148888,
+            46.2056952
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/82235038",
+    "properties": {
+      "architect": "Clivaz et Exquis Architectes",
+      "building": "apartments",
+      "building:flats": "46",
+      "building:levels": "7",
+      "heating": "heat_pump",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "ref": "A",
+      "start_date": "2010",
+      "subsidized": "yes",
+      "addr": [
+        {
+          "addr:city": "Le Grand-Saconnex",
+          "addr:postcode": "1218",
+          "addr:street": "Rue Sonnex",
+          "addr:housenumber": "30"
+        },
+        {
+          "addr:city": "Le Grand-Saconnex",
+          "addr:postcode": "1218",
+          "addr:street": "Rue Sonnex",
+          "addr:housenumber": "32"
+        }
+      ],
+      "id": "way/82235038",
+      "start_date_parsed": "2010-01-01T00:00:00.000Z",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1194038,
+            46.2284829
+          ],
+          [
+            6.1189722,
+            46.2287664
+          ],
+          [
+            6.118835,
+            46.2286602
+          ],
+          [
+            6.1190988,
+            46.2284757
+          ],
+          [
+            6.1192607,
+            46.2283768
+          ],
+          [
+            6.1194038,
+            46.2284829
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/83268844",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "roof:shape": "gabled",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "29"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "31"
+        }
+      ],
+      "id": "way/83268844",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1138393,
+            46.2073822
+          ],
+          [
+            6.1138722,
+            46.2073726
+          ],
+          [
+            6.1139309,
+            46.2073537
+          ],
+          [
+            6.1139836,
+            46.2074349
+          ],
+          [
+            6.1139217,
+            46.207456
+          ],
+          [
+            6.1138925,
+            46.2074643
+          ],
+          [
+            6.1138393,
+            46.2073822
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/83268857",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Promenade Jean-Treina",
+          "addr:housenumber": "3"
+        }
+      ],
+      "id": "way/83268857",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1141402,
+            46.2068914
+          ],
+          [
+            6.1142118,
+            46.2069977
+          ],
+          [
+            6.1141724,
+            46.2070091
+          ],
+          [
+            6.114153,
+            46.2070453
+          ],
+          [
+            6.114168,
+            46.2070696
+          ],
+          [
+            6.114015,
+            46.2071163
+          ],
+          [
+            6.1139135,
+            46.2069629
+          ],
+          [
+            6.1141402,
+            46.2068914
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/83268921",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Promenade Jean-Treina",
+          "addr:housenumber": "4"
+        }
+      ],
+      "id": "way/83268921",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1140831,
+            46.2066069
+          ],
+          [
+            6.1142339,
+            46.2065605
+          ],
+          [
+            6.1143347,
+            46.2067117
+          ],
+          [
+            6.1141095,
+            46.2067852
+          ],
+          [
+            6.1140399,
+            46.2066804
+          ],
+          [
+            6.1140741,
+            46.206671
+          ],
+          [
+            6.1140963,
+            46.2066308
+          ],
+          [
+            6.1140831,
+            46.2066069
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/83268951",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "2"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "4"
+        }
+      ],
+      "id": "way/83268951",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1130101,
+            46.2056713
+          ],
+          [
+            6.1130473,
+            46.205659
+          ],
+          [
+            6.1130999,
+            46.2056429
+          ],
+          [
+            6.1131444,
+            46.2057165
+          ],
+          [
+            6.1131024,
+            46.2057295
+          ],
+          [
+            6.1130576,
+            46.2057439
+          ],
+          [
+            6.1130101,
+            46.2056713
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/83269023",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "roof:shape": "gabled",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "1"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "3"
+        }
+      ],
+      "id": "way/83269023",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1128708,
+            46.2058916
+          ],
+          [
+            6.1128218,
+            46.2058147
+          ],
+          [
+            6.1128685,
+            46.2058014
+          ],
+          [
+            6.112915,
+            46.2057883
+          ],
+          [
+            6.1129617,
+            46.2058615
+          ],
+          [
+            6.112912,
+            46.2058793
+          ],
+          [
+            6.1128708,
+            46.2058916
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/171707007",
+    "properties": {
+      "addr:city": "Le Grand-Saconnex",
+      "addr:housenumber": "13",
+      "addr:postcode": "1218",
+      "addr:street": "Rue Sonnex",
+      "building": "apartments",
+      "building:levels": "6",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "roof:levels": "1",
+      "id": "way/171707007",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.121167,
+            46.2286159
+          ],
+          [
+            6.1209085,
+            46.2287802
+          ],
+          [
+            6.120937,
+            46.2288018
+          ],
+          [
+            6.1208011,
+            46.2288882
+          ],
+          [
+            6.1207723,
+            46.2288664
+          ],
+          [
+            6.1207525,
+            46.228879
+          ],
+          [
+            6.1206186,
+            46.2287775
+          ],
+          [
+            6.1210328,
+            46.2285142
+          ],
+          [
+            6.121167,
+            46.2286159
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/187785563",
+    "properties": {
+      "building": "apartments",
+      "building:levels": "16",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "16"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "18"
+        }
+      ],
+      "id": "way/187785563",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1220309,
+            46.2135667
+          ],
+          [
+            6.121925,
+            46.2134405
+          ],
+          [
+            6.1219364,
+            46.2134361
+          ],
+          [
+            6.1218989,
+            46.21339
+          ],
+          [
+            6.1219301,
+            46.2133778
+          ],
+          [
+            6.1218696,
+            46.2133037
+          ],
+          [
+            6.121931,
+            46.2132797
+          ],
+          [
+            6.121924,
+            46.2132711
+          ],
+          [
+            6.1219919,
+            46.2132445
+          ],
+          [
+            6.1219997,
+            46.2132541
+          ],
+          [
+            6.1220608,
+            46.2132302
+          ],
+          [
+            6.1221687,
+            46.2133625
+          ],
+          [
+            6.1221556,
+            46.2133676
+          ],
+          [
+            6.1221931,
+            46.2134136
+          ],
+          [
+            6.1221656,
+            46.2134243
+          ],
+          [
+            6.1222543,
+            46.2135334
+          ],
+          [
+            6.1222811,
+            46.213523
+          ],
+          [
+            6.1223359,
+            46.2135904
+          ],
+          [
+            6.1222845,
+            46.2136112
+          ],
+          [
+            6.1223607,
+            46.2137
+          ],
+          [
+            6.1221556,
+            46.213782
+          ],
+          [
+            6.1219869,
+            46.2135892
+          ],
+          [
+            6.1220309,
+            46.2135667
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/187785565",
+    "properties": {
+      "addr:city": "Genève",
+      "addr:housenumber": "12",
+      "addr:postcode": "1203",
+      "addr:street": "Cité Vieusseux",
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "id": "way/187785565",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1205596,
+            46.2125079
+          ],
+          [
+            6.1203653,
+            46.2124298
+          ],
+          [
+            6.1203495,
+            46.2124231
+          ],
+          [
+            6.1204624,
+            46.2122829
+          ],
+          [
+            6.1204547,
+            46.212271
+          ],
+          [
+            6.1204636,
+            46.2122563
+          ],
+          [
+            6.1204766,
+            46.2122476
+          ],
+          [
+            6.1204907,
+            46.2122419
+          ],
+          [
+            6.1205309,
+            46.2121912
+          ],
+          [
+            6.1205388,
+            46.2121934
+          ],
+          [
+            6.1205751,
+            46.2121487
+          ],
+          [
+            6.1205884,
+            46.2121543
+          ],
+          [
+            6.1205978,
+            46.2121439
+          ],
+          [
+            6.1207839,
+            46.2122187
+          ],
+          [
+            6.1207752,
+            46.2122283
+          ],
+          [
+            6.120789,
+            46.2122335
+          ],
+          [
+            6.1207089,
+            46.2123272
+          ],
+          [
+            6.1207128,
+            46.2123429
+          ],
+          [
+            6.1207101,
+            46.2123526
+          ],
+          [
+            6.1206934,
+            46.2123638
+          ],
+          [
+            6.1206763,
+            46.2123669
+          ],
+          [
+            6.1205596,
+            46.2125079
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/187861310",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Edouard-Rod",
+          "addr:housenumber": "4"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Edouard-Rod",
+          "addr:housenumber": "4a"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Edouard-Rod",
+          "addr:housenumber": "4b"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Edouard-Rod",
+          "addr:housenumber": "4c"
+        }
+      ],
+      "id": "way/187861310",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1214824,
+            46.2121864
+          ],
+          [
+            6.1214142,
+            46.2120481
+          ],
+          [
+            6.1219675,
+            46.2119174
+          ],
+          [
+            6.1222103,
+            46.2118601
+          ],
+          [
+            6.1222785,
+            46.2119984
+          ],
+          [
+            6.1214824,
+            46.2121864
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/215652067",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Promenade Jean-Treina",
+          "addr:housenumber": "1"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Promenade Jean-Treina",
+          "addr:housenumber": "2"
+        }
+      ],
+      "id": "way/215652067",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.114168,
+            46.2070696
+          ],
+          [
+            6.1142351,
+            46.207172
+          ],
+          [
+            6.1140821,
+            46.2072194
+          ],
+          [
+            6.1140453,
+            46.2072308
+          ],
+          [
+            6.1140233,
+            46.2071975
+          ],
+          [
+            6.1140052,
+            46.2071942
+          ],
+          [
+            6.1139914,
+            46.2071709
+          ],
+          [
+            6.1140002,
+            46.2071593
+          ],
+          [
+            6.1139781,
+            46.2071269
+          ],
+          [
+            6.114015,
+            46.2071163
+          ],
+          [
+            6.114168,
+            46.2070696
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/215652071",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Camille-Martin",
+          "addr:housenumber": "23"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Camille-Martin",
+          "addr:housenumber": "25"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Camille-Martin",
+          "addr:housenumber": "29"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Camille-Martin",
+          "addr:housenumber": "31"
+        }
+      ],
+      "id": "way/215652071",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1148804,
+            46.2071539
+          ],
+          [
+            6.1149014,
+            46.207187
+          ],
+          [
+            6.1144535,
+            46.2073233
+          ],
+          [
+            6.1144253,
+            46.207278
+          ],
+          [
+            6.114382,
+            46.2072088
+          ],
+          [
+            6.1143648,
+            46.2071838
+          ],
+          [
+            6.1148131,
+            46.2070472
+          ],
+          [
+            6.1148293,
+            46.2070423
+          ],
+          [
+            6.1148451,
+            46.2070375
+          ],
+          [
+            6.1148669,
+            46.2070006
+          ],
+          [
+            6.1148512,
+            46.2069765
+          ],
+          [
+            6.1150012,
+            46.2069296
+          ],
+          [
+            6.1151021,
+            46.2070846
+          ],
+          [
+            6.1149825,
+            46.2071219
+          ],
+          [
+            6.1149764,
+            46.207135
+          ],
+          [
+            6.1149435,
+            46.2071445
+          ],
+          [
+            6.1149267,
+            46.2071398
+          ],
+          [
+            6.1149174,
+            46.2071426
+          ],
+          [
+            6.1148998,
+            46.207148
+          ],
+          [
+            6.1148804,
+            46.2071539
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/215652078",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "roof:shape": "gabled",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "21"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "23"
+        }
+      ],
+      "id": "way/215652078",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.113734,
+            46.20705
+          ],
+          [
+            6.1136706,
+            46.2070692
+          ],
+          [
+            6.1136419,
+            46.207078
+          ],
+          [
+            6.1135903,
+            46.2070005
+          ],
+          [
+            6.113623,
+            46.2069906
+          ],
+          [
+            6.1136817,
+            46.2069715
+          ],
+          [
+            6.113734,
+            46.20705
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/215652081",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "roof:shape": "gabled",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "25"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "27"
+        }
+      ],
+      "id": "way/215652081",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1138604,
+            46.2072405
+          ],
+          [
+            6.1137994,
+            46.2072605
+          ],
+          [
+            6.1137663,
+            46.2072706
+          ],
+          [
+            6.1137159,
+            46.2071951
+          ],
+          [
+            6.1137521,
+            46.2071841
+          ],
+          [
+            6.1138102,
+            46.2071652
+          ],
+          [
+            6.1138604,
+            46.2072405
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/216459401",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "roof:shape": "hipped",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "1"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "3"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "5"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "7"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "9"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin des Sports",
+          "addr:housenumber": "11"
+        }
+      ],
+      "id": "way/216459401",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1138773,
+            46.2056515
+          ],
+          [
+            6.1137847,
+            46.2056885
+          ],
+          [
+            6.1135894,
+            46.205455
+          ],
+          [
+            6.113682,
+            46.2054179
+          ],
+          [
+            6.1138773,
+            46.2056515
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/216459418",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "roof:shape": "gabled",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "13"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "15"
+        }
+      ],
+      "id": "way/216459418",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1133726,
+            46.2066657
+          ],
+          [
+            6.1133208,
+            46.2065873
+          ],
+          [
+            6.1133549,
+            46.2065765
+          ],
+          [
+            6.1134149,
+            46.2065575
+          ],
+          [
+            6.1134673,
+            46.2066367
+          ],
+          [
+            6.1134041,
+            46.206656
+          ],
+          [
+            6.1133726,
+            46.2066657
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/216459436",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "roof:shape": "gabled",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "17"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "19"
+        }
+      ],
+      "id": "way/216459436",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1136022,
+            46.2068478
+          ],
+          [
+            6.1135376,
+            46.2068662
+          ],
+          [
+            6.113507,
+            46.2068754
+          ],
+          [
+            6.113457,
+            46.2067972
+          ],
+          [
+            6.113492,
+            46.2067872
+          ],
+          [
+            6.113551,
+            46.2067675
+          ],
+          [
+            6.1136022,
+            46.2068478
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/485538025",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1209",
+          "addr:street": "Avenue de Joli-Mont",
+          "addr:housenumber": "11"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1209",
+          "addr:street": "Avenue de Joli-Mont",
+          "addr:housenumber": "9"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1209",
+          "addr:street": "Avenue de Joli-Mont",
+          "addr:housenumber": "7"
+        }
+      ],
+      "id": "way/485538025",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1167072,
+            46.2197802
+          ],
+          [
+            6.1166004,
+            46.2197218
+          ],
+          [
+            6.1166141,
+            46.2197098
+          ],
+          [
+            6.1161568,
+            46.2194595
+          ],
+          [
+            6.1162416,
+            46.2193853
+          ],
+          [
+            6.1162703,
+            46.219401
+          ],
+          [
+            6.1163105,
+            46.2193658
+          ],
+          [
+            6.1168459,
+            46.219659
+          ],
+          [
+            6.1167072,
+            46.2197802
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/951514320",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "23"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "25"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Cité Vieusseux",
+          "addr:housenumber": "27"
+        }
+      ],
+      "id": "way/951514320",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1226459,
+            46.214334
+          ],
+          [
+            6.1226814,
+            46.2143208
+          ],
+          [
+            6.1230671,
+            46.2141719
+          ],
+          [
+            6.1231755,
+            46.2143187
+          ],
+          [
+            6.1227937,
+            46.2144771
+          ],
+          [
+            6.1226713,
+            46.2144791
+          ],
+          [
+            6.1226438,
+            46.2144784
+          ],
+          [
+            6.1226459,
+            46.214334
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1015840795",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Louisa-Vuille",
+          "addr:housenumber": "6"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Louisa-Vuille",
+          "addr:housenumber": "8"
+        }
+      ],
+      "id": "way/1015840795",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1203168,
+            46.213352
+          ],
+          [
+            6.1204416,
+            46.2135061
+          ],
+          [
+            6.1201063,
+            46.2136434
+          ],
+          [
+            6.1199641,
+            46.2138142
+          ],
+          [
+            6.1197455,
+            46.2137269
+          ],
+          [
+            6.1199266,
+            46.2135154
+          ],
+          [
+            6.1203168,
+            46.213352
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1249475210",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Charles-Burklin",
+          "addr:housenumber": "2"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Charles-Burklin",
+          "addr:housenumber": "4"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Charles-Burklin",
+          "addr:housenumber": "6"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Rue Charles-Burklin",
+          "addr:housenumber": "8"
+        }
+      ],
+      "id": "way/1249475210",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1224334,
+            46.2149075
+          ],
+          [
+            6.122438,
+            46.2147312
+          ],
+          [
+            6.1230203,
+            46.2147297
+          ],
+          [
+            6.1235921,
+            46.2148738
+          ],
+          [
+            6.1235057,
+            46.2150398
+          ],
+          [
+            6.1229762,
+            46.2149075
+          ],
+          [
+            6.1224334,
+            46.2149075
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1379376858",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "roof:shape": "gabled",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "9"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "11"
+        }
+      ],
+      "id": "way/1379376858",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1131747,
+            46.2063504
+          ],
+          [
+            6.113151,
+            46.2063152
+          ],
+          [
+            6.1131262,
+            46.2062784
+          ],
+          [
+            6.1131658,
+            46.2062667
+          ],
+          [
+            6.1132152,
+            46.2062492
+          ],
+          [
+            6.1132649,
+            46.2063232
+          ],
+          [
+            6.11322,
+            46.2063365
+          ],
+          [
+            6.1131747,
+            46.2063504
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1379376859",
+    "properties": {
+      "area": "yes",
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "roof:shape": "gabled",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "5"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Chemin de l'Essor",
+          "addr:housenumber": "7"
+        }
+      ],
+      "id": "way/1379376859",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1130245,
+            46.2061283
+          ],
+          [
+            6.1129991,
+            46.2060874
+          ],
+          [
+            6.112976,
+            46.20605
+          ],
+          [
+            6.1130207,
+            46.2060363
+          ],
+          [
+            6.1130671,
+            46.2060242
+          ],
+          [
+            6.1131138,
+            46.2060996
+          ],
+          [
+            6.1130683,
+            46.2061157
+          ],
+          [
+            6.1130245,
+            46.2061283
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1379382938",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Promenade Jean-Treina",
+          "addr:housenumber": "13"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Promenade Jean-Treina",
+          "addr:housenumber": "14"
+        }
+      ],
+      "id": "way/1379382938",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1134004,
+            46.2062416
+          ],
+          [
+            6.1133324,
+            46.2061371
+          ],
+          [
+            6.1133706,
+            46.2061249
+          ],
+          [
+            6.113269,
+            46.2059728
+          ],
+          [
+            6.1134935,
+            46.2059011
+          ],
+          [
+            6.1135062,
+            46.2059205
+          ],
+          [
+            6.1135502,
+            46.2059878
+          ],
+          [
+            6.1135623,
+            46.2060063
+          ],
+          [
+            6.1135278,
+            46.2060199
+          ],
+          [
+            6.1135083,
+            46.2060557
+          ],
+          [
+            6.1135213,
+            46.206077
+          ],
+          [
+            6.1135899,
+            46.2061822
+          ],
+          [
+            6.1134004,
+            46.2062416
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1379382939",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Promenade Jean-Treina",
+          "addr:housenumber": "9"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Promenade Jean-Treina",
+          "addr:housenumber": "10"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Promenade Jean-Treina",
+          "addr:housenumber": "11"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Promenade Jean-Treina",
+          "addr:housenumber": "12"
+        }
+      ],
+      "id": "way/1379382939",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1135949,
+            46.2059971
+          ],
+          [
+            6.1135381,
+            46.2059105
+          ],
+          [
+            6.1135098,
+            46.2058657
+          ],
+          [
+            6.1138067,
+            46.205772
+          ],
+          [
+            6.1138232,
+            46.2057978
+          ],
+          [
+            6.1140447,
+            46.2057304
+          ],
+          [
+            6.1141462,
+            46.2058823
+          ],
+          [
+            6.1141799,
+            46.205871
+          ],
+          [
+            6.1142471,
+            46.2059813
+          ],
+          [
+            6.1142358,
+            46.2059833
+          ],
+          [
+            6.1140738,
+            46.2060308
+          ],
+          [
+            6.11406,
+            46.2060335
+          ],
+          [
+            6.1139907,
+            46.2059307
+          ],
+          [
+            6.113976,
+            46.205907
+          ],
+          [
+            6.1139223,
+            46.2058929
+          ],
+          [
+            6.1138906,
+            46.2059034
+          ],
+          [
+            6.1135949,
+            46.2059971
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1379382940",
+    "properties": {
+      "building": "apartments",
+      "owner": "Société Coopérative d’Habitation Genève",
+      "owner:abbr": "SCHG",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179629",
+      "addr": [
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Promenade Jean-Treina",
+          "addr:housenumber": "8"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Promenade Jean-Treina",
+          "addr:housenumber": "5"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Promenade Jean-Treina",
+          "addr:housenumber": "6"
+        },
+        {
+          "addr:city": "Genève",
+          "addr:postcode": "1203",
+          "addr:street": "Promenade Jean-Treina",
+          "addr:housenumber": "7"
+        }
+      ],
+      "id": "way/1379382940",
+      "owner:website": "https://schg.ch/",
+      "owner:start_date": "1919-01-01T00:00:00Z",
+      "owner:swiss_business_uid": "CHE-107.744.183"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.1140886,
+            46.2060805
+          ],
+          [
+            6.1142641,
+            46.2060295
+          ],
+          [
+            6.1142885,
+            46.2060213
+          ],
+          [
+            6.1143499,
+            46.2061273
+          ],
+          [
+            6.1143114,
+            46.2061365
+          ],
+          [
+            6.1144116,
+            46.2062909
+          ],
+          [
+            6.1141882,
+            46.2063614
+          ],
+          [
+            6.1141528,
+            46.2063742
+          ],
+          [
+            6.1141351,
+            46.2064081
+          ],
+          [
+            6.114151,
+            46.2064326
+          ],
+          [
+            6.1142162,
+            46.2065332
+          ],
+          [
+            6.1142339,
+            46.2065605
+          ],
+          [
+            6.1140831,
+            46.2066069
+          ],
+          [
+            6.1140503,
+            46.2065582
+          ],
+          [
+            6.1138972,
+            46.2063273
+          ],
+          [
+            6.114119,
+            46.2062557
+          ],
+          [
+            6.1141535,
+            46.2062455
+          ],
+          [
+            6.1141734,
+            46.2062062
+          ],
+          [
+            6.1141575,
+            46.2061837
+          ],
+          [
+            6.1140886,
+            46.2060805
+          ]
+        ]
+      ]
+    }
+  }
+]}

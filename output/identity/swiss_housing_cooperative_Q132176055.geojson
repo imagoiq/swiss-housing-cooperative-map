@@ -1,1 +1,348 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/45732344","properties":{"building":"apartments","building:flats":"30","building:levels":"5","operator":"Société coopérative d'habitation Lausanne","operator:abbr":"SCHL","operator:type":"cooperative","operator:website":"https://schl.ch/","operator:wikidata":"Q126741196","owner":"Coopérative d'habitation des employés du rail","owner:abbr":"CHER","owner:type":"cooperative","owner:wikidata":"Q132176055","roof:levels":"0","source":"Orthophoto Ville de Lausanne 2008","start_date":"1974","addr":[{"addr:city":"Lausanne","addr:postcode":"1007","addr:street":"Avenue de Morges","addr:housenumber":"31a"},{"addr:city":"Lausanne","addr:postcode":"1007","addr:street":"Avenue de Morges","addr:housenumber":"31b"}],"id":"way/45732344","start_date_parsed":"1974-01-01T00:00:00.000Z","owner:swiss_business_uid":"CHE-102.316.733","operator:start_date":"1920-01-01T00:00:00Z","operator:swiss_business_uid":"CHE-107.036.838"},"geometry":{"type":"Polygon","coordinates":[[[6.6177968,46.524872],[6.6180223,46.5247718],[6.6180001,46.5247482],[6.6181702,46.5246726],[6.6183157,46.5248275],[6.6179201,46.5250034],[6.6177968,46.524872]]]}},{"type":"Feature","id":"way/46344015","properties":{"building":"apartments","building:flats":"30","building:levels":"7","heating":"pellet;district_heating","last_renovation":"2020","operator":"Société coopérative d'habitation Lausanne","operator:abbr":"SCHL","operator:type":"cooperative","operator:website":"https://schl.ch/","operator:wikidata":"Q126741196","owner":"Coopérative d'habitation des employés du rail","owner:abbr":"CHER","owner:type":"cooperative","owner:wikidata":"Q132176055","start_date":"1965","addr":[{"addr:city":"Lausanne","addr:postcode":"1007","addr:street":"Avenue de Cour","addr:housenumber":"140"},{"addr:city":"Lausanne","addr:postcode":"1007","addr:street":"Chemin de Contigny","addr:housenumber":"30"},{"addr:city":"Lausanne","addr:postcode":"1007","addr:street":"Chemin de Contigny","addr:housenumber":"28"}],"id":"way/46344015","start_date_parsed":"1965-01-01T00:00:00.000Z","last_renovation_parsed":"2020-01-01T00:00:00.000Z","owner:swiss_business_uid":"CHE-102.316.733","operator:start_date":"1920-01-01T00:00:00Z","operator:swiss_business_uid":"CHE-107.036.838"},"geometry":{"type":"Polygon","coordinates":[[[6.6097867,46.5181926],[6.6094108,46.5179344],[6.6094794,46.5178871],[6.6094651,46.5178773],[6.6095271,46.5178345],[6.6096315,46.5179062],[6.6096438,46.5178977],[6.6097853,46.5179949],[6.6099297,46.5180941],[6.6097867,46.5181926]]]}},{"type":"Feature","id":"way/46344019","properties":{"building":"apartments","building:flats":"22","building:levels":"6","heating":"pellet","operator":"Société coopérative d'habitation Lausanne","operator:abbr":"SCHL","operator:type":"cooperative","operator:website":"https://schl.ch/","operator:wikidata":"Q126741196","owner":"Coopérative d'habitation des employés du rail","owner:abbr":"CHER","owner:type":"cooperative","owner:wikidata":"Q132176055","start_date":"2019","addr":[{"addr:city":"Lausanne","addr:postcode":"1007","addr:street":"Avenue de Cour","addr:housenumber":"154"},{"addr:city":"Lausanne","addr:postcode":"1007","addr:street":"Avenue de Cour","addr:housenumber":"156"}],"id":"way/46344019","start_date_parsed":"2019-01-01T00:00:00.000Z","owner:swiss_business_uid":"CHE-102.316.733","operator:start_date":"1920-01-01T00:00:00Z","operator:swiss_business_uid":"CHE-107.036.838"},"geometry":{"type":"Polygon","coordinates":[[[6.6084172,46.5187872],[6.6082811,46.5186976],[6.6083892,46.51862],[6.6085685,46.5184912],[6.60862,46.5185272],[6.6087033,46.5185817],[6.6084172,46.5187872]]]}},{"type":"Feature","id":"way/1294344143","properties":{"building":"apartments","building:flats":"60","building:levels":"6","heating":"pellet;district_heating","last_renovation":"2020","owner":"Coopérative d'habitation des employés du rail","owner:abbr":"CHER","owner:type":"cooperative","owner:wikidata":"Q132176055","start_date":"1965","addr":[{"addr:city":"Lausanne","addr:postcode":"1007","addr:street":"Avenue de Cour","addr:housenumber":"150"},{"addr:city":"Lausanne","addr:postcode":"1007","addr:street":"Avenue de Cour","addr:housenumber":"152"},{"addr:city":"Lausanne","addr:postcode":"1007","addr:street":"Avenue de Cour","addr:housenumber":"148"},{"addr:city":"Lausanne","addr:postcode":"1007","addr:street":"Avenue de Cour","addr:housenumber":"146"},{"addr:city":"Lausanne","addr:postcode":"1007","addr:street":"Avenue de Cour","addr:housenumber":"144"}],"id":"way/1294344143","start_date_parsed":"1965-01-01T00:00:00.000Z","last_renovation_parsed":"2020-01-01T00:00:00.000Z","owner:swiss_business_uid":"CHE-102.316.733"},"geometry":{"type":"Polygon","coordinates":[[[6.6090188,46.5184329],[6.6087609,46.5186194],[6.6087033,46.5185817],[6.60862,46.5185272],[6.6087643,46.5184229],[6.6088767,46.5183416],[6.6089407,46.5183835],[6.6093204,46.5181088],[6.6094497,46.5181935],[6.6090713,46.5184673],[6.6090188,46.5184329]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/45732344",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "30",
+      "building:levels": "5",
+      "operator": "Société coopérative d'habitation Lausanne",
+      "operator:abbr": "SCHL",
+      "operator:type": "cooperative",
+      "operator:website": "https://schl.ch/",
+      "operator:wikidata": "Q126741196",
+      "owner": "Coopérative d'habitation des employés du rail",
+      "owner:abbr": "CHER",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132176055",
+      "roof:levels": "0",
+      "source": "Orthophoto Ville de Lausanne 2008",
+      "start_date": "1974",
+      "addr": [
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1007",
+          "addr:street": "Avenue de Morges",
+          "addr:housenumber": "31a"
+        },
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1007",
+          "addr:street": "Avenue de Morges",
+          "addr:housenumber": "31b"
+        }
+      ],
+      "id": "way/45732344",
+      "start_date_parsed": "1974-01-01T00:00:00.000Z",
+      "owner:swiss_business_uid": "CHE-102.316.733",
+      "operator:start_date": "1920-01-01T00:00:00Z",
+      "operator:swiss_business_uid": "CHE-107.036.838"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6177968,
+            46.524872
+          ],
+          [
+            6.6180223,
+            46.5247718
+          ],
+          [
+            6.6180001,
+            46.5247482
+          ],
+          [
+            6.6181702,
+            46.5246726
+          ],
+          [
+            6.6183157,
+            46.5248275
+          ],
+          [
+            6.6179201,
+            46.5250034
+          ],
+          [
+            6.6177968,
+            46.524872
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/46344015",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "30",
+      "building:levels": "7",
+      "heating": "pellet;district_heating",
+      "last_renovation": "2020",
+      "operator": "Société coopérative d'habitation Lausanne",
+      "operator:abbr": "SCHL",
+      "operator:type": "cooperative",
+      "operator:website": "https://schl.ch/",
+      "operator:wikidata": "Q126741196",
+      "owner": "Coopérative d'habitation des employés du rail",
+      "owner:abbr": "CHER",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132176055",
+      "start_date": "1965",
+      "addr": [
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1007",
+          "addr:street": "Avenue de Cour",
+          "addr:housenumber": "140"
+        },
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1007",
+          "addr:street": "Chemin de Contigny",
+          "addr:housenumber": "30"
+        },
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1007",
+          "addr:street": "Chemin de Contigny",
+          "addr:housenumber": "28"
+        }
+      ],
+      "id": "way/46344015",
+      "start_date_parsed": "1965-01-01T00:00:00.000Z",
+      "last_renovation_parsed": "2020-01-01T00:00:00.000Z",
+      "owner:swiss_business_uid": "CHE-102.316.733",
+      "operator:start_date": "1920-01-01T00:00:00Z",
+      "operator:swiss_business_uid": "CHE-107.036.838"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6097867,
+            46.5181926
+          ],
+          [
+            6.6094108,
+            46.5179344
+          ],
+          [
+            6.6094794,
+            46.5178871
+          ],
+          [
+            6.6094651,
+            46.5178773
+          ],
+          [
+            6.6095271,
+            46.5178345
+          ],
+          [
+            6.6096315,
+            46.5179062
+          ],
+          [
+            6.6096438,
+            46.5178977
+          ],
+          [
+            6.6097853,
+            46.5179949
+          ],
+          [
+            6.6099297,
+            46.5180941
+          ],
+          [
+            6.6097867,
+            46.5181926
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/46344019",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "22",
+      "building:levels": "6",
+      "heating": "pellet",
+      "operator": "Société coopérative d'habitation Lausanne",
+      "operator:abbr": "SCHL",
+      "operator:type": "cooperative",
+      "operator:website": "https://schl.ch/",
+      "operator:wikidata": "Q126741196",
+      "owner": "Coopérative d'habitation des employés du rail",
+      "owner:abbr": "CHER",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132176055",
+      "start_date": "2019",
+      "addr": [
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1007",
+          "addr:street": "Avenue de Cour",
+          "addr:housenumber": "154"
+        },
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1007",
+          "addr:street": "Avenue de Cour",
+          "addr:housenumber": "156"
+        }
+      ],
+      "id": "way/46344019",
+      "start_date_parsed": "2019-01-01T00:00:00.000Z",
+      "owner:swiss_business_uid": "CHE-102.316.733",
+      "operator:start_date": "1920-01-01T00:00:00Z",
+      "operator:swiss_business_uid": "CHE-107.036.838"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6084172,
+            46.5187872
+          ],
+          [
+            6.6082811,
+            46.5186976
+          ],
+          [
+            6.6083892,
+            46.51862
+          ],
+          [
+            6.6085685,
+            46.5184912
+          ],
+          [
+            6.60862,
+            46.5185272
+          ],
+          [
+            6.6087033,
+            46.5185817
+          ],
+          [
+            6.6084172,
+            46.5187872
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/1294344143",
+    "properties": {
+      "building": "apartments",
+      "building:flats": "60",
+      "building:levels": "6",
+      "heating": "pellet;district_heating",
+      "last_renovation": "2020",
+      "owner": "Coopérative d'habitation des employés du rail",
+      "owner:abbr": "CHER",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132176055",
+      "start_date": "1965",
+      "addr": [
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1007",
+          "addr:street": "Avenue de Cour",
+          "addr:housenumber": "150"
+        },
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1007",
+          "addr:street": "Avenue de Cour",
+          "addr:housenumber": "152"
+        },
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1007",
+          "addr:street": "Avenue de Cour",
+          "addr:housenumber": "148"
+        },
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1007",
+          "addr:street": "Avenue de Cour",
+          "addr:housenumber": "146"
+        },
+        {
+          "addr:city": "Lausanne",
+          "addr:postcode": "1007",
+          "addr:street": "Avenue de Cour",
+          "addr:housenumber": "144"
+        }
+      ],
+      "id": "way/1294344143",
+      "start_date_parsed": "1965-01-01T00:00:00.000Z",
+      "last_renovation_parsed": "2020-01-01T00:00:00.000Z",
+      "owner:swiss_business_uid": "CHE-102.316.733"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.6090188,
+            46.5184329
+          ],
+          [
+            6.6087609,
+            46.5186194
+          ],
+          [
+            6.6087033,
+            46.5185817
+          ],
+          [
+            6.60862,
+            46.5185272
+          ],
+          [
+            6.6087643,
+            46.5184229
+          ],
+          [
+            6.6088767,
+            46.5183416
+          ],
+          [
+            6.6089407,
+            46.5183835
+          ],
+          [
+            6.6093204,
+            46.5181088
+          ],
+          [
+            6.6094497,
+            46.5181935
+          ],
+          [
+            6.6090713,
+            46.5184673
+          ],
+          [
+            6.6090188,
+            46.5184329
+          ]
+        ]
+      ]
+    }
+  }
+]}

@@ -1,1 +1,85 @@
-{"type":"FeatureCollection","features": [{"type":"Feature","id":"way/197851539","properties":{"building":"apartments","owner":"Coopérative des cheminots de la Riviera","owner:short":"CHERI-Riviera","owner:type":"cooperative","owner:wikidata":"Q132179211","addr":[{"addr:city":"La Tour-de-Peilz","addr:postcode":"1814","addr:street":"Chemin des Bulesses","addr:housenumber":"2a"},{"addr:city":"La Tour-de-Peilz","addr:postcode":"1814","addr:street":"Chemin des Bulesses","addr:housenumber":"2b"}],"id":"way/197851539","owner:website":"https://www.cheri-riviera.ch/","owner:swiss_business_uid":"CHE-100.673.671"},"geometry":{"type":"Polygon","coordinates":[[[6.8642225,46.4564249],[6.8642458,46.456218],[6.8646592,46.4562401],[6.8646914,46.456266],[6.8646708,46.4564495],[6.8644728,46.456439],[6.8644812,46.456364],[6.8645501,46.4563676],[6.8645549,46.4563256],[6.8643908,46.4563169],[6.8643777,46.4564332],[6.8642225,46.4564249]]]}}]}
+{"type":"FeatureCollection","features": [
+  {
+    "type": "Feature",
+    "id": "way/197851539",
+    "properties": {
+      "building": "apartments",
+      "owner": "Coopérative des cheminots de la Riviera",
+      "owner:short": "CHERI-Riviera",
+      "owner:type": "cooperative",
+      "owner:wikidata": "Q132179211",
+      "addr": [
+        {
+          "addr:city": "La Tour-de-Peilz",
+          "addr:postcode": "1814",
+          "addr:street": "Chemin des Bulesses",
+          "addr:housenumber": "2a"
+        },
+        {
+          "addr:city": "La Tour-de-Peilz",
+          "addr:postcode": "1814",
+          "addr:street": "Chemin des Bulesses",
+          "addr:housenumber": "2b"
+        }
+      ],
+      "id": "way/197851539",
+      "owner:website": "https://www.cheri-riviera.ch/",
+      "owner:swiss_business_uid": "CHE-100.673.671"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            6.8642225,
+            46.4564249
+          ],
+          [
+            6.8642458,
+            46.456218
+          ],
+          [
+            6.8646592,
+            46.4562401
+          ],
+          [
+            6.8646914,
+            46.456266
+          ],
+          [
+            6.8646708,
+            46.4564495
+          ],
+          [
+            6.8644728,
+            46.456439
+          ],
+          [
+            6.8644812,
+            46.456364
+          ],
+          [
+            6.8645501,
+            46.4563676
+          ],
+          [
+            6.8645549,
+            46.4563256
+          ],
+          [
+            6.8643908,
+            46.4563169
+          ],
+          [
+            6.8643777,
+            46.4564332
+          ],
+          [
+            6.8642225,
+            46.4564249
+          ]
+        ]
+      ]
+    }
+  }
+]}
