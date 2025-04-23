@@ -11,6 +11,6 @@ delete groupedByIdentity[undefined]
 
 // Output
 for(const identity in groupedByIdentity) {
-    writeFileSync(`${outputPath}swiss_housing_cooperative_${identity}.geojson`, `{"type":"FeatureCollection","features": ${JSON.stringify(groupedByIdentity[identity])}}`);
+    writeFileSync(`${outputPath}swiss_housing_cooperative_${identity}.geojson`, `{"type":"FeatureCollection","features": ${JSON.stringify(groupedByIdentity[identity], null, 2)}}`);
 }
 
