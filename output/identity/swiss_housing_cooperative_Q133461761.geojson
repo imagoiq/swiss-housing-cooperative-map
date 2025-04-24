@@ -1,351 +1,354 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/81247323",
-    "properties": {
-      "architect": "Jean-Pierre Ador,Gérard Kupfer",
-      "building": "apartments",
-      "owner": "Coprolo Poussy",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133461761",
-      "start_date": "1994",
-      "addr": [
-        {
-          "addr:city": "Vernier",
-          "addr:postcode": "1214",
-          "addr:street": "Chemin des Myosotis",
-          "addr:housenumber": "20"
-        },
-        {
-          "addr:city": "Vernier",
-          "addr:postcode": "1214",
-          "addr:street": "Chemin des Myosotis",
-          "addr:housenumber": "22"
-        },
-        {
-          "addr:city": "Vernier",
-          "addr:postcode": "1214",
-          "addr:street": "Chemin des Myosotis",
-          "addr:housenumber": "24"
-        }
-      ],
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/81247323",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "owner:website": "https://coprolo.ch/cooperatives/coprolo-poussy",
-      "owner:swiss_business_uid": "CHE-102.516.924"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "architect": "Jean-Pierre Ador,Gérard Kupfer",
+        "building": "apartments",
+        "owner": "Coprolo Poussy",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133461761",
+        "start_date": "1994",
+        "addr": [
+          {
+            "addr:city": "Vernier",
+            "addr:postcode": "1214",
+            "addr:street": "Chemin des Myosotis",
+            "addr:housenumber": "20"
+          },
+          {
+            "addr:city": "Vernier",
+            "addr:postcode": "1214",
+            "addr:street": "Chemin des Myosotis",
+            "addr:housenumber": "22"
+          },
+          {
+            "addr:city": "Vernier",
+            "addr:postcode": "1214",
+            "addr:street": "Chemin des Myosotis",
+            "addr:housenumber": "24"
+          }
+        ],
+        "id": "way/81247323",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "owner:website": "https://coprolo.ch/cooperatives/coprolo-poussy",
+        "owner:swiss_business_uid": "CHE-102.516.924"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.0917535,
-            46.2171505
-          ],
-          [
-            6.0914279,
-            46.2168752
-          ],
-          [
-            6.0914162,
-            46.2168653
-          ],
-          [
-            6.0915625,
-            46.2167824
-          ],
-          [
-            6.0915888,
-            46.2168047
-          ],
-          [
-            6.0916514,
-            46.2168576
-          ],
-          [
-            6.0918999,
-            46.2170676
-          ],
-          [
-            6.0917535,
-            46.2171505
+            [
+              6.0917535,
+              46.2171505
+            ],
+            [
+              6.0914279,
+              46.2168752
+            ],
+            [
+              6.0914162,
+              46.2168653
+            ],
+            [
+              6.0915625,
+              46.2167824
+            ],
+            [
+              6.0915888,
+              46.2168047
+            ],
+            [
+              6.0916514,
+              46.2168576
+            ],
+            [
+              6.0918999,
+              46.2170676
+            ],
+            [
+              6.0917535,
+              46.2171505
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/81247392",
-    "properties": {
-      "architect": "Jean-Pierre Ador,Gérard Kupfer",
-      "building": "apartments",
-      "owner": "Coprolo Poussy",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133461761",
-      "start_date": "1994",
-      "addr": [
-        {
-          "addr:city": "Vernier",
-          "addr:postcode": "1214",
-          "addr:street": "Chemin des Myosotis",
-          "addr:housenumber": "8"
-        },
-        {
-          "addr:city": "Vernier",
-          "addr:postcode": "1214",
-          "addr:street": "Chemin des Myosotis",
-          "addr:housenumber": "6"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/81247392",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "owner:website": "https://coprolo.ch/cooperatives/coprolo-poussy",
-      "owner:swiss_business_uid": "CHE-102.516.924"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "architect": "Jean-Pierre Ador,Gérard Kupfer",
+        "building": "apartments",
+        "owner": "Coprolo Poussy",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133461761",
+        "start_date": "1994",
+        "addr": [
+          {
+            "addr:city": "Vernier",
+            "addr:postcode": "1214",
+            "addr:street": "Chemin des Myosotis",
+            "addr:housenumber": "8"
+          },
+          {
+            "addr:city": "Vernier",
+            "addr:postcode": "1214",
+            "addr:street": "Chemin des Myosotis",
+            "addr:housenumber": "6"
+          }
+        ],
+        "id": "way/81247392",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "owner:website": "https://coprolo.ch/cooperatives/coprolo-poussy",
+        "owner:swiss_business_uid": "CHE-102.516.924"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.0908747,
-            46.2168916
-          ],
-          [
-            6.0906764,
-            46.2167218
-          ],
-          [
-            6.0906329,
-            46.2166846
-          ],
-          [
-            6.0907774,
-            46.2166039
-          ],
-          [
-            6.0908388,
-            46.2166565
-          ],
-          [
-            6.0908986,
-            46.2167077
-          ],
-          [
-            6.0910191,
-            46.216811
-          ],
-          [
-            6.0909462,
-            46.2168517
-          ],
-          [
-            6.0908747,
-            46.2168916
+            [
+              6.0908747,
+              46.2168916
+            ],
+            [
+              6.0906764,
+              46.2167218
+            ],
+            [
+              6.0906329,
+              46.2166846
+            ],
+            [
+              6.0907774,
+              46.2166039
+            ],
+            [
+              6.0908388,
+              46.2166565
+            ],
+            [
+              6.0908986,
+              46.2167077
+            ],
+            [
+              6.0910191,
+              46.216811
+            ],
+            [
+              6.0909462,
+              46.2168517
+            ],
+            [
+              6.0908747,
+              46.2168916
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/81247443",
-    "properties": {
-      "architect": "Jean-Pierre Ador,Gérard Kupfer",
-      "building": "apartments",
-      "owner": "Coprolo Poussy",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133461761",
-      "start_date": "1994",
-      "addr": [
-        {
-          "addr:city": "Vernier",
-          "addr:postcode": "1214",
-          "addr:street": "Chemin des Myosotis",
-          "addr:housenumber": "28"
-        },
-        {
-          "addr:city": "Vernier",
-          "addr:postcode": "1214",
-          "addr:street": "Chemin des Myosotis",
-          "addr:housenumber": "26"
-        },
-        {
-          "addr:city": "Vernier",
-          "addr:postcode": "1214",
-          "addr:street": "Chemin des Myosotis",
-          "addr:housenumber": "24"
-        },
-        {
-          "addr:city": "Vernier",
-          "addr:postcode": "1214",
-          "addr:street": "Chemin des Myosotis",
-          "addr:housenumber": "22"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/81247443",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "owner:website": "https://coprolo.ch/cooperatives/coprolo-poussy",
-      "owner:swiss_business_uid": "CHE-102.516.924"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "architect": "Jean-Pierre Ador,Gérard Kupfer",
+        "building": "apartments",
+        "owner": "Coprolo Poussy",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133461761",
+        "start_date": "1994",
+        "addr": [
+          {
+            "addr:city": "Vernier",
+            "addr:postcode": "1214",
+            "addr:street": "Chemin des Myosotis",
+            "addr:housenumber": "28"
+          },
+          {
+            "addr:city": "Vernier",
+            "addr:postcode": "1214",
+            "addr:street": "Chemin des Myosotis",
+            "addr:housenumber": "26"
+          },
+          {
+            "addr:city": "Vernier",
+            "addr:postcode": "1214",
+            "addr:street": "Chemin des Myosotis",
+            "addr:housenumber": "24"
+          },
+          {
+            "addr:city": "Vernier",
+            "addr:postcode": "1214",
+            "addr:street": "Chemin des Myosotis",
+            "addr:housenumber": "22"
+          }
+        ],
+        "id": "way/81247443",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "owner:website": "https://coprolo.ch/cooperatives/coprolo-poussy",
+        "owner:swiss_business_uid": "CHE-102.516.924"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.0921512,
-            46.2168875
-          ],
-          [
-            6.0922568,
-            46.2168272
-          ],
-          [
-            6.09233,
-            46.2167854
-          ],
-          [
-            6.0927466,
-            46.2165475
-          ],
-          [
-            6.0928636,
-            46.2166456
-          ],
-          [
-            6.0923585,
-            46.2169342
-          ],
-          [
-            6.0922683,
-            46.2169857
-          ],
-          [
-            6.0921512,
-            46.2168875
+            [
+              6.0921512,
+              46.2168875
+            ],
+            [
+              6.0922568,
+              46.2168272
+            ],
+            [
+              6.09233,
+              46.2167854
+            ],
+            [
+              6.0927466,
+              46.2165475
+            ],
+            [
+              6.0928636,
+              46.2166456
+            ],
+            [
+              6.0923585,
+              46.2169342
+            ],
+            [
+              6.0922683,
+              46.2169857
+            ],
+            [
+              6.0921512,
+              46.2168875
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/235128203",
-    "properties": {
-      "architect": "Jean-Pierre Ador,Gérard Kupfer",
-      "building": "apartments",
-      "owner": "Coprolo Poussy",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133461761",
-      "start_date": "1994",
-      "addr": [
-        {
-          "addr:city": "Vernier",
-          "addr:postcode": "1214",
-          "addr:street": "Chemin de l'Esplanade",
-          "addr:housenumber": "43"
-        },
-        {
-          "addr:city": "Vernier",
-          "addr:postcode": "1214",
-          "addr:street": "Chemin de l'Esplanade",
-          "addr:housenumber": "41"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/235128203",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "owner:website": "https://coprolo.ch/cooperatives/coprolo-poussy",
-      "owner:swiss_business_uid": "CHE-102.516.924"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "architect": "Jean-Pierre Ador,Gérard Kupfer",
+        "building": "apartments",
+        "owner": "Coprolo Poussy",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133461761",
+        "start_date": "1994",
+        "addr": [
+          {
+            "addr:city": "Vernier",
+            "addr:postcode": "1214",
+            "addr:street": "Chemin de l'Esplanade",
+            "addr:housenumber": "43"
+          },
+          {
+            "addr:city": "Vernier",
+            "addr:postcode": "1214",
+            "addr:street": "Chemin de l'Esplanade",
+            "addr:housenumber": "41"
+          }
+        ],
+        "id": "way/235128203",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "owner:website": "https://coprolo.ch/cooperatives/coprolo-poussy",
+        "owner:swiss_business_uid": "CHE-102.516.924"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.0911341,
-            46.2159563
-          ],
-          [
-            6.0912647,
-            46.2160669
-          ],
-          [
-            6.0911358,
-            46.2161398
-          ],
-          [
-            6.0908706,
-            46.2159152
-          ],
-          [
-            6.0909995,
-            46.2158424
-          ],
-          [
-            6.0910624,
-            46.2158956
-          ],
-          [
-            6.0911341,
-            46.2159563
+            [
+              6.0911341,
+              46.2159563
+            ],
+            [
+              6.0912647,
+              46.2160669
+            ],
+            [
+              6.0911358,
+              46.2161398
+            ],
+            [
+              6.0908706,
+              46.2159152
+            ],
+            [
+              6.0909995,
+              46.2158424
+            ],
+            [
+              6.0910624,
+              46.2158956
+            ],
+            [
+              6.0911341,
+              46.2159563
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/1377596473",
-    "properties": {
-      "architect": "Jean-Pierre Ador,Gérard Kupfer",
-      "building:part": "apartments",
-      "owner": "Coprolo Poussy",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133461761",
-      "addr": [
-        {
-          "addr:city": "Vernier",
-          "addr:postcode": "1214",
-          "addr:street": "Chemin des Myosotis",
-          "addr:housenumber": "14"
-        },
-        {
-          "addr:city": "Vernier",
-          "addr:postcode": "1214",
-          "addr:street": "Chemin des Myosotis",
-          "addr:housenumber": "16"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1377596473",
-      "owner:website": "https://coprolo.ch/cooperatives/coprolo-poussy",
-      "owner:swiss_business_uid": "CHE-102.516.924"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "architect": "Jean-Pierre Ador,Gérard Kupfer",
+        "building:part": "apartments",
+        "owner": "Coprolo Poussy",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133461761",
+        "addr": [
+          {
+            "addr:city": "Vernier",
+            "addr:postcode": "1214",
+            "addr:street": "Chemin des Myosotis",
+            "addr:housenumber": "14"
+          },
+          {
+            "addr:city": "Vernier",
+            "addr:postcode": "1214",
+            "addr:street": "Chemin des Myosotis",
+            "addr:housenumber": "16"
+          }
+        ],
+        "id": "way/1377596473",
+        "owner:website": "https://coprolo.ch/cooperatives/coprolo-poussy",
+        "owner:swiss_business_uid": "CHE-102.516.924"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.0912922,
-            46.2172377
-          ],
-          [
-            6.0910822,
-            46.2170603
-          ],
-          [
-            6.0912258,
-            46.2169783
-          ],
-          [
-            6.0914377,
-            46.2171564
-          ],
-          [
-            6.0912922,
-            46.2172377
+            [
+              6.0912922,
+              46.2172377
+            ],
+            [
+              6.0910822,
+              46.2170603
+            ],
+            [
+              6.0912258,
+              46.2169783
+            ],
+            [
+              6.0914377,
+              46.2171564
+            ],
+            [
+              6.0912922,
+              46.2172377
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}

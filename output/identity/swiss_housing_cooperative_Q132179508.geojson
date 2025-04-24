@@ -1,369 +1,372 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/197755008",
-    "properties": {
-      "addr:city": "La Tour-de-Peilz",
-      "addr:housenumber": "2e",
-      "addr:postcode": "1814",
-      "addr:street": "Avenue de la Paix",
-      "building": "apartments",
-      "building:levels": "3",
-      "owner": "Coopérative d'habitation Les Jardins de la Paix",
-      "owner:short": "Les Jardins de la Paix",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179508",
-      "start_date": "1994",
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/197755008",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "owner:website": "https://jardinsdelapaix.ch/",
-      "owner:start_date": "1990-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-102.428.645"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "La Tour-de-Peilz",
+        "addr:housenumber": "2e",
+        "addr:postcode": "1814",
+        "addr:street": "Avenue de la Paix",
+        "building": "apartments",
+        "building:levels": "3",
+        "owner": "Coopérative d'habitation Les Jardins de la Paix",
+        "owner:short": "Les Jardins de la Paix",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179508",
+        "start_date": "1994",
+        "id": "way/197755008",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "owner:website": "https://jardinsdelapaix.ch/",
+        "owner:start_date": "1990-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-102.428.645"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8619505,
-            46.4509865
-          ],
-          [
-            6.86188,
-            46.4508635
-          ],
-          [
-            6.8620071,
-            46.4508289
-          ],
-          [
-            6.8620776,
-            46.4509519
-          ],
-          [
-            6.8619505,
-            46.4509865
+            [
+              6.8619505,
+              46.4509865
+            ],
+            [
+              6.86188,
+              46.4508635
+            ],
+            [
+              6.8620071,
+              46.4508289
+            ],
+            [
+              6.8620776,
+              46.4509519
+            ],
+            [
+              6.8619505,
+              46.4509865
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/197755019",
-    "properties": {
-      "addr:city": "La Tour-de-Peilz",
-      "addr:housenumber": "2d",
-      "addr:postcode": "1814",
-      "addr:street": "Avenue de la Paix",
-      "building": "apartments",
-      "building:levels": "3",
-      "owner": "Coopérative d'habitation Les Jardins de la Paix",
-      "owner:short": "Les Jardins de la Paix",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179508",
-      "start_date": "1994",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/197755019",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "owner:website": "https://jardinsdelapaix.ch/",
-      "owner:start_date": "1990-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-102.428.645"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "La Tour-de-Peilz",
+        "addr:housenumber": "2d",
+        "addr:postcode": "1814",
+        "addr:street": "Avenue de la Paix",
+        "building": "apartments",
+        "building:levels": "3",
+        "owner": "Coopérative d'habitation Les Jardins de la Paix",
+        "owner:short": "Les Jardins de la Paix",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179508",
+        "start_date": "1994",
+        "id": "way/197755019",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "owner:website": "https://jardinsdelapaix.ch/",
+        "owner:start_date": "1990-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-102.428.645"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8615761,
-            46.4509675
-          ],
-          [
-            6.8616995,
-            46.4509302
-          ],
-          [
-            6.8617713,
-            46.4510428
-          ],
-          [
-            6.8616479,
-            46.4510802
-          ],
-          [
-            6.8615761,
-            46.4509675
+            [
+              6.8615761,
+              46.4509675
+            ],
+            [
+              6.8616995,
+              46.4509302
+            ],
+            [
+              6.8617713,
+              46.4510428
+            ],
+            [
+              6.8616479,
+              46.4510802
+            ],
+            [
+              6.8615761,
+              46.4509675
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/197755072",
-    "properties": {
-      "addr:city": "La Tour-de-Peilz",
-      "addr:housenumber": "2c",
-      "addr:postcode": "1814",
-      "addr:street": "Avenue de la Paix",
-      "building": "apartments",
-      "building:levels": "3",
-      "owner": "Coopérative d'habitation Les Jardins de la Paix",
-      "owner:short": "Les Jardins de la Paix",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179508",
-      "start_date": "1994",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/197755072",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "owner:website": "https://jardinsdelapaix.ch/",
-      "owner:start_date": "1990-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-102.428.645"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "La Tour-de-Peilz",
+        "addr:housenumber": "2c",
+        "addr:postcode": "1814",
+        "addr:street": "Avenue de la Paix",
+        "building": "apartments",
+        "building:levels": "3",
+        "owner": "Coopérative d'habitation Les Jardins de la Paix",
+        "owner:short": "Les Jardins de la Paix",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179508",
+        "start_date": "1994",
+        "id": "way/197755072",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "owner:website": "https://jardinsdelapaix.ch/",
+        "owner:start_date": "1990-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-102.428.645"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8612657,
-            46.4510884
-          ],
-          [
-            6.8613793,
-            46.45104
-          ],
-          [
-            6.8614741,
-            46.4511457
-          ],
-          [
-            6.8613604,
-            46.4511941
-          ],
-          [
-            6.8612657,
-            46.4510884
+            [
+              6.8612657,
+              46.4510884
+            ],
+            [
+              6.8613793,
+              46.45104
+            ],
+            [
+              6.8614741,
+              46.4511457
+            ],
+            [
+              6.8613604,
+              46.4511941
+            ],
+            [
+              6.8612657,
+              46.4510884
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/197755073",
-    "properties": {
-      "addr:city": "La Tour-de-Peilz",
-      "addr:housenumber": "2b",
-      "addr:postcode": "1814",
-      "addr:street": "Avenue de la Paix",
-      "building": "apartments",
-      "building:levels": "3",
-      "owner": "Coopérative d'habitation Les Jardins de la Paix",
-      "owner:short": "Les Jardins de la Paix",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179508",
-      "start_date": "1994",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/197755073",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "owner:website": "https://jardinsdelapaix.ch/",
-      "owner:start_date": "1990-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-102.428.645"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "La Tour-de-Peilz",
+        "addr:housenumber": "2b",
+        "addr:postcode": "1814",
+        "addr:street": "Avenue de la Paix",
+        "building": "apartments",
+        "building:levels": "3",
+        "owner": "Coopérative d'habitation Les Jardins de la Paix",
+        "owner:short": "Les Jardins de la Paix",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179508",
+        "start_date": "1994",
+        "id": "way/197755073",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "owner:website": "https://jardinsdelapaix.ch/",
+        "owner:start_date": "1990-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-102.428.645"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8609769,
-            46.4512249
-          ],
-          [
-            6.8610951,
-            46.4511716
-          ],
-          [
-            6.861196,
-            46.4512776
-          ],
-          [
-            6.8610778,
-            46.451331
-          ],
-          [
-            6.8609769,
-            46.4512249
+            [
+              6.8609769,
+              46.4512249
+            ],
+            [
+              6.8610951,
+              46.4511716
+            ],
+            [
+              6.861196,
+              46.4512776
+            ],
+            [
+              6.8610778,
+              46.451331
+            ],
+            [
+              6.8609769,
+              46.4512249
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/359172524",
-    "properties": {
-      "addr:city": "Vevey",
-      "addr:country": "CH",
-      "addr:housenumber": "6",
-      "addr:postcode": "1800",
-      "addr:street": "Rue des Marronniers",
-      "architect": "Cristobal & Delgado",
-      "building": "apartments",
-      "building:flats": "15",
-      "building:levels": "4",
-      "heating": "heat_pump",
-      "owner": "Coopérative d'habitation Les Jardins de la Paix",
-      "owner:short": "Les Jardins de la Paix",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179508",
-      "roof:levels": "1",
-      "start_date": "2009",
-      "subsidized": "yes",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/359172524",
-      "start_date_parsed": "2009-01-01T00:00:00.000Z",
-      "owner:website": "https://jardinsdelapaix.ch/",
-      "owner:start_date": "1990-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-102.428.645"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Vevey",
+        "addr:country": "CH",
+        "addr:housenumber": "6",
+        "addr:postcode": "1800",
+        "addr:street": "Rue des Marronniers",
+        "architect": "Cristobal & Delgado",
+        "building": "apartments",
+        "building:flats": "15",
+        "building:levels": "4",
+        "heating": "heat_pump",
+        "owner": "Coopérative d'habitation Les Jardins de la Paix",
+        "owner:short": "Les Jardins de la Paix",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179508",
+        "roof:levels": "1",
+        "start_date": "2009",
+        "subsidized": "yes",
+        "id": "way/359172524",
+        "start_date_parsed": "2009-01-01T00:00:00.000Z",
+        "owner:website": "https://jardinsdelapaix.ch/",
+        "owner:start_date": "1990-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-102.428.645"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8430044,
-            46.4662654
-          ],
-          [
-            6.8429097,
-            46.4661987
-          ],
-          [
-            6.8431423,
-            46.4660421
-          ],
-          [
-            6.8432369,
-            46.4661087
-          ],
-          [
-            6.8430044,
-            46.4662654
+            [
+              6.8430044,
+              46.4662654
+            ],
+            [
+              6.8429097,
+              46.4661987
+            ],
+            [
+              6.8431423,
+              46.4660421
+            ],
+            [
+              6.8432369,
+              46.4661087
+            ],
+            [
+              6.8430044,
+              46.4662654
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/1338573959",
-    "properties": {
-      "addr:city": "La Tour-de-Peilz",
-      "addr:housenumber": "15",
-      "addr:postcode": "1814",
-      "addr:street": "Avenue de la Perrausaz",
-      "building": "apartments",
-      "building:flats": "25",
-      "building:levels": "5",
-      "heating": "pellet",
-      "owner": "Coopérative d'habitation Les Jardins de la Paix",
-      "owner:short": "Les Jardins de la Paix",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179508",
-      "rent:regulation": "yes",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1338573959",
-      "owner:website": "https://jardinsdelapaix.ch/",
-      "owner:start_date": "1990-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-102.428.645"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "La Tour-de-Peilz",
+        "addr:housenumber": "15",
+        "addr:postcode": "1814",
+        "addr:street": "Avenue de la Perrausaz",
+        "building": "apartments",
+        "building:flats": "25",
+        "building:levels": "5",
+        "heating": "pellet",
+        "owner": "Coopérative d'habitation Les Jardins de la Paix",
+        "owner:short": "Les Jardins de la Paix",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179508",
+        "rent:regulation": "yes",
+        "id": "way/1338573959",
+        "owner:website": "https://jardinsdelapaix.ch/",
+        "owner:start_date": "1990-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-102.428.645"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8622264,
-            46.4586452
-          ],
-          [
-            6.8620625,
-            46.458578
-          ],
-          [
-            6.8621637,
-            46.4584053
-          ],
-          [
-            6.8622461,
-            46.4583556
-          ],
-          [
-            6.8624159,
-            46.4584249
-          ],
-          [
-            6.8623,
-            46.4586011
-          ],
-          [
-            6.8622264,
-            46.4586452
+            [
+              6.8622264,
+              46.4586452
+            ],
+            [
+              6.8620625,
+              46.458578
+            ],
+            [
+              6.8621637,
+              46.4584053
+            ],
+            [
+              6.8622461,
+              46.4583556
+            ],
+            [
+              6.8624159,
+              46.4584249
+            ],
+            [
+              6.8623,
+              46.4586011
+            ],
+            [
+              6.8622264,
+              46.4586452
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/1338573960",
-    "properties": {
-      "addr:city": "La Tour-de-Peilz",
-      "addr:housenumber": "21",
-      "addr:postcode": "1814",
-      "addr:street": "Avenue de la Perrausaz",
-      "building": "apartments",
-      "building:flats": "25",
-      "building:levels": "5",
-      "heating": "pellet",
-      "owner": "Coopérative d'habitation Les Jardins de la Paix",
-      "owner:short": "Les Jardins de la Paix",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179508",
-      "rent:regulation": "yes",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1338573960",
-      "owner:website": "https://jardinsdelapaix.ch/",
-      "owner:start_date": "1990-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-102.428.645"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "La Tour-de-Peilz",
+        "addr:housenumber": "21",
+        "addr:postcode": "1814",
+        "addr:street": "Avenue de la Perrausaz",
+        "building": "apartments",
+        "building:flats": "25",
+        "building:levels": "5",
+        "heating": "pellet",
+        "owner": "Coopérative d'habitation Les Jardins de la Paix",
+        "owner:short": "Les Jardins de la Paix",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179508",
+        "rent:regulation": "yes",
+        "id": "way/1338573960",
+        "owner:website": "https://jardinsdelapaix.ch/",
+        "owner:start_date": "1990-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-102.428.645"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8625015,
-            46.4582332
-          ],
-          [
-            6.8623521,
-            46.4581514
-          ],
-          [
-            6.8624861,
-            46.4579896
-          ],
-          [
-            6.8625774,
-            46.457948
-          ],
-          [
-            6.8627322,
-            46.4580323
-          ],
-          [
-            6.862583,
-            46.4581962
-          ],
-          [
-            6.8625015,
-            46.4582332
+            [
+              6.8625015,
+              46.4582332
+            ],
+            [
+              6.8623521,
+              46.4581514
+            ],
+            [
+              6.8624861,
+              46.4579896
+            ],
+            [
+              6.8625774,
+              46.457948
+            ],
+            [
+              6.8627322,
+              46.4580323
+            ],
+            [
+              6.862583,
+              46.4581962
+            ],
+            [
+              6.8625015,
+              46.4582332
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}

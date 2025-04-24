@@ -1,774 +1,777 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/98344982",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "28",
-      "owner": "Société Coopérative d’Habitation Charmontey",
-      "owner:short": "SCH Charmontey",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179778",
-      "addr": [
-        {
-          "addr:city": "Vevey",
-          "addr:postcode": "1800",
-          "addr:street": "Rue du Midi",
-          "addr:housenumber": "10"
-        },
-        {
-          "addr:city": "Vevey",
-          "addr:postcode": "1800",
-          "addr:street": "Rue du Midi",
-          "addr:housenumber": "12"
-        }
-      ],
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/98344982",
-      "owner:website": "https://www.charmontey.ch/",
-      "owner:start_date": "1947-05-30T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-103.978.954"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "28",
+        "owner": "Société Coopérative d’Habitation Charmontey",
+        "owner:short": "SCH Charmontey",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179778",
+        "addr": [
+          {
+            "addr:city": "Vevey",
+            "addr:postcode": "1800",
+            "addr:street": "Rue du Midi",
+            "addr:housenumber": "10"
+          },
+          {
+            "addr:city": "Vevey",
+            "addr:postcode": "1800",
+            "addr:street": "Rue du Midi",
+            "addr:housenumber": "12"
+          }
+        ],
+        "id": "way/98344982",
+        "owner:website": "https://www.charmontey.ch/",
+        "owner:start_date": "1947-05-30T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-103.978.954"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8372928,
-            46.4628655
-          ],
-          [
-            6.8368493,
-            46.462762
-          ],
-          [
-            6.8369132,
-            46.462632
-          ],
-          [
-            6.8373567,
-            46.4627355
-          ],
-          [
-            6.8372928,
-            46.4628655
+            [
+              6.8372928,
+              46.4628655
+            ],
+            [
+              6.8368493,
+              46.462762
+            ],
+            [
+              6.8369132,
+              46.462632
+            ],
+            [
+              6.8373567,
+              46.4627355
+            ],
+            [
+              6.8372928,
+              46.4628655
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/200334213",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "16",
-      "owner": "Société Coopérative d’Habitation Charmontey",
-      "owner:short": "SCH Charmontey",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179778",
-      "source": "Bing",
-      "addr": [
-        {
-          "addr:city": "Vevey",
-          "addr:postcode": "1800",
-          "addr:street": "Boulevard de Charmontey",
-          "addr:housenumber": "60"
-        },
-        {
-          "addr:city": "Vevey",
-          "addr:postcode": "1800",
-          "addr:street": "Boulevard de Charmontey",
-          "addr:housenumber": "62"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/200334213",
-      "owner:website": "https://www.charmontey.ch/",
-      "owner:start_date": "1947-05-30T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-103.978.954"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "16",
+        "owner": "Société Coopérative d’Habitation Charmontey",
+        "owner:short": "SCH Charmontey",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179778",
+        "source": "Bing",
+        "addr": [
+          {
+            "addr:city": "Vevey",
+            "addr:postcode": "1800",
+            "addr:street": "Boulevard de Charmontey",
+            "addr:housenumber": "60"
+          },
+          {
+            "addr:city": "Vevey",
+            "addr:postcode": "1800",
+            "addr:street": "Boulevard de Charmontey",
+            "addr:housenumber": "62"
+          }
+        ],
+        "id": "way/200334213",
+        "owner:website": "https://www.charmontey.ch/",
+        "owner:start_date": "1947-05-30T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-103.978.954"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.847764,
-            46.4665557
-          ],
-          [
-            6.8479021,
-            46.4665179
-          ],
-          [
-            6.8480604,
-            46.4667928
-          ],
-          [
-            6.8479223,
-            46.4668305
-          ],
-          [
-            6.847764,
-            46.4665557
+            [
+              6.847764,
+              46.4665557
+            ],
+            [
+              6.8479021,
+              46.4665179
+            ],
+            [
+              6.8480604,
+              46.4667928
+            ],
+            [
+              6.8479223,
+              46.4668305
+            ],
+            [
+              6.847764,
+              46.4665557
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/200334215",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "12",
-      "owner": "Société Coopérative d’Habitation Charmontey",
-      "owner:short": "SCH Charmontey",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179778",
-      "source": "Bing",
-      "addr": [
-        {
-          "addr:city": "Vevey",
-          "addr:postcode": "1800",
-          "addr:street": "Chemin de la Confrérie",
-          "addr:housenumber": "9"
-        },
-        {
-          "addr:city": "Vevey",
-          "addr:postcode": "1800",
-          "addr:street": "Chemin de la Confrérie",
-          "addr:housenumber": "11"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/200334215",
-      "owner:website": "https://www.charmontey.ch/",
-      "owner:start_date": "1947-05-30T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-103.978.954"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "12",
+        "owner": "Société Coopérative d’Habitation Charmontey",
+        "owner:short": "SCH Charmontey",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179778",
+        "source": "Bing",
+        "addr": [
+          {
+            "addr:city": "Vevey",
+            "addr:postcode": "1800",
+            "addr:street": "Chemin de la Confrérie",
+            "addr:housenumber": "9"
+          },
+          {
+            "addr:city": "Vevey",
+            "addr:postcode": "1800",
+            "addr:street": "Chemin de la Confrérie",
+            "addr:housenumber": "11"
+          }
+        ],
+        "id": "way/200334215",
+        "owner:website": "https://www.charmontey.ch/",
+        "owner:start_date": "1947-05-30T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-103.978.954"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8485425,
-            46.4664033
-          ],
-          [
-            6.8486807,
-            46.4663655
-          ],
-          [
-            6.848839,
-            46.4666403
-          ],
-          [
-            6.8487009,
-            46.4666781
-          ],
-          [
-            6.8485425,
-            46.4664033
+            [
+              6.8485425,
+              46.4664033
+            ],
+            [
+              6.8486807,
+              46.4663655
+            ],
+            [
+              6.848839,
+              46.4666403
+            ],
+            [
+              6.8487009,
+              46.4666781
+            ],
+            [
+              6.8485425,
+              46.4664033
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/200334216",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "16",
-      "owner": "Société Coopérative d’Habitation Charmontey",
-      "owner:short": "SCH Charmontey",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179778",
-      "source": "Bing",
-      "addr": [
-        {
-          "addr:city": "Vevey",
-          "addr:postcode": "1800",
-          "addr:street": "Boulevard de Charmontey",
-          "addr:housenumber": "51"
-        },
-        {
-          "addr:city": "Vevey",
-          "addr:postcode": "1800",
-          "addr:street": "Boulevard de Charmontey",
-          "addr:housenumber": "49"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/200334216",
-      "owner:website": "https://www.charmontey.ch/",
-      "owner:start_date": "1947-05-30T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-103.978.954"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "16",
+        "owner": "Société Coopérative d’Habitation Charmontey",
+        "owner:short": "SCH Charmontey",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179778",
+        "source": "Bing",
+        "addr": [
+          {
+            "addr:city": "Vevey",
+            "addr:postcode": "1800",
+            "addr:street": "Boulevard de Charmontey",
+            "addr:housenumber": "51"
+          },
+          {
+            "addr:city": "Vevey",
+            "addr:postcode": "1800",
+            "addr:street": "Boulevard de Charmontey",
+            "addr:housenumber": "49"
+          }
+        ],
+        "id": "way/200334216",
+        "owner:website": "https://www.charmontey.ch/",
+        "owner:start_date": "1947-05-30T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-103.978.954"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8475878,
-            46.4671627
-          ],
-          [
-            6.847726,
-            46.467125
-          ],
-          [
-            6.8478843,
-            46.4673998
-          ],
-          [
-            6.8477461,
-            46.4674376
-          ],
-          [
-            6.8475878,
-            46.4671627
+            [
+              6.8475878,
+              46.4671627
+            ],
+            [
+              6.847726,
+              46.467125
+            ],
+            [
+              6.8478843,
+              46.4673998
+            ],
+            [
+              6.8477461,
+              46.4674376
+            ],
+            [
+              6.8475878,
+              46.4671627
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/200334219",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "16",
-      "owner": "Société Coopérative d’Habitation Charmontey",
-      "owner:short": "SCH Charmontey",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179778",
-      "source": "Bing",
-      "addr": [
-        {
-          "addr:city": "Vevey",
-          "addr:postcode": "1800",
-          "addr:street": "Boulevard de Charmontey",
-          "addr:housenumber": "48"
-        },
-        {
-          "addr:city": "Vevey",
-          "addr:postcode": "1800",
-          "addr:street": "Boulevard de Charmontey",
-          "addr:housenumber": "50"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/200334219",
-      "owner:website": "https://www.charmontey.ch/",
-      "owner:start_date": "1947-05-30T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-103.978.954"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "16",
+        "owner": "Société Coopérative d’Habitation Charmontey",
+        "owner:short": "SCH Charmontey",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179778",
+        "source": "Bing",
+        "addr": [
+          {
+            "addr:city": "Vevey",
+            "addr:postcode": "1800",
+            "addr:street": "Boulevard de Charmontey",
+            "addr:housenumber": "48"
+          },
+          {
+            "addr:city": "Vevey",
+            "addr:postcode": "1800",
+            "addr:street": "Boulevard de Charmontey",
+            "addr:housenumber": "50"
+          }
+        ],
+        "id": "way/200334219",
+        "owner:website": "https://www.charmontey.ch/",
+        "owner:start_date": "1947-05-30T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-103.978.954"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8475487,
-            46.4661771
-          ],
-          [
-            6.8476868,
-            46.4661393
-          ],
-          [
-            6.8478451,
-            46.4664141
-          ],
-          [
-            6.847707,
-            46.4664519
-          ],
-          [
-            6.8475487,
-            46.4661771
+            [
+              6.8475487,
+              46.4661771
+            ],
+            [
+              6.8476868,
+              46.4661393
+            ],
+            [
+              6.8478451,
+              46.4664141
+            ],
+            [
+              6.847707,
+              46.4664519
+            ],
+            [
+              6.8475487,
+              46.4661771
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/200334225",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "12",
-      "owner": "Société Coopérative d’Habitation Charmontey",
-      "owner:short": "SCH Charmontey",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179778",
-      "source": "Bing",
-      "addr": [
-        {
-          "addr:city": "Vevey",
-          "addr:postcode": "1800",
-          "addr:street": "Chemin de la Confrérie",
-          "addr:housenumber": "5"
-        },
-        {
-          "addr:city": "Vevey",
-          "addr:postcode": "1800",
-          "addr:street": "Chemin de la Confrérie",
-          "addr:housenumber": "7"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/200334225",
-      "owner:website": "https://www.charmontey.ch/",
-      "owner:start_date": "1947-05-30T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-103.978.954"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "12",
+        "owner": "Société Coopérative d’Habitation Charmontey",
+        "owner:short": "SCH Charmontey",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179778",
+        "source": "Bing",
+        "addr": [
+          {
+            "addr:city": "Vevey",
+            "addr:postcode": "1800",
+            "addr:street": "Chemin de la Confrérie",
+            "addr:housenumber": "5"
+          },
+          {
+            "addr:city": "Vevey",
+            "addr:postcode": "1800",
+            "addr:street": "Chemin de la Confrérie",
+            "addr:housenumber": "7"
+          }
+        ],
+        "id": "way/200334225",
+        "owner:website": "https://www.charmontey.ch/",
+        "owner:start_date": "1947-05-30T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-103.978.954"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.84876,
-            46.4667673
-          ],
-          [
-            6.8488982,
-            46.4667295
-          ],
-          [
-            6.8490565,
-            46.4670043
-          ],
-          [
-            6.8489183,
-            46.4670421
-          ],
-          [
-            6.84876,
-            46.4667673
+            [
+              6.84876,
+              46.4667673
+            ],
+            [
+              6.8488982,
+              46.4667295
+            ],
+            [
+              6.8490565,
+              46.4670043
+            ],
+            [
+              6.8489183,
+              46.4670421
+            ],
+            [
+              6.84876,
+              46.4667673
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/200882222",
-    "properties": {
-      "building": "apartments",
-      "owner": "Société Coopérative d’Habitation Charmontey",
-      "owner:short": "SCH Charmontey",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179778",
-      "source": "Orthophoto Cartoriviera 2012",
-      "subsidized": "yes",
-      "addr": [
-        {
-          "addr:city": "Vevey",
-          "addr:postcode": "1800",
-          "addr:street": "Rue d'Italie",
-          "addr:housenumber": "7"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/200882222",
-      "owner:website": "https://www.charmontey.ch/",
-      "owner:start_date": "1947-05-30T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-103.978.954"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Société Coopérative d’Habitation Charmontey",
+        "owner:short": "SCH Charmontey",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179778",
+        "source": "Orthophoto Cartoriviera 2012",
+        "subsidized": "yes",
+        "addr": [
+          {
+            "addr:city": "Vevey",
+            "addr:postcode": "1800",
+            "addr:street": "Rue d'Italie",
+            "addr:housenumber": "7"
+          }
+        ],
+        "id": "way/200882222",
+        "owner:website": "https://www.charmontey.ch/",
+        "owner:start_date": "1947-05-30T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-103.978.954"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8515658,
-            46.4579305
-          ],
-          [
-            6.8514093,
-            46.4579624
-          ],
-          [
-            6.8513669,
-            46.4577959
-          ],
-          [
-            6.851446,
-            46.457782
-          ],
-          [
-            6.8514362,
-            46.4577389
-          ],
-          [
-            6.851526,
-            46.457726
-          ],
-          [
-            6.851526,
-            46.4577343
-          ],
-          [
-            6.8516115,
-            46.4577252
-          ],
-          [
-            6.8516275,
-            46.457768
-          ],
-          [
-            6.8516844,
-            46.4577676
-          ],
-          [
-            6.8517109,
-            46.4578301
-          ],
-          [
-            6.8517367,
-            46.4578987
-          ],
-          [
-            6.8515658,
-            46.4579305
+            [
+              6.8515658,
+              46.4579305
+            ],
+            [
+              6.8514093,
+              46.4579624
+            ],
+            [
+              6.8513669,
+              46.4577959
+            ],
+            [
+              6.851446,
+              46.457782
+            ],
+            [
+              6.8514362,
+              46.4577389
+            ],
+            [
+              6.851526,
+              46.457726
+            ],
+            [
+              6.851526,
+              46.4577343
+            ],
+            [
+              6.8516115,
+              46.4577252
+            ],
+            [
+              6.8516275,
+              46.457768
+            ],
+            [
+              6.8516844,
+              46.4577676
+            ],
+            [
+              6.8517109,
+              46.4578301
+            ],
+            [
+              6.8517367,
+              46.4578987
+            ],
+            [
+              6.8515658,
+              46.4579305
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/200882224",
-    "properties": {
-      "addr:city": "Vevey",
-      "addr:country": "CH",
-      "addr:housenumber": "13",
-      "addr:postcode": "1800",
-      "addr:street": "Rue d'Italie",
-      "building": "apartments",
-      "owner": "Société Coopérative d’Habitation Charmontey",
-      "owner:short": "SCH Charmontey",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179778",
-      "source": "Orthophoto Cartoriviera 2012",
-      "subsidized": "yes",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/200882224",
-      "owner:website": "https://www.charmontey.ch/",
-      "owner:start_date": "1947-05-30T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-103.978.954"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Vevey",
+        "addr:country": "CH",
+        "addr:housenumber": "13",
+        "addr:postcode": "1800",
+        "addr:street": "Rue d'Italie",
+        "building": "apartments",
+        "owner": "Société Coopérative d’Habitation Charmontey",
+        "owner:short": "SCH Charmontey",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179778",
+        "source": "Orthophoto Cartoriviera 2012",
+        "subsidized": "yes",
+        "id": "way/200882224",
+        "owner:website": "https://www.charmontey.ch/",
+        "owner:start_date": "1947-05-30T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-103.978.954"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8512212,
-            46.4578214
-          ],
-          [
-            6.8513669,
-            46.4577959
-          ],
-          [
-            6.8514093,
-            46.4579624
-          ],
-          [
-            6.8512723,
-            46.4579849
-          ],
-          [
-            6.8512212,
-            46.4578214
+            [
+              6.8512212,
+              46.4578214
+            ],
+            [
+              6.8513669,
+              46.4577959
+            ],
+            [
+              6.8514093,
+              46.4579624
+            ],
+            [
+              6.8512723,
+              46.4579849
+            ],
+            [
+              6.8512212,
+              46.4578214
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/218924789",
-    "properties": {
-      "addr:city": "Vevey",
-      "addr:country": "CH",
-      "addr:housenumber": "13",
-      "addr:postcode": "1800",
-      "addr:street": "Chemin de la Confrérie",
-      "building": "apartments",
-      "building:flats": "15",
-      "owner": "Société Coopérative d’Habitation Charmontey",
-      "owner:short": "SCH Charmontey",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179778",
-      "source": "Bing",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/218924789",
-      "owner:website": "https://www.charmontey.ch/",
-      "owner:start_date": "1947-05-30T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-103.978.954"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Vevey",
+        "addr:country": "CH",
+        "addr:housenumber": "13",
+        "addr:postcode": "1800",
+        "addr:street": "Chemin de la Confrérie",
+        "building": "apartments",
+        "building:flats": "15",
+        "owner": "Société Coopérative d’Habitation Charmontey",
+        "owner:short": "SCH Charmontey",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179778",
+        "source": "Bing",
+        "id": "way/218924789",
+        "owner:website": "https://www.charmontey.ch/",
+        "owner:start_date": "1947-05-30T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-103.978.954"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8485156,
-            46.4663004
-          ],
-          [
-            6.8485492,
-            46.4659947
-          ],
-          [
-            6.8487602,
-            46.4660057
-          ],
-          [
-            6.8487517,
-            46.4660834
-          ],
-          [
-            6.8487147,
-            46.4660815
-          ],
-          [
-            6.848699,
-            46.4662242
-          ],
-          [
-            6.8487267,
-            46.4662256
-          ],
-          [
-            6.8487173,
-            46.4663109
-          ],
-          [
-            6.8485156,
-            46.4663004
+            [
+              6.8485156,
+              46.4663004
+            ],
+            [
+              6.8485492,
+              46.4659947
+            ],
+            [
+              6.8487602,
+              46.4660057
+            ],
+            [
+              6.8487517,
+              46.4660834
+            ],
+            [
+              6.8487147,
+              46.4660815
+            ],
+            [
+              6.848699,
+              46.4662242
+            ],
+            [
+              6.8487267,
+              46.4662256
+            ],
+            [
+              6.8487173,
+              46.4663109
+            ],
+            [
+              6.8485156,
+              46.4663004
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/218928046",
-    "properties": {
-      "addr:city": "Vevey",
-      "addr:country": "CH",
-      "addr:housenumber": "6",
-      "addr:postcode": "1800",
-      "addr:street": "Chemin du Souvenir",
-      "building": "apartments",
-      "building:flats": "10",
-      "owner": "Société Coopérative d’Habitation Charmontey",
-      "owner:short": "SCH Charmontey",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179778",
-      "source": "Bing",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/218928046",
-      "owner:website": "https://www.charmontey.ch/",
-      "owner:start_date": "1947-05-30T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-103.978.954"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Vevey",
+        "addr:country": "CH",
+        "addr:housenumber": "6",
+        "addr:postcode": "1800",
+        "addr:street": "Chemin du Souvenir",
+        "building": "apartments",
+        "building:flats": "10",
+        "owner": "Société Coopérative d’Habitation Charmontey",
+        "owner:short": "SCH Charmontey",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179778",
+        "source": "Bing",
+        "id": "way/218928046",
+        "owner:website": "https://www.charmontey.ch/",
+        "owner:start_date": "1947-05-30T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-103.978.954"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8473973,
-            46.4658539
-          ],
-          [
-            6.8475761,
-            46.4658054
-          ],
-          [
-            6.8476662,
-            46.465963
-          ],
-          [
-            6.8474875,
-            46.4660115
-          ],
-          [
-            6.8473973,
-            46.4658539
+            [
+              6.8473973,
+              46.4658539
+            ],
+            [
+              6.8475761,
+              46.4658054
+            ],
+            [
+              6.8476662,
+              46.465963
+            ],
+            [
+              6.8474875,
+              46.4660115
+            ],
+            [
+              6.8473973,
+              46.4658539
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/359172487",
-    "properties": {
-      "addr:city": "Vevey",
-      "addr:country": "CH",
-      "addr:housenumber": "3",
-      "addr:postcode": "1800",
-      "addr:street": "Rue des Marronniers",
-      "building": "apartments",
-      "owner": "Société Coopérative d’Habitation Charmontey",
-      "owner:short": "SCH Charmontey",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179778",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/359172487",
-      "owner:website": "https://www.charmontey.ch/",
-      "owner:start_date": "1947-05-30T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-103.978.954"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Vevey",
+        "addr:country": "CH",
+        "addr:housenumber": "3",
+        "addr:postcode": "1800",
+        "addr:street": "Rue des Marronniers",
+        "building": "apartments",
+        "owner": "Société Coopérative d’Habitation Charmontey",
+        "owner:short": "SCH Charmontey",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179778",
+        "id": "way/359172487",
+        "owner:website": "https://www.charmontey.ch/",
+        "owner:start_date": "1947-05-30T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-103.978.954"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8424386,
-            46.4662967
-          ],
-          [
-            6.8423004,
-            46.4661863
-          ],
-          [
-            6.84244,
-            46.4660982
-          ],
-          [
-            6.8424956,
-            46.4661027
-          ],
-          [
-            6.842744,
-            46.4659285
-          ],
-          [
-            6.8428756,
-            46.4660199
-          ],
-          [
-            6.8424783,
-            46.4662982
-          ],
-          [
-            6.8424386,
-            46.4662967
+            [
+              6.8424386,
+              46.4662967
+            ],
+            [
+              6.8423004,
+              46.4661863
+            ],
+            [
+              6.84244,
+              46.4660982
+            ],
+            [
+              6.8424956,
+              46.4661027
+            ],
+            [
+              6.842744,
+              46.4659285
+            ],
+            [
+              6.8428756,
+              46.4660199
+            ],
+            [
+              6.8424783,
+              46.4662982
+            ],
+            [
+              6.8424386,
+              46.4662967
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/359172522",
-    "properties": {
-      "addr:city": "Vevey",
-      "addr:country": "CH",
-      "addr:housenumber": "1",
-      "addr:postcode": "1800",
-      "addr:street": "Rue des Marronniers",
-      "building": "apartments",
-      "building:levels": "5",
-      "owner": "Société Coopérative d’Habitation Charmontey",
-      "owner:short": "SCH Charmontey",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179778",
-      "roof:levels": "1",
-      "roof:shape": "mansard",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/359172522",
-      "owner:website": "https://www.charmontey.ch/",
-      "owner:start_date": "1947-05-30T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-103.978.954"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Vevey",
+        "addr:country": "CH",
+        "addr:housenumber": "1",
+        "addr:postcode": "1800",
+        "addr:street": "Rue des Marronniers",
+        "building": "apartments",
+        "building:levels": "5",
+        "owner": "Société Coopérative d’Habitation Charmontey",
+        "owner:short": "SCH Charmontey",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179778",
+        "roof:levels": "1",
+        "roof:shape": "mansard",
+        "id": "way/359172522",
+        "owner:website": "https://www.charmontey.ch/",
+        "owner:start_date": "1947-05-30T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-103.978.954"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8428756,
-            46.4660199
-          ],
-          [
-            6.842744,
-            46.4659285
-          ],
-          [
-            6.8429915,
-            46.4657498
-          ],
-          [
-            6.842947,
-            46.4657073
-          ],
-          [
-            6.8431071,
-            46.4656291
-          ],
-          [
-            6.8432198,
-            46.4657411
-          ],
-          [
-            6.8431993,
-            46.465795
-          ],
-          [
-            6.8428756,
-            46.4660199
+            [
+              6.8428756,
+              46.4660199
+            ],
+            [
+              6.842744,
+              46.4659285
+            ],
+            [
+              6.8429915,
+              46.4657498
+            ],
+            [
+              6.842947,
+              46.4657073
+            ],
+            [
+              6.8431071,
+              46.4656291
+            ],
+            [
+              6.8432198,
+              46.4657411
+            ],
+            [
+              6.8431993,
+              46.465795
+            ],
+            [
+              6.8428756,
+              46.4660199
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/849703530",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "16",
-      "owner": "Société Coopérative d’Habitation Charmontey",
-      "owner:short": "SCH Charmontey",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179778",
-      "addr": [
-        {
-          "addr:city": "Vevey",
-          "addr:postcode": "1800",
-          "addr:street": "Avenue de Rolliez",
-          "addr:housenumber": "16"
-        },
-        {
-          "addr:city": "Vevey",
-          "addr:postcode": "1800",
-          "addr:street": "Avenue de Rolliez",
-          "addr:housenumber": "18"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/849703530",
-      "owner:website": "https://www.charmontey.ch/",
-      "owner:start_date": "1947-05-30T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-103.978.954"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "16",
+        "owner": "Société Coopérative d’Habitation Charmontey",
+        "owner:short": "SCH Charmontey",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179778",
+        "addr": [
+          {
+            "addr:city": "Vevey",
+            "addr:postcode": "1800",
+            "addr:street": "Avenue de Rolliez",
+            "addr:housenumber": "16"
+          },
+          {
+            "addr:city": "Vevey",
+            "addr:postcode": "1800",
+            "addr:street": "Avenue de Rolliez",
+            "addr:housenumber": "18"
+          }
+        ],
+        "id": "way/849703530",
+        "owner:website": "https://www.charmontey.ch/",
+        "owner:start_date": "1947-05-30T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-103.978.954"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8560535,
-            46.4595184
-          ],
-          [
-            6.8561395,
-            46.4594415
-          ],
-          [
-            6.856475,
-            46.4596195
-          ],
-          [
-            6.856389,
-            46.4596964
-          ],
-          [
-            6.8560535,
-            46.4595184
+            [
+              6.8560535,
+              46.4595184
+            ],
+            [
+              6.8561395,
+              46.4594415
+            ],
+            [
+              6.856475,
+              46.4596195
+            ],
+            [
+              6.856389,
+              46.4596964
+            ],
+            [
+              6.8560535,
+              46.4595184
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}

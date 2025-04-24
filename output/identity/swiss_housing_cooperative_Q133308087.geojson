@@ -1,75 +1,78 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/372812522",
-    "properties": {
-      "addr:city": "Crissier",
-      "addr:housenumber": "8",
-      "addr:postcode": "1023",
-      "addr:street": "Rue de la Vernie",
-      "building": "apartments",
-      "building:levels": "5",
-      "owner": "Société Coopérative d'Habitations de l'Ouest MIXage",
-      "owner:short": "SCHO MIXage",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133308087",
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/372812522",
-      "owner:swiss_business_uid": "CHE-114.780.965"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Crissier",
+        "addr:housenumber": "8",
+        "addr:postcode": "1023",
+        "addr:street": "Rue de la Vernie",
+        "building": "apartments",
+        "building:levels": "5",
+        "owner": "Société Coopérative d'Habitations de l'Ouest MIXage",
+        "owner:short": "SCHO MIXage",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133308087",
+        "id": "way/372812522",
+        "owner:swiss_business_uid": "CHE-114.780.965"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.5734689,
-            46.5458595
-          ],
-          [
-            6.5735885,
-            46.5457705
-          ],
-          [
-            6.5736321,
-            46.5457858
-          ],
-          [
-            6.5737968,
-            46.5456292
-          ],
-          [
-            6.573832,
-            46.5455469
-          ],
-          [
-            6.5741929,
-            46.5455376
-          ],
-          [
-            6.574223,
-            46.5456669
-          ],
-          [
-            6.5739406,
-            46.5457611
-          ],
-          [
-            6.573874,
-            46.5458512
-          ],
-          [
-            6.5738162,
-            46.5460164
-          ],
-          [
-            6.5737006,
-            46.5460488
-          ],
-          [
-            6.5734689,
-            46.5458595
+            [
+              6.5734689,
+              46.5458595
+            ],
+            [
+              6.5735885,
+              46.5457705
+            ],
+            [
+              6.5736321,
+              46.5457858
+            ],
+            [
+              6.5737968,
+              46.5456292
+            ],
+            [
+              6.573832,
+              46.5455469
+            ],
+            [
+              6.5741929,
+              46.5455376
+            ],
+            [
+              6.574223,
+              46.5456669
+            ],
+            [
+              6.5739406,
+              46.5457611
+            ],
+            [
+              6.573874,
+              46.5458512
+            ],
+            [
+              6.5738162,
+              46.5460164
+            ],
+            [
+              6.5737006,
+              46.5460488
+            ],
+            [
+              6.5734689,
+              46.5458595
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}

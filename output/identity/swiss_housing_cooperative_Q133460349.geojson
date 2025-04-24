@@ -1,69 +1,72 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/994947395",
-    "properties": {
-      "addr:city": "Château-d'Oex",
-      "addr:housenumber": "6",
-      "addr:postcode": "1660",
-      "addr:street": "Chemin de l'Ancien Comté",
-      "building": "apartments",
-      "building:flats": "12",
-      "building:levels": "3",
-      "owner": "Société coopérative d'habitation Nouveau Comté",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460349",
-      "roof:levels": "1",
-      "roof:shape": "gabled",
-      "start_date": "2021-09",
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/994947395",
-      "start_date_parsed": "2021-09-01T00:00:00.000Z",
-      "owner:website": "https://chnc.ch/",
-      "owner:start_date": "2014-05-24T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Château-d'Oex",
+        "addr:housenumber": "6",
+        "addr:postcode": "1660",
+        "addr:street": "Chemin de l'Ancien Comté",
+        "building": "apartments",
+        "building:flats": "12",
+        "building:levels": "3",
+        "owner": "Société coopérative d'habitation Nouveau Comté",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460349",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
+        "start_date": "2021-09",
+        "id": "way/994947395",
+        "start_date_parsed": "2021-09-01T00:00:00.000Z",
+        "owner:website": "https://chnc.ch/",
+        "owner:start_date": "2014-05-24T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            7.1263561,
-            46.4733305
-          ],
-          [
-            7.1261962,
-            46.4732295
-          ],
-          [
-            7.1264222,
-            46.4730597
-          ],
-          [
-            7.126521,
-            46.4731221
-          ],
-          [
-            7.1265699,
-            46.4730854
-          ],
-          [
-            7.1266738,
-            46.473151
-          ],
-          [
-            7.1265208,
-            46.4732659
-          ],
-          [
-            7.126478,
-            46.4732389
-          ],
-          [
-            7.1263561,
-            46.4733305
+            [
+              7.1263561,
+              46.4733305
+            ],
+            [
+              7.1261962,
+              46.4732295
+            ],
+            [
+              7.1264222,
+              46.4730597
+            ],
+            [
+              7.126521,
+              46.4731221
+            ],
+            [
+              7.1265699,
+              46.4730854
+            ],
+            [
+              7.1266738,
+              46.473151
+            ],
+            [
+              7.1265208,
+              46.4732659
+            ],
+            [
+              7.126478,
+              46.4732389
+            ],
+            [
+              7.1263561,
+              46.4733305
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}

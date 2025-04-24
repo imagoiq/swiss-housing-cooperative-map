@@ -1,110 +1,113 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/325814629",
-    "properties": {
-      "addr:city": "Corcelles-sur-Chavornay",
-      "addr:country": "CH",
-      "addr:housenumber": "3",
-      "addr:postcode": "1374",
-      "addr:street": "Le Château",
-      "building": "apartments",
-      "building:flats": "20",
-      "owner": "Coopérative d’Habitation Vie Alternative",
-      "owner:abbr": "CODHAVA",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133286063",
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/325814629",
-      "owner:website": "https://chateaudecorcelles.ch/",
-      "owner:start_date": "1980-05-04T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-101.912.430"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Corcelles-sur-Chavornay",
+        "addr:country": "CH",
+        "addr:housenumber": "3",
+        "addr:postcode": "1374",
+        "addr:street": "Le Château",
+        "building": "apartments",
+        "building:flats": "20",
+        "owner": "Coopérative d’Habitation Vie Alternative",
+        "owner:abbr": "CODHAVA",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133286063",
+        "id": "way/325814629",
+        "owner:website": "https://chateaudecorcelles.ch/",
+        "owner:start_date": "1980-05-04T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-101.912.430"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.5991777,
-            46.7034711
-          ],
-          [
-            6.5993072,
-            46.7034513
-          ],
-          [
-            6.5993815,
-            46.7036012
-          ],
-          [
-            6.5993272,
-            46.7036104
-          ],
-          [
-            6.5993641,
-            46.7036847
-          ],
-          [
-            6.5994084,
-            46.7036733
-          ],
-          [
-            6.5994671,
-            46.7037914
-          ],
-          [
-            6.5994509,
-            46.7037965
-          ],
-          [
-            6.5994681,
-            46.7038298
-          ],
-          [
-            6.5992665,
-            46.7038872
-          ],
-          [
-            6.5992201,
-            46.7038039
-          ],
-          [
-            6.5992852,
-            46.7037908
-          ],
-          [
-            6.5992473,
-            46.7037211
-          ],
-          [
-            6.5992087,
-            46.7037266
-          ],
-          [
-            6.5991458,
-            46.7036239
-          ],
-          [
-            6.5991297,
-            46.7035988
-          ],
-          [
-            6.5990976,
-            46.7036039
-          ],
-          [
-            6.5990257,
-            46.7034818
-          ],
-          [
-            6.5991665,
-            46.7034465
-          ],
-          [
-            6.5991777,
-            46.7034711
+            [
+              6.5991777,
+              46.7034711
+            ],
+            [
+              6.5993072,
+              46.7034513
+            ],
+            [
+              6.5993815,
+              46.7036012
+            ],
+            [
+              6.5993272,
+              46.7036104
+            ],
+            [
+              6.5993641,
+              46.7036847
+            ],
+            [
+              6.5994084,
+              46.7036733
+            ],
+            [
+              6.5994671,
+              46.7037914
+            ],
+            [
+              6.5994509,
+              46.7037965
+            ],
+            [
+              6.5994681,
+              46.7038298
+            ],
+            [
+              6.5992665,
+              46.7038872
+            ],
+            [
+              6.5992201,
+              46.7038039
+            ],
+            [
+              6.5992852,
+              46.7037908
+            ],
+            [
+              6.5992473,
+              46.7037211
+            ],
+            [
+              6.5992087,
+              46.7037266
+            ],
+            [
+              6.5991458,
+              46.7036239
+            ],
+            [
+              6.5991297,
+              46.7035988
+            ],
+            [
+              6.5990976,
+              46.7036039
+            ],
+            [
+              6.5990257,
+              46.7034818
+            ],
+            [
+              6.5991665,
+              46.7034465
+            ],
+            [
+              6.5991777,
+              46.7034711
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}

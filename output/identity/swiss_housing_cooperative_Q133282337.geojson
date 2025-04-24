@@ -1,248 +1,251 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/903055361",
-    "properties": {
-      "addr:city": "Grandvaux",
-      "addr:housenumber": "17",
-      "addr:postcode": "1091",
-      "addr:street": "Rue de la Gare",
-      "alt_name": "La Smala Berber",
-      "building": "apartments",
-      "building:levels": "3",
-      "name": "La Smala Ecovillage",
-      "owner": "Coopérative Bâtir Groupé",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282337",
-      "start_date": "2017",
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/903055361",
-      "start_date_parsed": "2017-01-01T00:00:00.000Z",
-      "owner:website": "https://ecopol.net/batir-groupe/",
-      "owner:start_date": "2006-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-113.820.622"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Grandvaux",
+        "addr:housenumber": "17",
+        "addr:postcode": "1091",
+        "addr:street": "Rue de la Gare",
+        "alt_name": "La Smala Berber",
+        "building": "apartments",
+        "building:levels": "3",
+        "name": "La Smala Ecovillage",
+        "owner": "Coopérative Bâtir Groupé",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282337",
+        "start_date": "2017",
+        "id": "way/903055361",
+        "start_date_parsed": "2017-01-01T00:00:00.000Z",
+        "owner:website": "https://ecopol.net/batir-groupe/",
+        "owner:start_date": "2006-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-113.820.622"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.7249705,
-            46.4975397
-          ],
-          [
-            6.7250996,
-            46.4975514
-          ],
-          [
-            6.7250981,
-            46.4975591
-          ],
-          [
-            6.725093,
-            46.4975859
-          ],
-          [
-            6.7250914,
-            46.4976075
-          ],
-          [
-            6.7250892,
-            46.4976251
-          ],
-          [
-            6.7251328,
-            46.4976287
-          ],
-          [
-            6.7251155,
-            46.4977273
-          ],
-          [
-            6.7249785,
-            46.4977159
-          ],
-          [
-            6.7249802,
-            46.4977062
-          ],
-          [
-            6.7249374,
-            46.4977026
-          ],
-          [
-            6.7247924,
-            46.4976906
-          ],
-          [
-            6.7248101,
-            46.4975892
-          ],
-          [
-            6.7249604,
-            46.4976017
-          ],
-          [
-            6.7249644,
-            46.4975747
-          ],
-          [
-            6.7249705,
-            46.4975397
+            [
+              6.7249705,
+              46.4975397
+            ],
+            [
+              6.7250996,
+              46.4975514
+            ],
+            [
+              6.7250981,
+              46.4975591
+            ],
+            [
+              6.725093,
+              46.4975859
+            ],
+            [
+              6.7250914,
+              46.4976075
+            ],
+            [
+              6.7250892,
+              46.4976251
+            ],
+            [
+              6.7251328,
+              46.4976287
+            ],
+            [
+              6.7251155,
+              46.4977273
+            ],
+            [
+              6.7249785,
+              46.4977159
+            ],
+            [
+              6.7249802,
+              46.4977062
+            ],
+            [
+              6.7249374,
+              46.4977026
+            ],
+            [
+              6.7247924,
+              46.4976906
+            ],
+            [
+              6.7248101,
+              46.4975892
+            ],
+            [
+              6.7249604,
+              46.4976017
+            ],
+            [
+              6.7249644,
+              46.4975747
+            ],
+            [
+              6.7249705,
+              46.4975397
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/1015034364",
-    "properties": {
-      "addr:city": "Cheiry",
-      "addr:country": "CH",
-      "addr:housenumber": "39",
-      "addr:postcode": "1529",
-      "addr:street": "Route de Granges",
-      "building": "apartments",
-      "building:levels": "2",
-      "heating": "pellets",
-      "name": "La Smala Cheiry 1",
-      "owner": "Coopérative Bâtir Groupé",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282337",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "source": "swisstopo SWISSIMAGE",
-      "start_date": "2016-07",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1015034364",
-      "start_date_parsed": "2016-07-01T00:00:00.000Z",
-      "owner:website": "https://ecopol.net/batir-groupe/",
-      "owner:start_date": "2006-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-113.820.622"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Cheiry",
+        "addr:country": "CH",
+        "addr:housenumber": "39",
+        "addr:postcode": "1529",
+        "addr:street": "Route de Granges",
+        "building": "apartments",
+        "building:levels": "2",
+        "heating": "pellets",
+        "name": "La Smala Cheiry 1",
+        "owner": "Coopérative Bâtir Groupé",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282337",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "source": "swisstopo SWISSIMAGE",
+        "start_date": "2016-07",
+        "id": "way/1015034364",
+        "start_date_parsed": "2016-07-01T00:00:00.000Z",
+        "owner:website": "https://ecopol.net/batir-groupe/",
+        "owner:start_date": "2006-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-113.820.622"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8425007,
-            46.7537885
-          ],
-          [
-            6.8424816,
-            46.7537404
-          ],
-          [
-            6.8425374,
-            46.7537015
-          ],
-          [
-            6.8426698,
-            46.7536758
-          ],
-          [
-            6.8427478,
-            46.7536891
-          ],
-          [
-            6.8427668,
-            46.7537388
-          ],
-          [
-            6.8427129,
-            46.7537783
-          ],
-          [
-            6.842668,
-            46.753786
-          ],
-          [
-            6.842673,
-            46.7538009
-          ],
-          [
-            6.8425855,
-            46.7538165
-          ],
-          [
-            6.8425814,
-            46.753804
-          ],
-          [
-            6.8425007,
-            46.7537885
+            [
+              6.8425007,
+              46.7537885
+            ],
+            [
+              6.8424816,
+              46.7537404
+            ],
+            [
+              6.8425374,
+              46.7537015
+            ],
+            [
+              6.8426698,
+              46.7536758
+            ],
+            [
+              6.8427478,
+              46.7536891
+            ],
+            [
+              6.8427668,
+              46.7537388
+            ],
+            [
+              6.8427129,
+              46.7537783
+            ],
+            [
+              6.842668,
+              46.753786
+            ],
+            [
+              6.842673,
+              46.7538009
+            ],
+            [
+              6.8425855,
+              46.7538165
+            ],
+            [
+              6.8425814,
+              46.753804
+            ],
+            [
+              6.8425007,
+              46.7537885
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/1015034365",
-    "properties": {
-      "addr:city": "Cheiry",
-      "addr:country": "CH",
-      "addr:housenumber": "41",
-      "addr:postcode": "1529",
-      "addr:street": "Route de Granges",
-      "building": "apartments",
-      "building:levels": "3",
-      "heating": "pellets",
-      "name": "La Smala Cheiry 2",
-      "owner": "Coopérative Bâtir Groupé",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282337",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "source": "swisstopo SWISSIMAGE",
-      "start_date": "2019-09",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1015034365",
-      "start_date_parsed": "2019-09-01T00:00:00.000Z",
-      "owner:website": "https://ecopol.net/batir-groupe/",
-      "owner:start_date": "2006-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-113.820.622"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Cheiry",
+        "addr:country": "CH",
+        "addr:housenumber": "41",
+        "addr:postcode": "1529",
+        "addr:street": "Route de Granges",
+        "building": "apartments",
+        "building:levels": "3",
+        "heating": "pellets",
+        "name": "La Smala Cheiry 2",
+        "owner": "Coopérative Bâtir Groupé",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282337",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "source": "swisstopo SWISSIMAGE",
+        "start_date": "2019-09",
+        "id": "way/1015034365",
+        "start_date_parsed": "2019-09-01T00:00:00.000Z",
+        "owner:website": "https://ecopol.net/batir-groupe/",
+        "owner:start_date": "2006-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-113.820.622"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.842441,
-            46.7540267
-          ],
-          [
-            6.8422915,
-            46.7539413
-          ],
-          [
-            6.8423066,
-            46.7539289
-          ],
-          [
-            6.842264,
-            46.7539046
-          ],
-          [
-            6.8423498,
-            46.7538341
-          ],
-          [
-            6.8423917,
-            46.7538581
-          ],
-          [
-            6.8423771,
-            46.75387
-          ],
-          [
-            6.8425273,
-            46.7539559
-          ],
-          [
-            6.842441,
-            46.7540267
+            [
+              6.842441,
+              46.7540267
+            ],
+            [
+              6.8422915,
+              46.7539413
+            ],
+            [
+              6.8423066,
+              46.7539289
+            ],
+            [
+              6.842264,
+              46.7539046
+            ],
+            [
+              6.8423498,
+              46.7538341
+            ],
+            [
+              6.8423917,
+              46.7538581
+            ],
+            [
+              6.8423771,
+              46.75387
+            ],
+            [
+              6.8425273,
+              46.7539559
+            ],
+            [
+              6.842441,
+              46.7540267
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}

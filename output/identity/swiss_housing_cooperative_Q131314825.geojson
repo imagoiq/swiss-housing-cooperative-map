@@ -1,2334 +1,2337 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/39416778",
-    "properties": {
-      "addr:city": "Neuchâtel",
-      "addr:housenumber": "5",
-      "addr:postcode": "2000",
-      "addr:street": "Rue des Acacias",
-      "building": "apartments",
-      "building:flats": "34",
-      "building:levels": "7",
-      "heating": "gas",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "1996",
-      "subsidized": "yes",
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/39416778",
-      "start_date_parsed": "1996-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Neuchâtel",
+        "addr:housenumber": "5",
+        "addr:postcode": "2000",
+        "addr:street": "Rue des Acacias",
+        "building": "apartments",
+        "building:flats": "34",
+        "building:levels": "7",
+        "heating": "gas",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "1996",
+        "subsidized": "yes",
+        "id": "way/39416778",
+        "start_date_parsed": "1996-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9204502,
-            47.0009718
-          ],
-          [
-            6.920467,
-            47.0009204
-          ],
-          [
-            6.9204985,
-            47.0008182
-          ],
-          [
-            6.9205146,
-            47.0007657
-          ],
-          [
-            6.9208181,
-            47.0008098
-          ],
-          [
-            6.920803,
-            47.0008609
-          ],
-          [
-            6.9207706,
-            47.0009657
-          ],
-          [
-            6.9207536,
-            47.0010159
-          ],
-          [
-            6.9204502,
-            47.0009718
+            [
+              6.9204502,
+              47.0009718
+            ],
+            [
+              6.920467,
+              47.0009204
+            ],
+            [
+              6.9204985,
+              47.0008182
+            ],
+            [
+              6.9205146,
+              47.0007657
+            ],
+            [
+              6.9208181,
+              47.0008098
+            ],
+            [
+              6.920803,
+              47.0008609
+            ],
+            [
+              6.9207706,
+              47.0009657
+            ],
+            [
+              6.9207536,
+              47.0010159
+            ],
+            [
+              6.9204502,
+              47.0009718
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/47636189",
-    "properties": {
-      "building": "apartments",
-      "building:levels": "3",
-      "heating": "oil",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "source": "Orthophotos2006sitn50cm",
-      "start_date": "1992",
-      "addr": [
-        {
-          "addr:city": "Cortaillod",
-          "addr:postcode": "2016",
-          "addr:street": "Chemin des Polonais",
-          "addr:housenumber": "21"
-        },
-        {
-          "addr:city": "Cortaillod",
-          "addr:postcode": "2016",
-          "addr:street": "Chemin des Polonais",
-          "addr:housenumber": "23"
-        },
-        {
-          "addr:city": "Cortaillod",
-          "addr:postcode": "2016",
-          "addr:street": "Chemin des Polonais",
-          "addr:housenumber": "25"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/47636189",
-      "start_date_parsed": "1992-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:levels": "3",
+        "heating": "oil",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "source": "Orthophotos2006sitn50cm",
+        "start_date": "1992",
+        "addr": [
+          {
+            "addr:city": "Cortaillod",
+            "addr:postcode": "2016",
+            "addr:street": "Chemin des Polonais",
+            "addr:housenumber": "21"
+          },
+          {
+            "addr:city": "Cortaillod",
+            "addr:postcode": "2016",
+            "addr:street": "Chemin des Polonais",
+            "addr:housenumber": "23"
+          },
+          {
+            "addr:city": "Cortaillod",
+            "addr:postcode": "2016",
+            "addr:street": "Chemin des Polonais",
+            "addr:housenumber": "25"
+          }
+        ],
+        "id": "way/47636189",
+        "start_date_parsed": "1992-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8448591,
-            46.9466651
-          ],
-          [
-            6.8448064,
-            46.9467057
-          ],
-          [
-            6.8448088,
-            46.9467441
-          ],
-          [
-            6.8447567,
-            46.9467436
-          ],
-          [
-            6.8447457,
-            46.9467568
-          ],
-          [
-            6.844715,
-            46.946757
-          ],
-          [
-            6.8446884,
-            46.9467571
-          ],
-          [
-            6.844676,
-            46.9467478
-          ],
-          [
-            6.8446267,
-            46.9467474
-          ],
-          [
-            6.8446267,
-            46.9467648
-          ],
-          [
-            6.8445782,
-            46.9467636
-          ],
-          [
-            6.8445632,
-            46.9467743
-          ],
-          [
-            6.8445334,
-            46.9467754
-          ],
-          [
-            6.8445085,
-            46.9467763
-          ],
-          [
-            6.844488,
-            46.9467661
-          ],
-          [
-            6.8444414,
-            46.9467663
-          ],
-          [
-            6.8444426,
-            46.9467848
-          ],
-          [
-            6.8443928,
-            46.946786
-          ],
-          [
-            6.8443803,
-            46.9467951
-          ],
-          [
-            6.8443474,
-            46.9467951
-          ],
-          [
-            6.8443166,
-            46.9467951
-          ],
-          [
-            6.8443045,
-            46.9467872
-          ],
-          [
-            6.8442568,
-            46.9467878
-          ],
-          [
-            6.8442505,
-            46.9467503
-          ],
-          [
-            6.8441938,
-            46.9467109
-          ],
-          [
-            6.8442487,
-            46.9466726
-          ],
-          [
-            6.8442364,
-            46.9466611
-          ],
-          [
-            6.8442594,
-            46.9466412
-          ],
-          [
-            6.8442824,
-            46.9466533
-          ],
-          [
-            6.8443686,
-            46.9466554
-          ],
-          [
-            6.8444122,
-            46.9466356
-          ],
-          [
-            6.8444436,
-            46.9466214
-          ],
-          [
-            6.8444675,
-            46.9466354
-          ],
-          [
-            6.8445714,
-            46.946634
-          ],
-          [
-            6.8445991,
-            46.9466166
-          ],
-          [
-            6.8446259,
-            46.9465998
-          ],
-          [
-            6.8446588,
-            46.9466197
-          ],
-          [
-            6.8447568,
-            46.9466177
-          ],
-          [
-            6.8447803,
-            46.9466016
-          ],
-          [
-            6.8448039,
-            46.9466124
-          ],
-          [
-            6.8448034,
-            46.946628
-          ],
-          [
-            6.8448591,
-            46.9466651
+            [
+              6.8448591,
+              46.9466651
+            ],
+            [
+              6.8448064,
+              46.9467057
+            ],
+            [
+              6.8448088,
+              46.9467441
+            ],
+            [
+              6.8447567,
+              46.9467436
+            ],
+            [
+              6.8447457,
+              46.9467568
+            ],
+            [
+              6.844715,
+              46.946757
+            ],
+            [
+              6.8446884,
+              46.9467571
+            ],
+            [
+              6.844676,
+              46.9467478
+            ],
+            [
+              6.8446267,
+              46.9467474
+            ],
+            [
+              6.8446267,
+              46.9467648
+            ],
+            [
+              6.8445782,
+              46.9467636
+            ],
+            [
+              6.8445632,
+              46.9467743
+            ],
+            [
+              6.8445334,
+              46.9467754
+            ],
+            [
+              6.8445085,
+              46.9467763
+            ],
+            [
+              6.844488,
+              46.9467661
+            ],
+            [
+              6.8444414,
+              46.9467663
+            ],
+            [
+              6.8444426,
+              46.9467848
+            ],
+            [
+              6.8443928,
+              46.946786
+            ],
+            [
+              6.8443803,
+              46.9467951
+            ],
+            [
+              6.8443474,
+              46.9467951
+            ],
+            [
+              6.8443166,
+              46.9467951
+            ],
+            [
+              6.8443045,
+              46.9467872
+            ],
+            [
+              6.8442568,
+              46.9467878
+            ],
+            [
+              6.8442505,
+              46.9467503
+            ],
+            [
+              6.8441938,
+              46.9467109
+            ],
+            [
+              6.8442487,
+              46.9466726
+            ],
+            [
+              6.8442364,
+              46.9466611
+            ],
+            [
+              6.8442594,
+              46.9466412
+            ],
+            [
+              6.8442824,
+              46.9466533
+            ],
+            [
+              6.8443686,
+              46.9466554
+            ],
+            [
+              6.8444122,
+              46.9466356
+            ],
+            [
+              6.8444436,
+              46.9466214
+            ],
+            [
+              6.8444675,
+              46.9466354
+            ],
+            [
+              6.8445714,
+              46.946634
+            ],
+            [
+              6.8445991,
+              46.9466166
+            ],
+            [
+              6.8446259,
+              46.9465998
+            ],
+            [
+              6.8446588,
+              46.9466197
+            ],
+            [
+              6.8447568,
+              46.9466177
+            ],
+            [
+              6.8447803,
+              46.9466016
+            ],
+            [
+              6.8448039,
+              46.9466124
+            ],
+            [
+              6.8448034,
+              46.946628
+            ],
+            [
+              6.8448591,
+              46.9466651
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/47636192",
-    "properties": {
-      "building": "apartments",
-      "building:levels": "3",
-      "heating": "oil",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "source": "Orthophotos2006sitn50cm",
-      "start_date": "1992",
-      "addr": [
-        {
-          "addr:city": "Cortaillod",
-          "addr:postcode": "2016",
-          "addr:street": "Chemin des Clavaz",
-          "addr:housenumber": "1"
-        },
-        {
-          "addr:city": "Cortaillod",
-          "addr:postcode": "2016",
-          "addr:street": "Chemin des Clavaz",
-          "addr:housenumber": "3"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/47636192",
-      "start_date_parsed": "1992-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:levels": "3",
+        "heating": "oil",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "source": "Orthophotos2006sitn50cm",
+        "start_date": "1992",
+        "addr": [
+          {
+            "addr:city": "Cortaillod",
+            "addr:postcode": "2016",
+            "addr:street": "Chemin des Clavaz",
+            "addr:housenumber": "1"
+          },
+          {
+            "addr:city": "Cortaillod",
+            "addr:postcode": "2016",
+            "addr:street": "Chemin des Clavaz",
+            "addr:housenumber": "3"
+          }
+        ],
+        "id": "way/47636192",
+        "start_date_parsed": "1992-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8456319,
-            46.9475179
-          ],
-          [
-            6.845663,
-            46.9475371
-          ],
-          [
-            6.8457567,
-            46.9475343
-          ],
-          [
-            6.8458197,
-            46.9474993
-          ],
-          [
-            6.8458485,
-            46.9475183
-          ],
-          [
-            6.8459466,
-            46.9475151
-          ],
-          [
-            6.8459679,
-            46.9474948
-          ],
-          [
-            6.8459898,
-            46.9475081
-          ],
-          [
-            6.8459912,
-            46.9475253
-          ],
-          [
-            6.846051,
-            46.9475615
-          ],
-          [
-            6.8459953,
-            46.9476025
-          ],
-          [
-            6.8459979,
-            46.9476398
-          ],
-          [
-            6.845948,
-            46.9476421
-          ],
-          [
-            6.8459308,
-            46.9476544
-          ],
-          [
-            6.8458761,
-            46.9476552
-          ],
-          [
-            6.8458635,
-            46.9476446
-          ],
-          [
-            6.8458102,
-            46.9476453
-          ],
-          [
-            6.8458108,
-            46.94766
-          ],
-          [
-            6.8457596,
-            46.9476617
-          ],
-          [
-            6.845747,
-            46.9476711
-          ],
-          [
-            6.8456887,
-            46.9476749
-          ],
-          [
-            6.8456774,
-            46.9476646
-          ],
-          [
-            6.8456267,
-            46.9476656
-          ],
-          [
-            6.8456254,
-            46.9476255
-          ],
-          [
-            6.8455685,
-            46.9475875
-          ],
-          [
-            6.8456176,
-            46.9475495
-          ],
-          [
-            6.8456054,
-            46.9475389
-          ],
-          [
-            6.8456319,
-            46.9475179
+            [
+              6.8456319,
+              46.9475179
+            ],
+            [
+              6.845663,
+              46.9475371
+            ],
+            [
+              6.8457567,
+              46.9475343
+            ],
+            [
+              6.8458197,
+              46.9474993
+            ],
+            [
+              6.8458485,
+              46.9475183
+            ],
+            [
+              6.8459466,
+              46.9475151
+            ],
+            [
+              6.8459679,
+              46.9474948
+            ],
+            [
+              6.8459898,
+              46.9475081
+            ],
+            [
+              6.8459912,
+              46.9475253
+            ],
+            [
+              6.846051,
+              46.9475615
+            ],
+            [
+              6.8459953,
+              46.9476025
+            ],
+            [
+              6.8459979,
+              46.9476398
+            ],
+            [
+              6.845948,
+              46.9476421
+            ],
+            [
+              6.8459308,
+              46.9476544
+            ],
+            [
+              6.8458761,
+              46.9476552
+            ],
+            [
+              6.8458635,
+              46.9476446
+            ],
+            [
+              6.8458102,
+              46.9476453
+            ],
+            [
+              6.8458108,
+              46.94766
+            ],
+            [
+              6.8457596,
+              46.9476617
+            ],
+            [
+              6.845747,
+              46.9476711
+            ],
+            [
+              6.8456887,
+              46.9476749
+            ],
+            [
+              6.8456774,
+              46.9476646
+            ],
+            [
+              6.8456267,
+              46.9476656
+            ],
+            [
+              6.8456254,
+              46.9476255
+            ],
+            [
+              6.8455685,
+              46.9475875
+            ],
+            [
+              6.8456176,
+              46.9475495
+            ],
+            [
+              6.8456054,
+              46.9475389
+            ],
+            [
+              6.8456319,
+              46.9475179
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/59263440",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "56",
-      "heating": "oil",
-      "last_renovation": "1999",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "0",
-      "source": "Orthophotos2006sitn50cm",
-      "start_date": "1974",
-      "addr": [
-        {
-          "addr:city": "Cortaillod",
-          "addr:postcode": "2016",
-          "addr:street": "Chemin des Polonais",
-          "addr:housenumber": "33"
-        },
-        {
-          "addr:city": "Cortaillod",
-          "addr:postcode": "2016",
-          "addr:street": "Chemin des Polonais",
-          "addr:housenumber": "31"
-        },
-        {
-          "addr:city": "Cortaillod",
-          "addr:postcode": "2016",
-          "addr:street": "Chemin des Polonais",
-          "addr:housenumber": "29"
-        },
-        {
-          "addr:city": "Cortaillod",
-          "addr:postcode": "2016",
-          "addr:street": "Chemin des Polonais",
-          "addr:housenumber": "27"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/59263440",
-      "start_date_parsed": "1974-01-01T00:00:00.000Z",
-      "last_renovation_parsed": "1999-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "56",
+        "heating": "oil",
+        "last_renovation": "1999",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "0",
+        "source": "Orthophotos2006sitn50cm",
+        "start_date": "1974",
+        "addr": [
+          {
+            "addr:city": "Cortaillod",
+            "addr:postcode": "2016",
+            "addr:street": "Chemin des Polonais",
+            "addr:housenumber": "33"
+          },
+          {
+            "addr:city": "Cortaillod",
+            "addr:postcode": "2016",
+            "addr:street": "Chemin des Polonais",
+            "addr:housenumber": "31"
+          },
+          {
+            "addr:city": "Cortaillod",
+            "addr:postcode": "2016",
+            "addr:street": "Chemin des Polonais",
+            "addr:housenumber": "29"
+          },
+          {
+            "addr:city": "Cortaillod",
+            "addr:postcode": "2016",
+            "addr:street": "Chemin des Polonais",
+            "addr:housenumber": "27"
+          }
+        ],
+        "id": "way/59263440",
+        "start_date_parsed": "1974-01-01T00:00:00.000Z",
+        "last_renovation_parsed": "1999-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8452575,
-            46.9470725
-          ],
-          [
-            6.8452262,
-            46.947096
-          ],
-          [
-            6.8450879,
-            46.9471982
-          ],
-          [
-            6.8451475,
-            46.9472355
-          ],
-          [
-            6.8450579,
-            46.9473022
-          ],
-          [
-            6.8449194,
-            46.9472153
-          ],
-          [
-            6.8450478,
-            46.9471198
-          ],
-          [
-            6.8449876,
-            46.9470821
-          ],
-          [
-            6.8450849,
-            46.9470097
-          ],
-          [
-            6.8451322,
-            46.9470376
-          ],
-          [
-            6.8451428,
-            46.9470278
-          ],
-          [
-            6.845283,
-            46.9469245
-          ],
-          [
-            6.8454575,
-            46.9470329
-          ],
-          [
-            6.8455107,
-            46.9469926
-          ],
-          [
-            6.8456304,
-            46.9470665
-          ],
-          [
-            6.8455791,
-            46.9471053
-          ],
-          [
-            6.8457467,
-            46.9472104
-          ],
-          [
-            6.8456155,
-            46.9473079
-          ],
-          [
-            6.8454686,
-            46.9472158
-          ],
-          [
-            6.8455258,
-            46.9471733
-          ],
-          [
-            6.8455056,
-            46.9471607
-          ],
-          [
-            6.845493,
-            46.9471703
-          ],
-          [
-            6.8453733,
-            46.9470964
-          ],
-          [
-            6.8453918,
-            46.9470821
-          ],
-          [
-            6.8453633,
-            46.9470644
-          ],
-          [
-            6.8453095,
-            46.9471048
-          ],
-          [
-            6.8452575,
-            46.9470725
+            [
+              6.8452575,
+              46.9470725
+            ],
+            [
+              6.8452262,
+              46.947096
+            ],
+            [
+              6.8450879,
+              46.9471982
+            ],
+            [
+              6.8451475,
+              46.9472355
+            ],
+            [
+              6.8450579,
+              46.9473022
+            ],
+            [
+              6.8449194,
+              46.9472153
+            ],
+            [
+              6.8450478,
+              46.9471198
+            ],
+            [
+              6.8449876,
+              46.9470821
+            ],
+            [
+              6.8450849,
+              46.9470097
+            ],
+            [
+              6.8451322,
+              46.9470376
+            ],
+            [
+              6.8451428,
+              46.9470278
+            ],
+            [
+              6.845283,
+              46.9469245
+            ],
+            [
+              6.8454575,
+              46.9470329
+            ],
+            [
+              6.8455107,
+              46.9469926
+            ],
+            [
+              6.8456304,
+              46.9470665
+            ],
+            [
+              6.8455791,
+              46.9471053
+            ],
+            [
+              6.8457467,
+              46.9472104
+            ],
+            [
+              6.8456155,
+              46.9473079
+            ],
+            [
+              6.8454686,
+              46.9472158
+            ],
+            [
+              6.8455258,
+              46.9471733
+            ],
+            [
+              6.8455056,
+              46.9471607
+            ],
+            [
+              6.845493,
+              46.9471703
+            ],
+            [
+              6.8453733,
+              46.9470964
+            ],
+            [
+              6.8453918,
+              46.9470821
+            ],
+            [
+              6.8453633,
+              46.9470644
+            ],
+            [
+              6.8453095,
+              46.9471048
+            ],
+            [
+              6.8452575,
+              46.9470725
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/147330932",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "30",
-      "building:levels": "6",
-      "heating": "gas",
-      "height": "18",
-      "last_renovation": "2012",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:shape": "half-hipped",
-      "source": "Bing",
-      "start_date": "1966",
-      "addr": [
-        {
-          "addr:city": "Morges",
-          "addr:postcode": "1110",
-          "addr:street": "Chemin de la Mottaz",
-          "addr:housenumber": "1"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/147330932",
-      "start_date_parsed": "1966-01-01T00:00:00.000Z",
-      "last_renovation_parsed": "2012-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "30",
+        "building:levels": "6",
+        "heating": "gas",
+        "height": "18",
+        "last_renovation": "2012",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:shape": "half-hipped",
+        "source": "Bing",
+        "start_date": "1966",
+        "addr": [
+          {
+            "addr:city": "Morges",
+            "addr:postcode": "1110",
+            "addr:street": "Chemin de la Mottaz",
+            "addr:housenumber": "1"
+          }
+        ],
+        "id": "way/147330932",
+        "start_date_parsed": "1966-01-01T00:00:00.000Z",
+        "last_renovation_parsed": "2012-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.4836743,
-            46.5117593
-          ],
-          [
-            6.4835724,
-            46.5116704
-          ],
-          [
-            6.4839127,
-            46.5114856
-          ],
-          [
-            6.4840147,
-            46.5115745
-          ],
-          [
-            6.4836743,
-            46.5117593
+            [
+              6.4836743,
+              46.5117593
+            ],
+            [
+              6.4835724,
+              46.5116704
+            ],
+            [
+              6.4839127,
+              46.5114856
+            ],
+            [
+              6.4840147,
+              46.5115745
+            ],
+            [
+              6.4836743,
+              46.5117593
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/148879942",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "24",
-      "building:levels": "6",
-      "heating": "oil",
-      "last_renovation": "2005",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "hipped",
-      "source": "Bing",
-      "start_date": "1970",
-      "addr": [
-        {
-          "addr:city": "Morges",
-          "addr:postcode": "1110",
-          "addr:street": "Avenue de la Vogéaz",
-          "addr:housenumber": "15"
-        },
-        {
-          "addr:city": "Morges",
-          "addr:postcode": "1110",
-          "addr:street": "Avenue de la Vogéaz",
-          "addr:housenumber": "13"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/148879942",
-      "start_date_parsed": "1970-01-01T00:00:00.000Z",
-      "last_renovation_parsed": "2005-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "24",
+        "building:levels": "6",
+        "heating": "oil",
+        "last_renovation": "2005",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "hipped",
+        "source": "Bing",
+        "start_date": "1970",
+        "addr": [
+          {
+            "addr:city": "Morges",
+            "addr:postcode": "1110",
+            "addr:street": "Avenue de la Vogéaz",
+            "addr:housenumber": "15"
+          },
+          {
+            "addr:city": "Morges",
+            "addr:postcode": "1110",
+            "addr:street": "Avenue de la Vogéaz",
+            "addr:housenumber": "13"
+          }
+        ],
+        "id": "way/148879942",
+        "start_date_parsed": "1970-01-01T00:00:00.000Z",
+        "last_renovation_parsed": "2005-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.4808505,
-            46.5109168
-          ],
-          [
-            6.4809607,
-            46.5110178
-          ],
-          [
-            6.4806333,
-            46.5111869
-          ],
-          [
-            6.4805232,
-            46.5110859
-          ],
-          [
-            6.4808505,
-            46.5109168
+            [
+              6.4808505,
+              46.5109168
+            ],
+            [
+              6.4809607,
+              46.5110178
+            ],
+            [
+              6.4806333,
+              46.5111869
+            ],
+            [
+              6.4805232,
+              46.5110859
+            ],
+            [
+              6.4808505,
+              46.5109168
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/152110219",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "35",
-      "building:levels": "5",
-      "heating": "gas",
-      "last_renovation": "2010",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "1962",
-      "addr": [
-        {
-          "addr:city": "Morges",
-          "addr:postcode": "1110",
-          "addr:street": "Chemin de Tolochenaz",
-          "addr:housenumber": "5"
-        },
-        {
-          "addr:city": "Morges",
-          "addr:postcode": "1110",
-          "addr:street": "Chemin de Tolochenaz",
-          "addr:housenumber": "7"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/152110219",
-      "start_date_parsed": "1962-01-01T00:00:00.000Z",
-      "last_renovation_parsed": "2010-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "35",
+        "building:levels": "5",
+        "heating": "gas",
+        "last_renovation": "2010",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "1962",
+        "addr": [
+          {
+            "addr:city": "Morges",
+            "addr:postcode": "1110",
+            "addr:street": "Chemin de Tolochenaz",
+            "addr:housenumber": "5"
+          },
+          {
+            "addr:city": "Morges",
+            "addr:postcode": "1110",
+            "addr:street": "Chemin de Tolochenaz",
+            "addr:housenumber": "7"
+          }
+        ],
+        "id": "way/152110219",
+        "start_date_parsed": "1962-01-01T00:00:00.000Z",
+        "last_renovation_parsed": "2010-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.4829421,
-            46.5107781
-          ],
-          [
-            6.4829462,
-            46.5107742
-          ],
-          [
-            6.483262,
-            46.5104676
-          ],
-          [
-            6.4834061,
-            46.5105418
-          ],
-          [
-            6.4830903,
-            46.5108497
-          ],
-          [
-            6.4829421,
-            46.5107781
+            [
+              6.4829421,
+              46.5107781
+            ],
+            [
+              6.4829462,
+              46.5107742
+            ],
+            [
+              6.483262,
+              46.5104676
+            ],
+            [
+              6.4834061,
+              46.5105418
+            ],
+            [
+              6.4830903,
+              46.5108497
+            ],
+            [
+              6.4829421,
+              46.5107781
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/160746104",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "29",
-      "building:levels": "5",
-      "heating": "oil",
-      "last_renovation": "1989",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "source": "Orthophoto Gland 2012 / R-Pod @ HEIG-VD",
-      "start_date": "1973",
-      "addr": [
-        {
-          "addr:city": "Gland",
-          "addr:postcode": "1196",
-          "addr:street": "Rue des Alpes",
-          "addr:housenumber": "10a"
-        },
-        {
-          "addr:city": "Gland",
-          "addr:postcode": "1196",
-          "addr:street": "Rue des Alpes",
-          "addr:housenumber": "10b"
-        },
-        {
-          "addr:city": "Gland",
-          "addr:postcode": "1196",
-          "addr:street": "Rue des Alpes",
-          "addr:housenumber": "10c"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/160746104",
-      "start_date_parsed": "1973-01-01T00:00:00.000Z",
-      "last_renovation_parsed": "1989-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "29",
+        "building:levels": "5",
+        "heating": "oil",
+        "last_renovation": "1989",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "source": "Orthophoto Gland 2012 / R-Pod @ HEIG-VD",
+        "start_date": "1973",
+        "addr": [
+          {
+            "addr:city": "Gland",
+            "addr:postcode": "1196",
+            "addr:street": "Rue des Alpes",
+            "addr:housenumber": "10a"
+          },
+          {
+            "addr:city": "Gland",
+            "addr:postcode": "1196",
+            "addr:street": "Rue des Alpes",
+            "addr:housenumber": "10b"
+          },
+          {
+            "addr:city": "Gland",
+            "addr:postcode": "1196",
+            "addr:street": "Rue des Alpes",
+            "addr:housenumber": "10c"
+          }
+        ],
+        "id": "way/160746104",
+        "start_date_parsed": "1973-01-01T00:00:00.000Z",
+        "last_renovation_parsed": "1989-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.2780496,
-            46.4191125
-          ],
-          [
-            6.2779349,
-            46.419017
-          ],
-          [
-            6.2784826,
-            46.4187041
-          ],
-          [
-            6.2785973,
-            46.4187996
-          ],
-          [
-            6.2780496,
-            46.4191125
+            [
+              6.2780496,
+              46.4191125
+            ],
+            [
+              6.2779349,
+              46.419017
+            ],
+            [
+              6.2784826,
+              46.4187041
+            ],
+            [
+              6.2785973,
+              46.4187996
+            ],
+            [
+              6.2780496,
+              46.4191125
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/210240277",
-    "properties": {
-      "addr:city": "Préverenges",
-      "addr:housenumber": "54",
-      "addr:postcode": "1028",
-      "addr:street": "Route de Genève",
-      "building": "apartments",
-      "building:flats": "28",
-      "building:levels": "5",
-      "heating": "oil",
-      "last_renovation": "1999",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "hipped",
-      "start_date": "1973",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/210240277",
-      "start_date_parsed": "1973-01-01T00:00:00.000Z",
-      "last_renovation_parsed": "1999-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Préverenges",
+        "addr:housenumber": "54",
+        "addr:postcode": "1028",
+        "addr:street": "Route de Genève",
+        "building": "apartments",
+        "building:flats": "28",
+        "building:levels": "5",
+        "heating": "oil",
+        "last_renovation": "1999",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "hipped",
+        "start_date": "1973",
+        "id": "way/210240277",
+        "start_date_parsed": "1973-01-01T00:00:00.000Z",
+        "last_renovation_parsed": "1999-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.5326048,
-            46.5155042
-          ],
-          [
-            6.5330323,
-            46.5154092
-          ],
-          [
-            6.533039,
-            46.5154236
-          ],
-          [
-            6.5330956,
-            46.5155442
-          ],
-          [
-            6.5326681,
-            46.5156392
-          ],
-          [
-            6.5326048,
-            46.5155042
+            [
+              6.5326048,
+              46.5155042
+            ],
+            [
+              6.5330323,
+              46.5154092
+            ],
+            [
+              6.533039,
+              46.5154236
+            ],
+            [
+              6.5330956,
+              46.5155442
+            ],
+            [
+              6.5326681,
+              46.5156392
+            ],
+            [
+              6.5326048,
+              46.5155042
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/237519897",
-    "properties": {
-      "addr:city": "Marly",
-      "addr:country": "CH",
-      "addr:housenumber": "39",
-      "addr:postcode": "1723",
-      "addr:street": "Chemin des Epinettes",
-      "building": "apartments",
-      "building:levels": "4",
-      "heating": "oil",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "survey:date": "2016-04-07",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/237519897",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Marly",
+        "addr:country": "CH",
+        "addr:housenumber": "39",
+        "addr:postcode": "1723",
+        "addr:street": "Chemin des Epinettes",
+        "building": "apartments",
+        "building:levels": "4",
+        "heating": "oil",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "survey:date": "2016-04-07",
+        "id": "way/237519897",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            7.1536673,
-            46.7784756
-          ],
-          [
-            7.1536988,
-            46.7784632
-          ],
-          [
-            7.1536777,
-            46.7784382
-          ],
-          [
-            7.1537265,
-            46.7784189
-          ],
-          [
-            7.1536884,
-            46.7783737
-          ],
-          [
-            7.153657,
-            46.7783861
-          ],
-          [
-            7.1536122,
-            46.7783329
-          ],
-          [
-            7.1536486,
-            46.7783185
-          ],
-          [
-            7.1536383,
-            46.7783063
-          ],
-          [
-            7.1537712,
-            46.7782538
-          ],
-          [
-            7.1539063,
-            46.7784141
-          ],
-          [
-            7.1539354,
-            46.7784486
-          ],
-          [
-            7.1537172,
-            46.7785349
-          ],
-          [
-            7.1536881,
-            46.7785003
-          ],
-          [
-            7.1536673,
-            46.7784756
+            [
+              7.1536673,
+              46.7784756
+            ],
+            [
+              7.1536988,
+              46.7784632
+            ],
+            [
+              7.1536777,
+              46.7784382
+            ],
+            [
+              7.1537265,
+              46.7784189
+            ],
+            [
+              7.1536884,
+              46.7783737
+            ],
+            [
+              7.153657,
+              46.7783861
+            ],
+            [
+              7.1536122,
+              46.7783329
+            ],
+            [
+              7.1536486,
+              46.7783185
+            ],
+            [
+              7.1536383,
+              46.7783063
+            ],
+            [
+              7.1537712,
+              46.7782538
+            ],
+            [
+              7.1539063,
+              46.7784141
+            ],
+            [
+              7.1539354,
+              46.7784486
+            ],
+            [
+              7.1537172,
+              46.7785349
+            ],
+            [
+              7.1536881,
+              46.7785003
+            ],
+            [
+              7.1536673,
+              46.7784756
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/237519898",
-    "properties": {
-      "addr:city": "Marly",
-      "addr:country": "CH",
-      "addr:housenumber": "41",
-      "addr:postcode": "1723",
-      "addr:street": "Chemin des Epinettes",
-      "building": "apartments",
-      "building:levels": "4",
-      "heating": "oil",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "survey:date": "2016-04-07",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/237519898",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Marly",
+        "addr:country": "CH",
+        "addr:housenumber": "41",
+        "addr:postcode": "1723",
+        "addr:street": "Chemin des Epinettes",
+        "building": "apartments",
+        "building:levels": "4",
+        "heating": "oil",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "survey:date": "2016-04-07",
+        "id": "way/237519898",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            7.1531743,
-            46.7786653
-          ],
-          [
-            7.1532057,
-            46.7786532
-          ],
-          [
-            7.153194,
-            46.7786391
-          ],
-          [
-            7.1531849,
-            46.778628
-          ],
-          [
-            7.1532357,
-            46.7786084
-          ],
-          [
-            7.1531429,
-            46.7784955
-          ],
-          [
-            7.1531128,
-            46.7785072
-          ],
-          [
-            7.1530694,
-            46.7784542
-          ],
-          [
-            7.1531058,
-            46.7784402
-          ],
-          [
-            7.1530954,
-            46.7784275
-          ],
-          [
-            7.1532261,
-            46.7783772
-          ],
-          [
-            7.1533018,
-            46.7784694
-          ],
-          [
-            7.1533249,
-            46.7784605
-          ],
-          [
-            7.1533462,
-            46.7784865
-          ],
-          [
-            7.1533249,
-            46.7784947
-          ],
-          [
-            7.153358,
-            46.7785351
-          ],
-          [
-            7.1533814,
-            46.7785261
-          ],
-          [
-            7.1534065,
-            46.7785566
-          ],
-          [
-            7.1533867,
-            46.7785642
-          ],
-          [
-            7.1534128,
-            46.778596
-          ],
-          [
-            7.1534486,
-            46.7786397
-          ],
-          [
-            7.1532242,
-            46.7787261
-          ],
-          [
-            7.1531743,
-            46.7786653
+            [
+              7.1531743,
+              46.7786653
+            ],
+            [
+              7.1532057,
+              46.7786532
+            ],
+            [
+              7.153194,
+              46.7786391
+            ],
+            [
+              7.1531849,
+              46.778628
+            ],
+            [
+              7.1532357,
+              46.7786084
+            ],
+            [
+              7.1531429,
+              46.7784955
+            ],
+            [
+              7.1531128,
+              46.7785072
+            ],
+            [
+              7.1530694,
+              46.7784542
+            ],
+            [
+              7.1531058,
+              46.7784402
+            ],
+            [
+              7.1530954,
+              46.7784275
+            ],
+            [
+              7.1532261,
+              46.7783772
+            ],
+            [
+              7.1533018,
+              46.7784694
+            ],
+            [
+              7.1533249,
+              46.7784605
+            ],
+            [
+              7.1533462,
+              46.7784865
+            ],
+            [
+              7.1533249,
+              46.7784947
+            ],
+            [
+              7.153358,
+              46.7785351
+            ],
+            [
+              7.1533814,
+              46.7785261
+            ],
+            [
+              7.1534065,
+              46.7785566
+            ],
+            [
+              7.1533867,
+              46.7785642
+            ],
+            [
+              7.1534128,
+              46.778596
+            ],
+            [
+              7.1534486,
+              46.7786397
+            ],
+            [
+              7.1532242,
+              46.7787261
+            ],
+            [
+              7.1531743,
+              46.7786653
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/237519928",
-    "properties": {
-      "addr:city": "Marly",
-      "addr:country": "CH",
-      "addr:housenumber": "33",
-      "addr:postcode": "1723",
-      "addr:street": "Chemin des Epinettes",
-      "building": "apartments",
-      "building:flats": "12",
-      "building:levels": "4",
-      "heating": "gas",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "2010",
-      "survey:date": "2016-04-07",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/237519928",
-      "start_date_parsed": "2010-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Marly",
+        "addr:country": "CH",
+        "addr:housenumber": "33",
+        "addr:postcode": "1723",
+        "addr:street": "Chemin des Epinettes",
+        "building": "apartments",
+        "building:flats": "12",
+        "building:levels": "4",
+        "heating": "gas",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "2010",
+        "survey:date": "2016-04-07",
+        "id": "way/237519928",
+        "start_date_parsed": "2010-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            7.1551229,
-            46.777837
-          ],
-          [
-            7.1549935,
-            46.7776785
-          ],
-          [
-            7.155177,
-            46.7776083
-          ],
-          [
-            7.1553063,
-            46.7777668
-          ],
-          [
-            7.1551229,
-            46.777837
+            [
+              7.1551229,
+              46.777837
+            ],
+            [
+              7.1549935,
+              46.7776785
+            ],
+            [
+              7.155177,
+              46.7776083
+            ],
+            [
+              7.1553063,
+              46.7777668
+            ],
+            [
+              7.1551229,
+              46.777837
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/237519975",
-    "properties": {
-      "addr:city": "Marly",
-      "addr:country": "CH",
-      "addr:housenumber": "37",
-      "addr:postcode": "1723",
-      "addr:street": "Chemin des Epinettes",
-      "building": "apartments",
-      "building:flats": "14",
-      "building:levels": "4",
-      "heating": "gas",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "2003",
-      "survey:date": "2016-04-07",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/237519975",
-      "start_date_parsed": "2003-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Marly",
+        "addr:country": "CH",
+        "addr:housenumber": "37",
+        "addr:postcode": "1723",
+        "addr:street": "Chemin des Epinettes",
+        "building": "apartments",
+        "building:flats": "14",
+        "building:levels": "4",
+        "heating": "gas",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "2003",
+        "survey:date": "2016-04-07",
+        "id": "way/237519975",
+        "start_date_parsed": "2003-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            7.1541563,
-            46.7782871
-          ],
-          [
-            7.1542574,
-            46.778248
-          ],
-          [
-            7.1542193,
-            46.7782019
-          ],
-          [
-            7.1541647,
-            46.778223
-          ],
-          [
-            7.1540889,
-            46.7781312
-          ],
-          [
-            7.1542609,
-            46.7780646
-          ],
-          [
-            7.1544225,
-            46.7782604
-          ],
-          [
-            7.1542041,
-            46.7783449
-          ],
-          [
-            7.1541563,
-            46.7782871
+            [
+              7.1541563,
+              46.7782871
+            ],
+            [
+              7.1542574,
+              46.778248
+            ],
+            [
+              7.1542193,
+              46.7782019
+            ],
+            [
+              7.1541647,
+              46.778223
+            ],
+            [
+              7.1540889,
+              46.7781312
+            ],
+            [
+              7.1542609,
+              46.7780646
+            ],
+            [
+              7.1544225,
+              46.7782604
+            ],
+            [
+              7.1542041,
+              46.7783449
+            ],
+            [
+              7.1541563,
+              46.7782871
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/237519988",
-    "properties": {
-      "addr:city": "Marly",
-      "addr:country": "CH",
-      "addr:housenumber": "35",
-      "addr:postcode": "1723",
-      "addr:street": "Chemin des Epinettes",
-      "building": "apartments",
-      "building:flats": "14",
-      "building:levels": "4",
-      "heating": "gas",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "2003",
-      "survey:date": "2016-04-07",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/237519988",
-      "start_date_parsed": "2003-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Marly",
+        "addr:country": "CH",
+        "addr:housenumber": "35",
+        "addr:postcode": "1723",
+        "addr:street": "Chemin des Epinettes",
+        "building": "apartments",
+        "building:flats": "14",
+        "building:levels": "4",
+        "heating": "gas",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "2003",
+        "survey:date": "2016-04-07",
+        "id": "way/237519988",
+        "start_date_parsed": "2003-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            7.1546517,
-            46.7780941
-          ],
-          [
-            7.1547527,
-            46.778055
-          ],
-          [
-            7.1547147,
-            46.7780089
-          ],
-          [
-            7.15466,
-            46.7780301
-          ],
-          [
-            7.1545842,
-            46.7779382
-          ],
-          [
-            7.1547563,
-            46.7778716
-          ],
-          [
-            7.1549178,
-            46.7780674
-          ],
-          [
-            7.1546994,
-            46.7781519
-          ],
-          [
-            7.1546517,
-            46.7780941
+            [
+              7.1546517,
+              46.7780941
+            ],
+            [
+              7.1547527,
+              46.778055
+            ],
+            [
+              7.1547147,
+              46.7780089
+            ],
+            [
+              7.15466,
+              46.7780301
+            ],
+            [
+              7.1545842,
+              46.7779382
+            ],
+            [
+              7.1547563,
+              46.7778716
+            ],
+            [
+              7.1549178,
+              46.7780674
+            ],
+            [
+              7.1546994,
+              46.7781519
+            ],
+            [
+              7.1546517,
+              46.7780941
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/238306808",
-    "properties": {
-      "addr:city": "Marly",
-      "addr:country": "CH",
-      "addr:housenumber": "41",
-      "addr:postcode": "1723",
-      "addr:street": "Route du Centre",
-      "building": "apartments",
-      "building:flats": "14",
-      "building:levels": "4",
-      "heating": "oil",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "1994",
-      "survey:date": "2016-04-07",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/238306808",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Marly",
+        "addr:country": "CH",
+        "addr:housenumber": "41",
+        "addr:postcode": "1723",
+        "addr:street": "Route du Centre",
+        "building": "apartments",
+        "building:flats": "14",
+        "building:levels": "4",
+        "heating": "oil",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "1994",
+        "survey:date": "2016-04-07",
+        "id": "way/238306808",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            7.1545789,
-            46.7841278
-          ],
-          [
-            7.1545192,
-            46.7841273
-          ],
-          [
-            7.1545194,
-            46.784117
-          ],
-          [
-            7.1543799,
-            46.7841154
-          ],
-          [
-            7.1543847,
-            46.7839169
-          ],
-          [
-            7.1545181,
-            46.7839184
-          ],
-          [
-            7.1545184,
-            46.783907
-          ],
-          [
-            7.1545826,
-            46.7839076
-          ],
-          [
-            7.154581,
-            46.7839862
-          ],
-          [
-            7.1545424,
-            46.7839858
-          ],
-          [
-            7.1545409,
-            46.7840498
-          ],
-          [
-            7.1545805,
-            46.7840502
-          ],
-          [
-            7.1545789,
-            46.7841278
+            [
+              7.1545789,
+              46.7841278
+            ],
+            [
+              7.1545192,
+              46.7841273
+            ],
+            [
+              7.1545194,
+              46.784117
+            ],
+            [
+              7.1543799,
+              46.7841154
+            ],
+            [
+              7.1543847,
+              46.7839169
+            ],
+            [
+              7.1545181,
+              46.7839184
+            ],
+            [
+              7.1545184,
+              46.783907
+            ],
+            [
+              7.1545826,
+              46.7839076
+            ],
+            [
+              7.154581,
+              46.7839862
+            ],
+            [
+              7.1545424,
+              46.7839858
+            ],
+            [
+              7.1545409,
+              46.7840498
+            ],
+            [
+              7.1545805,
+              46.7840502
+            ],
+            [
+              7.1545789,
+              46.7841278
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/238306813",
-    "properties": {
-      "addr:city": "Marly",
-      "addr:country": "CH",
-      "addr:housenumber": "39",
-      "addr:postcode": "1723",
-      "addr:street": "Route du Centre",
-      "building": "apartments",
-      "building:flats": "14",
-      "building:levels": "4",
-      "heating": "oil",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "1994",
-      "survey:date": "2016-04-07",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/238306813",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Marly",
+        "addr:country": "CH",
+        "addr:housenumber": "39",
+        "addr:postcode": "1723",
+        "addr:street": "Route du Centre",
+        "building": "apartments",
+        "building:flats": "14",
+        "building:levels": "4",
+        "heating": "oil",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "1994",
+        "survey:date": "2016-04-07",
+        "id": "way/238306813",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            7.1543812,
-            46.7835993
-          ],
-          [
-            7.1543215,
-            46.7835987
-          ],
-          [
-            7.1543223,
-            46.7835888
-          ],
-          [
-            7.1541823,
-            46.783587
-          ],
-          [
-            7.1541877,
-            46.7833889
-          ],
-          [
-            7.1543205,
-            46.7833906
-          ],
-          [
-            7.1543207,
-            46.7833785
-          ],
-          [
-            7.1543849,
-            46.7833791
-          ],
-          [
-            7.1543833,
-            46.7834576
-          ],
-          [
-            7.1543426,
-            46.7834572
-          ],
-          [
-            7.1543408,
-            46.7835213
-          ],
-          [
-            7.1543828,
-            46.7835217
-          ],
-          [
-            7.1543812,
-            46.7835993
+            [
+              7.1543812,
+              46.7835993
+            ],
+            [
+              7.1543215,
+              46.7835987
+            ],
+            [
+              7.1543223,
+              46.7835888
+            ],
+            [
+              7.1541823,
+              46.783587
+            ],
+            [
+              7.1541877,
+              46.7833889
+            ],
+            [
+              7.1543205,
+              46.7833906
+            ],
+            [
+              7.1543207,
+              46.7833785
+            ],
+            [
+              7.1543849,
+              46.7833791
+            ],
+            [
+              7.1543833,
+              46.7834576
+            ],
+            [
+              7.1543426,
+              46.7834572
+            ],
+            [
+              7.1543408,
+              46.7835213
+            ],
+            [
+              7.1543828,
+              46.7835217
+            ],
+            [
+              7.1543812,
+              46.7835993
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/298169752",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "24",
-      "building:levels": "6",
-      "heating": "oil",
-      "last_renovation": "2006",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "hipped",
-      "start_date": "1972",
-      "addr": [
-        {
-          "addr:city": "Morges",
-          "addr:postcode": "1110",
-          "addr:street": "Avenue de la Vogéaz",
-          "addr:housenumber": "3"
-        },
-        {
-          "addr:city": "Morges",
-          "addr:postcode": "1110",
-          "addr:street": "Avenue de la Vogéaz",
-          "addr:housenumber": "1"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/298169752",
-      "start_date_parsed": "1972-01-01T00:00:00.000Z",
-      "last_renovation_parsed": "2006-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "24",
+        "building:levels": "6",
+        "heating": "oil",
+        "last_renovation": "2006",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "hipped",
+        "start_date": "1972",
+        "addr": [
+          {
+            "addr:city": "Morges",
+            "addr:postcode": "1110",
+            "addr:street": "Avenue de la Vogéaz",
+            "addr:housenumber": "3"
+          },
+          {
+            "addr:city": "Morges",
+            "addr:postcode": "1110",
+            "addr:street": "Avenue de la Vogéaz",
+            "addr:housenumber": "1"
+          }
+        ],
+        "id": "way/298169752",
+        "start_date_parsed": "1972-01-01T00:00:00.000Z",
+        "last_renovation_parsed": "2006-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.4813132,
-            46.5108329
-          ],
-          [
-            6.4812131,
-            46.5107327
-          ],
-          [
-            6.4815461,
-            46.5105524
-          ],
-          [
-            6.4816443,
-            46.5106539
-          ],
-          [
-            6.4813132,
-            46.5108329
+            [
+              6.4813132,
+              46.5108329
+            ],
+            [
+              6.4812131,
+              46.5107327
+            ],
+            [
+              6.4815461,
+              46.5105524
+            ],
+            [
+              6.4816443,
+              46.5106539
+            ],
+            [
+              6.4813132,
+              46.5108329
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/305610555",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "6",
-      "building:levels": "4",
-      "heating": "gas",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "start_date": "1994",
-      "addr": [
-        {
-          "addr:city": "Bevaix",
-          "addr:postcode": "2022",
-          "addr:street": "Chemin des Jonchères",
-          "addr:housenumber": "11"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/305610555",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "6",
+        "building:levels": "4",
+        "heating": "gas",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "start_date": "1994",
+        "addr": [
+          {
+            "addr:city": "Bevaix",
+            "addr:postcode": "2022",
+            "addr:street": "Chemin des Jonchères",
+            "addr:housenumber": "11"
+          }
+        ],
+        "id": "way/305610555",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8105123,
-            46.9261295
-          ],
-          [
-            6.8105567,
-            46.9261153
-          ],
-          [
-            6.81061,
-            46.9261052
-          ],
-          [
-            6.810687,
-            46.9260991
-          ],
-          [
-            6.8107699,
-            46.9261032
-          ],
-          [
-            6.8107522,
-            46.9261537
-          ],
-          [
-            6.8107255,
-            46.9262043
-          ],
-          [
-            6.8106929,
-            46.9262427
-          ],
-          [
-            6.8106574,
-            46.926269
-          ],
-          [
-            6.8106308,
-            46.9262528
-          ],
-          [
-            6.8106071,
-            46.9262326
-          ],
-          [
-            6.8105686,
-            46.9262023
-          ],
-          [
-            6.810536,
-            46.926174
-          ],
-          [
-            6.8105123,
-            46.9261295
+            [
+              6.8105123,
+              46.9261295
+            ],
+            [
+              6.8105567,
+              46.9261153
+            ],
+            [
+              6.81061,
+              46.9261052
+            ],
+            [
+              6.810687,
+              46.9260991
+            ],
+            [
+              6.8107699,
+              46.9261032
+            ],
+            [
+              6.8107522,
+              46.9261537
+            ],
+            [
+              6.8107255,
+              46.9262043
+            ],
+            [
+              6.8106929,
+              46.9262427
+            ],
+            [
+              6.8106574,
+              46.926269
+            ],
+            [
+              6.8106308,
+              46.9262528
+            ],
+            [
+              6.8106071,
+              46.9262326
+            ],
+            [
+              6.8105686,
+              46.9262023
+            ],
+            [
+              6.810536,
+              46.926174
+            ],
+            [
+              6.8105123,
+              46.9261295
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/305610570",
-    "properties": {
-      "addr:city": "Bevaix",
-      "addr:housenumber": "13c",
-      "addr:postcode": "2022",
-      "addr:street": "Chemin des Jonchères",
-      "building": "apartments",
-      "building:flats": "8",
-      "building:levels": "3",
-      "heating": "gas",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "1994",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/305610570",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Bevaix",
+        "addr:housenumber": "13c",
+        "addr:postcode": "2022",
+        "addr:street": "Chemin des Jonchères",
+        "building": "apartments",
+        "building:flats": "8",
+        "building:levels": "3",
+        "heating": "gas",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "1994",
+        "id": "way/305610570",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8105026,
-            46.9257526
-          ],
-          [
-            6.8105847,
-            46.9257241
-          ],
-          [
-            6.8107843,
-            46.9259927
-          ],
-          [
-            6.8107023,
-            46.9260211
-          ],
-          [
-            6.8105026,
-            46.9257526
+            [
+              6.8105026,
+              46.9257526
+            ],
+            [
+              6.8105847,
+              46.9257241
+            ],
+            [
+              6.8107843,
+              46.9259927
+            ],
+            [
+              6.8107023,
+              46.9260211
+            ],
+            [
+              6.8105026,
+              46.9257526
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/305610628",
-    "properties": {
-      "addr:city": "Bevaix",
-      "addr:housenumber": "13",
-      "addr:postcode": "2022",
-      "addr:street": "Chemin des Jonchères",
-      "building": "apartments",
-      "building:flats": "8",
-      "building:levels": "3",
-      "heating": "gas",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "1994",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/305610628",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Bevaix",
+        "addr:housenumber": "13",
+        "addr:postcode": "2022",
+        "addr:street": "Chemin des Jonchères",
+        "building": "apartments",
+        "building:flats": "8",
+        "building:levels": "3",
+        "heating": "gas",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "1994",
+        "id": "way/305610628",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8100718,
-            46.9259058
-          ],
-          [
-            6.8101538,
-            46.9258773
-          ],
-          [
-            6.8103535,
-            46.9261459
-          ],
-          [
-            6.8102714,
-            46.9261743
-          ],
-          [
-            6.8100718,
-            46.9259058
+            [
+              6.8100718,
+              46.9259058
+            ],
+            [
+              6.8101538,
+              46.9258773
+            ],
+            [
+              6.8103535,
+              46.9261459
+            ],
+            [
+              6.8102714,
+              46.9261743
+            ],
+            [
+              6.8100718,
+              46.9259058
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/305610631",
-    "properties": {
-      "addr:city": "Bevaix",
-      "addr:housenumber": "13b",
-      "addr:postcode": "2022",
-      "addr:street": "Chemin des Jonchères",
-      "building": "apartments",
-      "building:flats": "8",
-      "building:levels": "3",
-      "heating": "gas",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "1994",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/305610631",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Bevaix",
+        "addr:housenumber": "13b",
+        "addr:postcode": "2022",
+        "addr:street": "Chemin des Jonchères",
+        "building": "apartments",
+        "building:flats": "8",
+        "building:levels": "3",
+        "heating": "gas",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "1994",
+        "id": "way/305610631",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8102835,
-            46.9258315
-          ],
-          [
-            6.8103655,
-            46.925803
-          ],
-          [
-            6.8105652,
-            46.9260716
-          ],
-          [
-            6.8104832,
-            46.9261
-          ],
-          [
-            6.8104178,
-            46.9260121
-          ],
-          [
-            6.8102835,
-            46.9258315
+            [
+              6.8102835,
+              46.9258315
+            ],
+            [
+              6.8103655,
+              46.925803
+            ],
+            [
+              6.8105652,
+              46.9260716
+            ],
+            [
+              6.8104832,
+              46.9261
+            ],
+            [
+              6.8104178,
+              46.9260121
+            ],
+            [
+              6.8102835,
+              46.9258315
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/441673035",
-    "properties": {
-      "addr:city": "La Sarraz",
-      "addr:housenumber": "2",
-      "addr:postcode": "1315",
-      "addr:street": "Chemin des Liappes",
-      "building": "apartments",
-      "building:levels": "3",
-      "heating": "gas",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "1",
-      "start_date": "1994",
-      "subsidized": "yes",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/441673035",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "La Sarraz",
+        "addr:housenumber": "2",
+        "addr:postcode": "1315",
+        "addr:street": "Chemin des Liappes",
+        "building": "apartments",
+        "building:levels": "3",
+        "heating": "gas",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "1",
+        "start_date": "1994",
+        "subsidized": "yes",
+        "id": "way/441673035",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.5086197,
-            46.6553909
-          ],
-          [
-            6.508584,
-            46.655324
-          ],
-          [
-            6.5088185,
-            46.6552651
-          ],
-          [
-            6.50885,
-            46.6553242
-          ],
-          [
-            6.5088258,
-            46.6553303
-          ],
-          [
-            6.5088394,
-            46.6553559
-          ],
-          [
-            6.5089286,
-            46.6553798
-          ],
-          [
-            6.5088825,
-            46.655461
-          ],
-          [
-            6.5087901,
-            46.6554362
-          ],
-          [
-            6.5088043,
-            46.6554113
-          ],
-          [
-            6.5087516,
-            46.6553972
-          ],
-          [
-            6.5087331,
-            46.6553624
-          ],
-          [
-            6.5086197,
-            46.6553909
+            [
+              6.5086197,
+              46.6553909
+            ],
+            [
+              6.508584,
+              46.655324
+            ],
+            [
+              6.5088185,
+              46.6552651
+            ],
+            [
+              6.50885,
+              46.6553242
+            ],
+            [
+              6.5088258,
+              46.6553303
+            ],
+            [
+              6.5088394,
+              46.6553559
+            ],
+            [
+              6.5089286,
+              46.6553798
+            ],
+            [
+              6.5088825,
+              46.655461
+            ],
+            [
+              6.5087901,
+              46.6554362
+            ],
+            [
+              6.5088043,
+              46.6554113
+            ],
+            [
+              6.5087516,
+              46.6553972
+            ],
+            [
+              6.5087331,
+              46.6553624
+            ],
+            [
+              6.5086197,
+              46.6553909
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/441673036",
-    "properties": {
-      "addr:city": "La Sarraz",
-      "addr:housenumber": "4",
-      "addr:postcode": "1315",
-      "addr:street": "Chemin des Liappes",
-      "building": "apartments",
-      "building:levels": "3",
-      "heating": "gas",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "gabled",
-      "start_date": "1994",
-      "subsidized": "yes",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/441673036",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "La Sarraz",
+        "addr:housenumber": "4",
+        "addr:postcode": "1315",
+        "addr:street": "Chemin des Liappes",
+        "building": "apartments",
+        "building:levels": "3",
+        "heating": "gas",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "gabled",
+        "start_date": "1994",
+        "subsidized": "yes",
+        "id": "way/441673036",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.5087624,
-            46.6556505
-          ],
-          [
-            6.5086658,
-            46.6555529
-          ],
-          [
-            6.5087925,
-            46.6554938
-          ],
-          [
-            6.5088891,
-            46.6555914
-          ],
-          [
-            6.5087624,
-            46.6556505
+            [
+              6.5087624,
+              46.6556505
+            ],
+            [
+              6.5086658,
+              46.6555529
+            ],
+            [
+              6.5087925,
+              46.6554938
+            ],
+            [
+              6.5088891,
+              46.6555914
+            ],
+            [
+              6.5087624,
+              46.6556505
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/660279630",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "12",
-      "building:levels": "2",
-      "heating": "oil",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "2",
-      "roof:shape": "gabled",
-      "start_date": "1994",
-      "addr": [
-        {
-          "addr:city": "Carrouge VD",
-          "addr:postcode": "1084",
-          "addr:street": "Chemin Champ du Trey",
-          "addr:housenumber": "4"
-        },
-        {
-          "addr:city": "Carrouge VD",
-          "addr:postcode": "1084",
-          "addr:street": "Chemin Champ du Trey",
-          "addr:housenumber": "2"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/660279630",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "12",
+        "building:levels": "2",
+        "heating": "oil",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "2",
+        "roof:shape": "gabled",
+        "start_date": "1994",
+        "addr": [
+          {
+            "addr:city": "Carrouge VD",
+            "addr:postcode": "1084",
+            "addr:street": "Chemin Champ du Trey",
+            "addr:housenumber": "4"
+          },
+          {
+            "addr:city": "Carrouge VD",
+            "addr:postcode": "1084",
+            "addr:street": "Chemin Champ du Trey",
+            "addr:housenumber": "2"
+          }
+        ],
+        "id": "way/660279630",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.7735753,
-            46.6024941
-          ],
-          [
-            6.773433,
-            46.6023223
-          ],
-          [
-            6.7735909,
-            46.6022606
-          ],
-          [
-            6.7737323,
-            46.6024313
-          ],
-          [
-            6.7737728,
-            46.6024155
-          ],
-          [
-            6.7738873,
-            46.6025539
-          ],
-          [
-            6.7737197,
-            46.6026194
-          ],
-          [
-            6.7736836,
-            46.6025758
-          ],
-          [
-            6.773606,
-            46.6024821
-          ],
-          [
-            6.7735753,
-            46.6024941
+            [
+              6.7735753,
+              46.6024941
+            ],
+            [
+              6.773433,
+              46.6023223
+            ],
+            [
+              6.7735909,
+              46.6022606
+            ],
+            [
+              6.7737323,
+              46.6024313
+            ],
+            [
+              6.7737728,
+              46.6024155
+            ],
+            [
+              6.7738873,
+              46.6025539
+            ],
+            [
+              6.7737197,
+              46.6026194
+            ],
+            [
+              6.7736836,
+              46.6025758
+            ],
+            [
+              6.773606,
+              46.6024821
+            ],
+            [
+              6.7735753,
+              46.6024941
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/702506609",
-    "properties": {
-      "addr:city": "Estavayer-le-Lac",
-      "addr:housenumber": "14",
-      "addr:postcode": "1470",
-      "addr:street": "Route de la Scie",
-      "building": "apartments",
-      "building:flats": "17",
-      "building:levels": "3",
-      "heating": "oil",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "roof:levels": "0",
-      "roof:shape": "round",
-      "start_date": "1994",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/702506609",
-      "start_date_parsed": "1994-01-01T00:00:00.000Z",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Estavayer-le-Lac",
+        "addr:housenumber": "14",
+        "addr:postcode": "1470",
+        "addr:street": "Route de la Scie",
+        "building": "apartments",
+        "building:flats": "17",
+        "building:levels": "3",
+        "heating": "oil",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "roof:levels": "0",
+        "roof:shape": "round",
+        "start_date": "1994",
+        "id": "way/702506609",
+        "start_date_parsed": "1994-01-01T00:00:00.000Z",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8465469,
-            46.8435886
-          ],
-          [
-            6.8465403,
-            46.8433473
-          ],
-          [
-            6.8465755,
-            46.8433468
-          ],
-          [
-            6.8465838,
-            46.8433257
-          ],
-          [
-            6.8466386,
-            46.8432926
-          ],
-          [
-            6.8466813,
-            46.8432923
-          ],
-          [
-            6.8467084,
-            46.843298
-          ],
-          [
-            6.8467318,
-            46.8432772
-          ],
-          [
-            6.8468758,
-            46.8433531
-          ],
-          [
-            6.8468053,
-            46.8434158
-          ],
-          [
-            6.846701,
-            46.8433609
-          ],
-          [
-            6.8466645,
-            46.8433933
-          ],
-          [
-            6.8466697,
-            46.843587
-          ],
-          [
-            6.8465469,
-            46.8435886
+            [
+              6.8465469,
+              46.8435886
+            ],
+            [
+              6.8465403,
+              46.8433473
+            ],
+            [
+              6.8465755,
+              46.8433468
+            ],
+            [
+              6.8465838,
+              46.8433257
+            ],
+            [
+              6.8466386,
+              46.8432926
+            ],
+            [
+              6.8466813,
+              46.8432923
+            ],
+            [
+              6.8467084,
+              46.843298
+            ],
+            [
+              6.8467318,
+              46.8432772
+            ],
+            [
+              6.8468758,
+              46.8433531
+            ],
+            [
+              6.8468053,
+              46.8434158
+            ],
+            [
+              6.846701,
+              46.8433609
+            ],
+            [
+              6.8466645,
+              46.8433933
+            ],
+            [
+              6.8466697,
+              46.843587
+            ],
+            [
+              6.8465469,
+              46.8435886
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/1293993394",
-    "properties": {
-      "building": "apartments",
-      "operator": "Société coopérative d'habitation Lausanne",
-      "operator:abbr": "SCHL",
-      "operator:type": "cooperative",
-      "operator:website": "https://schl.ch/",
-      "operator:wikidata": "Q126741196",
-      "owner": "Logement Social Romand",
-      "owner:abbr": "LSR",
-      "owner:type": "limited_company",
-      "owner:wikidata": "Q131314825",
-      "addr": [
-        {
-          "addr:city": "Nyon",
-          "addr:postcode": "1260",
-          "addr:street": "Route des Tattes d'Oie",
-          "addr:housenumber": "42"
-        },
-        {
-          "addr:city": "Nyon",
-          "addr:postcode": "1260",
-          "addr:street": "Route des Tattes d'Oie",
-          "addr:housenumber": "44"
-        },
-        {
-          "addr:city": "Nyon",
-          "addr:postcode": "1260",
-          "addr:street": "Route des Tattes d'Oie",
-          "addr:housenumber": "48"
-        },
-        {
-          "addr:city": "Nyon",
-          "addr:postcode": "1260",
-          "addr:street": "Route des Tattes d'Oie",
-          "addr:housenumber": "52"
-        },
-        {
-          "addr:city": "Nyon",
-          "addr:postcode": "1260",
-          "addr:street": "Route des Tattes d'Oie",
-          "addr:housenumber": "50"
-        },
-        {
-          "addr:city": "Nyon",
-          "addr:postcode": "1260",
-          "addr:street": "Route des Tattes d'Oie",
-          "addr:housenumber": "46"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1293993394",
-      "operator:start_date": "1920-01-01T00:00:00Z",
-      "operator:swiss_business_uid": "CHE-107.036.838"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "operator": "Société coopérative d'habitation Lausanne",
+        "operator:abbr": "SCHL",
+        "operator:type": "cooperative",
+        "operator:website": "https://schl.ch/",
+        "operator:wikidata": "Q126741196",
+        "owner": "Logement Social Romand",
+        "owner:abbr": "LSR",
+        "owner:type": "limited_company",
+        "owner:wikidata": "Q131314825",
+        "addr": [
+          {
+            "addr:city": "Nyon",
+            "addr:postcode": "1260",
+            "addr:street": "Route des Tattes d'Oie",
+            "addr:housenumber": "42"
+          },
+          {
+            "addr:city": "Nyon",
+            "addr:postcode": "1260",
+            "addr:street": "Route des Tattes d'Oie",
+            "addr:housenumber": "44"
+          },
+          {
+            "addr:city": "Nyon",
+            "addr:postcode": "1260",
+            "addr:street": "Route des Tattes d'Oie",
+            "addr:housenumber": "48"
+          },
+          {
+            "addr:city": "Nyon",
+            "addr:postcode": "1260",
+            "addr:street": "Route des Tattes d'Oie",
+            "addr:housenumber": "52"
+          },
+          {
+            "addr:city": "Nyon",
+            "addr:postcode": "1260",
+            "addr:street": "Route des Tattes d'Oie",
+            "addr:housenumber": "50"
+          },
+          {
+            "addr:city": "Nyon",
+            "addr:postcode": "1260",
+            "addr:street": "Route des Tattes d'Oie",
+            "addr:housenumber": "46"
+          }
+        ],
+        "id": "way/1293993394",
+        "operator:start_date": "1920-01-01T00:00:00Z",
+        "operator:swiss_business_uid": "CHE-107.036.838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.2235149,
-            46.3844744
-          ],
-          [
-            6.2241453,
-            46.3848693
-          ],
-          [
-            6.223652,
-            46.3852441
-          ],
-          [
-            6.2230215,
-            46.3848493
-          ],
-          [
-            6.2235149,
-            46.3844744
+            [
+              6.2235149,
+              46.3844744
+            ],
+            [
+              6.2241453,
+              46.3848693
+            ],
+            [
+              6.223652,
+              46.3852441
+            ],
+            [
+              6.2230215,
+              46.3848493
+            ],
+            [
+              6.2235149,
+              46.3844744
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}

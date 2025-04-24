@@ -1,48 +1,51 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/49256919",
-    "properties": {
-      "addr:city": "La Chaux-de-Fonds",
-      "addr:housenumber": "12",
-      "addr:postcode": "2300",
-      "addr:street": "Rue du Rocher",
-      "building": "apartments",
-      "building:levels": "4",
-      "owner": "Coopérative d'habitation Rocher 12",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282694",
-      "roof:levels": "1",
-      "source": "orthophotos2006sitn50cm",
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/49256919",
-      "owner:swiss_business_uid": "CHE-102.690.462"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "La Chaux-de-Fonds",
+        "addr:housenumber": "12",
+        "addr:postcode": "2300",
+        "addr:street": "Rue du Rocher",
+        "building": "apartments",
+        "building:levels": "4",
+        "owner": "Coopérative d'habitation Rocher 12",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282694",
+        "roof:levels": "1",
+        "source": "orthophotos2006sitn50cm",
+        "id": "way/49256919",
+        "owner:swiss_business_uid": "CHE-102.690.462"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8329484,
-            47.1021495
-          ],
-          [
-            6.8328375,
-            47.1020927
-          ],
-          [
-            6.8330359,
-            47.1019132
-          ],
-          [
-            6.8332026,
-            47.1019986
-          ],
-          [
-            6.8329484,
-            47.1021495
+            [
+              6.8329484,
+              47.1021495
+            ],
+            [
+              6.8328375,
+              47.1020927
+            ],
+            [
+              6.8330359,
+              47.1019132
+            ],
+            [
+              6.8332026,
+              47.1019986
+            ],
+            [
+              6.8329484,
+              47.1021495
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}

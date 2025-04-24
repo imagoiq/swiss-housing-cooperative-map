@@ -1,2351 +1,2354 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/35920302",
-    "properties": {
-      "building": "apartments",
-      "building:levels": "4",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "roof:shape": "flat",
-      "source": "Orthophotos 2006 SITN 50cm",
-      "addr": [
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Vy-d'Etra",
-          "addr:housenumber": "21"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Vy-d'Etra",
-          "addr:housenumber": "23"
-        }
-      ],
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/35920302",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:levels": "4",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "roof:shape": "flat",
+        "source": "Orthophotos 2006 SITN 50cm",
+        "addr": [
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Vy-d'Etra",
+            "addr:housenumber": "21"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Vy-d'Etra",
+            "addr:housenumber": "23"
+          }
+        ],
+        "id": "way/35920302",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9601018,
-            47.0099689
-          ],
-          [
-            6.9601875,
-            47.0098915
-          ],
-          [
-            6.9605624,
-            47.0100845
-          ],
-          [
-            6.9604768,
-            47.0101619
-          ],
-          [
-            6.9601018,
-            47.0099689
+            [
+              6.9601018,
+              47.0099689
+            ],
+            [
+              6.9601875,
+              47.0098915
+            ],
+            [
+              6.9605624,
+              47.0100845
+            ],
+            [
+              6.9604768,
+              47.0101619
+            ],
+            [
+              6.9601018,
+              47.0099689
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/35966602",
-    "properties": {
-      "addr:city": "Neuchâtel",
-      "addr:country": "CH",
-      "addr:housenumber": "38",
-      "addr:postcode": "2000",
-      "addr:street": "Rue de l'Orée",
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "source": "Orthophotos2006sitn50cm",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/35966602",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Neuchâtel",
+        "addr:country": "CH",
+        "addr:housenumber": "38",
+        "addr:postcode": "2000",
+        "addr:street": "Rue de l'Orée",
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "source": "Orthophotos2006sitn50cm",
+        "id": "way/35966602",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9455433,
-            47.0016008
-          ],
-          [
-            6.945599,
-            47.0015163
-          ],
-          [
-            6.945918,
-            47.0016165
-          ],
-          [
-            6.9458534,
-            47.0016964
-          ],
-          [
-            6.9455433,
-            47.0016008
+            [
+              6.9455433,
+              47.0016008
+            ],
+            [
+              6.945599,
+              47.0015163
+            ],
+            [
+              6.945918,
+              47.0016165
+            ],
+            [
+              6.9458534,
+              47.0016964
+            ],
+            [
+              6.9455433,
+              47.0016008
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/35966604",
-    "properties": {
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "source": "Orthophotos2006sitn50cm",
-      "addr": [
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue de l'Orée",
-          "addr:housenumber": "44"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue de l'Orée",
-          "addr:housenumber": "46"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/35966604",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "source": "Orthophotos2006sitn50cm",
+        "addr": [
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue de l'Orée",
+            "addr:housenumber": "44"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue de l'Orée",
+            "addr:housenumber": "46"
+          }
+        ],
+        "id": "way/35966604",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9457765,
-            47.0019268
-          ],
-          [
-            6.9458347,
-            47.0018372
-          ],
-          [
-            6.9464188,
-            47.0020139
-          ],
-          [
-            6.9463605,
-            47.0021036
-          ],
-          [
-            6.9457765,
-            47.0019268
+            [
+              6.9457765,
+              47.0019268
+            ],
+            [
+              6.9458347,
+              47.0018372
+            ],
+            [
+              6.9464188,
+              47.0020139
+            ],
+            [
+              6.9463605,
+              47.0021036
+            ],
+            [
+              6.9457765,
+              47.0019268
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/35966606",
-    "properties": {
-      "addr:city": "Neuchâtel",
-      "addr:housenumber": "50",
-      "addr:postcode": "2000",
-      "addr:street": "Rue de l'Orée",
-      "building": "apartments",
-      "building:levels": "4",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "source": "Orthophotos2006sitn50cm",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/35966606",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Neuchâtel",
+        "addr:housenumber": "50",
+        "addr:postcode": "2000",
+        "addr:street": "Rue de l'Orée",
+        "building": "apartments",
+        "building:levels": "4",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "source": "Orthophotos2006sitn50cm",
+        "id": "way/35966606",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9465885,
-            47.0020421
-          ],
-          [
-            6.9469181,
-            47.0021824
-          ],
-          [
-            6.9468454,
-            47.0022643
-          ],
-          [
-            6.9465196,
-            47.0021259
-          ],
-          [
-            6.9465885,
-            47.0020421
+            [
+              6.9465885,
+              47.0020421
+            ],
+            [
+              6.9469181,
+              47.0021824
+            ],
+            [
+              6.9468454,
+              47.0022643
+            ],
+            [
+              6.9465196,
+              47.0021259
+            ],
+            [
+              6.9465885,
+              47.0020421
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/36957379",
-    "properties": {
-      "building": "apartments",
-      "building:levels": "5",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "roof:levels": "1",
-      "roof:shape": "hipped",
-      "source": "Orthophotos 2006 SITN 50cm",
-      "addr": [
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue des Charmettes",
-          "addr:housenumber": "26"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue des Charmettes",
-          "addr:housenumber": "28"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue des Charmettes",
-          "addr:housenumber": "30"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/36957379",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:levels": "5",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "roof:levels": "1",
+        "roof:shape": "hipped",
+        "source": "Orthophotos 2006 SITN 50cm",
+        "addr": [
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue des Charmettes",
+            "addr:housenumber": "26"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue des Charmettes",
+            "addr:housenumber": "28"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue des Charmettes",
+            "addr:housenumber": "30"
+          }
+        ],
+        "id": "way/36957379",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8994893,
-            46.9882901
-          ],
-          [
-            6.9001286,
-            46.9882417
-          ],
-          [
-            6.9001427,
-            46.9883286
-          ],
-          [
-            6.8995609,
-            46.9883727
-          ],
-          [
-            6.8995034,
-            46.9883771
-          ],
-          [
-            6.8994893,
-            46.9882901
+            [
+              6.8994893,
+              46.9882901
+            ],
+            [
+              6.9001286,
+              46.9882417
+            ],
+            [
+              6.9001427,
+              46.9883286
+            ],
+            [
+              6.8995609,
+              46.9883727
+            ],
+            [
+              6.8995034,
+              46.9883771
+            ],
+            [
+              6.8994893,
+              46.9882901
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/37214954",
-    "properties": {
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "source": "Orthophotos2006sitn50cm",
-      "addr": [
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue de Pain-Blanc",
-          "addr:housenumber": "27"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue de Pain-Blanc",
-          "addr:housenumber": "25"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue de Pain-Blanc",
-          "addr:housenumber": "23"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/37214954",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "source": "Orthophotos2006sitn50cm",
+        "addr": [
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue de Pain-Blanc",
+            "addr:housenumber": "27"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue de Pain-Blanc",
+            "addr:housenumber": "25"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue de Pain-Blanc",
+            "addr:housenumber": "23"
+          }
+        ],
+        "id": "way/37214954",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8970305,
-            46.9818202
-          ],
-          [
-            6.8977371,
-            46.9818677
-          ],
-          [
-            6.8977238,
-            46.9819594
-          ],
-          [
-            6.8970173,
-            46.981912
-          ],
-          [
-            6.8970305,
-            46.9818202
+            [
+              6.8970305,
+              46.9818202
+            ],
+            [
+              6.8977371,
+              46.9818677
+            ],
+            [
+              6.8977238,
+              46.9819594
+            ],
+            [
+              6.8970173,
+              46.981912
+            ],
+            [
+              6.8970305,
+              46.9818202
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/39413182",
-    "properties": {
-      "building": "apartments",
-      "building:levels": "4",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "source": "Orthophotos 2006 SITN 50cm",
-      "addr": [
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Vy-d'Etra",
-          "addr:housenumber": "25"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Vy-d'Etra",
-          "addr:housenumber": "27"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/39413182",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:levels": "4",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "source": "Orthophotos 2006 SITN 50cm",
+        "addr": [
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Vy-d'Etra",
+            "addr:housenumber": "25"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Vy-d'Etra",
+            "addr:housenumber": "27"
+          }
+        ],
+        "id": "way/39413182",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9598975,
-            47.0101969
-          ],
-          [
-            6.9599748,
-            47.0101279
-          ],
-          [
-            6.9603443,
-            47.0103203
-          ],
-          [
-            6.960267,
-            47.0103893
-          ],
-          [
-            6.9598975,
-            47.0101969
+            [
+              6.9598975,
+              47.0101969
+            ],
+            [
+              6.9599748,
+              47.0101279
+            ],
+            [
+              6.9603443,
+              47.0103203
+            ],
+            [
+              6.960267,
+              47.0103893
+            ],
+            [
+              6.9598975,
+              47.0101969
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/40271834",
-    "properties": {
-      "addr:city": "Neuchâtel",
-      "addr:housenumber": "56",
-      "addr:postcode": "2000",
-      "addr:street": "Rue de l'Orée",
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "source": "Orthophotos2006sitn50cm",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/40271834",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Neuchâtel",
+        "addr:housenumber": "56",
+        "addr:postcode": "2000",
+        "addr:street": "Rue de l'Orée",
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "source": "Orthophotos2006sitn50cm",
+        "id": "way/40271834",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9476885,
-            47.0025897
-          ],
-          [
-            6.9477077,
-            47.0024997
-          ],
-          [
-            6.9480463,
-            47.0025334
-          ],
-          [
-            6.9480271,
-            47.0026233
-          ],
-          [
-            6.9476885,
-            47.0025897
+            [
+              6.9476885,
+              47.0025897
+            ],
+            [
+              6.9477077,
+              47.0024997
+            ],
+            [
+              6.9480463,
+              47.0025334
+            ],
+            [
+              6.9480271,
+              47.0026233
+            ],
+            [
+              6.9476885,
+              47.0025897
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/43495225",
-    "properties": {
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "source": "Orthophotos 2006 SITN 50cm",
-      "addr": [
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue de Pain-Blanc",
-          "addr:housenumber": "1"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue de Pain-Blanc",
-          "addr:housenumber": "3"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/43495225",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "source": "Orthophotos 2006 SITN 50cm",
+        "addr": [
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue de Pain-Blanc",
+            "addr:housenumber": "1"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue de Pain-Blanc",
+            "addr:housenumber": "3"
+          }
+        ],
+        "id": "way/43495225",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9012267,
-            46.9827541
-          ],
-          [
-            6.9013033,
-            46.9826549
-          ],
-          [
-            6.9018702,
-            46.9828585
-          ],
-          [
-            6.9017935,
-            46.9829578
-          ],
-          [
-            6.9012267,
-            46.9827541
+            [
+              6.9012267,
+              46.9827541
+            ],
+            [
+              6.9013033,
+              46.9826549
+            ],
+            [
+              6.9018702,
+              46.9828585
+            ],
+            [
+              6.9017935,
+              46.9829578
+            ],
+            [
+              6.9012267,
+              46.9827541
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/43495226",
-    "properties": {
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "source": "Orthophotos 2006 SITN 50cm",
-      "addr": [
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue de Pain-Blanc",
-          "addr:housenumber": "5"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue de Pain-Blanc",
-          "addr:housenumber": "7"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/43495226",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "source": "Orthophotos 2006 SITN 50cm",
+        "addr": [
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue de Pain-Blanc",
+            "addr:housenumber": "5"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue de Pain-Blanc",
+            "addr:housenumber": "7"
+          }
+        ],
+        "id": "way/43495226",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9005807,
-            46.9824368
-          ],
-          [
-            6.9011626,
-            46.9826078
-          ],
-          [
-            6.9011048,
-            46.9826994
-          ],
-          [
-            6.9005229,
-            46.9825285
-          ],
-          [
-            6.9005807,
-            46.9824368
+            [
+              6.9005807,
+              46.9824368
+            ],
+            [
+              6.9011626,
+              46.9826078
+            ],
+            [
+              6.9011048,
+              46.9826994
+            ],
+            [
+              6.9005229,
+              46.9825285
+            ],
+            [
+              6.9005807,
+              46.9824368
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/43495230",
-    "properties": {
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "source": "Orthophotos 2006 SITN 50cm",
-      "addr": [
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue de Pain-Blanc",
-          "addr:housenumber": "11"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue de Pain-Blanc",
-          "addr:housenumber": "13"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue de Pain-Blanc",
-          "addr:housenumber": "9"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/43495230",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "source": "Orthophotos 2006 SITN 50cm",
+        "addr": [
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue de Pain-Blanc",
+            "addr:housenumber": "11"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue de Pain-Blanc",
+            "addr:housenumber": "13"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue de Pain-Blanc",
+            "addr:housenumber": "9"
+          }
+        ],
+        "id": "way/43495230",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8998902,
-            46.9822222
-          ],
-          [
-            6.9004351,
-            46.9823717
-          ],
-          [
-            6.9003767,
-            46.9824707
-          ],
-          [
-            6.8998317,
-            46.9823213
-          ],
-          [
-            6.8998902,
-            46.9822222
+            [
+              6.8998902,
+              46.9822222
+            ],
+            [
+              6.9004351,
+              46.9823717
+            ],
+            [
+              6.9003767,
+              46.9824707
+            ],
+            [
+              6.8998317,
+              46.9823213
+            ],
+            [
+              6.8998902,
+              46.9822222
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/45748555",
-    "properties": {
-      "addr:city": "Neuchâtel",
-      "addr:housenumber": "18",
-      "addr:postcode": "2000",
-      "addr:street": "Rue de Port-Roulant",
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "source": "Orthophotos 2006 SITN 50cm",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/45748555",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Neuchâtel",
+        "addr:housenumber": "18",
+        "addr:postcode": "2000",
+        "addr:street": "Rue de Port-Roulant",
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "source": "Orthophotos 2006 SITN 50cm",
+        "id": "way/45748555",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9107108,
-            46.9858126
-          ],
-          [
-            6.91065,
-            46.9859164
-          ],
-          [
-            6.910354,
-            46.9858357
-          ],
-          [
-            6.9104148,
-            46.9857319
-          ],
-          [
-            6.9107108,
-            46.9858126
+            [
+              6.9107108,
+              46.9858126
+            ],
+            [
+              6.91065,
+              46.9859164
+            ],
+            [
+              6.910354,
+              46.9858357
+            ],
+            [
+              6.9104148,
+              46.9857319
+            ],
+            [
+              6.9107108,
+              46.9858126
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/45748584",
-    "properties": {
-      "addr:city": "Neuchâtel",
-      "addr:housenumber": "16",
-      "addr:postcode": "2000",
-      "addr:street": "Rue de Port-Roulant",
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "source": "Orthophotos 2006 SITN 50cm",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/45748584",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Neuchâtel",
+        "addr:housenumber": "16",
+        "addr:postcode": "2000",
+        "addr:street": "Rue de Port-Roulant",
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "source": "Orthophotos 2006 SITN 50cm",
+        "id": "way/45748584",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9107363,
-            46.9857307
-          ],
-          [
-            6.9105341,
-            46.9856759
-          ],
-          [
-            6.9105937,
-            46.9855736
-          ],
-          [
-            6.9107958,
-            46.9856284
-          ],
-          [
-            6.9107363,
-            46.9857307
+            [
+              6.9107363,
+              46.9857307
+            ],
+            [
+              6.9105341,
+              46.9856759
+            ],
+            [
+              6.9105937,
+              46.9855736
+            ],
+            [
+              6.9107958,
+              46.9856284
+            ],
+            [
+              6.9107363,
+              46.9857307
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/45748585",
-    "properties": {
-      "addr:city": "Neuchâtel",
-      "addr:housenumber": "14",
-      "addr:postcode": "2000",
-      "addr:street": "Rue de Port-Roulant",
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "source": "Orthophotos 2006 SITN 50cm",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/45748585",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Neuchâtel",
+        "addr:housenumber": "14",
+        "addr:postcode": "2000",
+        "addr:street": "Rue de Port-Roulant",
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "source": "Orthophotos 2006 SITN 50cm",
+        "id": "way/45748585",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9108248,
-            46.9855275
-          ],
-          [
-            6.9106781,
-            46.9854889
-          ],
-          [
-            6.9107043,
-            46.9854427
-          ],
-          [
-            6.9107298,
-            46.9854494
-          ],
-          [
-            6.9107975,
-            46.9853297
-          ],
-          [
-            6.9108142,
-            46.9853341
-          ],
-          [
-            6.9108331,
-            46.9853007
-          ],
-          [
-            6.9109412,
-            46.9853292
-          ],
-          [
-            6.910921,
-            46.9853649
-          ],
-          [
-            6.9109374,
-            46.9853692
-          ],
-          [
-            6.9108892,
-            46.9854545
-          ],
-          [
-            6.9108691,
-            46.9854492
-          ],
-          [
-            6.9108248,
-            46.9855275
+            [
+              6.9108248,
+              46.9855275
+            ],
+            [
+              6.9106781,
+              46.9854889
+            ],
+            [
+              6.9107043,
+              46.9854427
+            ],
+            [
+              6.9107298,
+              46.9854494
+            ],
+            [
+              6.9107975,
+              46.9853297
+            ],
+            [
+              6.9108142,
+              46.9853341
+            ],
+            [
+              6.9108331,
+              46.9853007
+            ],
+            [
+              6.9109412,
+              46.9853292
+            ],
+            [
+              6.910921,
+              46.9853649
+            ],
+            [
+              6.9109374,
+              46.9853692
+            ],
+            [
+              6.9108892,
+              46.9854545
+            ],
+            [
+              6.9108691,
+              46.9854492
+            ],
+            [
+              6.9108248,
+              46.9855275
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/92144680",
-    "properties": {
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "source": "Orthophotos 2006 SITN 50cm",
-      "addr": [
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue des Draizes",
-          "addr:housenumber": "12"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue des Draizes",
-          "addr:housenumber": "14"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue des Draizes",
-          "addr:housenumber": "16"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/92144680",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "source": "Orthophotos 2006 SITN 50cm",
+        "addr": [
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue des Draizes",
+            "addr:housenumber": "12"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue des Draizes",
+            "addr:housenumber": "14"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue des Draizes",
+            "addr:housenumber": "16"
+          }
+        ],
+        "id": "way/92144680",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9024235,
-            46.9893219
-          ],
-          [
-            6.9030072,
-            46.9893906
-          ],
-          [
-            6.9029849,
-            46.9894787
-          ],
-          [
-            6.9024012,
-            46.9894101
-          ],
-          [
-            6.9024235,
-            46.9893219
+            [
+              6.9024235,
+              46.9893219
+            ],
+            [
+              6.9030072,
+              46.9893906
+            ],
+            [
+              6.9029849,
+              46.9894787
+            ],
+            [
+              6.9024012,
+              46.9894101
+            ],
+            [
+              6.9024235,
+              46.9893219
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/92145485",
-    "properties": {
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "source": "Orthophotos 2006 SITN 50cm",
-      "addr": [
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue des Draizes",
-          "addr:housenumber": "8"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue des Draizes",
-          "addr:housenumber": "10"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/92145485",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "source": "Orthophotos 2006 SITN 50cm",
+        "addr": [
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue des Draizes",
+            "addr:housenumber": "8"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue des Draizes",
+            "addr:housenumber": "10"
+          }
+        ],
+        "id": "way/92145485",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9031032,
-            46.9894822
-          ],
-          [
-            6.9031224,
-            46.9893965
-          ],
-          [
-            6.9035114,
-            46.9894371
-          ],
-          [
-            6.9034923,
-            46.9895227
-          ],
-          [
-            6.9031032,
-            46.9894822
+            [
+              6.9031032,
+              46.9894822
+            ],
+            [
+              6.9031224,
+              46.9893965
+            ],
+            [
+              6.9035114,
+              46.9894371
+            ],
+            [
+              6.9034923,
+              46.9895227
+            ],
+            [
+              6.9031032,
+              46.9894822
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/96926950",
-    "properties": {
-      "addr:city": "Chez-le-Bart",
-      "addr:housenumber": "14",
-      "addr:postcode": "2025",
-      "addr:street": "Rue de la Foulaz",
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/96926950",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Chez-le-Bart",
+        "addr:housenumber": "14",
+        "addr:postcode": "2025",
+        "addr:street": "Rue de la Foulaz",
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "id": "way/96926950",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.7841573,
-            46.9010079
-          ],
-          [
-            6.7842682,
-            46.9009264
-          ],
-          [
-            6.784523,
-            46.9010882
-          ],
-          [
-            6.7844121,
-            46.9011697
-          ],
-          [
-            6.7841573,
-            46.9010079
+            [
+              6.7841573,
+              46.9010079
+            ],
+            [
+              6.7842682,
+              46.9009264
+            ],
+            [
+              6.784523,
+              46.9010882
+            ],
+            [
+              6.7844121,
+              46.9011697
+            ],
+            [
+              6.7841573,
+              46.9010079
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/157686442",
-    "properties": {
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "addr": [
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue de la Perrière",
-          "addr:housenumber": "14"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue de la Perrière",
-          "addr:housenumber": "16"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue de la Perrière",
-          "addr:housenumber": "18"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/157686442",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "addr": [
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue de la Perrière",
+            "addr:housenumber": "14"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue de la Perrière",
+            "addr:housenumber": "16"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue de la Perrière",
+            "addr:housenumber": "18"
+          }
+        ],
+        "id": "way/157686442",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8992726,
-            46.9842212
-          ],
-          [
-            6.8992744,
-            46.9842181
-          ],
-          [
-            6.8992929,
-            46.9842232
-          ],
-          [
-            6.8993147,
-            46.9841861
-          ],
-          [
-            6.8992961,
-            46.984181
-          ],
-          [
-            6.8993119,
-            46.9841542
-          ],
-          [
-            6.899297,
-            46.9841501
-          ],
-          [
-            6.8993156,
-            46.9841185
-          ],
-          [
-            6.8993328,
-            46.9841233
-          ],
-          [
-            6.8993546,
-            46.9840863
-          ],
-          [
-            6.8993379,
-            46.9840817
-          ],
-          [
-            6.8993396,
-            46.9840789
-          ],
-          [
-            6.8993565,
-            46.9840835
-          ],
-          [
-            6.899378,
-            46.984047
-          ],
-          [
-            6.8993616,
-            46.9840424
-          ],
-          [
-            6.8993777,
-            46.984015
-          ],
-          [
-            6.8993613,
-            46.9840105
-          ],
-          [
-            6.8993794,
-            46.9839798
-          ],
-          [
-            6.8993964,
-            46.9839845
-          ],
-          [
-            6.8994182,
-            46.9839474
-          ],
-          [
-            6.8994016,
-            46.9839428
-          ],
-          [
-            6.8994033,
-            46.9839399
-          ],
-          [
-            6.8994203,
-            46.9839446
-          ],
-          [
-            6.8994423,
-            46.9839072
-          ],
-          [
-            6.8994256,
-            46.9839026
-          ],
-          [
-            6.8994421,
-            46.9838745
-          ],
-          [
-            6.899425,
-            46.9838698
-          ],
-          [
-            6.8994428,
-            46.9838394
-          ],
-          [
-            6.8994606,
-            46.9838443
-          ],
-          [
-            6.899482,
-            46.9838078
-          ],
-          [
-            6.8994637,
-            46.9838027
-          ],
-          [
-            6.8994653,
-            46.9837999
-          ],
-          [
-            6.8995931,
-            46.9838351
-          ],
-          [
-            6.8995563,
-            46.9838977
-          ],
-          [
-            6.899573,
-            46.9839023
-          ],
-          [
-            6.8995596,
-            46.983925
-          ],
-          [
-            6.8995507,
-            46.9839401
-          ],
-          [
-            6.8996031,
-            46.9839546
-          ],
-          [
-            6.8995821,
-            46.9839902
-          ],
-          [
-            6.8995292,
-            46.9839757
-          ],
-          [
-            6.8994933,
-            46.9840367
-          ],
-          [
-            6.8995099,
-            46.9840412
-          ],
-          [
-            6.8994964,
-            46.9840643
-          ],
-          [
-            6.8994873,
-            46.9840797
-          ],
-          [
-            6.8995391,
-            46.9840939
-          ],
-          [
-            6.899518,
-            46.9841299
-          ],
-          [
-            6.8994647,
-            46.9841152
-          ],
-          [
-            6.8994282,
-            46.9841773
-          ],
-          [
-            6.8994458,
-            46.9841821
-          ],
-          [
-            6.8994322,
-            46.9842052
-          ],
-          [
-            6.8994232,
-            46.9842205
-          ],
-          [
-            6.8994748,
-            46.9842347
-          ],
-          [
-            6.8994535,
-            46.984271
-          ],
-          [
-            6.8992726,
-            46.9842212
+            [
+              6.8992726,
+              46.9842212
+            ],
+            [
+              6.8992744,
+              46.9842181
+            ],
+            [
+              6.8992929,
+              46.9842232
+            ],
+            [
+              6.8993147,
+              46.9841861
+            ],
+            [
+              6.8992961,
+              46.984181
+            ],
+            [
+              6.8993119,
+              46.9841542
+            ],
+            [
+              6.899297,
+              46.9841501
+            ],
+            [
+              6.8993156,
+              46.9841185
+            ],
+            [
+              6.8993328,
+              46.9841233
+            ],
+            [
+              6.8993546,
+              46.9840863
+            ],
+            [
+              6.8993379,
+              46.9840817
+            ],
+            [
+              6.8993396,
+              46.9840789
+            ],
+            [
+              6.8993565,
+              46.9840835
+            ],
+            [
+              6.899378,
+              46.984047
+            ],
+            [
+              6.8993616,
+              46.9840424
+            ],
+            [
+              6.8993777,
+              46.984015
+            ],
+            [
+              6.8993613,
+              46.9840105
+            ],
+            [
+              6.8993794,
+              46.9839798
+            ],
+            [
+              6.8993964,
+              46.9839845
+            ],
+            [
+              6.8994182,
+              46.9839474
+            ],
+            [
+              6.8994016,
+              46.9839428
+            ],
+            [
+              6.8994033,
+              46.9839399
+            ],
+            [
+              6.8994203,
+              46.9839446
+            ],
+            [
+              6.8994423,
+              46.9839072
+            ],
+            [
+              6.8994256,
+              46.9839026
+            ],
+            [
+              6.8994421,
+              46.9838745
+            ],
+            [
+              6.899425,
+              46.9838698
+            ],
+            [
+              6.8994428,
+              46.9838394
+            ],
+            [
+              6.8994606,
+              46.9838443
+            ],
+            [
+              6.899482,
+              46.9838078
+            ],
+            [
+              6.8994637,
+              46.9838027
+            ],
+            [
+              6.8994653,
+              46.9837999
+            ],
+            [
+              6.8995931,
+              46.9838351
+            ],
+            [
+              6.8995563,
+              46.9838977
+            ],
+            [
+              6.899573,
+              46.9839023
+            ],
+            [
+              6.8995596,
+              46.983925
+            ],
+            [
+              6.8995507,
+              46.9839401
+            ],
+            [
+              6.8996031,
+              46.9839546
+            ],
+            [
+              6.8995821,
+              46.9839902
+            ],
+            [
+              6.8995292,
+              46.9839757
+            ],
+            [
+              6.8994933,
+              46.9840367
+            ],
+            [
+              6.8995099,
+              46.9840412
+            ],
+            [
+              6.8994964,
+              46.9840643
+            ],
+            [
+              6.8994873,
+              46.9840797
+            ],
+            [
+              6.8995391,
+              46.9840939
+            ],
+            [
+              6.899518,
+              46.9841299
+            ],
+            [
+              6.8994647,
+              46.9841152
+            ],
+            [
+              6.8994282,
+              46.9841773
+            ],
+            [
+              6.8994458,
+              46.9841821
+            ],
+            [
+              6.8994322,
+              46.9842052
+            ],
+            [
+              6.8994232,
+              46.9842205
+            ],
+            [
+              6.8994748,
+              46.9842347
+            ],
+            [
+              6.8994535,
+              46.984271
+            ],
+            [
+              6.8992726,
+              46.9842212
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/157706657",
-    "properties": {
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "addr": [
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue des Troncs",
-          "addr:housenumber": "10"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue des Troncs",
-          "addr:housenumber": "6"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue des Troncs",
-          "addr:housenumber": "8"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/157706657",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "addr": [
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue des Troncs",
+            "addr:housenumber": "10"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue des Troncs",
+            "addr:housenumber": "6"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue des Troncs",
+            "addr:housenumber": "8"
+          }
+        ],
+        "id": "way/157706657",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.899824,
-            46.9830196
-          ],
-          [
-            6.899838,
-            46.9829948
-          ],
-          [
-            6.8998588,
-            46.9829577
-          ],
-          [
-            6.899878,
-            46.9829235
-          ],
-          [
-            6.8999369,
-            46.9829389
-          ],
-          [
-            6.899946,
-            46.9829226
-          ],
-          [
-            6.9000156,
-            46.9829409
-          ],
-          [
-            6.9000852,
-            46.9829592
-          ],
-          [
-            6.9000758,
-            46.9829759
-          ],
-          [
-            6.9001088,
-            46.9829845
-          ],
-          [
-            6.900118,
-            46.9829681
-          ],
-          [
-            6.9001535,
-            46.9829775
-          ],
-          [
-            6.9001628,
-            46.982961
-          ],
-          [
-            6.9002326,
-            46.9829794
-          ],
-          [
-            6.9003024,
-            46.9829977
-          ],
-          [
-            6.9002929,
-            46.9830146
-          ],
-          [
-            6.9003254,
-            46.9830231
-          ],
-          [
-            6.9003349,
-            46.9830062
-          ],
-          [
-            6.9003706,
-            46.9830156
-          ],
-          [
-            6.9003798,
-            46.9829991
-          ],
-          [
-            6.9004499,
-            46.9830175
-          ],
-          [
-            6.9005199,
-            46.9830359
-          ],
-          [
-            6.9005107,
-            46.9830523
-          ],
-          [
-            6.9005681,
-            46.9830674
-          ],
-          [
-            6.9005496,
-            46.9831003
-          ],
-          [
-            6.9005139,
-            46.9831639
-          ],
-          [
-            6.9002844,
-            46.9831036
-          ],
-          [
-            6.9002752,
-            46.9831198
-          ],
-          [
-            6.9000662,
-            46.9830649
-          ],
-          [
-            6.9000572,
-            46.9830809
-          ],
-          [
-            6.899824,
-            46.9830196
+            [
+              6.899824,
+              46.9830196
+            ],
+            [
+              6.899838,
+              46.9829948
+            ],
+            [
+              6.8998588,
+              46.9829577
+            ],
+            [
+              6.899878,
+              46.9829235
+            ],
+            [
+              6.8999369,
+              46.9829389
+            ],
+            [
+              6.899946,
+              46.9829226
+            ],
+            [
+              6.9000156,
+              46.9829409
+            ],
+            [
+              6.9000852,
+              46.9829592
+            ],
+            [
+              6.9000758,
+              46.9829759
+            ],
+            [
+              6.9001088,
+              46.9829845
+            ],
+            [
+              6.900118,
+              46.9829681
+            ],
+            [
+              6.9001535,
+              46.9829775
+            ],
+            [
+              6.9001628,
+              46.982961
+            ],
+            [
+              6.9002326,
+              46.9829794
+            ],
+            [
+              6.9003024,
+              46.9829977
+            ],
+            [
+              6.9002929,
+              46.9830146
+            ],
+            [
+              6.9003254,
+              46.9830231
+            ],
+            [
+              6.9003349,
+              46.9830062
+            ],
+            [
+              6.9003706,
+              46.9830156
+            ],
+            [
+              6.9003798,
+              46.9829991
+            ],
+            [
+              6.9004499,
+              46.9830175
+            ],
+            [
+              6.9005199,
+              46.9830359
+            ],
+            [
+              6.9005107,
+              46.9830523
+            ],
+            [
+              6.9005681,
+              46.9830674
+            ],
+            [
+              6.9005496,
+              46.9831003
+            ],
+            [
+              6.9005139,
+              46.9831639
+            ],
+            [
+              6.9002844,
+              46.9831036
+            ],
+            [
+              6.9002752,
+              46.9831198
+            ],
+            [
+              6.9000662,
+              46.9830649
+            ],
+            [
+              6.9000572,
+              46.9830809
+            ],
+            [
+              6.899824,
+              46.9830196
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/180311891",
-    "properties": {
-      "building": "apartments",
-      "building:levels": "4",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "roof:levels": "0",
-      "source": "Orthophotos 2006 SITN 50cm",
-      "addr": [
-        {
-          "addr:city": "Bevaix",
-          "addr:postcode": "2022",
-          "addr:street": "Chemin des Jonchères",
-          "addr:housenumber": "6"
-        },
-        {
-          "addr:city": "Bevaix",
-          "addr:postcode": "2022",
-          "addr:street": "Chemin des Jonchères",
-          "addr:housenumber": "4"
-        },
-        {
-          "addr:city": "Bevaix",
-          "addr:postcode": "2022",
-          "addr:street": "Chemin des Jonchères",
-          "addr:housenumber": "2"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/180311891",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:levels": "4",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "roof:levels": "0",
+        "source": "Orthophotos 2006 SITN 50cm",
+        "addr": [
+          {
+            "addr:city": "Bevaix",
+            "addr:postcode": "2022",
+            "addr:street": "Chemin des Jonchères",
+            "addr:housenumber": "6"
+          },
+          {
+            "addr:city": "Bevaix",
+            "addr:postcode": "2022",
+            "addr:street": "Chemin des Jonchères",
+            "addr:housenumber": "4"
+          },
+          {
+            "addr:city": "Bevaix",
+            "addr:postcode": "2022",
+            "addr:street": "Chemin des Jonchères",
+            "addr:housenumber": "2"
+          }
+        ],
+        "id": "way/180311891",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8100688,
-            46.9270116
-          ],
-          [
-            6.8101981,
-            46.9269633
-          ],
-          [
-            6.8103135,
-            46.9271075
-          ],
-          [
-            6.8103602,
-            46.92709
-          ],
-          [
-            6.8104144,
-            46.9271578
-          ],
-          [
-            6.8104567,
-            46.927142
-          ],
-          [
-            6.8105201,
-            46.9272213
-          ],
-          [
-            6.8106113,
-            46.9271873
-          ],
-          [
-            6.8106608,
-            46.9272492
-          ],
-          [
-            6.8107143,
-            46.9272293
-          ],
-          [
-            6.8107695,
-            46.9272983
-          ],
-          [
-            6.8106368,
-            46.9273478
-          ],
-          [
-            6.8105943,
-            46.9272946
-          ],
-          [
-            6.8105493,
-            46.9273115
-          ],
-          [
-            6.8104814,
-            46.9272266
-          ],
-          [
-            6.8103935,
-            46.9272594
-          ],
-          [
-            6.8103513,
-            46.9272066
-          ],
-          [
-            6.8103,
-            46.9272257
-          ],
-          [
-            6.8102311,
-            46.9271396
-          ],
-          [
-            6.8101851,
-            46.9271568
-          ],
-          [
-            6.8100688,
-            46.9270116
+            [
+              6.8100688,
+              46.9270116
+            ],
+            [
+              6.8101981,
+              46.9269633
+            ],
+            [
+              6.8103135,
+              46.9271075
+            ],
+            [
+              6.8103602,
+              46.92709
+            ],
+            [
+              6.8104144,
+              46.9271578
+            ],
+            [
+              6.8104567,
+              46.927142
+            ],
+            [
+              6.8105201,
+              46.9272213
+            ],
+            [
+              6.8106113,
+              46.9271873
+            ],
+            [
+              6.8106608,
+              46.9272492
+            ],
+            [
+              6.8107143,
+              46.9272293
+            ],
+            [
+              6.8107695,
+              46.9272983
+            ],
+            [
+              6.8106368,
+              46.9273478
+            ],
+            [
+              6.8105943,
+              46.9272946
+            ],
+            [
+              6.8105493,
+              46.9273115
+            ],
+            [
+              6.8104814,
+              46.9272266
+            ],
+            [
+              6.8103935,
+              46.9272594
+            ],
+            [
+              6.8103513,
+              46.9272066
+            ],
+            [
+              6.8103,
+              46.9272257
+            ],
+            [
+              6.8102311,
+              46.9271396
+            ],
+            [
+              6.8101851,
+              46.9271568
+            ],
+            [
+              6.8100688,
+              46.9270116
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/305436057",
-    "properties": {
-      "addr:city": "Colombier",
-      "addr:housenumber": "17",
-      "addr:postcode": "2013",
-      "addr:street": "Chemin des Saules",
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/305436057",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Colombier",
+        "addr:housenumber": "17",
+        "addr:postcode": "2013",
+        "addr:street": "Chemin des Saules",
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "id": "way/305436057",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8669981,
-            46.9685788
-          ],
-          [
-            6.8669161,
-            46.9684804
-          ],
-          [
-            6.8674125,
-            46.9682876
-          ],
-          [
-            6.8674971,
-            46.9683891
-          ],
-          [
-            6.8673151,
-            46.9684597
-          ],
-          [
-            6.8673379,
-            46.9684871
-          ],
-          [
-            6.8672957,
-            46.9685035
-          ],
-          [
-            6.8672703,
-            46.9684731
-          ],
-          [
-            6.8669981,
-            46.9685788
+            [
+              6.8669981,
+              46.9685788
+            ],
+            [
+              6.8669161,
+              46.9684804
+            ],
+            [
+              6.8674125,
+              46.9682876
+            ],
+            [
+              6.8674971,
+              46.9683891
+            ],
+            [
+              6.8673151,
+              46.9684597
+            ],
+            [
+              6.8673379,
+              46.9684871
+            ],
+            [
+              6.8672957,
+              46.9685035
+            ],
+            [
+              6.8672703,
+              46.9684731
+            ],
+            [
+              6.8669981,
+              46.9685788
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/318345837",
-    "properties": {
-      "addr:city": "Les Hauts-Geneveys",
-      "addr:housenumber": "18",
-      "addr:postcode": "2208",
-      "addr:street": "Route de la Jonchère",
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "source": "orthophotos2006sitn50cm",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/318345837",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Les Hauts-Geneveys",
+        "addr:housenumber": "18",
+        "addr:postcode": "2208",
+        "addr:street": "Route de la Jonchère",
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "source": "orthophotos2006sitn50cm",
+        "id": "way/318345837",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.875345,
-            47.0469112
-          ],
-          [
-            6.8754797,
-            47.0468578
-          ],
-          [
-            6.8757159,
-            47.0471402
-          ],
-          [
-            6.8755703,
-            47.0471957
-          ],
-          [
-            6.875531,
-            47.0471467
-          ],
-          [
-            6.8754799,
-            47.0471671
-          ],
-          [
-            6.8754194,
-            47.0470903
-          ],
-          [
-            6.8754695,
-            47.0470697
-          ],
-          [
-            6.875345,
-            47.0469112
+            [
+              6.875345,
+              47.0469112
+            ],
+            [
+              6.8754797,
+              47.0468578
+            ],
+            [
+              6.8757159,
+              47.0471402
+            ],
+            [
+              6.8755703,
+              47.0471957
+            ],
+            [
+              6.875531,
+              47.0471467
+            ],
+            [
+              6.8754799,
+              47.0471671
+            ],
+            [
+              6.8754194,
+              47.0470903
+            ],
+            [
+              6.8754695,
+              47.0470697
+            ],
+            [
+              6.875345,
+              47.0469112
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/337968744",
-    "properties": {
-      "addr:city": "Le Landeron",
-      "addr:housenumber": "38",
-      "addr:postcode": "2525",
-      "addr:street": "Rue du Lac",
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/337968744",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Le Landeron",
+        "addr:housenumber": "38",
+        "addr:postcode": "2525",
+        "addr:street": "Rue du Lac",
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "id": "way/337968744",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            7.0699108,
-            47.0542652
-          ],
-          [
-            7.0698161,
-            47.0544691
-          ],
-          [
-            7.0696523,
-            47.0544329
-          ],
-          [
-            7.0697464,
-            47.054229
-          ],
-          [
-            7.0699108,
-            47.0542652
+            [
+              7.0699108,
+              47.0542652
+            ],
+            [
+              7.0698161,
+              47.0544691
+            ],
+            [
+              7.0696523,
+              47.0544329
+            ],
+            [
+              7.0697464,
+              47.054229
+            ],
+            [
+              7.0699108,
+              47.0542652
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/462385181",
-    "properties": {
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "source": "Orthophotos2006sitn50cm",
-      "addr": [
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue des Noyers",
-          "addr:housenumber": "39"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue des Noyers",
-          "addr:housenumber": "37"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/462385181",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "source": "Orthophotos2006sitn50cm",
+        "addr": [
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue des Noyers",
+            "addr:housenumber": "39"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue des Noyers",
+            "addr:housenumber": "37"
+          }
+        ],
+        "id": "way/462385181",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8957323,
-            46.9839195
-          ],
-          [
-            6.8957934,
-            46.9838054
-          ],
-          [
-            6.8961827,
-            46.9839024
-          ],
-          [
-            6.8961216,
-            46.9840165
-          ],
-          [
-            6.8957323,
-            46.9839195
+            [
+              6.8957323,
+              46.9839195
+            ],
+            [
+              6.8957934,
+              46.9838054
+            ],
+            [
+              6.8961827,
+              46.9839024
+            ],
+            [
+              6.8961216,
+              46.9840165
+            ],
+            [
+              6.8957323,
+              46.9839195
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/1008743994",
-    "properties": {
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "addr": [
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "20"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "22"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "24"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "26"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "28"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "30"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "32"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "34"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "36"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1008743994",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "addr": [
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "20"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "22"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "24"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "26"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "28"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "30"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "32"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "34"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "36"
+          }
+        ],
+        "id": "way/1008743994",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9175157,
-            47.0009216
-          ],
-          [
-            6.9175781,
-            47.0009262
-          ],
-          [
-            6.9175937,
-            47.0009256
-          ],
-          [
-            6.9181533,
-            47.0008899
-          ],
-          [
-            6.9182446,
-            47.0009003
-          ],
-          [
-            6.9186004,
-            47.0010149
-          ],
-          [
-            6.9187692,
-            47.0010643
-          ],
-          [
-            6.9188301,
-            47.0010736
-          ],
-          [
-            6.9189929,
-            47.0010604
-          ],
-          [
-            6.9189931,
-            47.0010769
-          ],
-          [
-            6.9190821,
-            47.001086
-          ],
-          [
-            6.9190906,
-            47.0010715
-          ],
-          [
-            6.9191081,
-            47.0010774
-          ],
-          [
-            6.919273,
-            47.0011315
-          ],
-          [
-            6.9192634,
-            47.0011465
-          ],
-          [
-            6.9191969,
-            47.0012497
-          ],
-          [
-            6.9191531,
-            47.0012354
-          ],
-          [
-            6.9191484,
-            47.0012473
-          ],
-          [
-            6.9190459,
-            47.0012137
-          ],
-          [
-            6.9190497,
-            47.0012033
-          ],
-          [
-            6.9190106,
-            47.0011914
-          ],
-          [
-            6.9189654,
-            47.0011935
-          ],
-          [
-            6.9189688,
-            47.0012062
-          ],
-          [
-            6.9188111,
-            47.0012162
-          ],
-          [
-            6.9188099,
-            47.0012031
-          ],
-          [
-            6.9187622,
-            47.0012063
-          ],
-          [
-            6.9187276,
-            47.0011952
-          ],
-          [
-            6.9187206,
-            47.0012064
-          ],
-          [
-            6.9185746,
-            47.001158
-          ],
-          [
-            6.9185816,
-            47.0011486
-          ],
-          [
-            6.9185008,
-            47.0011248
-          ],
-          [
-            6.9184935,
-            47.0011341
-          ],
-          [
-            6.9183884,
-            47.0011002
-          ],
-          [
-            6.9183949,
-            47.0010889
-          ],
-          [
-            6.9183126,
-            47.0010642
-          ],
-          [
-            6.9183062,
-            47.0010744
-          ],
-          [
-            6.9182015,
-            47.0010424
-          ],
-          [
-            6.9182092,
-            47.0010307
-          ],
-          [
-            6.9181682,
-            47.0010179
-          ],
-          [
-            6.9181218,
-            47.0010223
-          ],
-          [
-            6.9181225,
-            47.001034
-          ],
-          [
-            6.9180103,
-            47.0010417
-          ],
-          [
-            6.9180074,
-            47.0010287
-          ],
-          [
-            6.9179203,
-            47.001034
-          ],
-          [
-            6.9179209,
-            47.0010468
-          ],
-          [
-            6.9178035,
-            47.0010536
-          ],
-          [
-            6.9178007,
-            47.0010422
-          ],
-          [
-            6.9177138,
-            47.0010472
-          ],
-          [
-            6.9177174,
-            47.0010611
-          ],
-          [
-            6.9175591,
-            47.0010713
-          ],
-          [
-            6.9175569,
-            47.001058
-          ],
-          [
-            6.9175197,
-            47.0010619
-          ],
-          [
-            6.9174764,
-            47.0010488
-          ],
-          [
-            6.9174668,
-            47.0010598
-          ],
-          [
-            6.9173232,
-            47.0010161
-          ],
-          [
-            6.9173312,
-            47.0010033
-          ],
-          [
-            6.9172897,
-            47.00099
-          ],
-          [
-            6.9173654,
-            47.0008763
-          ],
-          [
-            6.9175157,
-            47.0009216
+            [
+              6.9175157,
+              47.0009216
+            ],
+            [
+              6.9175781,
+              47.0009262
+            ],
+            [
+              6.9175937,
+              47.0009256
+            ],
+            [
+              6.9181533,
+              47.0008899
+            ],
+            [
+              6.9182446,
+              47.0009003
+            ],
+            [
+              6.9186004,
+              47.0010149
+            ],
+            [
+              6.9187692,
+              47.0010643
+            ],
+            [
+              6.9188301,
+              47.0010736
+            ],
+            [
+              6.9189929,
+              47.0010604
+            ],
+            [
+              6.9189931,
+              47.0010769
+            ],
+            [
+              6.9190821,
+              47.001086
+            ],
+            [
+              6.9190906,
+              47.0010715
+            ],
+            [
+              6.9191081,
+              47.0010774
+            ],
+            [
+              6.919273,
+              47.0011315
+            ],
+            [
+              6.9192634,
+              47.0011465
+            ],
+            [
+              6.9191969,
+              47.0012497
+            ],
+            [
+              6.9191531,
+              47.0012354
+            ],
+            [
+              6.9191484,
+              47.0012473
+            ],
+            [
+              6.9190459,
+              47.0012137
+            ],
+            [
+              6.9190497,
+              47.0012033
+            ],
+            [
+              6.9190106,
+              47.0011914
+            ],
+            [
+              6.9189654,
+              47.0011935
+            ],
+            [
+              6.9189688,
+              47.0012062
+            ],
+            [
+              6.9188111,
+              47.0012162
+            ],
+            [
+              6.9188099,
+              47.0012031
+            ],
+            [
+              6.9187622,
+              47.0012063
+            ],
+            [
+              6.9187276,
+              47.0011952
+            ],
+            [
+              6.9187206,
+              47.0012064
+            ],
+            [
+              6.9185746,
+              47.001158
+            ],
+            [
+              6.9185816,
+              47.0011486
+            ],
+            [
+              6.9185008,
+              47.0011248
+            ],
+            [
+              6.9184935,
+              47.0011341
+            ],
+            [
+              6.9183884,
+              47.0011002
+            ],
+            [
+              6.9183949,
+              47.0010889
+            ],
+            [
+              6.9183126,
+              47.0010642
+            ],
+            [
+              6.9183062,
+              47.0010744
+            ],
+            [
+              6.9182015,
+              47.0010424
+            ],
+            [
+              6.9182092,
+              47.0010307
+            ],
+            [
+              6.9181682,
+              47.0010179
+            ],
+            [
+              6.9181218,
+              47.0010223
+            ],
+            [
+              6.9181225,
+              47.001034
+            ],
+            [
+              6.9180103,
+              47.0010417
+            ],
+            [
+              6.9180074,
+              47.0010287
+            ],
+            [
+              6.9179203,
+              47.001034
+            ],
+            [
+              6.9179209,
+              47.0010468
+            ],
+            [
+              6.9178035,
+              47.0010536
+            ],
+            [
+              6.9178007,
+              47.0010422
+            ],
+            [
+              6.9177138,
+              47.0010472
+            ],
+            [
+              6.9177174,
+              47.0010611
+            ],
+            [
+              6.9175591,
+              47.0010713
+            ],
+            [
+              6.9175569,
+              47.001058
+            ],
+            [
+              6.9175197,
+              47.0010619
+            ],
+            [
+              6.9174764,
+              47.0010488
+            ],
+            [
+              6.9174668,
+              47.0010598
+            ],
+            [
+              6.9173232,
+              47.0010161
+            ],
+            [
+              6.9173312,
+              47.0010033
+            ],
+            [
+              6.9172897,
+              47.00099
+            ],
+            [
+              6.9173654,
+              47.0008763
+            ],
+            [
+              6.9175157,
+              47.0009216
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/1008743997",
-    "properties": {
-      "building": "apartments",
-      "owner": "Mon Logis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133460337",
-      "addr": [
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "2"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "4"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "6"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "8"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "10"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "12"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "14"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "16"
-        },
-        {
-          "addr:city": "Neuchâtel",
-          "addr:postcode": "2000",
-          "addr:street": "Rue Denis-de-Rougemont",
-          "addr:housenumber": "18"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1008743997",
-      "owner:website": "https://www.monlogis.ch/",
-      "owner:start_date": "1948-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-106.400.373"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Mon Logis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460337",
+        "addr": [
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "2"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "4"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "6"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "8"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "10"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "12"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "14"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "16"
+          },
+          {
+            "addr:city": "Neuchâtel",
+            "addr:postcode": "2000",
+            "addr:street": "Rue Denis-de-Rougemont",
+            "addr:housenumber": "18"
+          }
+        ],
+        "id": "way/1008743997",
+        "owner:website": "https://www.monlogis.ch/",
+        "owner:start_date": "1948-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-106.400.373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9158448,
-            46.999966
-          ],
-          [
-            6.9158587,
-            46.999959
-          ],
-          [
-            6.9158299,
-            46.999934
-          ],
-          [
-            6.9159321,
-            46.9998857
-          ],
-          [
-            6.9159836,
-            46.9998616
-          ],
-          [
-            6.9161083,
-            46.9999799
-          ],
-          [
-            6.9160918,
-            46.9999864
-          ],
-          [
-            6.9161212,
-            47.0000359
-          ],
-          [
-            6.9161412,
-            47.0000356
-          ],
-          [
-            6.9161582,
-            47.0001499
-          ],
-          [
-            6.9161765,
-            47.0001883
-          ],
-          [
-            6.9163688,
-            47.0003762
-          ],
-          [
-            6.9164139,
-            47.0004003
-          ],
-          [
-            6.9167531,
-            47.0005084
-          ],
-          [
-            6.9168305,
-            47.0005517
-          ],
-          [
-            6.9170459,
-            47.0007579
-          ],
-          [
-            6.9170918,
-            47.000788
-          ],
-          [
-            6.9172352,
-            47.0008345
-          ],
-          [
-            6.9171577,
-            47.0009483
-          ],
-          [
-            6.9171182,
-            47.0009369
-          ],
-          [
-            6.9171097,
-            47.0009461
-          ],
-          [
-            6.9169672,
-            47.0009023
-          ],
-          [
-            6.9169756,
-            47.0008924
-          ],
-          [
-            6.9169399,
-            47.0008811
-          ],
-          [
-            6.9169159,
-            47.0008558
-          ],
-          [
-            6.9168979,
-            47.000864
-          ],
-          [
-            6.9168026,
-            47.0007703
-          ],
-          [
-            6.9168155,
-            47.0007645
-          ],
-          [
-            6.9167736,
-            47.0007189
-          ],
-          [
-            6.9167562,
-            47.0007255
-          ],
-          [
-            6.916689,
-            47.000661
-          ],
-          [
-            6.9167019,
-            47.0006539
-          ],
-          [
-            6.9166782,
-            47.0006285
-          ],
-          [
-            6.9166353,
-            47.000615
-          ],
-          [
-            6.9166272,
-            47.000626
-          ],
-          [
-            6.9165255,
-            47.0005928
-          ],
-          [
-            6.9165332,
-            47.0005814
-          ],
-          [
-            6.916447,
-            47.0005566
-          ],
-          [
-            6.9164416,
-            47.0005681
-          ],
-          [
-            6.9162899,
-            47.0005197
-          ],
-          [
-            6.9162961,
-            47.0005106
-          ],
-          [
-            6.9162627,
-            47.0004987
-          ],
-          [
-            6.9162409,
-            47.0004764
-          ],
-          [
-            6.916224,
-            47.0004836
-          ],
-          [
-            6.9161311,
-            47.0003926
-          ],
-          [
-            6.9161469,
-            47.0003856
-          ],
-          [
-            6.9160947,
-            47.0003349
-          ],
-          [
-            6.9160801,
-            47.0003427
-          ],
-          [
-            6.9159836,
-            47.0002561
-          ],
-          [
-            6.916003,
-            47.0002472
-          ],
-          [
-            6.9159736,
-            47.0002226
-          ],
-          [
-            6.9159707,
-            47.0001981
-          ],
-          [
-            6.9159544,
-            47.0002006
-          ],
-          [
-            6.915942,
-            47.0000849
-          ],
-          [
-            6.915958,
-            47.0000842
-          ],
-          [
-            6.9159548,
-            47.0000505
-          ],
-          [
-            6.915931,
-            47.0000232
-          ],
-          [
-            6.9159103,
-            47.0000327
-          ],
-          [
-            6.9158448,
-            46.999966
+            [
+              6.9158448,
+              46.999966
+            ],
+            [
+              6.9158587,
+              46.999959
+            ],
+            [
+              6.9158299,
+              46.999934
+            ],
+            [
+              6.9159321,
+              46.9998857
+            ],
+            [
+              6.9159836,
+              46.9998616
+            ],
+            [
+              6.9161083,
+              46.9999799
+            ],
+            [
+              6.9160918,
+              46.9999864
+            ],
+            [
+              6.9161212,
+              47.0000359
+            ],
+            [
+              6.9161412,
+              47.0000356
+            ],
+            [
+              6.9161582,
+              47.0001499
+            ],
+            [
+              6.9161765,
+              47.0001883
+            ],
+            [
+              6.9163688,
+              47.0003762
+            ],
+            [
+              6.9164139,
+              47.0004003
+            ],
+            [
+              6.9167531,
+              47.0005084
+            ],
+            [
+              6.9168305,
+              47.0005517
+            ],
+            [
+              6.9170459,
+              47.0007579
+            ],
+            [
+              6.9170918,
+              47.000788
+            ],
+            [
+              6.9172352,
+              47.0008345
+            ],
+            [
+              6.9171577,
+              47.0009483
+            ],
+            [
+              6.9171182,
+              47.0009369
+            ],
+            [
+              6.9171097,
+              47.0009461
+            ],
+            [
+              6.9169672,
+              47.0009023
+            ],
+            [
+              6.9169756,
+              47.0008924
+            ],
+            [
+              6.9169399,
+              47.0008811
+            ],
+            [
+              6.9169159,
+              47.0008558
+            ],
+            [
+              6.9168979,
+              47.000864
+            ],
+            [
+              6.9168026,
+              47.0007703
+            ],
+            [
+              6.9168155,
+              47.0007645
+            ],
+            [
+              6.9167736,
+              47.0007189
+            ],
+            [
+              6.9167562,
+              47.0007255
+            ],
+            [
+              6.916689,
+              47.000661
+            ],
+            [
+              6.9167019,
+              47.0006539
+            ],
+            [
+              6.9166782,
+              47.0006285
+            ],
+            [
+              6.9166353,
+              47.000615
+            ],
+            [
+              6.9166272,
+              47.000626
+            ],
+            [
+              6.9165255,
+              47.0005928
+            ],
+            [
+              6.9165332,
+              47.0005814
+            ],
+            [
+              6.916447,
+              47.0005566
+            ],
+            [
+              6.9164416,
+              47.0005681
+            ],
+            [
+              6.9162899,
+              47.0005197
+            ],
+            [
+              6.9162961,
+              47.0005106
+            ],
+            [
+              6.9162627,
+              47.0004987
+            ],
+            [
+              6.9162409,
+              47.0004764
+            ],
+            [
+              6.916224,
+              47.0004836
+            ],
+            [
+              6.9161311,
+              47.0003926
+            ],
+            [
+              6.9161469,
+              47.0003856
+            ],
+            [
+              6.9160947,
+              47.0003349
+            ],
+            [
+              6.9160801,
+              47.0003427
+            ],
+            [
+              6.9159836,
+              47.0002561
+            ],
+            [
+              6.916003,
+              47.0002472
+            ],
+            [
+              6.9159736,
+              47.0002226
+            ],
+            [
+              6.9159707,
+              47.0001981
+            ],
+            [
+              6.9159544,
+              47.0002006
+            ],
+            [
+              6.915942,
+              47.0000849
+            ],
+            [
+              6.915958,
+              47.0000842
+            ],
+            [
+              6.9159548,
+              47.0000505
+            ],
+            [
+              6.915931,
+              47.0000232
+            ],
+            [
+              6.9159103,
+              47.0000327
+            ],
+            [
+              6.9158448,
+              46.999966
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}

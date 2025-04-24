@@ -1,268 +1,271 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/859763867",
-    "properties": {
-      "addr:city": "Saint-Blaise",
-      "addr:housenumber": "7",
-      "addr:postcode": "2072",
-      "addr:street": "Rue de la Musinière",
-      "building": "sheltered_housing",
-      "building:flats": "18",
-      "building:levels": "5",
-      "owner": "Coopérative Arc-en-ciel",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133459586",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "2022-04",
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/859763867",
-      "start_date_parsed": "2022-04-01T00:00:00.000Z",
-      "owner:website": "https://coop-arcenciel.ch/",
-      "owner:start_date": "2009-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-108.734.721"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Saint-Blaise",
+        "addr:housenumber": "7",
+        "addr:postcode": "2072",
+        "addr:street": "Rue de la Musinière",
+        "building": "sheltered_housing",
+        "building:flats": "18",
+        "building:levels": "5",
+        "owner": "Coopérative Arc-en-ciel",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133459586",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "2022-04",
+        "id": "way/859763867",
+        "start_date_parsed": "2022-04-01T00:00:00.000Z",
+        "owner:website": "https://coop-arcenciel.ch/",
+        "owner:start_date": "2009-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-108.734.721"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9910618,
-            47.0116142
-          ],
-          [
-            6.9911974,
-            47.0117281
-          ],
-          [
-            6.9910308,
-            47.0118203
-          ],
-          [
-            6.9908952,
-            47.0117064
-          ],
-          [
-            6.9910618,
-            47.0116142
+            [
+              6.9910618,
+              47.0116142
+            ],
+            [
+              6.9911974,
+              47.0117281
+            ],
+            [
+              6.9910308,
+              47.0118203
+            ],
+            [
+              6.9908952,
+              47.0117064
+            ],
+            [
+              6.9910618,
+              47.0116142
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/962600873",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "27",
-      "building:levels": "7",
-      "owner": "Coopérative Arc-en-ciel",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133459586",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "2015-09",
-      "addr": [
-        {
-          "addr:city": "Fontainemelon",
-          "addr:postcode": "2052",
-          "addr:street": "Rue de la Côte",
-          "addr:housenumber": "6"
-        },
-        {
-          "addr:city": "Fontainemelon",
-          "addr:postcode": "2052",
-          "addr:street": "Rue de la Côte",
-          "addr:housenumber": "8"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/962600873",
-      "start_date_parsed": "2015-09-01T00:00:00.000Z",
-      "owner:website": "https://coop-arcenciel.ch/",
-      "owner:start_date": "2009-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-108.734.721"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "27",
+        "building:levels": "7",
+        "owner": "Coopérative Arc-en-ciel",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133459586",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "2015-09",
+        "addr": [
+          {
+            "addr:city": "Fontainemelon",
+            "addr:postcode": "2052",
+            "addr:street": "Rue de la Côte",
+            "addr:housenumber": "6"
+          },
+          {
+            "addr:city": "Fontainemelon",
+            "addr:postcode": "2052",
+            "addr:street": "Rue de la Côte",
+            "addr:housenumber": "8"
+          }
+        ],
+        "id": "way/962600873",
+        "start_date_parsed": "2015-09-01T00:00:00.000Z",
+        "owner:website": "https://coop-arcenciel.ch/",
+        "owner:start_date": "2009-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-108.734.721"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8843727,
-            47.0561517
-          ],
-          [
-            6.8844397,
-            47.0560318
-          ],
-          [
-            6.8848788,
-            47.0561458
-          ],
-          [
-            6.8848141,
-            47.0562615
-          ],
-          [
-            6.8847217,
-            47.0562376
-          ],
-          [
-            6.8847052,
-            47.0562672
-          ],
-          [
-            6.8846515,
-            47.0562533
-          ],
-          [
-            6.8846665,
-            47.0562263
-          ],
-          [
-            6.8845454,
-            47.0561949
-          ],
-          [
-            6.8845255,
-            47.0562306
-          ],
-          [
-            6.8844693,
-            47.056216
-          ],
-          [
-            6.8844884,
-            47.0561817
-          ],
-          [
-            6.8843727,
-            47.0561517
+            [
+              6.8843727,
+              47.0561517
+            ],
+            [
+              6.8844397,
+              47.0560318
+            ],
+            [
+              6.8848788,
+              47.0561458
+            ],
+            [
+              6.8848141,
+              47.0562615
+            ],
+            [
+              6.8847217,
+              47.0562376
+            ],
+            [
+              6.8847052,
+              47.0562672
+            ],
+            [
+              6.8846515,
+              47.0562533
+            ],
+            [
+              6.8846665,
+              47.0562263
+            ],
+            [
+              6.8845454,
+              47.0561949
+            ],
+            [
+              6.8845255,
+              47.0562306
+            ],
+            [
+              6.8844693,
+              47.056216
+            ],
+            [
+              6.8844884,
+              47.0561817
+            ],
+            [
+              6.8843727,
+              47.0561517
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/1058059679",
-    "properties": {
-      "addr:city": "Couvet",
-      "addr:housenumber": "3",
-      "addr:postcode": "2108",
-      "addr:street": "Rue du Burcle",
-      "building": "sheltered_housing",
-      "building:flats": "26",
-      "building:levels": "3",
-      "owner": "Coopérative Arc-en-ciel",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133459586",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "2021-06",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1058059679",
-      "start_date_parsed": "2021-06-01T00:00:00.000Z",
-      "owner:website": "https://coop-arcenciel.ch/",
-      "owner:start_date": "2009-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-108.734.721"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Couvet",
+        "addr:housenumber": "3",
+        "addr:postcode": "2108",
+        "addr:street": "Rue du Burcle",
+        "building": "sheltered_housing",
+        "building:flats": "26",
+        "building:levels": "3",
+        "owner": "Coopérative Arc-en-ciel",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133459586",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "2021-06",
+        "id": "way/1058059679",
+        "start_date_parsed": "2021-06-01T00:00:00.000Z",
+        "owner:website": "https://coop-arcenciel.ch/",
+        "owner:start_date": "2009-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-108.734.721"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.635442,
-            46.921595
-          ],
-          [
-            6.6351906,
-            46.9215603
-          ],
-          [
-            6.6352936,
-            46.9212114
-          ],
-          [
-            6.635545,
-            46.921246
-          ],
-          [
-            6.635442,
-            46.921595
+            [
+              6.635442,
+              46.921595
+            ],
+            [
+              6.6351906,
+              46.9215603
+            ],
+            [
+              6.6352936,
+              46.9212114
+            ],
+            [
+              6.635545,
+              46.921246
+            ],
+            [
+              6.635442,
+              46.921595
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/1233281290",
-    "properties": {
-      "addr:city": "Les Brenets",
-      "addr:housenumber": "13",
-      "addr:postcode": "2416",
-      "addr:street": "Rue de la Gare",
-      "building": "sheltered_housing",
-      "building:flats": "17",
-      "building:levels": "2",
-      "owner": "Coopérative Arc-en-ciel",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133459586",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "2023",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1233281290",
-      "start_date_parsed": "2023-01-01T00:00:00.000Z",
-      "owner:website": "https://coop-arcenciel.ch/",
-      "owner:start_date": "2009-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-108.734.721"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Les Brenets",
+        "addr:housenumber": "13",
+        "addr:postcode": "2416",
+        "addr:street": "Rue de la Gare",
+        "building": "sheltered_housing",
+        "building:flats": "17",
+        "building:levels": "2",
+        "owner": "Coopérative Arc-en-ciel",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133459586",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "2023",
+        "id": "way/1233281290",
+        "start_date_parsed": "2023-01-01T00:00:00.000Z",
+        "owner:website": "https://coop-arcenciel.ch/",
+        "owner:start_date": "2009-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-108.734.721"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.7069403,
-            47.0666272
-          ],
-          [
-            6.7067956,
-            47.0665732
-          ],
-          [
-            6.7069132,
-            47.0664196
-          ],
-          [
-            6.7070168,
-            47.0662974
-          ],
-          [
-            6.7070788,
-            47.0662813
-          ],
-          [
-            6.7073185,
-            47.0662189
-          ],
-          [
-            6.7073923,
-            47.0663422
-          ],
-          [
-            6.7071442,
-            47.0664007
-          ],
-          [
-            6.7070784,
-            47.0664738
-          ],
-          [
-            6.7069403,
-            47.0666272
+            [
+              6.7069403,
+              47.0666272
+            ],
+            [
+              6.7067956,
+              47.0665732
+            ],
+            [
+              6.7069132,
+              47.0664196
+            ],
+            [
+              6.7070168,
+              47.0662974
+            ],
+            [
+              6.7070788,
+              47.0662813
+            ],
+            [
+              6.7073185,
+              47.0662189
+            ],
+            [
+              6.7073923,
+              47.0663422
+            ],
+            [
+              6.7071442,
+              47.0664007
+            ],
+            [
+              6.7070784,
+              47.0664738
+            ],
+            [
+              6.7069403,
+              47.0666272
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}

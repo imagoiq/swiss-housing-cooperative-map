@@ -1,64 +1,67 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/1231438488",
-    "properties": {
-      "building": "apartments",
-      "building:levels": "6",
-      "owner": "Ecopolis",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132179383",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "2023",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Rue Germaine-Ernst",
-          "addr:housenumber": "9"
-        }
-      ],
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/1231438488",
-      "start_date_parsed": "2023-01-01T00:00:00.000Z",
-      "owner:website": "https://ecopolis.ch/",
-      "owner:start_date": "2002-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-332.721.134"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:levels": "6",
+        "owner": "Ecopolis",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132179383",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "2023",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Rue Germaine-Ernst",
+            "addr:housenumber": "9"
+          }
+        ],
+        "id": "way/1231438488",
+        "start_date_parsed": "2023-01-01T00:00:00.000Z",
+        "owner:website": "https://ecopolis.ch/",
+        "owner:start_date": "2002-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-332.721.134"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6193937,
-            46.5389258
-          ],
-          [
-            6.6194671,
-            46.5387744
-          ],
-          [
-            6.6198208,
-            46.5388551
-          ],
-          [
-            6.6198382,
-            46.538807
-          ],
-          [
-            6.6199978,
-            46.538843
-          ],
-          [
-            6.6199005,
-            46.5390355
-          ],
-          [
-            6.6193937,
-            46.5389258
+            [
+              6.6193937,
+              46.5389258
+            ],
+            [
+              6.6194671,
+              46.5387744
+            ],
+            [
+              6.6198208,
+              46.5388551
+            ],
+            [
+              6.6198382,
+              46.538807
+            ],
+            [
+              6.6199978,
+              46.538843
+            ],
+            [
+              6.6199005,
+              46.5390355
+            ],
+            [
+              6.6193937,
+              46.5389258
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}

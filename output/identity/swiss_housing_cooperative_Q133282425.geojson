@@ -1,1430 +1,1433 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/131921914",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "38"
-        }
-      ],
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/131921914",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "38"
+          }
+        ],
+        "id": "way/131921914",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1152599,
-            46.1715656
-          ],
-          [
-            6.1153547,
-            46.1714922
-          ],
-          [
-            6.1154078,
-            46.1715252
-          ],
-          [
-            6.1153123,
-            46.1715992
-          ],
-          [
-            6.1152599,
-            46.1715656
+            [
+              6.1152599,
+              46.1715656
+            ],
+            [
+              6.1153547,
+              46.1714922
+            ],
+            [
+              6.1154078,
+              46.1715252
+            ],
+            [
+              6.1153123,
+              46.1715992
+            ],
+            [
+              6.1152599,
+              46.1715656
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/131921921",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Chemin de la Plamatte",
-          "addr:housenumber": "33"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/131921921",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Chemin de la Plamatte",
+            "addr:housenumber": "33"
+          }
+        ],
+        "id": "way/131921921",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1158767,
-            46.1711695
-          ],
-          [
-            6.1159969,
-            46.1710776
-          ],
-          [
-            6.1160558,
-            46.1711147
-          ],
-          [
-            6.1159357,
-            46.1712067
-          ],
-          [
-            6.1158767,
-            46.1711695
+            [
+              6.1158767,
+              46.1711695
+            ],
+            [
+              6.1159969,
+              46.1710776
+            ],
+            [
+              6.1160558,
+              46.1711147
+            ],
+            [
+              6.1159357,
+              46.1712067
+            ],
+            [
+              6.1158767,
+              46.1711695
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/131921950",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "6"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/131921950",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "6"
+          }
+        ],
+        "id": "way/131921950",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1161495,
-            46.1707061
-          ],
-          [
-            6.1160938,
-            46.1706725
-          ],
-          [
-            6.1161768,
-            46.1706093
-          ],
-          [
-            6.1162861,
-            46.1706788
-          ],
-          [
-            6.116233,
-            46.1707193
-          ],
-          [
-            6.1161771,
-            46.1706845
-          ],
-          [
-            6.1161495,
-            46.1707061
+            [
+              6.1161495,
+              46.1707061
+            ],
+            [
+              6.1160938,
+              46.1706725
+            ],
+            [
+              6.1161768,
+              46.1706093
+            ],
+            [
+              6.1162861,
+              46.1706788
+            ],
+            [
+              6.116233,
+              46.1707193
+            ],
+            [
+              6.1161771,
+              46.1706845
+            ],
+            [
+              6.1161495,
+              46.1707061
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/131921955",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "24"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/131921955",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "24"
+          }
+        ],
+        "id": "way/131921955",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1158995,
-            46.1709728
-          ],
-          [
-            6.1157892,
-            46.1709029
-          ],
-          [
-            6.115871,
-            46.1708417
-          ],
-          [
-            6.115927,
-            46.1708757
-          ],
-          [
-            6.1158981,
-            46.1708985
-          ],
-          [
-            6.1159512,
-            46.1709328
-          ],
-          [
-            6.1158995,
-            46.1709728
+            [
+              6.1158995,
+              46.1709728
+            ],
+            [
+              6.1157892,
+              46.1709029
+            ],
+            [
+              6.115871,
+              46.1708417
+            ],
+            [
+              6.115927,
+              46.1708757
+            ],
+            [
+              6.1158981,
+              46.1708985
+            ],
+            [
+              6.1159512,
+              46.1709328
+            ],
+            [
+              6.1158995,
+              46.1709728
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/131921976",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "14"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/131921976",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "14"
+          }
+        ],
+        "id": "way/131921976",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1161513,
-            46.1710171
-          ],
-          [
-            6.1160995,
-            46.1709847
-          ],
-          [
-            6.1161957,
-            46.170909
-          ],
-          [
-            6.1162483,
-            46.1709422
-          ],
-          [
-            6.1161513,
-            46.1710171
+            [
+              6.1161513,
+              46.1710171
+            ],
+            [
+              6.1160995,
+              46.1709847
+            ],
+            [
+              6.1161957,
+              46.170909
+            ],
+            [
+              6.1162483,
+              46.1709422
+            ],
+            [
+              6.1161513,
+              46.1710171
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/131921983",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Chemin de la Plamatte",
-          "addr:housenumber": "36"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/131921983",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Chemin de la Plamatte",
+            "addr:housenumber": "36"
+          }
+        ],
+        "id": "way/131921983",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1155972,
-            46.1714548
-          ],
-          [
-            6.1155435,
-            46.1714209
-          ],
-          [
-            6.1156401,
-            46.1713465
-          ],
-          [
-            6.115695,
-            46.1713803
-          ],
-          [
-            6.1155972,
-            46.1714548
+            [
+              6.1155972,
+              46.1714548
+            ],
+            [
+              6.1155435,
+              46.1714209
+            ],
+            [
+              6.1156401,
+              46.1713465
+            ],
+            [
+              6.115695,
+              46.1713803
+            ],
+            [
+              6.1155972,
+              46.1714548
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/131921985",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "8"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/131921985",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "8"
+          }
+        ],
+        "id": "way/131921985",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1163205,
-            46.1708135
-          ],
-          [
-            6.1164178,
-            46.1707389
-          ],
-          [
-            6.1164721,
-            46.1707735
-          ],
-          [
-            6.116374,
-            46.1708475
-          ],
-          [
-            6.1163205,
-            46.1708135
+            [
+              6.1163205,
+              46.1708135
+            ],
+            [
+              6.1164178,
+              46.1707389
+            ],
+            [
+              6.1164721,
+              46.1707735
+            ],
+            [
+              6.116374,
+              46.1708475
+            ],
+            [
+              6.1163205,
+              46.1708135
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/131921991",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "36"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/131921991",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "36"
+          }
+        ],
+        "id": "way/131921991",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1153131,
-            46.1714206
-          ],
-          [
-            6.1152022,
-            46.1713514
-          ],
-          [
-            6.1152558,
-            46.1713109
-          ],
-          [
-            6.1153657,
-            46.1713808
-          ],
-          [
-            6.1153131,
-            46.1714206
+            [
+              6.1153131,
+              46.1714206
+            ],
+            [
+              6.1152022,
+              46.1713514
+            ],
+            [
+              6.1152558,
+              46.1713109
+            ],
+            [
+              6.1153657,
+              46.1713808
+            ],
+            [
+              6.1153131,
+              46.1714206
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/193106892",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "32"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/193106892",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "32"
+          }
+        ],
+        "id": "way/193106892",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1153334,
-            46.1712517
-          ],
-          [
-            6.1154091,
-            46.1711936
-          ],
-          [
-            6.1155173,
-            46.1712627
-          ],
-          [
-            6.1154417,
-            46.17132
-          ],
-          [
-            6.1153334,
-            46.1712517
+            [
+              6.1153334,
+              46.1712517
+            ],
+            [
+              6.1154091,
+              46.1711936
+            ],
+            [
+              6.1155173,
+              46.1712627
+            ],
+            [
+              6.1154417,
+              46.17132
+            ],
+            [
+              6.1153334,
+              46.1712517
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/193106893",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Chemin de la Plamatte",
-          "addr:housenumber": "34"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/193106893",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Chemin de la Plamatte",
+            "addr:housenumber": "34"
+          }
+        ],
+        "id": "way/193106893",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1155972,
-            46.1714548
-          ],
-          [
-            6.115695,
-            46.1713803
-          ],
-          [
-            6.1157465,
-            46.1714136
-          ],
-          [
-            6.1156485,
-            46.1714874
-          ],
-          [
-            6.1155972,
-            46.1714548
+            [
+              6.1155972,
+              46.1714548
+            ],
+            [
+              6.115695,
+              46.1713803
+            ],
+            [
+              6.1157465,
+              46.1714136
+            ],
+            [
+              6.1156485,
+              46.1714874
+            ],
+            [
+              6.1155972,
+              46.1714548
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/193106900",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "34"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/193106900",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "34"
+          }
+        ],
+        "id": "way/193106900",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1152558,
-            46.1713109
-          ],
-          [
-            6.1153334,
-            46.1712517
-          ],
-          [
-            6.1154417,
-            46.17132
-          ],
-          [
-            6.1153657,
-            46.1713808
-          ],
-          [
-            6.1152558,
-            46.1713109
+            [
+              6.1152558,
+              46.1713109
+            ],
+            [
+              6.1153334,
+              46.1712517
+            ],
+            [
+              6.1154417,
+              46.17132
+            ],
+            [
+              6.1153657,
+              46.1713808
+            ],
+            [
+              6.1152558,
+              46.1713109
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/193106906",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "44"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/193106906",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "44"
+          }
+        ],
+        "id": "way/193106906",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1155129,
-            46.1715905
-          ],
-          [
-            6.115566,
-            46.1716239
-          ],
-          [
-            6.1154694,
-            46.1716986
-          ],
-          [
-            6.1154439,
-            46.1716824
-          ],
-          [
-            6.1154163,
-            46.1716648
-          ],
-          [
-            6.1155129,
-            46.1715905
+            [
+              6.1155129,
+              46.1715905
+            ],
+            [
+              6.115566,
+              46.1716239
+            ],
+            [
+              6.1154694,
+              46.1716986
+            ],
+            [
+              6.1154439,
+              46.1716824
+            ],
+            [
+              6.1154163,
+              46.1716648
+            ],
+            [
+              6.1155129,
+              46.1715905
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/193106919",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "40"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/193106919",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "40"
+          }
+        ],
+        "id": "way/193106919",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1154078,
-            46.1715252
-          ],
-          [
-            6.1154598,
-            46.1715577
-          ],
-          [
-            6.1153639,
-            46.1716319
-          ],
-          [
-            6.1153123,
-            46.1715992
-          ],
-          [
-            6.1154078,
-            46.1715252
+            [
+              6.1154078,
+              46.1715252
+            ],
+            [
+              6.1154598,
+              46.1715577
+            ],
+            [
+              6.1153639,
+              46.1716319
+            ],
+            [
+              6.1153123,
+              46.1715992
+            ],
+            [
+              6.1154078,
+              46.1715252
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/193106921",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "42"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/193106921",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "42"
+          }
+        ],
+        "id": "way/193106921",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1154598,
-            46.1715577
-          ],
-          [
-            6.1155129,
-            46.1715905
-          ],
-          [
-            6.1154163,
-            46.1716648
-          ],
-          [
-            6.1153639,
-            46.1716319
-          ],
-          [
-            6.1154598,
-            46.1715577
+            [
+              6.1154598,
+              46.1715577
+            ],
+            [
+              6.1155129,
+              46.1715905
+            ],
+            [
+              6.1154163,
+              46.1716648
+            ],
+            [
+              6.1153639,
+              46.1716319
+            ],
+            [
+              6.1154598,
+              46.1715577
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/193106922",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "30"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/193106922",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "30"
+          }
+        ],
+        "id": "way/193106922",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1154091,
-            46.1711936
-          ],
-          [
-            6.1154613,
-            46.171152
-          ],
-          [
-            6.1155728,
-            46.1712221
-          ],
-          [
-            6.1155173,
-            46.1712627
-          ],
-          [
-            6.1154091,
-            46.1711936
+            [
+              6.1154091,
+              46.1711936
+            ],
+            [
+              6.1154613,
+              46.171152
+            ],
+            [
+              6.1155728,
+              46.1712221
+            ],
+            [
+              6.1155173,
+              46.1712627
+            ],
+            [
+              6.1154091,
+              46.1711936
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/193106923",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Chemin de la Plamatte",
-          "addr:housenumber": "32"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/193106923",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Chemin de la Plamatte",
+            "addr:housenumber": "32"
+          }
+        ],
+        "id": "way/193106923",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1156485,
-            46.1714874
-          ],
-          [
-            6.1157465,
-            46.1714136
-          ],
-          [
-            6.1157976,
-            46.171446
-          ],
-          [
-            6.1157002,
-            46.1715207
-          ],
-          [
-            6.1156784,
-            46.1715067
-          ],
-          [
-            6.1156485,
-            46.1714874
+            [
+              6.1156485,
+              46.1714874
+            ],
+            [
+              6.1157465,
+              46.1714136
+            ],
+            [
+              6.1157976,
+              46.171446
+            ],
+            [
+              6.1157002,
+              46.1715207
+            ],
+            [
+              6.1156784,
+              46.1715067
+            ],
+            [
+              6.1156485,
+              46.1714874
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/194619253",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "20"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/194619253",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "20"
+          }
+        ],
+        "id": "way/194619253",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1163524,
-            46.1710086
-          ],
-          [
-            6.1164013,
-            46.1710406
-          ],
-          [
-            6.1163064,
-            46.1711147
-          ],
-          [
-            6.1162548,
-            46.1710833
-          ],
-          [
-            6.1163524,
-            46.1710086
+            [
+              6.1163524,
+              46.1710086
+            ],
+            [
+              6.1164013,
+              46.1710406
+            ],
+            [
+              6.1163064,
+              46.1711147
+            ],
+            [
+              6.1162548,
+              46.1710833
+            ],
+            [
+              6.1163524,
+              46.1710086
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/194619256",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "10"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/194619256",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "10"
+          }
+        ],
+        "id": "way/194619256",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.116374,
-            46.1708475
-          ],
-          [
-            6.1164721,
-            46.1707735
-          ],
-          [
-            6.1165234,
-            46.1708069
-          ],
-          [
-            6.1164259,
-            46.1708815
-          ],
-          [
-            6.116374,
-            46.1708475
+            [
+              6.116374,
+              46.1708475
+            ],
+            [
+              6.1164721,
+              46.1707735
+            ],
+            [
+              6.1165234,
+              46.1708069
+            ],
+            [
+              6.1164259,
+              46.1708815
+            ],
+            [
+              6.116374,
+              46.1708475
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/194619266",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "16"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/194619266",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "16"
+          }
+        ],
+        "id": "way/194619266",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1162483,
-            46.1709422
-          ],
-          [
-            6.1163,
-            46.170976
-          ],
-          [
-            6.1162024,
-            46.1710506
-          ],
-          [
-            6.1161513,
-            46.1710171
-          ],
-          [
-            6.1162483,
-            46.1709422
+            [
+              6.1162483,
+              46.1709422
+            ],
+            [
+              6.1163,
+              46.170976
+            ],
+            [
+              6.1162024,
+              46.1710506
+            ],
+            [
+              6.1161513,
+              46.1710171
+            ],
+            [
+              6.1162483,
+              46.1709422
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/194619267",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "18"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/194619267",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "18"
+          }
+        ],
+        "id": "way/194619267",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1163,
-            46.170976
-          ],
-          [
-            6.1163524,
-            46.1710086
-          ],
-          [
-            6.1162548,
-            46.1710833
-          ],
-          [
-            6.1162024,
-            46.1710506
-          ],
-          [
-            6.1163,
-            46.170976
+            [
+              6.1163,
+              46.170976
+            ],
+            [
+              6.1163524,
+              46.1710086
+            ],
+            [
+              6.1162548,
+              46.1710833
+            ],
+            [
+              6.1162024,
+              46.1710506
+            ],
+            [
+              6.1163,
+              46.170976
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/194619268",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "12"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/194619268",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "12"
+          }
+        ],
+        "id": "way/194619268",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1164259,
-            46.1708815
-          ],
-          [
-            6.1165234,
-            46.1708069
-          ],
-          [
-            6.1165758,
-            46.1708407
-          ],
-          [
-            6.1164792,
-            46.1709141
-          ],
-          [
-            6.1164259,
-            46.1708815
+            [
+              6.1164259,
+              46.1708815
+            ],
+            [
+              6.1165234,
+              46.1708069
+            ],
+            [
+              6.1165758,
+              46.1708407
+            ],
+            [
+              6.1164792,
+              46.1709141
+            ],
+            [
+              6.1164259,
+              46.1708815
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/194619269",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "22"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/194619269",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "22"
+          }
+        ],
+        "id": "way/194619269",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1164013,
-            46.1710406
-          ],
-          [
-            6.1164572,
-            46.1710752
-          ],
-          [
-            6.1163587,
-            46.1711491
-          ],
-          [
-            6.1163064,
-            46.1711147
-          ],
-          [
-            6.1164013,
-            46.1710406
+            [
+              6.1164013,
+              46.1710406
+            ],
+            [
+              6.1164572,
+              46.1710752
+            ],
+            [
+              6.1163587,
+              46.1711491
+            ],
+            [
+              6.1163064,
+              46.1711147
+            ],
+            [
+              6.1164013,
+              46.1710406
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/194756211",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "2"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/194756211",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "2"
+          }
+        ],
+        "id": "way/194756211",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1163629,
-            46.1706196
-          ],
-          [
-            6.1162529,
-            46.1705498
-          ],
-          [
-            6.1163323,
-            46.1704897
-          ],
-          [
-            6.1164424,
-            46.1705596
-          ],
-          [
-            6.1163629,
-            46.1706196
+            [
+              6.1163629,
+              46.1706196
+            ],
+            [
+              6.1162529,
+              46.1705498
+            ],
+            [
+              6.1163323,
+              46.1704897
+            ],
+            [
+              6.1164424,
+              46.1705596
+            ],
+            [
+              6.1163629,
+              46.1706196
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/194756218",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "26"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/194756218",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "26"
+          }
+        ],
+        "id": "way/194756218",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1157892,
-            46.1709029
-          ],
-          [
-            6.1158995,
-            46.1709728
-          ],
-          [
-            6.1158213,
-            46.1710313
-          ],
-          [
-            6.1157123,
-            46.1709629
-          ],
-          [
-            6.1157892,
-            46.1709029
+            [
+              6.1157892,
+              46.1709029
+            ],
+            [
+              6.1158995,
+              46.1709728
+            ],
+            [
+              6.1158213,
+              46.1710313
+            ],
+            [
+              6.1157123,
+              46.1709629
+            ],
+            [
+              6.1157892,
+              46.1709029
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/194756219",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "4"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/194756219",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "4"
+          }
+        ],
+        "id": "way/194756219",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1162861,
-            46.1706788
-          ],
-          [
-            6.1161768,
-            46.1706093
-          ],
-          [
-            6.1162529,
-            46.1705498
-          ],
-          [
-            6.1163629,
-            46.1706196
-          ],
-          [
-            6.1162861,
-            46.1706788
+            [
+              6.1162861,
+              46.1706788
+            ],
+            [
+              6.1161768,
+              46.1706093
+            ],
+            [
+              6.1162529,
+              46.1705498
+            ],
+            [
+              6.1163629,
+              46.1706196
+            ],
+            [
+              6.1162861,
+              46.1706788
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/194756232",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Avenue du Millénaire",
-          "addr:housenumber": "28"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/194756232",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Avenue du Millénaire",
+            "addr:housenumber": "28"
+          }
+        ],
+        "id": "way/194756232",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1157123,
-            46.1709629
-          ],
-          [
-            6.1158213,
-            46.1710313
-          ],
-          [
-            6.115744,
-            46.1710921
-          ],
-          [
-            6.1156509,
-            46.1710333
-          ],
-          [
-            6.1156339,
-            46.1710226
-          ],
-          [
-            6.1157123,
-            46.1709629
+            [
+              6.1157123,
+              46.1709629
+            ],
+            [
+              6.1158213,
+              46.1710313
+            ],
+            [
+              6.115744,
+              46.1710921
+            ],
+            [
+              6.1156509,
+              46.1710333
+            ],
+            [
+              6.1156339,
+              46.1710226
+            ],
+            [
+              6.1157123,
+              46.1709629
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/226314999",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Chemin de la Plamatte",
-          "addr:housenumber": "31"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/226314999",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Chemin de la Plamatte",
+            "addr:housenumber": "31"
+          }
+        ],
+        "id": "way/226314999",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1160558,
-            46.1711147
-          ],
-          [
-            6.1161136,
-            46.1711512
-          ],
-          [
-            6.1160693,
-            46.1711851
-          ],
-          [
-            6.1159935,
-            46.1712431
-          ],
-          [
-            6.1159357,
-            46.1712067
-          ],
-          [
-            6.1160558,
-            46.1711147
+            [
+              6.1160558,
+              46.1711147
+            ],
+            [
+              6.1161136,
+              46.1711512
+            ],
+            [
+              6.1160693,
+              46.1711851
+            ],
+            [
+              6.1159935,
+              46.1712431
+            ],
+            [
+              6.1159357,
+              46.1712067
+            ],
+            [
+              6.1160558,
+              46.1711147
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/226315025",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Chemin de la Plamatte",
-          "addr:housenumber": "29"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/226315025",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Chemin de la Plamatte",
+            "addr:housenumber": "29"
+          }
+        ],
+        "id": "way/226315025",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1160473,
-            46.1712763
-          ],
-          [
-            6.1161215,
-            46.1712196
-          ],
-          [
-            6.1161683,
-            46.1711844
-          ],
-          [
-            6.116226,
-            46.1712217
-          ],
-          [
-            6.1161058,
-            46.1713133
-          ],
-          [
-            6.1160473,
-            46.1712763
+            [
+              6.1160473,
+              46.1712763
+            ],
+            [
+              6.1161215,
+              46.1712196
+            ],
+            [
+              6.1161683,
+              46.1711844
+            ],
+            [
+              6.116226,
+              46.1712217
+            ],
+            [
+              6.1161058,
+              46.1713133
+            ],
+            [
+              6.1160473,
+              46.1712763
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/226315031",
-    "properties": {
-      "building": "apartments",
-      "owner": "Coopérative d'habitation Les Voirets",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282425",
-      "addr": [
-        {
-          "addr:city": "Plan-les-Ouates",
-          "addr:postcode": "1228",
-          "addr:street": "Chemin de la Plamatte",
-          "addr:housenumber": "27"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/226315031",
-      "owner:website": "https://voirets.ch/",
-      "owner:swiss_business_uid": "CHE-100.638.315"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "owner": "Coopérative d'habitation Les Voirets",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282425",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Chemin de la Plamatte",
+            "addr:housenumber": "27"
+          }
+        ],
+        "id": "way/226315031",
+        "owner:website": "https://voirets.ch/",
+        "owner:swiss_business_uid": "CHE-100.638.315"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1161058,
-            46.1713133
-          ],
-          [
-            6.116226,
-            46.1712217
-          ],
-          [
-            6.1162843,
-            46.1712587
-          ],
-          [
-            6.1161638,
-            46.17135
-          ],
-          [
-            6.1161058,
-            46.1713133
+            [
+              6.1161058,
+              46.1713133
+            ],
+            [
+              6.116226,
+              46.1712217
+            ],
+            [
+              6.1162843,
+              46.1712587
+            ],
+            [
+              6.1161638,
+              46.17135
+            ],
+            [
+              6.1161058,
+              46.1713133
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}

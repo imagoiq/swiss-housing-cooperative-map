@@ -1,59 +1,62 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/769372571",
-    "properties": {
-      "addr:city": "Neuchâtel",
-      "addr:housenumber": "3",
-      "addr:postcode": "2000",
-      "addr:street": "Rue Edmond-de-Reynier",
-      "building": "apartments",
-      "building:flats": "21",
-      "building:levels": "4",
-      "heating": "district_heating",
-      "height": "12",
-      "name": "La coopérative d'en face",
-      "owner": "La coopérative d'en face",
-      "owner:abbr": "CDEF",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133282952",
-      "roof:levels": "0",
-      "roof:shape": "flat",
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/769372571",
-      "owner:website": "https://www.cdef.ch/",
-      "owner:start_date": "2011-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-278.099.586"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Neuchâtel",
+        "addr:housenumber": "3",
+        "addr:postcode": "2000",
+        "addr:street": "Rue Edmond-de-Reynier",
+        "building": "apartments",
+        "building:flats": "21",
+        "building:levels": "4",
+        "heating": "district_heating",
+        "height": "12",
+        "name": "La coopérative d'en face",
+        "owner": "La coopérative d'en face",
+        "owner:abbr": "CDEF",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133282952",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "id": "way/769372571",
+        "owner:website": "https://www.cdef.ch/",
+        "owner:start_date": "2011-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-278.099.586"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.9397491,
-            46.9965413
-          ],
-          [
-            6.9396362,
-            46.9965474
-          ],
-          [
-            6.9393206,
-            46.9964346
-          ],
-          [
-            6.9394331,
-            46.9963114
-          ],
-          [
-            6.9397767,
-            46.9964037
-          ],
-          [
-            6.9397491,
-            46.9965413
+            [
+              6.9397491,
+              46.9965413
+            ],
+            [
+              6.9396362,
+              46.9965474
+            ],
+            [
+              6.9393206,
+              46.9964346
+            ],
+            [
+              6.9394331,
+              46.9963114
+            ],
+            [
+              6.9397767,
+              46.9964037
+            ],
+            [
+              6.9397491,
+              46.9965413
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}

@@ -1,2283 +1,2286 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/44780191",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "15",
-      "building:levels": "3",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "1",
-      "roof:shape": "hipped",
-      "source": "Orthophotos Ville de Lausanne 2008",
-      "start_date": "1920",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1007",
-          "addr:street": "Chemin des Mouettes",
-          "addr:housenumber": "1"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1007",
-          "addr:street": "Chemin des Mouettes",
-          "addr:housenumber": "5"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1007",
-          "addr:street": "Chemin des Mouettes",
-          "addr:housenumber": "3"
-        }
-      ],
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/44780191",
-      "start_date_parsed": "1920-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "15",
+        "building:levels": "3",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "1",
+        "roof:shape": "hipped",
+        "source": "Orthophotos Ville de Lausanne 2008",
+        "start_date": "1920",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1007",
+            "addr:street": "Chemin des Mouettes",
+            "addr:housenumber": "1"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1007",
+            "addr:street": "Chemin des Mouettes",
+            "addr:housenumber": "5"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1007",
+            "addr:street": "Chemin des Mouettes",
+            "addr:housenumber": "3"
+          }
+        ],
+        "id": "way/44780191",
+        "start_date_parsed": "1920-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6253406,
-            46.5104947
-          ],
-          [
-            6.6252882,
-            46.5104261
-          ],
-          [
-            6.6252122,
-            46.5103265
-          ],
-          [
-            6.6251122,
-            46.5101955
-          ],
-          [
-            6.6250593,
-            46.5101261
-          ],
-          [
-            6.6251816,
-            46.5100819
-          ],
-          [
-            6.6254628,
-            46.5104506
-          ],
-          [
-            6.6253406,
-            46.5104947
+            [
+              6.6253406,
+              46.5104947
+            ],
+            [
+              6.6252882,
+              46.5104261
+            ],
+            [
+              6.6252122,
+              46.5103265
+            ],
+            [
+              6.6251122,
+              46.5101955
+            ],
+            [
+              6.6250593,
+              46.5101261
+            ],
+            [
+              6.6251816,
+              46.5100819
+            ],
+            [
+              6.6254628,
+              46.5104506
+            ],
+            [
+              6.6253406,
+              46.5104947
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/44780632",
-    "properties": {
-      "addr:city": "Lausanne",
-      "addr:country": "CH",
-      "addr:housenumber": "1",
-      "addr:postcode": "1007",
-      "addr:street": "Chemin Auguste-Pidou",
-      "building": "apartments",
-      "building:flats": "6",
-      "building:levels": "3",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "1",
-      "roof:shape": "hipped",
-      "source": "Orthophotos Ville de Lausanne 2008",
-      "start_date": "1921",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/44780632",
-      "start_date_parsed": "1921-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Lausanne",
+        "addr:country": "CH",
+        "addr:housenumber": "1",
+        "addr:postcode": "1007",
+        "addr:street": "Chemin Auguste-Pidou",
+        "building": "apartments",
+        "building:flats": "6",
+        "building:levels": "3",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "1",
+        "roof:shape": "hipped",
+        "source": "Orthophotos Ville de Lausanne 2008",
+        "start_date": "1921",
+        "id": "way/44780632",
+        "start_date_parsed": "1921-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6256002,
-            46.5101215
-          ],
-          [
-            6.6255314,
-            46.5100361
-          ],
-          [
-            6.6257714,
-            46.5099446
-          ],
-          [
-            6.6258402,
-            46.51003
-          ],
-          [
-            6.6256002,
-            46.5101215
+            [
+              6.6256002,
+              46.5101215
+            ],
+            [
+              6.6255314,
+              46.5100361
+            ],
+            [
+              6.6257714,
+              46.5099446
+            ],
+            [
+              6.6258402,
+              46.51003
+            ],
+            [
+              6.6256002,
+              46.5101215
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/46763616",
-    "properties": {
-      "addr:city": "Lausanne",
-      "addr:country": "CH",
-      "addr:housenumber": "78",
-      "addr:postcode": "1007",
-      "addr:street": "Avenue de Cour",
-      "building": "apartments",
-      "building:flats": "10",
-      "building:levels": "6",
-      "copyright": "OpenAddresses",
-      "oa:imported_by": "sbrunner",
-      "oa:lat": "46.51620102",
-      "oa:lon": "6.61394644",
-      "oa:version": "oa2osm - 0.2 - sax",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "source": "Orthophoto Ville de Lausanne 2008",
-      "start_date": "1998",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/46763616",
-      "start_date_parsed": "1998-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Lausanne",
+        "addr:country": "CH",
+        "addr:housenumber": "78",
+        "addr:postcode": "1007",
+        "addr:street": "Avenue de Cour",
+        "building": "apartments",
+        "building:flats": "10",
+        "building:levels": "6",
+        "copyright": "OpenAddresses",
+        "oa:imported_by": "sbrunner",
+        "oa:lat": "46.51620102",
+        "oa:lon": "6.61394644",
+        "oa:version": "oa2osm - 0.2 - sax",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "start_date": "1998",
+        "id": "way/46763616",
+        "start_date_parsed": "1998-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6138907,
-            46.5162612
-          ],
-          [
-            6.6138618,
-            46.5162123
-          ],
-          [
-            6.6138774,
-            46.516183
-          ],
-          [
-            6.6140255,
-            46.5161432
-          ],
-          [
-            6.6140659,
-            46.5161533
-          ],
-          [
-            6.6140957,
-            46.5162035
-          ],
-          [
-            6.6140819,
-            46.5162294
-          ],
-          [
-            6.6139251,
-            46.5162707
-          ],
-          [
-            6.6138907,
-            46.5162612
+            [
+              6.6138907,
+              46.5162612
+            ],
+            [
+              6.6138618,
+              46.5162123
+            ],
+            [
+              6.6138774,
+              46.516183
+            ],
+            [
+              6.6140255,
+              46.5161432
+            ],
+            [
+              6.6140659,
+              46.5161533
+            ],
+            [
+              6.6140957,
+              46.5162035
+            ],
+            [
+              6.6140819,
+              46.5162294
+            ],
+            [
+              6.6139251,
+              46.5162707
+            ],
+            [
+              6.6138907,
+              46.5162612
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/46990528",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "36",
-      "building:levels": "7",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "source": "Orthophoto Ville de Lausanne 2008",
-      "start_date": "1964",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin d'Entre-Bois",
-          "addr:housenumber": "12"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin d'Entre-Bois",
-          "addr:housenumber": "14"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin d'Entre-Bois",
-          "addr:housenumber": "16"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/46990528",
-      "start_date_parsed": "1964-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "36",
+        "building:levels": "7",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "start_date": "1964",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin d'Entre-Bois",
+            "addr:housenumber": "12"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin d'Entre-Bois",
+            "addr:housenumber": "14"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin d'Entre-Bois",
+            "addr:housenumber": "16"
+          }
+        ],
+        "id": "way/46990528",
+        "start_date_parsed": "1964-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6323726,
-            46.5379552
-          ],
-          [
-            6.6323734,
-            46.5378458
-          ],
-          [
-            6.6329606,
-            46.5378479
-          ],
-          [
-            6.6329598,
-            46.5379542
-          ],
-          [
-            6.6328987,
-            46.537954
-          ],
-          [
-            6.6328986,
-            46.5379678
-          ],
-          [
-            6.6328632,
-            46.5379677
-          ],
-          [
-            6.6328389,
-            46.5379676
-          ],
-          [
-            6.632839,
-            46.5379554
-          ],
-          [
-            6.6326956,
-            46.5379549
-          ],
-          [
-            6.6326955,
-            46.5379689
-          ],
-          [
-            6.6326583,
-            46.5379688
-          ],
-          [
-            6.6326315,
-            46.5379687
-          ],
-          [
-            6.6326316,
-            46.5379556
-          ],
-          [
-            6.6324903,
-            46.5379551
-          ],
-          [
-            6.6324902,
-            46.5379687
-          ],
-          [
-            6.6324502,
-            46.5379686
-          ],
-          [
-            6.6324287,
-            46.5379685
-          ],
-          [
-            6.6324288,
-            46.5379554
-          ],
-          [
-            6.6323726,
-            46.5379552
+            [
+              6.6323726,
+              46.5379552
+            ],
+            [
+              6.6323734,
+              46.5378458
+            ],
+            [
+              6.6329606,
+              46.5378479
+            ],
+            [
+              6.6329598,
+              46.5379542
+            ],
+            [
+              6.6328987,
+              46.537954
+            ],
+            [
+              6.6328986,
+              46.5379678
+            ],
+            [
+              6.6328632,
+              46.5379677
+            ],
+            [
+              6.6328389,
+              46.5379676
+            ],
+            [
+              6.632839,
+              46.5379554
+            ],
+            [
+              6.6326956,
+              46.5379549
+            ],
+            [
+              6.6326955,
+              46.5379689
+            ],
+            [
+              6.6326583,
+              46.5379688
+            ],
+            [
+              6.6326315,
+              46.5379687
+            ],
+            [
+              6.6326316,
+              46.5379556
+            ],
+            [
+              6.6324903,
+              46.5379551
+            ],
+            [
+              6.6324902,
+              46.5379687
+            ],
+            [
+              6.6324502,
+              46.5379686
+            ],
+            [
+              6.6324287,
+              46.5379685
+            ],
+            [
+              6.6324288,
+              46.5379554
+            ],
+            [
+              6.6323726,
+              46.5379552
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/46990544",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "36",
-      "building:levels": "7",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "source": "Orthophoto Ville de Lausanne 2008",
-      "start_date": "1964",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin d'Entre-Bois",
-          "addr:housenumber": "24"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin d'Entre-Bois",
-          "addr:housenumber": "26"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin d'Entre-Bois",
-          "addr:housenumber": "28"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/46990544",
-      "start_date_parsed": "1964-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "36",
+        "building:levels": "7",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "start_date": "1964",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin d'Entre-Bois",
+            "addr:housenumber": "24"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin d'Entre-Bois",
+            "addr:housenumber": "26"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin d'Entre-Bois",
+            "addr:housenumber": "28"
+          }
+        ],
+        "id": "way/46990544",
+        "start_date_parsed": "1964-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6320599,
-            46.5387976
-          ],
-          [
-            6.6320608,
-            46.5386882
-          ],
-          [
-            6.6326479,
-            46.5386903
-          ],
-          [
-            6.6326471,
-            46.5387966
-          ],
-          [
-            6.632586,
-            46.5387963
-          ],
-          [
-            6.6325859,
-            46.5388102
-          ],
-          [
-            6.6325524,
-            46.5388101
-          ],
-          [
-            6.6325262,
-            46.53881
-          ],
-          [
-            6.6325263,
-            46.5387978
-          ],
-          [
-            6.6323829,
-            46.5387973
-          ],
-          [
-            6.6323828,
-            46.5388113
-          ],
-          [
-            6.6323516,
-            46.5388112
-          ],
-          [
-            6.6323189,
-            46.5388111
-          ],
-          [
-            6.632319,
-            46.538798
-          ],
-          [
-            6.6321777,
-            46.5387975
-          ],
-          [
-            6.6321776,
-            46.5388111
-          ],
-          [
-            6.63214,
-            46.538811
-          ],
-          [
-            6.632116,
-            46.5388109
-          ],
-          [
-            6.6321161,
-            46.5387978
-          ],
-          [
-            6.6320599,
-            46.5387976
+            [
+              6.6320599,
+              46.5387976
+            ],
+            [
+              6.6320608,
+              46.5386882
+            ],
+            [
+              6.6326479,
+              46.5386903
+            ],
+            [
+              6.6326471,
+              46.5387966
+            ],
+            [
+              6.632586,
+              46.5387963
+            ],
+            [
+              6.6325859,
+              46.5388102
+            ],
+            [
+              6.6325524,
+              46.5388101
+            ],
+            [
+              6.6325262,
+              46.53881
+            ],
+            [
+              6.6325263,
+              46.5387978
+            ],
+            [
+              6.6323829,
+              46.5387973
+            ],
+            [
+              6.6323828,
+              46.5388113
+            ],
+            [
+              6.6323516,
+              46.5388112
+            ],
+            [
+              6.6323189,
+              46.5388111
+            ],
+            [
+              6.632319,
+              46.538798
+            ],
+            [
+              6.6321777,
+              46.5387975
+            ],
+            [
+              6.6321776,
+              46.5388111
+            ],
+            [
+              6.63214,
+              46.538811
+            ],
+            [
+              6.632116,
+              46.5388109
+            ],
+            [
+              6.6321161,
+              46.5387978
+            ],
+            [
+              6.6320599,
+              46.5387976
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/46990545",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "36",
-      "building:levels": "7",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "source": "Orthophoto Ville de Lausanne 2008",
-      "start_date": "1964",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin d'Entre-Bois",
-          "addr:housenumber": "18"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin d'Entre-Bois",
-          "addr:housenumber": "20"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin d'Entre-Bois",
-          "addr:housenumber": "22"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/46990545",
-      "start_date_parsed": "1964-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "36",
+        "building:levels": "7",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "start_date": "1964",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin d'Entre-Bois",
+            "addr:housenumber": "18"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin d'Entre-Bois",
+            "addr:housenumber": "20"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin d'Entre-Bois",
+            "addr:housenumber": "22"
+          }
+        ],
+        "id": "way/46990545",
+        "start_date_parsed": "1964-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6322106,
-            46.5383831
-          ],
-          [
-            6.6322114,
-            46.5382737
-          ],
-          [
-            6.6327986,
-            46.5382758
-          ],
-          [
-            6.6327978,
-            46.5383821
-          ],
-          [
-            6.6327367,
-            46.5383819
-          ],
-          [
-            6.6327366,
-            46.5383957
-          ],
-          [
-            6.6326964,
-            46.5383956
-          ],
-          [
-            6.6326769,
-            46.5383955
-          ],
-          [
-            6.632677,
-            46.5383833
-          ],
-          [
-            6.6325336,
-            46.5383828
-          ],
-          [
-            6.6325335,
-            46.5383968
-          ],
-          [
-            6.6325069,
-            46.5383967
-          ],
-          [
-            6.6324695,
-            46.5383966
-          ],
-          [
-            6.6324696,
-            46.5383835
-          ],
-          [
-            6.6323283,
-            46.538383
-          ],
-          [
-            6.6323282,
-            46.5383966
-          ],
-          [
-            6.6323027,
-            46.5383965
-          ],
-          [
-            6.6322667,
-            46.5383964
-          ],
-          [
-            6.6322668,
-            46.5383833
-          ],
-          [
-            6.6322106,
-            46.5383831
+            [
+              6.6322106,
+              46.5383831
+            ],
+            [
+              6.6322114,
+              46.5382737
+            ],
+            [
+              6.6327986,
+              46.5382758
+            ],
+            [
+              6.6327978,
+              46.5383821
+            ],
+            [
+              6.6327367,
+              46.5383819
+            ],
+            [
+              6.6327366,
+              46.5383957
+            ],
+            [
+              6.6326964,
+              46.5383956
+            ],
+            [
+              6.6326769,
+              46.5383955
+            ],
+            [
+              6.632677,
+              46.5383833
+            ],
+            [
+              6.6325336,
+              46.5383828
+            ],
+            [
+              6.6325335,
+              46.5383968
+            ],
+            [
+              6.6325069,
+              46.5383967
+            ],
+            [
+              6.6324695,
+              46.5383966
+            ],
+            [
+              6.6324696,
+              46.5383835
+            ],
+            [
+              6.6323283,
+              46.538383
+            ],
+            [
+              6.6323282,
+              46.5383966
+            ],
+            [
+              6.6323027,
+              46.5383965
+            ],
+            [
+              6.6322667,
+              46.5383964
+            ],
+            [
+              6.6322668,
+              46.5383833
+            ],
+            [
+              6.6322106,
+              46.5383831
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/47002587",
-    "properties": {
-      "addr:city": "Lausanne",
-      "addr:country": "CH",
-      "addr:housenumber": "73",
-      "addr:postcode": "1018",
-      "addr:street": "Route Aloys-Fauquez",
-      "building": "apartments",
-      "building:flats": "24",
-      "building:levels": "4",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "0",
-      "roof:shape": "hipped",
-      "source": "Orthophoto Ville de Lausanne 2008",
-      "start_date": "1946",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/47002587",
-      "start_date_parsed": "1946-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Lausanne",
+        "addr:country": "CH",
+        "addr:housenumber": "73",
+        "addr:postcode": "1018",
+        "addr:street": "Route Aloys-Fauquez",
+        "building": "apartments",
+        "building:flats": "24",
+        "building:levels": "4",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "0",
+        "roof:shape": "hipped",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "start_date": "1946",
+        "id": "way/47002587",
+        "start_date_parsed": "1946-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6326685,
-            46.5350365
-          ],
-          [
-            6.6326677,
-            46.5349219
-          ],
-          [
-            6.6332164,
-            46.5349286
-          ],
-          [
-            6.6332117,
-            46.5350436
-          ],
-          [
-            6.633119,
-            46.5350417
-          ],
-          [
-            6.633117,
-            46.5350275
-          ],
-          [
-            6.6329776,
-            46.5350257
-          ],
-          [
-            6.6329776,
-            46.5350413
-          ],
-          [
-            6.6329696,
-            46.5350472
-          ],
-          [
-            6.6329129,
-            46.5350472
-          ],
-          [
-            6.6329036,
-            46.5350394
-          ],
-          [
-            6.6329036,
-            46.5350243
-          ],
-          [
-            6.6327675,
-            46.5350229
-          ],
-          [
-            6.6327662,
-            46.5350362
-          ],
-          [
-            6.6326685,
-            46.5350365
+            [
+              6.6326685,
+              46.5350365
+            ],
+            [
+              6.6326677,
+              46.5349219
+            ],
+            [
+              6.6332164,
+              46.5349286
+            ],
+            [
+              6.6332117,
+              46.5350436
+            ],
+            [
+              6.633119,
+              46.5350417
+            ],
+            [
+              6.633117,
+              46.5350275
+            ],
+            [
+              6.6329776,
+              46.5350257
+            ],
+            [
+              6.6329776,
+              46.5350413
+            ],
+            [
+              6.6329696,
+              46.5350472
+            ],
+            [
+              6.6329129,
+              46.5350472
+            ],
+            [
+              6.6329036,
+              46.5350394
+            ],
+            [
+              6.6329036,
+              46.5350243
+            ],
+            [
+              6.6327675,
+              46.5350229
+            ],
+            [
+              6.6327662,
+              46.5350362
+            ],
+            [
+              6.6326685,
+              46.5350365
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/47002588",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "33",
-      "building:levels": "4",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "0",
-      "roof:shape": "hipped",
-      "source": "Orthophoto Ville de Lausanne 2008",
-      "start_date": "1946",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Route Aloys-Fauquez",
-          "addr:housenumber": "69"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Route Aloys-Fauquez",
-          "addr:housenumber": "71"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/47002588",
-      "start_date_parsed": "1946-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "33",
+        "building:levels": "4",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "0",
+        "roof:shape": "hipped",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "start_date": "1946",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Route Aloys-Fauquez",
+            "addr:housenumber": "69"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Route Aloys-Fauquez",
+            "addr:housenumber": "71"
+          }
+        ],
+        "id": "way/47002588",
+        "start_date_parsed": "1946-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6326662,
-            46.5347192
-          ],
-          [
-            6.6326683,
-            46.5345842
-          ],
-          [
-            6.6327775,
-            46.534585
-          ],
-          [
-            6.6327773,
-            46.5345938
-          ],
-          [
-            6.6331213,
-            46.5345964
-          ],
-          [
-            6.6331214,
-            46.534587
-          ],
-          [
-            6.6332261,
-            46.5345877
-          ],
-          [
-            6.6332241,
-            46.534719
-          ],
-          [
-            6.6331241,
-            46.5347182
-          ],
-          [
-            6.6331244,
-            46.5346964
-          ],
-          [
-            6.6330678,
-            46.534696
-          ],
-          [
-            6.6328078,
-            46.5346941
-          ],
-          [
-            6.6327651,
-            46.5346938
-          ],
-          [
-            6.6327647,
-            46.5347199
-          ],
-          [
-            6.6326662,
-            46.5347192
+            [
+              6.6326662,
+              46.5347192
+            ],
+            [
+              6.6326683,
+              46.5345842
+            ],
+            [
+              6.6327775,
+              46.534585
+            ],
+            [
+              6.6327773,
+              46.5345938
+            ],
+            [
+              6.6331213,
+              46.5345964
+            ],
+            [
+              6.6331214,
+              46.534587
+            ],
+            [
+              6.6332261,
+              46.5345877
+            ],
+            [
+              6.6332241,
+              46.534719
+            ],
+            [
+              6.6331241,
+              46.5347182
+            ],
+            [
+              6.6331244,
+              46.5346964
+            ],
+            [
+              6.6330678,
+              46.534696
+            ],
+            [
+              6.6328078,
+              46.5346941
+            ],
+            [
+              6.6327651,
+              46.5346938
+            ],
+            [
+              6.6327647,
+              46.5347199
+            ],
+            [
+              6.6326662,
+              46.5347192
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/47002590",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "33",
-      "building:levels": "4",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "0",
-      "roof:shape": "hipped",
-      "source": "Orthophoto Ville de Lausanne 2008",
-      "start_date": "1946",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Route Aloys-Fauquez",
-          "addr:housenumber": "65"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Route Aloys-Fauquez",
-          "addr:housenumber": "67"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/47002590",
-      "start_date_parsed": "1946-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "33",
+        "building:levels": "4",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "0",
+        "roof:shape": "hipped",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "start_date": "1946",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Route Aloys-Fauquez",
+            "addr:housenumber": "65"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Route Aloys-Fauquez",
+            "addr:housenumber": "67"
+          }
+        ],
+        "id": "way/47002590",
+        "start_date_parsed": "1946-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6326718,
-            46.5344213
-          ],
-          [
-            6.6326739,
-            46.5342864
-          ],
-          [
-            6.6327831,
-            46.5342872
-          ],
-          [
-            6.632783,
-            46.534296
-          ],
-          [
-            6.6331281,
-            46.5342977
-          ],
-          [
-            6.6331283,
-            46.5342884
-          ],
-          [
-            6.633233,
-            46.5342891
-          ],
-          [
-            6.6332309,
-            46.5344204
-          ],
-          [
-            6.6331309,
-            46.5344196
-          ],
-          [
-            6.6331313,
-            46.5343978
-          ],
-          [
-            6.6330901,
-            46.5343976
-          ],
-          [
-            6.6328021,
-            46.5343962
-          ],
-          [
-            6.6327707,
-            46.534396
-          ],
-          [
-            6.6327703,
-            46.5344221
-          ],
-          [
-            6.6326718,
-            46.5344213
+            [
+              6.6326718,
+              46.5344213
+            ],
+            [
+              6.6326739,
+              46.5342864
+            ],
+            [
+              6.6327831,
+              46.5342872
+            ],
+            [
+              6.632783,
+              46.534296
+            ],
+            [
+              6.6331281,
+              46.5342977
+            ],
+            [
+              6.6331283,
+              46.5342884
+            ],
+            [
+              6.633233,
+              46.5342891
+            ],
+            [
+              6.6332309,
+              46.5344204
+            ],
+            [
+              6.6331309,
+              46.5344196
+            ],
+            [
+              6.6331313,
+              46.5343978
+            ],
+            [
+              6.6330901,
+              46.5343976
+            ],
+            [
+              6.6328021,
+              46.5343962
+            ],
+            [
+              6.6327707,
+              46.534396
+            ],
+            [
+              6.6327703,
+              46.5344221
+            ],
+            [
+              6.6326718,
+              46.5344213
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/47002591",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "39",
-      "building:levels": "4",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "0",
-      "roof:shape": "hipped",
-      "source": "Orthophoto Ville de Lausanne 2008",
-      "start_date": "1946",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Route Aloys-Fauquez",
-          "addr:housenumber": "61"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Route Aloys-Fauquez",
-          "addr:housenumber": "63"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/47002591",
-      "start_date_parsed": "1946-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "39",
+        "building:levels": "4",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "0",
+        "roof:shape": "hipped",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "start_date": "1946",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Route Aloys-Fauquez",
+            "addr:housenumber": "61"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Route Aloys-Fauquez",
+            "addr:housenumber": "63"
+          }
+        ],
+        "id": "way/47002591",
+        "start_date_parsed": "1946-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6326777,
-            46.5341516
-          ],
-          [
-            6.6326796,
-            46.5340314
-          ],
-          [
-            6.6332368,
-            46.5340368
-          ],
-          [
-            6.633235,
-            46.5341529
-          ],
-          [
-            6.6331091,
-            46.5341519
-          ],
-          [
-            6.6331094,
-            46.5341301
-          ],
-          [
-            6.6330677,
-            46.5341296
-          ],
-          [
-            6.6328389,
-            46.5341269
-          ],
-          [
-            6.6328019,
-            46.5341265
-          ],
-          [
-            6.6328015,
-            46.5341526
-          ],
-          [
-            6.6326777,
-            46.5341516
+            [
+              6.6326777,
+              46.5341516
+            ],
+            [
+              6.6326796,
+              46.5340314
+            ],
+            [
+              6.6332368,
+              46.5340368
+            ],
+            [
+              6.633235,
+              46.5341529
+            ],
+            [
+              6.6331091,
+              46.5341519
+            ],
+            [
+              6.6331094,
+              46.5341301
+            ],
+            [
+              6.6330677,
+              46.5341296
+            ],
+            [
+              6.6328389,
+              46.5341269
+            ],
+            [
+              6.6328019,
+              46.5341265
+            ],
+            [
+              6.6328015,
+              46.5341526
+            ],
+            [
+              6.6326777,
+              46.5341516
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/47002637",
-    "properties": {
-      "addr:city": "Lausanne",
-      "addr:country": "CH",
-      "addr:housenumber": "75",
-      "addr:postcode": "1018",
-      "addr:street": "Route Aloys-Fauquez",
-      "building": "apartments",
-      "building:flats": "24",
-      "building:levels": "4",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "0",
-      "roof:shape": "hipped",
-      "source": "Orthophoto Ville de Lausanne 2008",
-      "start_date": "1946",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/47002637",
-      "start_date_parsed": "1946-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Lausanne",
+        "addr:country": "CH",
+        "addr:housenumber": "75",
+        "addr:postcode": "1018",
+        "addr:street": "Route Aloys-Fauquez",
+        "building": "apartments",
+        "building:flats": "24",
+        "building:levels": "4",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "0",
+        "roof:shape": "hipped",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "start_date": "1946",
+        "id": "way/47002637",
+        "start_date_parsed": "1946-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6326622,
-            46.5354651
-          ],
-          [
-            6.6326608,
-            46.5353547
-          ],
-          [
-            6.6332053,
-            46.5353592
-          ],
-          [
-            6.6332018,
-            46.5354731
-          ],
-          [
-            6.6331037,
-            46.5354708
-          ],
-          [
-            6.6331017,
-            46.5354565
-          ],
-          [
-            6.6329744,
-            46.5354555
-          ],
-          [
-            6.6329744,
-            46.5354711
-          ],
-          [
-            6.6329664,
-            46.5354771
-          ],
-          [
-            6.6329097,
-            46.5354771
-          ],
-          [
-            6.6329004,
-            46.5354693
-          ],
-          [
-            6.6329004,
-            46.5354541
-          ],
-          [
-            6.6327643,
-            46.5354528
-          ],
-          [
-            6.632763,
-            46.5354661
-          ],
-          [
-            6.6326622,
-            46.5354651
+            [
+              6.6326622,
+              46.5354651
+            ],
+            [
+              6.6326608,
+              46.5353547
+            ],
+            [
+              6.6332053,
+              46.5353592
+            ],
+            [
+              6.6332018,
+              46.5354731
+            ],
+            [
+              6.6331037,
+              46.5354708
+            ],
+            [
+              6.6331017,
+              46.5354565
+            ],
+            [
+              6.6329744,
+              46.5354555
+            ],
+            [
+              6.6329744,
+              46.5354711
+            ],
+            [
+              6.6329664,
+              46.5354771
+            ],
+            [
+              6.6329097,
+              46.5354771
+            ],
+            [
+              6.6329004,
+              46.5354693
+            ],
+            [
+              6.6329004,
+              46.5354541
+            ],
+            [
+              6.6327643,
+              46.5354528
+            ],
+            [
+              6.632763,
+              46.5354661
+            ],
+            [
+              6.6326622,
+              46.5354651
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/47317988",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "42",
-      "building:levels": "4",
-      "last_renovation": "2015",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "source": "Orthophoto Ville de Lausanne 2008",
-      "start_date": "1931",
-      "subsidized": "yes",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Rue de la Borde",
-          "addr:housenumber": "54"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Rue de la Borde",
-          "addr:housenumber": "56"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/47317988",
-      "start_date_parsed": "1931-01-01T00:00:00.000Z",
-      "last_renovation_parsed": "2015-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "42",
+        "building:levels": "4",
+        "last_renovation": "2015",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "start_date": "1931",
+        "subsidized": "yes",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Rue de la Borde",
+            "addr:housenumber": "54"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Rue de la Borde",
+            "addr:housenumber": "56"
+          }
+        ],
+        "id": "way/47317988",
+        "start_date_parsed": "1931-01-01T00:00:00.000Z",
+        "last_renovation_parsed": "2015-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.629934,
-            46.5327265
-          ],
-          [
-            6.6296045,
-            46.532539
-          ],
-          [
-            6.6297054,
-            46.5324551
-          ],
-          [
-            6.6300349,
-            46.5326426
-          ],
-          [
-            6.629934,
-            46.5327265
+            [
+              6.629934,
+              46.5327265
+            ],
+            [
+              6.6296045,
+              46.532539
+            ],
+            [
+              6.6297054,
+              46.5324551
+            ],
+            [
+              6.6300349,
+              46.5326426
+            ],
+            [
+              6.629934,
+              46.5327265
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/47317992",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "42",
-      "building:levels": "4",
-      "last_renovation": "2015",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "source": "Orthophoto Ville de Lausanne 2008",
-      "start_date": "1931",
-      "subsidized": "yes",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Rue de la Borde",
-          "addr:housenumber": "50"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Rue de la Borde",
-          "addr:housenumber": "52"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/47317992",
-      "start_date_parsed": "1931-01-01T00:00:00.000Z",
-      "last_renovation_parsed": "2015-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "42",
+        "building:levels": "4",
+        "last_renovation": "2015",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "start_date": "1931",
+        "subsidized": "yes",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Rue de la Borde",
+            "addr:housenumber": "50"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Rue de la Borde",
+            "addr:housenumber": "52"
+          }
+        ],
+        "id": "way/47317992",
+        "start_date_parsed": "1931-01-01T00:00:00.000Z",
+        "last_renovation_parsed": "2015-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6300947,
-            46.5325611
-          ],
-          [
-            6.6299871,
-            46.5324997
-          ],
-          [
-            6.6302638,
-            46.5322704
-          ],
-          [
-            6.6303713,
-            46.5323318
-          ],
-          [
-            6.6300947,
-            46.5325611
+            [
+              6.6300947,
+              46.5325611
+            ],
+            [
+              6.6299871,
+              46.5324997
+            ],
+            [
+              6.6302638,
+              46.5322704
+            ],
+            [
+              6.6303713,
+              46.5323318
+            ],
+            [
+              6.6300947,
+              46.5325611
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/47317993",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "42",
-      "building:levels": "4",
-      "last_renovation": "2015",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "source": "Orthophoto Ville de Lausanne 2008",
-      "start_date": "1931",
-      "subsidized": "yes",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Rue de la Borde",
-          "addr:housenumber": "46"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Rue de la Borde",
-          "addr:housenumber": "48"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/47317993",
-      "start_date_parsed": "1931-01-01T00:00:00.000Z",
-      "last_renovation_parsed": "2015-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "42",
+        "building:levels": "4",
+        "last_renovation": "2015",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "start_date": "1931",
+        "subsidized": "yes",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Rue de la Borde",
+            "addr:housenumber": "46"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Rue de la Borde",
+            "addr:housenumber": "48"
+          }
+        ],
+        "id": "way/47317993",
+        "start_date_parsed": "1931-01-01T00:00:00.000Z",
+        "last_renovation_parsed": "2015-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6304577,
-            46.5322593
-          ],
-          [
-            6.6301449,
-            46.5320803
-          ],
-          [
-            6.6302372,
-            46.532004
-          ],
-          [
-            6.63055,
-            46.5321829
-          ],
-          [
-            6.6304577,
-            46.5322593
+            [
+              6.6304577,
+              46.5322593
+            ],
+            [
+              6.6301449,
+              46.5320803
+            ],
+            [
+              6.6302372,
+              46.532004
+            ],
+            [
+              6.63055,
+              46.5321829
+            ],
+            [
+              6.6304577,
+              46.5322593
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/47318002",
-    "properties": {
-      "building": "apartments",
-      "building:levels": "4",
-      "last_renovation": "1998",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "1",
-      "roof:shape": "hipped",
-      "source": "Orthophoto Ville de Lausanne 2008",
-      "start_date": "1918",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin des Bégonias",
-          "addr:housenumber": "2"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin des Bégonias",
-          "addr:housenumber": "4"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin des Bégonias",
-          "addr:housenumber": "6"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin des Bégonias",
-          "addr:housenumber": "8"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin des Bégonias",
-          "addr:housenumber": "10"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin des Bégonias",
-          "addr:housenumber": "12"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/47318002",
-      "start_date_parsed": "1918-01-01T00:00:00.000Z",
-      "last_renovation_parsed": "1998-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:levels": "4",
+        "last_renovation": "1998",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "1",
+        "roof:shape": "hipped",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "start_date": "1918",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin des Bégonias",
+            "addr:housenumber": "2"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin des Bégonias",
+            "addr:housenumber": "4"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin des Bégonias",
+            "addr:housenumber": "6"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin des Bégonias",
+            "addr:housenumber": "8"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin des Bégonias",
+            "addr:housenumber": "10"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin des Bégonias",
+            "addr:housenumber": "12"
+          }
+        ],
+        "id": "way/47318002",
+        "start_date_parsed": "1918-01-01T00:00:00.000Z",
+        "last_renovation_parsed": "1998-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6309903,
-            46.5322694
-          ],
-          [
-            6.6308851,
-            46.53221
-          ],
-          [
-            6.6313593,
-            46.5318087
-          ],
-          [
-            6.6314645,
-            46.531868
-          ],
-          [
-            6.6309903,
-            46.5322694
+            [
+              6.6309903,
+              46.5322694
+            ],
+            [
+              6.6308851,
+              46.53221
+            ],
+            [
+              6.6313593,
+              46.5318087
+            ],
+            [
+              6.6314645,
+              46.531868
+            ],
+            [
+              6.6309903,
+              46.5322694
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/47318009",
-    "properties": {
-      "building": "apartments",
-      "last_renovation": "1998",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:shape": "hipped",
-      "source": "Orthophoto Ville de Lausanne 2008",
-      "start_date": "1918",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin des Bégonias",
-          "addr:housenumber": "14"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin des Bégonias",
-          "addr:housenumber": "16"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1018",
-          "addr:street": "Chemin des Bégonias",
-          "addr:housenumber": "18"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/47318009",
-      "start_date_parsed": "1918-01-01T00:00:00.000Z",
-      "last_renovation_parsed": "1998-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "last_renovation": "1998",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:shape": "hipped",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "start_date": "1918",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin des Bégonias",
+            "addr:housenumber": "14"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin des Bégonias",
+            "addr:housenumber": "16"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1018",
+            "addr:street": "Chemin des Bégonias",
+            "addr:housenumber": "18"
+          }
+        ],
+        "id": "way/47318009",
+        "start_date_parsed": "1918-01-01T00:00:00.000Z",
+        "last_renovation_parsed": "1998-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6311159,
-            46.5323433
-          ],
-          [
-            6.6313698,
-            46.5321298
-          ],
-          [
-            6.6314784,
-            46.5321915
-          ],
-          [
-            6.6312245,
-            46.532405
-          ],
-          [
-            6.6311159,
-            46.5323433
+            [
+              6.6311159,
+              46.5323433
+            ],
+            [
+              6.6313698,
+              46.5321298
+            ],
+            [
+              6.6314784,
+              46.5321915
+            ],
+            [
+              6.6312245,
+              46.532405
+            ],
+            [
+              6.6311159,
+              46.5323433
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/49578843",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "16",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "source": "Orthophotos de la Ville de Lausanne (2008)",
-      "start_date": "1995",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1010",
-          "addr:street": "Chemin Louis-Boissonnet",
-          "addr:housenumber": "35"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1010",
-          "addr:street": "Chemin Louis-Boissonnet",
-          "addr:housenumber": "37"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/49578843",
-      "start_date_parsed": "1995-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "16",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "source": "Orthophotos de la Ville de Lausanne (2008)",
+        "start_date": "1995",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1010",
+            "addr:street": "Chemin Louis-Boissonnet",
+            "addr:housenumber": "35"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1010",
+            "addr:street": "Chemin Louis-Boissonnet",
+            "addr:housenumber": "37"
+          }
+        ],
+        "id": "way/49578843",
+        "start_date_parsed": "1995-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6450173,
-            46.5383977
-          ],
-          [
-            6.6448821,
-            46.5383693
-          ],
-          [
-            6.6448483,
-            46.5383283
-          ],
-          [
-            6.6449061,
-            46.5383055
-          ],
-          [
-            6.6449829,
-            46.5381195
-          ],
-          [
-            6.6449515,
-            46.5380794
-          ],
-          [
-            6.6450136,
-            46.5380544
-          ],
-          [
-            6.6451555,
-            46.5380857
-          ],
-          [
-            6.6451241,
-            46.5381547
-          ],
-          [
-            6.6451107,
-            46.5381842
-          ],
-          [
-            6.6451261,
-            46.5381876
-          ],
-          [
-            6.6450738,
-            46.5383051
-          ],
-          [
-            6.6450572,
-            46.5383021
-          ],
-          [
-            6.6450448,
-            46.5383319
-          ],
-          [
-            6.6450173,
-            46.5383977
+            [
+              6.6450173,
+              46.5383977
+            ],
+            [
+              6.6448821,
+              46.5383693
+            ],
+            [
+              6.6448483,
+              46.5383283
+            ],
+            [
+              6.6449061,
+              46.5383055
+            ],
+            [
+              6.6449829,
+              46.5381195
+            ],
+            [
+              6.6449515,
+              46.5380794
+            ],
+            [
+              6.6450136,
+              46.5380544
+            ],
+            [
+              6.6451555,
+              46.5380857
+            ],
+            [
+              6.6451241,
+              46.5381547
+            ],
+            [
+              6.6451107,
+              46.5381842
+            ],
+            [
+              6.6451261,
+              46.5381876
+            ],
+            [
+              6.6450738,
+              46.5383051
+            ],
+            [
+              6.6450572,
+              46.5383021
+            ],
+            [
+              6.6450448,
+              46.5383319
+            ],
+            [
+              6.6450173,
+              46.5383977
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/55339991",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "9",
-      "building:levels": "3",
-      "copyright": "OpenAddresses",
-      "oa:imported_by": "sbrunner",
-      "oa:lat": "46.51053619",
-      "oa:lon": "6.62566233",
-      "oa:version": "oa2osm - 0.2 - sax",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "1",
-      "roof:shape": "hipped",
-      "source": "Orthophotos Ville de Lausanne 2008",
-      "start_date": "1910",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1007",
-          "addr:street": "Rue des Fontenailles",
-          "addr:housenumber": "11"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1007",
-          "addr:street": "Rue des Fontenailles",
-          "addr:housenumber": "9"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/55339991",
-      "start_date_parsed": "1910-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "9",
+        "building:levels": "3",
+        "copyright": "OpenAddresses",
+        "oa:imported_by": "sbrunner",
+        "oa:lat": "46.51053619",
+        "oa:lon": "6.62566233",
+        "oa:version": "oa2osm - 0.2 - sax",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "1",
+        "roof:shape": "hipped",
+        "source": "Orthophotos Ville de Lausanne 2008",
+        "start_date": "1910",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1007",
+            "addr:street": "Rue des Fontenailles",
+            "addr:housenumber": "11"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1007",
+            "addr:street": "Rue des Fontenailles",
+            "addr:housenumber": "9"
+          }
+        ],
+        "id": "way/55339991",
+        "start_date_parsed": "1910-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6254803,
-            46.5106716
-          ],
-          [
-            6.6254049,
-            46.5105735
-          ],
-          [
-            6.6255034,
-            46.5105376
-          ],
-          [
-            6.6255139,
-            46.5105513
-          ],
-          [
-            6.6256068,
-            46.5105175
-          ],
-          [
-            6.6255935,
-            46.5105002
-          ],
-          [
-            6.6256931,
-            46.5104639
-          ],
-          [
-            6.6257713,
-            46.5105657
-          ],
-          [
-            6.6254803,
-            46.5106716
+            [
+              6.6254803,
+              46.5106716
+            ],
+            [
+              6.6254049,
+              46.5105735
+            ],
+            [
+              6.6255034,
+              46.5105376
+            ],
+            [
+              6.6255139,
+              46.5105513
+            ],
+            [
+              6.6256068,
+              46.5105175
+            ],
+            [
+              6.6255935,
+              46.5105002
+            ],
+            [
+              6.6256931,
+              46.5104639
+            ],
+            [
+              6.6257713,
+              46.5105657
+            ],
+            [
+              6.6254803,
+              46.5106716
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/110966307",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "40",
-      "building:levels": "7",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "subsidized": "yes",
-      "addr": [
-        {
-          "addr:city": "Morges",
-          "addr:postcode": "1110",
-          "addr:street": "Rue des Vignerons",
-          "addr:housenumber": "8"
-        },
-        {
-          "addr:city": "Morges",
-          "addr:postcode": "1110",
-          "addr:street": "Rue de la Gare",
-          "addr:housenumber": "39C"
-        },
-        {
-          "addr:city": "Morges",
-          "addr:postcode": "1110",
-          "addr:street": "Rue de la Gare",
-          "addr:housenumber": "39B"
-        },
-        {
-          "addr:city": "Morges",
-          "addr:postcode": "1110",
-          "addr:street": "Rue de la Gare",
-          "addr:housenumber": "39"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/110966307",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "40",
+        "building:levels": "7",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "subsidized": "yes",
+        "addr": [
+          {
+            "addr:city": "Morges",
+            "addr:postcode": "1110",
+            "addr:street": "Rue des Vignerons",
+            "addr:housenumber": "8"
+          },
+          {
+            "addr:city": "Morges",
+            "addr:postcode": "1110",
+            "addr:street": "Rue de la Gare",
+            "addr:housenumber": "39C"
+          },
+          {
+            "addr:city": "Morges",
+            "addr:postcode": "1110",
+            "addr:street": "Rue de la Gare",
+            "addr:housenumber": "39B"
+          },
+          {
+            "addr:city": "Morges",
+            "addr:postcode": "1110",
+            "addr:street": "Rue de la Gare",
+            "addr:housenumber": "39"
+          }
+        ],
+        "id": "way/110966307",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.4934679,
-            46.5107254
-          ],
-          [
-            6.4928328,
-            46.510328
-          ],
-          [
-            6.492986,
-            46.5102105
-          ],
-          [
-            6.4936236,
-            46.510614
-          ],
-          [
-            6.4934679,
-            46.5107254
+            [
+              6.4934679,
+              46.5107254
+            ],
+            [
+              6.4928328,
+              46.510328
+            ],
+            [
+              6.492986,
+              46.5102105
+            ],
+            [
+              6.4936236,
+              46.510614
+            ],
+            [
+              6.4934679,
+              46.5107254
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/259332196",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "54",
-      "building:levels": "4",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "2014",
-      "addr": [
-        {
-          "addr:city": "Ecublens",
-          "addr:postcode": "1024",
-          "addr:street": "Chemin de la Forêt",
-          "addr:housenumber": "14a"
-        },
-        {
-          "addr:city": "Ecublens",
-          "addr:postcode": "1024",
-          "addr:street": "Chemin de la Forêt",
-          "addr:housenumber": "14b"
-        },
-        {
-          "addr:city": "Ecublens",
-          "addr:postcode": "1024",
-          "addr:street": "Chemin de la Forêt",
-          "addr:housenumber": "14c"
-        },
-        {
-          "addr:city": "Ecublens",
-          "addr:postcode": "1024",
-          "addr:street": "Chemin de la Forêt",
-          "addr:housenumber": "14d"
-        },
-        {
-          "addr:city": "Ecublens",
-          "addr:postcode": "1024",
-          "addr:street": "Chemin de la Forêt",
-          "addr:housenumber": "14e"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/259332196",
-      "start_date_parsed": "2014-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "54",
+        "building:levels": "4",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "2014",
+        "addr": [
+          {
+            "addr:city": "Ecublens",
+            "addr:postcode": "1024",
+            "addr:street": "Chemin de la Forêt",
+            "addr:housenumber": "14a"
+          },
+          {
+            "addr:city": "Ecublens",
+            "addr:postcode": "1024",
+            "addr:street": "Chemin de la Forêt",
+            "addr:housenumber": "14b"
+          },
+          {
+            "addr:city": "Ecublens",
+            "addr:postcode": "1024",
+            "addr:street": "Chemin de la Forêt",
+            "addr:housenumber": "14c"
+          },
+          {
+            "addr:city": "Ecublens",
+            "addr:postcode": "1024",
+            "addr:street": "Chemin de la Forêt",
+            "addr:housenumber": "14d"
+          },
+          {
+            "addr:city": "Ecublens",
+            "addr:postcode": "1024",
+            "addr:street": "Chemin de la Forêt",
+            "addr:housenumber": "14e"
+          }
+        ],
+        "id": "way/259332196",
+        "start_date_parsed": "2014-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.5715778,
-            46.5401332
-          ],
-          [
-            6.571546,
-            46.5400738
-          ],
-          [
-            6.57155,
-            46.5399455
-          ],
-          [
-            6.5717358,
-            46.5399266
-          ],
-          [
-            6.571862,
-            46.539934
-          ],
-          [
-            6.5718652,
-            46.540005
-          ],
-          [
-            6.5716992,
-            46.5400157
-          ],
-          [
-            6.5717026,
-            46.5400433
-          ],
-          [
-            6.5716755,
-            46.5400442
-          ],
-          [
-            6.5716791,
-            46.5401175
-          ],
-          [
-            6.5715778,
-            46.5401332
+            [
+              6.5715778,
+              46.5401332
+            ],
+            [
+              6.571546,
+              46.5400738
+            ],
+            [
+              6.57155,
+              46.5399455
+            ],
+            [
+              6.5717358,
+              46.5399266
+            ],
+            [
+              6.571862,
+              46.539934
+            ],
+            [
+              6.5718652,
+              46.540005
+            ],
+            [
+              6.5716992,
+              46.5400157
+            ],
+            [
+              6.5717026,
+              46.5400433
+            ],
+            [
+              6.5716755,
+              46.5400442
+            ],
+            [
+              6.5716791,
+              46.5401175
+            ],
+            [
+              6.5715778,
+              46.5401332
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/576738296",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "20",
-      "building:levels": "4",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "1",
-      "roof:shape": "gabled",
-      "start_date": "2014",
-      "addr": [
-        {
-          "addr:city": "Penthalaz",
-          "addr:postcode": "1305",
-          "addr:street": "Chemin du Mont-Blanc",
-          "addr:housenumber": "2b"
-        },
-        {
-          "addr:city": "Penthalaz",
-          "addr:postcode": "1305",
-          "addr:street": "Chemin du Mont-Blanc",
-          "addr:housenumber": "2a"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/576738296",
-      "start_date_parsed": "2014-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "20",
+        "building:levels": "4",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
+        "start_date": "2014",
+        "addr": [
+          {
+            "addr:city": "Penthalaz",
+            "addr:postcode": "1305",
+            "addr:street": "Chemin du Mont-Blanc",
+            "addr:housenumber": "2b"
+          },
+          {
+            "addr:city": "Penthalaz",
+            "addr:postcode": "1305",
+            "addr:street": "Chemin du Mont-Blanc",
+            "addr:housenumber": "2a"
+          }
+        ],
+        "id": "way/576738296",
+        "start_date_parsed": "2014-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.526987,
-            46.6075472
-          ],
-          [
-            6.5265945,
-            46.6075539
-          ],
-          [
-            6.5265892,
-            46.6074046
-          ],
-          [
-            6.5269816,
-            46.607398
-          ],
-          [
-            6.526987,
-            46.6075472
+            [
+              6.526987,
+              46.6075472
+            ],
+            [
+              6.5265945,
+              46.6075539
+            ],
+            [
+              6.5265892,
+              46.6074046
+            ],
+            [
+              6.5269816,
+              46.607398
+            ],
+            [
+              6.526987,
+              46.6075472
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/576738297",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "20",
-      "building:levels": "4",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "1",
-      "roof:shape": "gabled",
-      "start_date": "2014",
-      "addr": [
-        {
-          "addr:city": "Penthalaz",
-          "addr:postcode": "1305",
-          "addr:street": "Chemin du Mont-Blanc",
-          "addr:housenumber": "4a"
-        },
-        {
-          "addr:city": "Penthalaz",
-          "addr:postcode": "1305",
-          "addr:street": "Chemin du Mont-Blanc",
-          "addr:housenumber": "4b"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/576738297",
-      "start_date_parsed": "2014-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "20",
+        "building:levels": "4",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
+        "start_date": "2014",
+        "addr": [
+          {
+            "addr:city": "Penthalaz",
+            "addr:postcode": "1305",
+            "addr:street": "Chemin du Mont-Blanc",
+            "addr:housenumber": "4a"
+          },
+          {
+            "addr:city": "Penthalaz",
+            "addr:postcode": "1305",
+            "addr:street": "Chemin du Mont-Blanc",
+            "addr:housenumber": "4b"
+          }
+        ],
+        "id": "way/576738297",
+        "start_date_parsed": "2014-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.5271832,
-            46.6071732
-          ],
-          [
-            6.526804,
-            46.607189
-          ],
-          [
-            6.5267908,
-            46.6070402
-          ],
-          [
-            6.52717,
-            46.6070244
-          ],
-          [
-            6.5271832,
-            46.6071732
+            [
+              6.5271832,
+              46.6071732
+            ],
+            [
+              6.526804,
+              46.607189
+            ],
+            [
+              6.5267908,
+              46.6070402
+            ],
+            [
+              6.52717,
+              46.6070244
+            ],
+            [
+              6.5271832,
+              46.6071732
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/647681511",
-    "properties": {
-      "building": "apartments",
-      "building:flats": "71",
-      "building:levels": "8",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:levels": "0",
-      "roof:shape": "flat",
-      "start_date": "2019",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1005",
-          "addr:street": "Avenue de la Sallaz",
-          "addr:housenumber": "11"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1005",
-          "addr:street": "Avenue de la Sallaz",
-          "addr:housenumber": "13"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1005",
-          "addr:street": "Avenue de la Sallaz",
-          "addr:housenumber": "15"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/647681511",
-      "start_date_parsed": "2019-01-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:flats": "71",
+        "building:levels": "8",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "start_date": "2019",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1005",
+            "addr:street": "Avenue de la Sallaz",
+            "addr:housenumber": "11"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1005",
+            "addr:street": "Avenue de la Sallaz",
+            "addr:housenumber": "13"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1005",
+            "addr:street": "Avenue de la Sallaz",
+            "addr:housenumber": "15"
+          }
+        ],
+        "id": "way/647681511",
+        "start_date_parsed": "2019-01-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6420579,
-            46.5286648
-          ],
-          [
-            6.6420125,
-            46.5285751
-          ],
-          [
-            6.6419493,
-            46.528529
-          ],
-          [
-            6.6419178,
-            46.5284624
-          ],
-          [
-            6.641819,
-            46.5283782
-          ],
-          [
-            6.6417628,
-            46.5283082
-          ],
-          [
-            6.6417149,
-            46.5282729
-          ],
-          [
-            6.6416764,
-            46.5282216
-          ],
-          [
-            6.6416198,
-            46.5281765
-          ],
-          [
-            6.6417505,
-            46.5280645
-          ],
-          [
-            6.6419928,
-            46.5283075
-          ],
-          [
-            6.6422368,
-            46.5286077
-          ],
-          [
-            6.6420579,
-            46.5286648
+            [
+              6.6420579,
+              46.5286648
+            ],
+            [
+              6.6420125,
+              46.5285751
+            ],
+            [
+              6.6419493,
+              46.528529
+            ],
+            [
+              6.6419178,
+              46.5284624
+            ],
+            [
+              6.641819,
+              46.5283782
+            ],
+            [
+              6.6417628,
+              46.5283082
+            ],
+            [
+              6.6417149,
+              46.5282729
+            ],
+            [
+              6.6416764,
+              46.5282216
+            ],
+            [
+              6.6416198,
+              46.5281765
+            ],
+            [
+              6.6417505,
+              46.5280645
+            ],
+            [
+              6.6419928,
+              46.5283075
+            ],
+            [
+              6.6422368,
+              46.5286077
+            ],
+            [
+              6.6420579,
+              46.5286648
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/1248972959",
-    "properties": {
-      "addr:city": "Pully",
-      "addr:housenumber": "24c",
-      "addr:postcode": "1009",
-      "addr:street": "Avenue des Désertes",
-      "building": "sheltered_housing",
-      "building:flats": "20",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:shape": "flat",
-      "start_date": "2023-05",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1248972959",
-      "start_date_parsed": "2023-05-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Pully",
+        "addr:housenumber": "24c",
+        "addr:postcode": "1009",
+        "addr:street": "Avenue des Désertes",
+        "building": "sheltered_housing",
+        "building:flats": "20",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:shape": "flat",
+        "start_date": "2023-05",
+        "id": "way/1248972959",
+        "start_date_parsed": "2023-05-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6595232,
-            46.507498
-          ],
-          [
-            6.6594993,
-            46.5073795
-          ],
-          [
-            6.659617,
-            46.5073605
-          ],
-          [
-            6.6596096,
-            46.5073376
-          ],
-          [
-            6.6599101,
-            46.5072915
-          ],
-          [
-            6.6599328,
-            46.5073615
-          ],
-          [
-            6.6599615,
-            46.5073571
-          ],
-          [
-            6.6599762,
-            46.5074023
-          ],
-          [
-            6.6596993,
-            46.5074448
-          ],
-          [
-            6.6597074,
-            46.5074697
-          ],
-          [
-            6.6595232,
-            46.507498
+            [
+              6.6595232,
+              46.507498
+            ],
+            [
+              6.6594993,
+              46.5073795
+            ],
+            [
+              6.659617,
+              46.5073605
+            ],
+            [
+              6.6596096,
+              46.5073376
+            ],
+            [
+              6.6599101,
+              46.5072915
+            ],
+            [
+              6.6599328,
+              46.5073615
+            ],
+            [
+              6.6599615,
+              46.5073571
+            ],
+            [
+              6.6599762,
+              46.5074023
+            ],
+            [
+              6.6596993,
+              46.5074448
+            ],
+            [
+              6.6597074,
+              46.5074697
+            ],
+            [
+              6.6595232,
+              46.507498
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/1248972960",
-    "properties": {
-      "addr:city": "Pully",
-      "addr:housenumber": "24b",
-      "addr:postcode": "1009",
-      "addr:street": "Avenue des Désertes",
-      "building": "sheltered_housing",
-      "building:flats": "20",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:shape": "flat",
-      "start_date": "2023-05",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1248972960",
-      "start_date_parsed": "2023-05-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Pully",
+        "addr:housenumber": "24b",
+        "addr:postcode": "1009",
+        "addr:street": "Avenue des Désertes",
+        "building": "sheltered_housing",
+        "building:flats": "20",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:shape": "flat",
+        "start_date": "2023-05",
+        "id": "way/1248972960",
+        "start_date_parsed": "2023-05-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6596042,
-            46.5072648
-          ],
-          [
-            6.6595732,
-            46.5071424
-          ],
-          [
-            6.6598511,
-            46.5071101
-          ],
-          [
-            6.6598758,
-            46.507188
-          ],
-          [
-            6.6599103,
-            46.5071844
-          ],
-          [
-            6.6599615,
-            46.5073571
-          ],
-          [
-            6.6599328,
-            46.5073615
-          ],
-          [
-            6.6599101,
-            46.5072915
-          ],
-          [
-            6.6598891,
-            46.5072313
-          ],
-          [
-            6.6596042,
-            46.5072648
+            [
+              6.6596042,
+              46.5072648
+            ],
+            [
+              6.6595732,
+              46.5071424
+            ],
+            [
+              6.6598511,
+              46.5071101
+            ],
+            [
+              6.6598758,
+              46.507188
+            ],
+            [
+              6.6599103,
+              46.5071844
+            ],
+            [
+              6.6599615,
+              46.5073571
+            ],
+            [
+              6.6599328,
+              46.5073615
+            ],
+            [
+              6.6599101,
+              46.5072915
+            ],
+            [
+              6.6598891,
+              46.5072313
+            ],
+            [
+              6.6596042,
+              46.5072648
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/1248972961",
-    "properties": {
-      "addr:city": "Pully",
-      "addr:housenumber": "24a",
-      "addr:postcode": "1009",
-      "addr:street": "Avenue des Désertes",
-      "building": "sheltered_housing",
-      "building:flats": "20",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "roof:shape": "flat",
-      "start_date": "2023-05",
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1248972961",
-      "start_date_parsed": "2023-05-01T00:00:00.000Z",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Pully",
+        "addr:housenumber": "24a",
+        "addr:postcode": "1009",
+        "addr:street": "Avenue des Désertes",
+        "building": "sheltered_housing",
+        "building:flats": "20",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "roof:shape": "flat",
+        "start_date": "2023-05",
+        "id": "way/1248972961",
+        "start_date_parsed": "2023-05-01T00:00:00.000Z",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6595998,
-            46.507065
-          ],
-          [
-            6.6595679,
-            46.5069317
-          ],
-          [
-            6.6597962,
-            46.5069225
-          ],
-          [
-            6.6598254,
-            46.5070023
-          ],
-          [
-            6.6598502,
-            46.5069993
-          ],
-          [
-            6.6599103,
-            46.5071844
-          ],
-          [
-            6.6598758,
-            46.507188
-          ],
-          [
-            6.6598511,
-            46.5071101
-          ],
-          [
-            6.659828,
-            46.5070449
-          ],
-          [
-            6.6595998,
-            46.507065
+            [
+              6.6595998,
+              46.507065
+            ],
+            [
+              6.6595679,
+              46.5069317
+            ],
+            [
+              6.6597962,
+              46.5069225
+            ],
+            [
+              6.6598254,
+              46.5070023
+            ],
+            [
+              6.6598502,
+              46.5069993
+            ],
+            [
+              6.6599103,
+              46.5071844
+            ],
+            [
+              6.6598758,
+              46.507188
+            ],
+            [
+              6.6598511,
+              46.5071101
+            ],
+            [
+              6.659828,
+              46.5070449
+            ],
+            [
+              6.6595998,
+              46.507065
+            ]
           ]
         ]
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "id": "way/1362016828",
-    "properties": {
-      "building:flats": "18",
-      "building:part": "apartments",
-      "owner": "Société coopérative d’habitation La Maison Ouvrière",
-      "owner:short": "La Maison Ouvrière",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q132679940",
-      "addr": [
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1005",
-          "addr:street": "Chemin des Falaises",
-          "addr:housenumber": "2c"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1005",
-          "addr:street": "Chemin des Falaises",
-          "addr:housenumber": "2b"
-        },
-        {
-          "addr:city": "Lausanne",
-          "addr:postcode": "1005",
-          "addr:street": "Avenue de la Sallaz",
-          "addr:housenumber": "3"
-        }
-      ],
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1362016828",
-      "owner:website": "https://la-maison-ouvriere.ch/",
-      "owner:swiss_business_uid": "CHE-102.044.397"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building:flats": "18",
+        "building:part": "apartments",
+        "owner": "Société coopérative d’habitation La Maison Ouvrière",
+        "owner:short": "La Maison Ouvrière",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q132679940",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1005",
+            "addr:street": "Chemin des Falaises",
+            "addr:housenumber": "2c"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1005",
+            "addr:street": "Chemin des Falaises",
+            "addr:housenumber": "2b"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1005",
+            "addr:street": "Avenue de la Sallaz",
+            "addr:housenumber": "3"
+          }
+        ],
+        "id": "way/1362016828",
+        "owner:website": "https://la-maison-ouvriere.ch/",
+        "owner:swiss_business_uid": "CHE-102.044.397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.6413164,
-            46.5273192
-          ],
-          [
-            6.641366,
-            46.527517
-          ],
-          [
-            6.6413701,
-            46.5275359
-          ],
-          [
-            6.6411677,
-            46.5275405
-          ],
-          [
-            6.6411685,
-            46.5274839
-          ],
-          [
-            6.6411484,
-            46.5274398
-          ],
-          [
-            6.6411441,
-            46.5273738
-          ],
-          [
-            6.6411208,
-            46.5273359
-          ],
-          [
-            6.6413164,
-            46.5273192
+            [
+              6.6413164,
+              46.5273192
+            ],
+            [
+              6.641366,
+              46.527517
+            ],
+            [
+              6.6413701,
+              46.5275359
+            ],
+            [
+              6.6411677,
+              46.5275405
+            ],
+            [
+              6.6411685,
+              46.5274839
+            ],
+            [
+              6.6411484,
+              46.5274398
+            ],
+            [
+              6.6411441,
+              46.5273738
+            ],
+            [
+              6.6411208,
+              46.5273359
+            ],
+            [
+              6.6413164,
+              46.5273192
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}

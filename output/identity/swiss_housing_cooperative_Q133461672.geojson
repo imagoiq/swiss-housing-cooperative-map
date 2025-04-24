@@ -1,50 +1,53 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/133530178",
-    "properties": {
-      "addr:city": "Genève",
-      "addr:housename": "Coopérative UV",
-      "addr:housenumber": "17",
-      "addr:postcode": "1202",
-      "addr:street": "Avenue de France",
-      "building": "apartments",
-      "building:flats": "20",
-      "building:levels": "7",
-      "owner": "Société coopérative de construction et d'habitation UV",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133461672",
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/133530178",
-      "owner:website": "https://gchg.ch/membre/uv/",
-      "owner:start_date": "2005-01-01T00:00:00Z",
-      "owner:swiss_business_uid": "CHE-112.667.080"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "addr:city": "Genève",
+        "addr:housename": "Coopérative UV",
+        "addr:housenumber": "17",
+        "addr:postcode": "1202",
+        "addr:street": "Avenue de France",
+        "building": "apartments",
+        "building:flats": "20",
+        "building:levels": "7",
+        "owner": "Société coopérative de construction et d'habitation UV",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133461672",
+        "id": "way/133530178",
+        "owner:website": "https://gchg.ch/membre/uv/",
+        "owner:start_date": "2005-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-112.667.080"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.1468983,
-            46.2194943
-          ],
-          [
-            6.1468645,
-            46.2192949
-          ],
-          [
-            6.1470999,
-            46.2192276
-          ],
-          [
-            6.1471756,
-            46.2194166
-          ],
-          [
-            6.1468983,
-            46.2194943
+            [
+              6.1468983,
+              46.2194943
+            ],
+            [
+              6.1468645,
+              46.2192949
+            ],
+            [
+              6.1470999,
+              46.2192276
+            ],
+            [
+              6.1471756,
+              46.2194166
+            ],
+            [
+              6.1468983,
+              46.2194943
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}

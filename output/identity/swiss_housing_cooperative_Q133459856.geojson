@@ -1,79 +1,82 @@
-{"type":"FeatureCollection","features": [
-  {
-    "type": "Feature",
-    "id": "way/49332649",
-    "properties": {
-      "building": "apartments",
-      "building:levels": "4",
-      "last_renovation": "2017",
-      "owner": "Coopérative d'habitation La Renouvelle",
-      "owner:type": "cooperative",
-      "owner:wikidata": "Q133459856",
-      "roof:levels": "2",
-      "roof:shape": "mansard",
-      "source": "orthophotos2006sitn50cm",
-      "addr": [
-        {
-          "addr:city": "La Chaux-de-Fonds",
-          "addr:postcode": "2300",
-          "addr:street": "Rue du Commerce",
-          "addr:housenumber": "95"
-        },
-        {
-          "addr:city": "La Chaux-de-Fonds",
-          "addr:postcode": "2300",
-          "addr:street": "Rue du Commerce",
-          "addr:housenumber": "97"
-        },
-        {
-          "addr:city": "La Chaux-de-Fonds",
-          "addr:postcode": "2300",
-          "addr:street": "Rue du Commerce",
-          "addr:housenumber": "99"
-        }
-      ],
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
       "id": "way/49332649",
-      "last_renovation_parsed": "2017-01-01T00:00:00.000Z",
-      "owner:swiss_business_uid": "CHE-174.689.305"
-    },
-    "geometry": {
-      "type": "Polygon",
-      "coordinates": [
-        [
+      "properties": {
+        "building": "apartments",
+        "building:levels": "4",
+        "last_renovation": "2017",
+        "owner": "Coopérative d'habitation La Renouvelle",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133459856",
+        "roof:levels": "2",
+        "roof:shape": "mansard",
+        "source": "orthophotos2006sitn50cm",
+        "addr": [
+          {
+            "addr:city": "La Chaux-de-Fonds",
+            "addr:postcode": "2300",
+            "addr:street": "Rue du Commerce",
+            "addr:housenumber": "95"
+          },
+          {
+            "addr:city": "La Chaux-de-Fonds",
+            "addr:postcode": "2300",
+            "addr:street": "Rue du Commerce",
+            "addr:housenumber": "97"
+          },
+          {
+            "addr:city": "La Chaux-de-Fonds",
+            "addr:postcode": "2300",
+            "addr:street": "Rue du Commerce",
+            "addr:housenumber": "99"
+          }
+        ],
+        "id": "way/49332649",
+        "last_renovation_parsed": "2017-01-01T00:00:00.000Z",
+        "owner:swiss_business_uid": "CHE-174.689.305"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            6.8185635,
-            47.0933655
-          ],
-          [
-            6.8184644,
-            47.0933057
-          ],
-          [
-            6.8183173,
-            47.0932171
-          ],
-          [
-            6.8181843,
-            47.0931369
-          ],
-          [
-            6.8180775,
-            47.0930726
-          ],
-          [
-            6.8181938,
-            47.0929832
-          ],
-          [
-            6.8186797,
-            47.0932762
-          ],
-          [
-            6.8185635,
-            47.0933655
+            [
+              6.8185635,
+              47.0933655
+            ],
+            [
+              6.8184644,
+              47.0933057
+            ],
+            [
+              6.8183173,
+              47.0932171
+            ],
+            [
+              6.8181843,
+              47.0931369
+            ],
+            [
+              6.8180775,
+              47.0930726
+            ],
+            [
+              6.8181938,
+              47.0929832
+            ],
+            [
+              6.8186797,
+              47.0932762
+            ],
+            [
+              6.8185635,
+              47.0933655
+            ]
           ]
         ]
-      ]
+      }
     }
-  }
-]}
+  ]
+}
