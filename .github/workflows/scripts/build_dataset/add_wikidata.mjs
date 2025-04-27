@@ -46,6 +46,7 @@ function aaPropertiesFromWikidata(identity, feature) {
 
     if(wikidataId) {
         feature.properties[`${identity}:dedicated_to`] = dedicated_to;
+        feature.properties[`${identity}:dedicated_to_label`] = dedicated_to_label;
         feature.properties[`${identity}:website`] = website;
         feature.properties[`${identity}:start_date`] = date_foundation;
         feature.properties[`${identity}:swiss_business_uid`] = swiss_business_uid;
@@ -65,5 +66,6 @@ function getCorrespondingData(wikidataList, wikidataId) {
         date_foundation: correspondingData?.date_foundation?.value,
         swiss_business_uid: correspondingData?.swiss_business_uid?.value,
         dedicated_to: correspondingData?.dedicated_to?.value,
+        dedicated_to_label: correspondingData?.dedicated_toLabel?.value,
     }
 }
