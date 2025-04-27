@@ -48,7 +48,7 @@ function getAggregatedData(features) {
         }
         if(feature.properties["building:flats"]){
             feature_building_flats_count++;
-            feature_building_flats_sum += feature.properties["building:flats"];
+            feature_building_flats_sum += parseInt(feature.properties["building:flats"],10);
         }
         if(feature.properties.last_renovation){
             feature_buildings_last_renovation_count++;
