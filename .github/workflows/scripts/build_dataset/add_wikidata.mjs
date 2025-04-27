@@ -42,7 +42,7 @@ writeFileSync(inputGeoJsonPath, JSON.stringify(featuresFile));
  */
 function aaPropertiesFromWikidata(identity, feature) {
     const wikidataId = feature.properties[`${identity}:wikidata`];
-    const {website, date_foundation, swiss_business_uid, dedicated_to} = getCorrespondingData(wikidataList, wikidataId);
+    const {website, date_foundation, swiss_business_uid, dedicated_to, dedicated_to_label} = getCorrespondingData(wikidataList, wikidataId);
 
     if(wikidataId) {
         feature.properties[`${identity}:dedicated_to`] = dedicated_to;
