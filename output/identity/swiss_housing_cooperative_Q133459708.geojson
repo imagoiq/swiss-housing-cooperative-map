@@ -31,6 +31,8 @@
         ],
         "id": "way/35543381",
         "start_date_parsed": "1976-01-01T00:00:00.000Z",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q105764136",
+        "owner:dedicated_to_label": "employees",
         "owner:website": "https://www.cipef.ch/",
         "owner:swiss_business_uid": "CHE-103.914.078"
       },
@@ -104,6 +106,8 @@
         ],
         "id": "way/35543382",
         "start_date_parsed": "1973-01-01T00:00:00.000Z",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q105764136",
+        "owner:dedicated_to_label": "employees",
         "owner:website": "https://www.cipef.ch/",
         "owner:swiss_business_uid": "CHE-103.914.078"
       },
@@ -157,6 +161,8 @@
         "start_date": "1989",
         "id": "way/35543385",
         "start_date_parsed": "1989-01-01T00:00:00.000Z",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q105764136",
+        "owner:dedicated_to_label": "employees",
         "owner:website": "https://www.cipef.ch/",
         "owner:swiss_business_uid": "CHE-103.914.078"
       },
@@ -239,6 +245,8 @@
         "start_date": "1987",
         "id": "way/210240312",
         "start_date_parsed": "1987-01-01T00:00:00.000Z",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q105764136",
+        "owner:dedicated_to_label": "employees",
         "owner:website": "https://www.cipef.ch/",
         "owner:swiss_business_uid": "CHE-103.914.078"
       },
@@ -299,6 +307,8 @@
         ],
         "id": "way/210240332",
         "start_date_parsed": "1987-01-01T00:00:00.000Z",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q105764136",
+        "owner:dedicated_to_label": "employees",
         "owner:website": "https://www.cipef.ch/",
         "owner:swiss_business_uid": "CHE-103.914.078"
       },
@@ -359,6 +369,8 @@
         ],
         "id": "way/210240397",
         "start_date_parsed": "1987-01-01T00:00:00.000Z",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q105764136",
+        "owner:dedicated_to_label": "employees",
         "owner:website": "https://www.cipef.ch/",
         "owner:swiss_business_uid": "CHE-103.914.078"
       },
@@ -420,6 +432,8 @@
         "start_date": "1996",
         "id": "way/1005082513",
         "start_date_parsed": "1996-01-01T00:00:00.000Z",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q105764136",
+        "owner:dedicated_to_label": "employees",
         "owner:website": "https://www.cipef.ch/",
         "owner:swiss_business_uid": "CHE-103.914.078"
       },
@@ -557,6 +571,8 @@
         "start_date": "1996",
         "id": "way/1005082514",
         "start_date_parsed": "1996-01-01T00:00:00.000Z",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q105764136",
+        "owner:dedicated_to_label": "employees",
         "owner:website": "https://www.cipef.ch/",
         "owner:swiss_business_uid": "CHE-103.914.078"
       },
@@ -698,6 +714,8 @@
         "start_date": "1996",
         "id": "way/1005082516",
         "start_date_parsed": "1996-01-01T00:00:00.000Z",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q105764136",
+        "owner:dedicated_to_label": "employees",
         "owner:website": "https://www.cipef.ch/",
         "owner:swiss_business_uid": "CHE-103.914.078"
       },
