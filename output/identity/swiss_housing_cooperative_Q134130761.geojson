@@ -24,6 +24,7 @@
         "id": "way/82683744",
         "start_date_parsed": "2015-01-01T00:00:00.000Z",
         "owner:dedicated_to": "http://www.wikidata.org/entity/Q48282",
+        "owner:dedicated_to_label": "student",
         "owner:website": "https://cigue.ch",
         "owner:start_date": "1986-01-01T00:00:00Z",
         "owner:swiss_business_uid": "CHE-107.411.008"
@@ -84,6 +85,7 @@
         "id": "way/82833466",
         "start_date_parsed": "1998-01-01T00:00:00.000Z",
         "owner:dedicated_to": "http://www.wikidata.org/entity/Q48282",
+        "owner:dedicated_to_label": "student",
         "owner:website": "https://cigue.ch",
         "owner:start_date": "1986-01-01T00:00:00Z",
         "owner:swiss_business_uid": "CHE-107.411.008"
@@ -155,6 +157,7 @@
         "id": "way/179706391",
         "start_date_parsed": "2011-01-01T00:00:00.000Z",
         "owner:dedicated_to": "http://www.wikidata.org/entity/Q48282",
+        "owner:dedicated_to_label": "student",
         "owner:website": "https://cigue.ch",
         "owner:start_date": "1986-01-01T00:00:00Z",
         "owner:swiss_business_uid": "CHE-107.411.008"
@@ -218,6 +221,7 @@
         "id": "way/181185762",
         "start_date_parsed": "2009-01-01T00:00:00.000Z",
         "owner:dedicated_to": "http://www.wikidata.org/entity/Q48282",
+        "owner:dedicated_to_label": "student",
         "owner:website": "https://cigue.ch",
         "owner:start_date": "1986-01-01T00:00:00Z",
         "owner:swiss_business_uid": "CHE-107.411.008"
@@ -275,6 +279,7 @@
         "id": "way/621297209",
         "start_date_parsed": "2018-01-01T00:00:00.000Z",
         "owner:dedicated_to": "http://www.wikidata.org/entity/Q48282",
+        "owner:dedicated_to_label": "student",
         "owner:website": "https://cigue.ch",
         "owner:start_date": "1986-01-01T00:00:00Z",
         "owner:swiss_business_uid": "CHE-107.411.008"
@@ -325,6 +330,7 @@
         "id": "way/761419691",
         "start_date_parsed": "2013-01-01T00:00:00.000Z",
         "owner:dedicated_to": "http://www.wikidata.org/entity/Q48282",
+        "owner:dedicated_to_label": "student",
         "owner:website": "https://cigue.ch",
         "owner:start_date": "1986-01-01T00:00:00Z",
         "owner:swiss_business_uid": "CHE-107.411.008"
@@ -369,6 +375,7 @@
         "rooms": "10",
         "id": "way/1381508686",
         "owner:dedicated_to": "http://www.wikidata.org/entity/Q48282",
+        "owner:dedicated_to_label": "student",
         "owner:website": "https://cigue.ch",
         "owner:start_date": "1986-01-01T00:00:00Z",
         "owner:swiss_business_uid": "CHE-107.411.008"
@@ -428,6 +435,7 @@
         "id": "way/1381512272",
         "start_date_parsed": "2009-10-01T00:00:00.000Z",
         "owner:dedicated_to": "http://www.wikidata.org/entity/Q48282",
+        "owner:dedicated_to_label": "student",
         "owner:website": "https://cigue.ch",
         "owner:start_date": "1986-01-01T00:00:00Z",
         "owner:swiss_business_uid": "CHE-107.411.008"
