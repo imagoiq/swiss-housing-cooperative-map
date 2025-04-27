@@ -1,0 +1,813 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/104926066",
+      "properties": {
+        "addr:city": "Bassecourt",
+        "addr:housenumber": "2",
+        "addr:postcode": "2854",
+        "addr:street": "Rue des Fougères",
+        "building": "apartments",
+        "building:flats": "12",
+        "owner": "Société coopérative jurassienne d’habitation",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133308011",
+        "source": "Orthophotos 1998 RCJU 50cm",
+        "id": "way/104926066",
+        "owner:website": "https://www.jumoup.ch/societe-cooperative-jurassienne-dhabitation/",
+        "owner:start_date": "2022-05-24T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.185.817"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.2469572,
+              47.3421614
+            ],
+            [
+              7.2469694,
+              47.3420738
+            ],
+            [
+              7.2472344,
+              47.3420907
+            ],
+            [
+              7.2472382,
+              47.3420634
+            ],
+            [
+              7.2475037,
+              47.3420804
+            ],
+            [
+              7.2475075,
+              47.3420527
+            ],
+            [
+              7.247778,
+              47.3420699
+            ],
+            [
+              7.2477665,
+              47.3421527
+            ],
+            [
+              7.2476824,
+              47.3421474
+            ],
+            [
+              7.2476808,
+              47.3421588
+            ],
+            [
+              7.2475593,
+              47.3421511
+            ],
+            [
+              7.247561,
+              47.3421385
+            ],
+            [
+              7.2475026,
+              47.3421348
+            ],
+            [
+              7.2474982,
+              47.3421662
+            ],
+            [
+              7.2474146,
+              47.3421609
+            ],
+            [
+              7.2474133,
+              47.3421703
+            ],
+            [
+              7.2472943,
+              47.3421626
+            ],
+            [
+              7.2472961,
+              47.3421493
+            ],
+            [
+              7.2472343,
+              47.3421453
+            ],
+            [
+              7.2472302,
+              47.3421746
+            ],
+            [
+              7.2471547,
+              47.3421698
+            ],
+            [
+              7.2471529,
+              47.3421828
+            ],
+            [
+              7.2470222,
+              47.3421744
+            ],
+            [
+              7.2470234,
+              47.3421656
+            ],
+            [
+              7.2469572,
+              47.3421614
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/104926072",
+      "properties": {
+        "addr:city": "Bassecourt",
+        "addr:housenumber": "21",
+        "addr:postcode": "2854",
+        "addr:street": "Rue des Longs Champs",
+        "building": "apartments",
+        "building:flats": "16",
+        "owner": "Société coopérative jurassienne d’habitation",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133308011",
+        "id": "way/104926072",
+        "owner:website": "https://www.jumoup.ch/societe-cooperative-jurassienne-dhabitation/",
+        "owner:start_date": "2022-05-24T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.185.817"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.2474772,
+              47.3416374
+            ],
+            [
+              7.2475036,
+              47.3415536
+            ],
+            [
+              7.2479862,
+              47.3416233
+            ],
+            [
+              7.2479598,
+              47.341707
+            ],
+            [
+              7.2474772,
+              47.3416374
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/106876322",
+      "properties": {
+        "addr:city": "Courtételle",
+        "addr:housenumber": "7",
+        "addr:postcode": "2852",
+        "addr:street": "Rue des Chenevières",
+        "building": "apartments",
+        "building:flats": "16",
+        "owner": "Société coopérative jurassienne d’habitation",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133308011",
+        "id": "way/106876322",
+        "owner:website": "https://www.jumoup.ch/societe-cooperative-jurassienne-dhabitation/",
+        "owner:start_date": "2022-05-24T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.185.817"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.3171112,
+              47.3378833
+            ],
+            [
+              7.317168,
+              47.3378059
+            ],
+            [
+              7.3173706,
+              47.3378742
+            ],
+            [
+              7.3173775,
+              47.3378647
+            ],
+            [
+              7.3176102,
+              47.3379431
+            ],
+            [
+              7.3175532,
+              47.3380208
+            ],
+            [
+              7.317327,
+              47.3379447
+            ],
+            [
+              7.3173203,
+              47.3379538
+            ],
+            [
+              7.3171112,
+              47.3378833
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113666119",
+      "properties": {
+        "addr:city": "Delémont",
+        "addr:country": "CH",
+        "addr:housenumber": "5",
+        "addr:postcode": "2800",
+        "addr:street": "Rue de la Paix",
+        "building": "apartments",
+        "building:flats": "6",
+        "owner": "Société coopérative jurassienne d’habitation",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133308011",
+        "source": "Orthophotos 1998 RCJU 50cm",
+        "id": "way/113666119",
+        "owner:website": "https://www.jumoup.ch/societe-cooperative-jurassienne-dhabitation/",
+        "owner:start_date": "2022-05-24T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.185.817"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.3563957,
+              47.3663207
+            ],
+            [
+              7.3564319,
+              47.3662335
+            ],
+            [
+              7.3566564,
+              47.3662763
+            ],
+            [
+              7.3566202,
+              47.3663635
+            ],
+            [
+              7.3563957,
+              47.3663207
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113667214",
+      "properties": {
+        "addr:city": "Delémont",
+        "addr:country": "CH",
+        "addr:housenumber": "89",
+        "addr:postcode": "2800",
+        "addr:street": "Rue Auguste-Quiquerez",
+        "building": "apartments",
+        "building:flats": "40",
+        "building:levels": "10",
+        "owner": "Société coopérative jurassienne d’habitation",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133308011",
+        "roof:shape": "flat",
+        "source": "Orthophotos 1998 RCJU 50cm",
+        "id": "way/113667214",
+        "owner:website": "https://www.jumoup.ch/societe-cooperative-jurassienne-dhabitation/",
+        "owner:start_date": "2022-05-24T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.185.817"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.35662,
+              47.3696823
+            ],
+            [
+              7.3567035,
+              47.3694977
+            ],
+            [
+              7.3570008,
+              47.3695595
+            ],
+            [
+              7.3569172,
+              47.369744
+            ],
+            [
+              7.356763,
+              47.369712
+            ],
+            [
+              7.35662,
+              47.3696823
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/137665673",
+      "properties": {
+        "addr:city": "Boécourt",
+        "addr:housenumber": "1r",
+        "addr:postcode": "2856",
+        "addr:street": "Rue des Romains",
+        "building": "apartments",
+        "building:flats": "9",
+        "owner": "Société coopérative jurassienne d’habitation",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133308011",
+        "id": "way/137665673",
+        "owner:website": "https://www.jumoup.ch/societe-cooperative-jurassienne-dhabitation/",
+        "owner:start_date": "2022-05-24T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.185.817"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.2149666,
+              47.3470908
+            ],
+            [
+              7.2148684,
+              47.3470189
+            ],
+            [
+              7.2148983,
+              47.3470002
+            ],
+            [
+              7.2148746,
+              47.3469828
+            ],
+            [
+              7.2150064,
+              47.3469003
+            ],
+            [
+              7.2150164,
+              47.3469076
+            ],
+            [
+              7.2150522,
+              47.3468852
+            ],
+            [
+              7.215164,
+              47.3469671
+            ],
+            [
+              7.2149666,
+              47.3470908
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197342069",
+      "properties": {
+        "addr:city": "Delémont",
+        "addr:housenumber": "31",
+        "addr:postcode": "2800",
+        "addr:street": "Rue de la Golatte",
+        "building": "apartments",
+        "building:flats": "32",
+        "owner": "Société coopérative jurassienne d’habitation",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133308011",
+        "id": "way/197342069",
+        "owner:website": "https://www.jumoup.ch/societe-cooperative-jurassienne-dhabitation/",
+        "owner:start_date": "2022-05-24T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.185.817"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.3358537,
+              47.3610336
+            ],
+            [
+              7.3359617,
+              47.3608166
+            ],
+            [
+              7.3361661,
+              47.3608633
+            ],
+            [
+              7.3360581,
+              47.3610803
+            ],
+            [
+              7.3358537,
+              47.3610336
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197342080",
+      "properties": {
+        "addr:city": "Delémont",
+        "addr:housenumber": "25",
+        "addr:postcode": "2800",
+        "addr:street": "Rue de la Golatte",
+        "building": "apartments",
+        "building:flats": "32",
+        "owner": "Société coopérative jurassienne d’habitation",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133308011",
+        "id": "way/197342080",
+        "owner:website": "https://www.jumoup.ch/societe-cooperative-jurassienne-dhabitation/",
+        "owner:start_date": "2022-05-24T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.185.817"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.3361143,
+              47.3614302
+            ],
+            [
+              7.3362106,
+              47.3612161
+            ],
+            [
+              7.336422,
+              47.3612597
+            ],
+            [
+              7.3363256,
+              47.3614739
+            ],
+            [
+              7.3361143,
+              47.3614302
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/669819091",
+      "properties": {
+        "addr:city": "Delémont",
+        "addr:housenumber": "7",
+        "addr:postcode": "2800",
+        "addr:street": "Rière l'Arsenal",
+        "building": "apartments",
+        "building:flats": "8",
+        "building:levels": "3",
+        "owner": "Société coopérative jurassienne d’habitation",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133308011",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
+        "id": "way/669819091",
+        "owner:website": "https://www.jumoup.ch/societe-cooperative-jurassienne-dhabitation/",
+        "owner:start_date": "2022-05-24T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.185.817"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.3411517,
+              47.366697
+            ],
+            [
+              7.3412975,
+              47.3665284
+            ],
+            [
+              7.3414562,
+              47.3665914
+            ],
+            [
+              7.3413105,
+              47.36676
+            ],
+            [
+              7.3411517,
+              47.366697
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/874411522",
+      "properties": {
+        "addr:city": "Courroux",
+        "addr:housenumber": "3",
+        "addr:postcode": "2822",
+        "addr:street": "Place des Mouleurs",
+        "building": "apartments",
+        "building:flats": "9",
+        "owner": "Société coopérative jurassienne d’habitation",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133308011",
+        "id": "way/874411522",
+        "owner:website": "https://www.jumoup.ch/societe-cooperative-jurassienne-dhabitation/",
+        "owner:start_date": "2022-05-24T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.185.817"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.3751966,
+              47.3624591
+            ],
+            [
+              7.3751975,
+              47.362371
+            ],
+            [
+              7.3752653,
+              47.3623714
+            ],
+            [
+              7.3752656,
+              47.3623449
+            ],
+            [
+              7.3754258,
+              47.3623457
+            ],
+            [
+              7.3754255,
+              47.3623724
+            ],
+            [
+              7.3755225,
+              47.3623729
+            ],
+            [
+              7.3755227,
+              47.3623466
+            ],
+            [
+              7.3755931,
+              47.3623469
+            ],
+            [
+              7.3755928,
+              47.362371
+            ],
+            [
+              7.3756864,
+              47.3623715
+            ],
+            [
+              7.3756854,
+              47.3624576
+            ],
+            [
+              7.375578,
+              47.362457
+            ],
+            [
+              7.3755777,
+              47.3624878
+            ],
+            [
+              7.3752619,
+              47.3624862
+            ],
+            [
+              7.3752622,
+              47.3624595
+            ],
+            [
+              7.3751966,
+              47.3624591
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1271819091",
+      "properties": {
+        "addr:city": "Boécourt",
+        "addr:housenumber": "1s",
+        "addr:postcode": "2856",
+        "addr:street": "Rue des Romains",
+        "building": "apartments",
+        "building:flats": "9",
+        "owner": "Société coopérative jurassienne d’habitation",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133308011",
+        "id": "way/1271819091",
+        "owner:website": "https://www.jumoup.ch/societe-cooperative-jurassienne-dhabitation/",
+        "owner:start_date": "2022-05-24T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.185.817"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.2152998,
+              47.3472191
+            ],
+            [
+              7.2153466,
+              47.3471875
+            ],
+            [
+              7.2153559,
+              47.3471938
+            ],
+            [
+              7.2154514,
+              47.3471295
+            ],
+            [
+              7.2154421,
+              47.3471231
+            ],
+            [
+              7.2154867,
+              47.347093
+            ],
+            [
+              7.2155847,
+              47.3471597
+            ],
+            [
+              7.2155066,
+              47.3472124
+            ],
+            [
+              7.2155129,
+              47.3472167
+            ],
+            [
+              7.2154845,
+              47.3472359
+            ],
+            [
+              7.2154781,
+              47.3472316
+            ],
+            [
+              7.2153978,
+              47.3472858
+            ],
+            [
+              7.2152998,
+              47.3472191
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1381199708",
+      "properties": {
+        "addr:city": "Delémont",
+        "addr:country": "CH",
+        "addr:housenumber": "3",
+        "addr:postcode": "2800",
+        "addr:street": "Rue de la Paix",
+        "building": "apartments",
+        "building:flats": "6",
+        "owner": "Société coopérative jurassienne d’habitation",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133308011",
+        "source": "Orthophotos 1998 RCJU 50cm",
+        "id": "way/1381199708",
+        "owner:website": "https://www.jumoup.ch/societe-cooperative-jurassienne-dhabitation/",
+        "owner:start_date": "2022-05-24T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.185.817"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.3560902,
+              47.3664857
+            ],
+            [
+              7.3561264,
+              47.3663985
+            ],
+            [
+              7.3563509,
+              47.3664413
+            ],
+            [
+              7.3563146,
+              47.3665285
+            ],
+            [
+              7.3560902,
+              47.3664857
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1381199709",
+      "properties": {
+        "addr:city": "Delémont",
+        "addr:country": "CH",
+        "addr:housenumber": "44",
+        "addr:postcode": "2800",
+        "addr:street": "Rue des Primevères",
+        "building": "apartments",
+        "building:flats": "6",
+        "owner": "Société coopérative jurassienne d’habitation",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133308011",
+        "source": "Orthophotos 1998 RCJU 50cm",
+        "id": "way/1381199709",
+        "owner:website": "https://www.jumoup.ch/societe-cooperative-jurassienne-dhabitation/",
+        "owner:start_date": "2022-05-24T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.185.817"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.3562405,
+              47.3666921
+            ],
+            [
+              7.3562767,
+              47.366605
+            ],
+            [
+              7.3565012,
+              47.3666477
+            ],
+            [
+              7.356465,
+              47.3667349
+            ],
+            [
+              7.3562405,
+              47.3666921
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

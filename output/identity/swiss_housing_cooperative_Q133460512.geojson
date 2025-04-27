@@ -1,0 +1,473 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/258275426",
+      "properties": {
+        "addr:city": "L'Abbaye",
+        "addr:country": "CH",
+        "addr:housenumber": "11",
+        "addr:postcode": "1344",
+        "addr:street": "Route de l'Hôtel de Ville",
+        "building": "sheltered_housing",
+        "building:flats": "16",
+        "building:levels": "3",
+        "operator": "Alterimo",
+        "operator:type": "private",
+        "operator:wikidata": "Q134127896",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460512",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
+        "source": "swisstopo SWISSIMAGE",
+        "id": "way/258275426",
+        "owner:website": "https://primavesta.ch/",
+        "owner:start_date": "2009-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-101.286.294"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.3181819,
+              46.648151
+            ],
+            [
+              6.3177778,
+              46.6480139
+            ],
+            [
+              6.3178662,
+              46.647891
+            ],
+            [
+              6.3182704,
+              46.6480282
+            ],
+            [
+              6.3181819,
+              46.648151
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/276299764",
+      "properties": {
+        "building": "sheltered_housing",
+        "building:flats": "55",
+        "building:levels": "3",
+        "operator": "Alterimo",
+        "operator:type": "private",
+        "operator:wikidata": "Q134127896",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460512",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "addr": [
+          {
+            "addr:city": "Ecublens (VD)",
+            "addr:postcode": "1024",
+            "addr:street": "Route du Bois",
+            "addr:housenumber": "29b"
+          },
+          {
+            "addr:city": "Ecublens (VD)",
+            "addr:postcode": "1024",
+            "addr:street": "Route du Bois",
+            "addr:housenumber": "29a"
+          }
+        ],
+        "id": "way/276299764",
+        "owner:website": "https://primavesta.ch/",
+        "owner:start_date": "2009-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-101.286.294"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5655338,
+              46.5330324
+            ],
+            [
+              6.5654695,
+              46.532893
+            ],
+            [
+              6.5658265,
+              46.532815
+            ],
+            [
+              6.566031,
+              46.5327704
+            ],
+            [
+              6.5659753,
+              46.5326501
+            ],
+            [
+              6.5661691,
+              46.5326076
+            ],
+            [
+              6.5662703,
+              46.5328263
+            ],
+            [
+              6.5660765,
+              46.5328687
+            ],
+            [
+              6.5658728,
+              46.5329128
+            ],
+            [
+              6.5658919,
+              46.5329542
+            ],
+            [
+              6.5655338,
+              46.5330324
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362745048",
+      "properties": {
+        "addr:city": "Vevey",
+        "addr:country": "CH",
+        "addr:housenumber": "6",
+        "addr:postcode": "1800",
+        "addr:street": "Rue des Bosquets",
+        "building": "sheltered_housing",
+        "building:flats": "14",
+        "building:levels": "6",
+        "operator": "Alterimo",
+        "operator:type": "private",
+        "operator:wikidata": "Q134127896",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460512",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "source": "Orthophoto Cartoriviera 2012",
+        "id": "way/362745048",
+        "owner:website": "https://primavesta.ch/",
+        "owner:start_date": "2009-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-101.286.294"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.8445358,
+              46.4634521
+            ],
+            [
+              6.8444466,
+              46.4633666
+            ],
+            [
+              6.8446006,
+              46.4632969
+            ],
+            [
+              6.8444953,
+              46.4631887
+            ],
+            [
+              6.8445833,
+              46.4631522
+            ],
+            [
+              6.8447663,
+              46.4633652
+            ],
+            [
+              6.8446859,
+              46.4634164
+            ],
+            [
+              6.8446568,
+              46.4633846
+            ],
+            [
+              6.8445358,
+              46.4634521
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/486583865",
+      "properties": {
+        "addr:city": "La Sarraz",
+        "addr:housenumber": "2a",
+        "addr:postcode": "1315",
+        "addr:street": "Chemin du Levant",
+        "building": "sheltered_housing",
+        "building:flats": "16",
+        "building:levels": "4",
+        "name": "Les Boutons d'Or",
+        "operator": "Alterimo",
+        "operator:type": "private",
+        "operator:wikidata": "Q134127896",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460512",
+        "roof:levels": "0",
+        "id": "way/486583865",
+        "owner:website": "https://primavesta.ch/",
+        "owner:start_date": "2009-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-101.286.294"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5166725,
+              46.6574402
+            ],
+            [
+              6.5167831,
+              46.6573745
+            ],
+            [
+              6.516911,
+              46.6574759
+            ],
+            [
+              6.5170735,
+              46.6573794
+            ],
+            [
+              6.5171637,
+              46.6574509
+            ],
+            [
+              6.5168907,
+              46.6576131
+            ],
+            [
+              6.5166725,
+              46.6574402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/940184836",
+      "properties": {
+        "addr:city": "Cheseaux-sur-Lausanne",
+        "addr:country": "CH",
+        "addr:housenumber": "8",
+        "addr:postcode": "1033",
+        "addr:street": "Chemin du Château",
+        "building": "sheltered_housing",
+        "building:flats": "16",
+        "building:levels": "2",
+        "name": "Les Clématites",
+        "operator": "Alterimo",
+        "operator:type": "private",
+        "operator:wikidata": "Q134127896",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460512",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
+        "id": "way/940184836",
+        "owner:website": "https://primavesta.ch/",
+        "owner:start_date": "2009-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-101.286.294"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.60311,
+              46.5848754
+            ],
+            [
+              6.6030035,
+              46.5846119
+            ],
+            [
+              6.6032214,
+              46.5845703
+            ],
+            [
+              6.6032619,
+              46.5846708
+            ],
+            [
+              6.6033278,
+              46.5848338
+            ],
+            [
+              6.60311,
+              46.5848754
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1016679838",
+      "properties": {
+        "addr:city": "Penthalaz",
+        "addr:housenumber": "3",
+        "addr:postcode": "1305",
+        "addr:street": "Route de la Vuy",
+        "building": "sheltered_housing",
+        "building:flats": "17",
+        "building:levels": "3",
+        "name": "Les Reflets de la Venoge",
+        "operator": "Alterimo",
+        "operator:type": "private",
+        "operator:wikidata": "Q134127896",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460512",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "id": "way/1016679838",
+        "owner:website": "https://primavesta.ch/",
+        "owner:start_date": "2009-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-101.286.294"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5265664,
+              46.6083303
+            ],
+            [
+              6.5265683,
+              46.6082498
+            ],
+            [
+              6.5265698,
+              46.6081854
+            ],
+            [
+              6.5269703,
+              46.6081897
+            ],
+            [
+              6.5269667,
+              46.6083479
+            ],
+            [
+              6.5266663,
+              46.6083447
+            ],
+            [
+              6.5266666,
+              46.6083314
+            ],
+            [
+              6.5266278,
+              46.608331
+            ],
+            [
+              6.5265664,
+              46.6083303
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1381474500",
+      "properties": {
+        "building": "sheltered_housing",
+        "building:flats": "43",
+        "building:levels": "5",
+        "name": "Le Clos des Messageries",
+        "operator": "Alterimo",
+        "operator:type": "private",
+        "operator:wikidata": "Q134127896",
+        "owner": "Coopérative PrimaVesta",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460512",
+        "addr": [
+          {
+            "addr:city": "Aigle",
+            "addr:postcode": "1860",
+            "addr:street": "Avenue du Chamossaire",
+            "addr:housenumber": "7"
+          },
+          {
+            "addr:city": "Aigle",
+            "addr:postcode": "1860",
+            "addr:street": "Avenue du Chamossaire",
+            "addr:housenumber": "3"
+          }
+        ],
+        "id": "way/1381474500",
+        "owner:website": "https://primavesta.ch/",
+        "owner:start_date": "2009-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-101.286.294"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.9685724,
+              46.3168786
+            ],
+            [
+              6.9682021,
+              46.3168351
+            ],
+            [
+              6.9681757,
+              46.3169218
+            ],
+            [
+              6.9679665,
+              46.3168931
+            ],
+            [
+              6.9680073,
+              46.3167188
+            ],
+            [
+              6.9681348,
+              46.3166715
+            ],
+            [
+              6.9685983,
+              46.3167282
+            ],
+            [
+              6.9685829,
+              46.316832
+            ],
+            [
+              6.9685724,
+              46.3168786
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

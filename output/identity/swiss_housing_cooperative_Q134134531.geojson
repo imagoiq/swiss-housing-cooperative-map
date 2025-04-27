@@ -1,0 +1,276 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/44675804",
+      "properties": {
+        "addr:city": "Saint-Sulpice",
+        "addr:country": "CH",
+        "addr:housenumber": "39",
+        "addr:postcode": "1025",
+        "addr:street": "Route Cantonale",
+        "building": "dormitory",
+        "building:levels": "4",
+        "owner": "Les Estudiantines",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q134134531",
+        "roof:levels": "0",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "id": "way/44675804",
+        "owner:website": "https://www.estudiantines.ch",
+        "owner:start_date": "2008-01-01T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5634701,
+              46.5162435
+            ],
+            [
+              6.5634735,
+              46.5160466
+            ],
+            [
+              6.5635843,
+              46.5160481
+            ],
+            [
+              6.5636105,
+              46.5158341
+            ],
+            [
+              6.5637808,
+              46.5158442
+            ],
+            [
+              6.5637779,
+              46.5159679
+            ],
+            [
+              6.5637809,
+              46.5160739
+            ],
+            [
+              6.5636624,
+              46.5160745
+            ],
+            [
+              6.5636581,
+              46.5160974
+            ],
+            [
+              6.5636391,
+              46.5162532
+            ],
+            [
+              6.5634701,
+              46.5162435
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44675805",
+      "properties": {
+        "addr:city": "Saint-Sulpice",
+        "addr:country": "CH",
+        "addr:housenumber": "37",
+        "addr:postcode": "1025",
+        "addr:street": "Route Cantonale",
+        "building": "dormitory",
+        "building:levels": "4",
+        "owner": "Les Estudiantines",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q134134531",
+        "roof:levels": "0",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "id": "way/44675805",
+        "owner:website": "https://www.estudiantines.ch",
+        "owner:start_date": "2008-01-01T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5641423,
+              46.5164899
+            ],
+            [
+              6.5641467,
+              46.5163413
+            ],
+            [
+              6.5641463,
+              46.516294
+            ],
+            [
+              6.5642545,
+              46.5162924
+            ],
+            [
+              6.5642779,
+              46.5161067
+            ],
+            [
+              6.5644484,
+              46.5161166
+            ],
+            [
+              6.5644448,
+              46.5163277
+            ],
+            [
+              6.5643327,
+              46.5163246
+            ],
+            [
+              6.5643148,
+              46.5164988
+            ],
+            [
+              6.5641423,
+              46.5164899
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44675806",
+      "properties": {
+        "addr:city": "Saint-Sulpice",
+        "addr:country": "CH",
+        "addr:housenumber": "35",
+        "addr:postcode": "1025",
+        "addr:street": "Route Cantonale",
+        "building": "dormitory",
+        "building:levels": "4",
+        "name": "Les Estudiantines",
+        "owner": "Les Estudiantines",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q134134531",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "id": "way/44675806",
+        "owner:website": "https://www.estudiantines.ch",
+        "owner:start_date": "2008-01-01T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5646403,
+              46.5166323
+            ],
+            [
+              6.5646469,
+              46.5164195
+            ],
+            [
+              6.5647536,
+              46.5164214
+            ],
+            [
+              6.5647759,
+              46.5162251
+            ],
+            [
+              6.5649408,
+              46.5162346
+            ],
+            [
+              6.5649386,
+              46.5164535
+            ],
+            [
+              6.5648323,
+              46.5164549
+            ],
+            [
+              6.5648087,
+              46.5166408
+            ],
+            [
+              6.5646403,
+              46.5166323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44675807",
+      "properties": {
+        "addr:city": "Saint-Sulpice",
+        "addr:country": "CH",
+        "addr:housenumber": "33",
+        "addr:postcode": "1025",
+        "addr:street": "Route Cantonale",
+        "building": "dormitory",
+        "building:levels": "4",
+        "owner": "Les Estudiantines",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q134134531",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "id": "way/44675807",
+        "owner:website": "https://www.estudiantines.ch",
+        "owner:start_date": "2008-01-01T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5651343,
+              46.5167406
+            ],
+            [
+              6.5651385,
+              46.5165272
+            ],
+            [
+              6.5652459,
+              46.5165291
+            ],
+            [
+              6.565272,
+              46.5163324
+            ],
+            [
+              6.565434,
+              46.5163427
+            ],
+            [
+              6.5654312,
+              46.5165635
+            ],
+            [
+              6.5653254,
+              46.5165615
+            ],
+            [
+              6.5653012,
+              46.5167487
+            ],
+            [
+              6.5651343,
+              46.5167406
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

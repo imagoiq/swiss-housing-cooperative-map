@@ -1,0 +1,464 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/82683744",
+      "properties": {
+        "architect": "DVK Architectes",
+        "building": "dormitory",
+        "building:flats": "9",
+        "owner": "La Ciguë",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q134130761",
+        "rooms": "48",
+        "start_date": "2015",
+        "addr": [
+          {
+            "addr:city": "Genève",
+            "addr:postcode": "1201",
+            "addr:street": "Rue Chaponnière",
+            "addr:housenumber": "3"
+          }
+        ],
+        "id": "way/82683744",
+        "start_date_parsed": "2015-01-01T00:00:00.000Z",
+        "owner:website": "https://cigue.ch",
+        "owner:start_date": "1986-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.411.008"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1445185,
+              46.2092763
+            ],
+            [
+              6.1443547,
+              46.2093652
+            ],
+            [
+              6.1442079,
+              46.2092356
+            ],
+            [
+              6.1443717,
+              46.2091467
+            ],
+            [
+              6.1444505,
+              46.2092163
+            ],
+            [
+              6.1445185,
+              46.2092763
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/82833466",
+      "properties": {
+        "architect": "Bonhôte et Calame",
+        "building": "dormitory",
+        "building:flats": "8",
+        "building:levels": "3",
+        "owner": "La Ciguë",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q134130761",
+        "rooms": "32",
+        "start_date": "1998",
+        "addr": [
+          {
+            "addr:city": "Genève",
+            "addr:postcode": "1211",
+            "addr:street": "Rue de Montbrillant",
+            "addr:housenumber": "18"
+          }
+        ],
+        "id": "way/82833466",
+        "start_date_parsed": "1998-01-01T00:00:00.000Z",
+        "owner:website": "https://cigue.ch",
+        "owner:start_date": "1986-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.411.008"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1414771,
+              46.211967
+            ],
+            [
+              6.1414748,
+              46.211913
+            ],
+            [
+              6.1415313,
+              46.2119107
+            ],
+            [
+              6.1415338,
+              46.2119251
+            ],
+            [
+              6.1421088,
+              46.2119139
+            ],
+            [
+              6.1421109,
+              46.2119864
+            ],
+            [
+              6.1416631,
+              46.2119935
+            ],
+            [
+              6.1416641,
+              46.2119656
+            ],
+            [
+              6.1414771,
+              46.211967
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/179706391",
+      "properties": {
+        "architect": "Charles Pictet Architecte",
+        "building": "dormitory",
+        "building:flats": "8",
+        "owner": "La Ciguë",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q134130761",
+        "rooms": "48",
+        "start_date": "2011",
+        "addr": [
+          {
+            "addr:city": "Genève",
+            "addr:postcode": "1204",
+            "addr:street": "Rue de la Coulouvrenière",
+            "addr:housenumber": "26"
+          }
+        ],
+        "id": "way/179706391",
+        "start_date_parsed": "2011-01-01T00:00:00.000Z",
+        "owner:website": "https://cigue.ch",
+        "owner:start_date": "1986-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.411.008"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1366426,
+              46.2037229
+            ],
+            [
+              6.1366648,
+              46.2037248
+            ],
+            [
+              6.1367821,
+              46.2037349
+            ],
+            [
+              6.1369923,
+              46.2037497
+            ],
+            [
+              6.1369782,
+              46.2038333
+            ],
+            [
+              6.1366487,
+              46.2038115
+            ],
+            [
+              6.1366293,
+              46.2038102
+            ],
+            [
+              6.1366426,
+              46.2037229
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181185762",
+      "properties": {
+        "addr:city": "Genève",
+        "addr:housenumber": "12",
+        "addr:postcode": "1205",
+        "addr:street": "Rue des Pavillons",
+        "architect": "Atelier Face à Face",
+        "building": "dormitory",
+        "building:flats": "8",
+        "owner": "La Ciguë",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q134130761",
+        "rooms": "40",
+        "start_date": "2009",
+        "id": "way/181185762",
+        "start_date_parsed": "2009-01-01T00:00:00.000Z",
+        "owner:website": "https://cigue.ch",
+        "owner:start_date": "1986-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.411.008"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1395504,
+              46.1963165
+            ],
+            [
+              6.1397191,
+              46.1962226
+            ],
+            [
+              6.1398214,
+              46.1963096
+            ],
+            [
+              6.1396522,
+              46.196403
+            ],
+            [
+              6.1395504,
+              46.1963165
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/621297209",
+      "properties": {
+        "architect": "Dreier & Frenzel Architectes",
+        "building": "apartments",
+        "building:flats": "10",
+        "building:levels": "5",
+        "owner": "La Ciguë",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q134130761",
+        "ref": "B2",
+        "rooms": "70",
+        "start_date": "2018",
+        "addr": [
+          {
+            "addr:city": "Meyrin",
+            "addr:postcode": "1217",
+            "addr:street": "Rue des Arpenteurs",
+            "addr:housenumber": "6"
+          }
+        ],
+        "id": "way/621297209",
+        "start_date_parsed": "2018-01-01T00:00:00.000Z",
+        "owner:website": "https://cigue.ch",
+        "owner:start_date": "1986-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.411.008"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.0692706,
+              46.2308055
+            ],
+            [
+              6.06911,
+              46.2309006
+            ],
+            [
+              6.0687768,
+              46.2306312
+            ],
+            [
+              6.0689374,
+              46.2305361
+            ],
+            [
+              6.0692706,
+              46.2308055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/761419691",
+      "properties": {
+        "addr:city": "Genève",
+        "addr:housenumber": "23",
+        "addr:postcode": "1205",
+        "addr:street": "Boulevard du Pont-d'Arve",
+        "archietct": "Dario Taschetta",
+        "building": "dormitory",
+        "building:flats": "3",
+        "owner": "La Ciguë",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q134130761",
+        "start_date": "2013",
+        "id": "way/761419691",
+        "start_date_parsed": "2013-01-01T00:00:00.000Z",
+        "owner:website": "https://cigue.ch",
+        "owner:start_date": "1986-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.411.008"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1441063,
+              46.1951133
+            ],
+            [
+              6.1441219,
+              46.1950203
+            ],
+            [
+              6.1442885,
+              46.1950368
+            ],
+            [
+              6.1442711,
+              46.1951285
+            ],
+            [
+              6.1441063,
+              46.1951133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1381508686",
+      "properties": {
+        "building:flats": "2",
+        "building:part": "dormitory",
+        "owner": "La Ciguë",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q134130761",
+        "rooms": "10",
+        "id": "way/1381508686",
+        "owner:website": "https://cigue.ch",
+        "owner:start_date": "1986-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.411.008"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1141072,
+              46.2087324
+            ],
+            [
+              6.1139465,
+              46.208776
+            ],
+            [
+              6.1139398,
+              46.2087788
+            ],
+            [
+              6.1139059,
+              46.2087193
+            ],
+            [
+              6.1140757,
+              46.2086766
+            ],
+            [
+              6.1141072,
+              46.2087324
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1381512272",
+      "properties": {
+        "architect": "G. M. Architectes Associés",
+        "building:flats": "2",
+        "building:part": "dormitory",
+        "owner": "La Ciguë",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q134130761",
+        "rooms": "30",
+        "start_date": "2009-10",
+        "addr": [
+          {
+            "addr:city": "Genève",
+            "addr:postcode": "1203",
+            "addr:street": "Rue de Lyon",
+            "addr:housenumber": "49a"
+          }
+        ],
+        "id": "way/1381512272",
+        "start_date_parsed": "2009-10-01T00:00:00.000Z",
+        "owner:website": "https://cigue.ch",
+        "owner:start_date": "1986-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-107.411.008"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1334853,
+              46.2082234
+            ],
+            [
+              6.133421,
+              46.2081305
+            ],
+            [
+              6.1333979,
+              46.2081364
+            ],
+            [
+              6.1333481,
+              46.2080674
+            ],
+            [
+              6.1335692,
+              46.2079932
+            ],
+            [
+              6.1336855,
+              46.2081572
+            ],
+            [
+              6.1334853,
+              46.2082234
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

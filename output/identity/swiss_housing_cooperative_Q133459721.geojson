@@ -123,10 +123,10 @@
         "building": "apartments",
         "building:flats": "23",
         "building:levels": "6",
-        "name": "A24",
         "owner": "Coopérative d'habitation Equilibre",
         "owner:type": "cooperative",
         "owner:wikidata": "Q133459721",
+        "ref": "A24",
         "addr": [
           {
             "addr:city": "Meyrin",
@@ -181,10 +181,10 @@
         "building": "apartments",
         "building:flats": "23",
         "building:levels": "6",
-        "name": "A25",
         "owner": "Coopérative d'habitation Equilibre",
         "owner:type": "cooperative",
         "owner:wikidata": "Q133459721",
+        "ref": "A25",
         "addr": [
           {
             "addr:city": "Meyrin",
@@ -259,10 +259,10 @@
         "building": "apartments",
         "building:flats": "21",
         "building:levels": "5",
-        "name": "A28",
         "owner": "Coopérative d'habitation Equilibre",
         "owner:type": "cooperative",
         "owner:wikidata": "Q133459721",
+        "ref": "A28",
         "id": "way/650302101",
         "owner:website": "https://www.cooperative-equilibre.ch/",
         "owner:start_date": "2005-01-01T00:00:00Z",
