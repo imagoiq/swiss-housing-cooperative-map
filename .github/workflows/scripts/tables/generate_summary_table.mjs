@@ -40,6 +40,7 @@ function getAggregatedData(features) {
     let feature_building_levels_count = 0;
     let feature_roof_levels_count = 0;
     let feature_roof_shape_count = 0;
+    let feature_building_flats_sum = 0;
 
     for (const feature of features) {
         if(feature.properties.start_date){
@@ -47,6 +48,7 @@ function getAggregatedData(features) {
         }
         if(feature.properties["building:flats"]){
             feature_building_flats_count++;
+            feature_building_flats_sum += feature.properties["building:flats"];
         }
         if(feature.properties.last_renovation){
             feature_buildings_last_renovation_count++;
@@ -74,6 +76,7 @@ function getAggregatedData(features) {
     return  {
         number_cooperative: getWikidataId(features).size,
         number_buildings: buildings_and_parts_count,
+        number_flats: feature_building_flats_sum,
         completion_buildings_start_date_percentage: getCompletionRate(feature_start_date_count, buildings_and_parts_count),
         completion_buildings_flats_percentage: getCompletionRate(feature_building_flats_count, buildings_and_parts_count),
         completion_buildings_heating_percentage: getCompletionRate(feature_heating_count, buildings_and_parts_count),
