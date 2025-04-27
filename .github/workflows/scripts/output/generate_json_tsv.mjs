@@ -48,6 +48,7 @@ function getAggregatedIdentity(features, identity) {
         abbr: features[0].properties[`${identity}:abbr`],
         name: features[0].properties[`${identity}`],
         short: features[0].properties[`${identity}:short`],
+        dedicated_to: features[0].properties[`${identity}:dedicated_to_label`],
         website: features[0].properties[`${identity}:website`],
         start_date: features[0].properties[`${identity}:start_date`],
         swiss_business_uid: features[0].properties[`${identity}:swiss_business_uid`],
