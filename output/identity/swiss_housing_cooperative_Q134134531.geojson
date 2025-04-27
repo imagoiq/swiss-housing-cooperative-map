@@ -18,6 +18,7 @@
         "roof:levels": "0",
         "source": "Orthophoto Ville de Lausanne 2008",
         "id": "way/44675804",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q48282",
         "owner:website": "https://www.estudiantines.ch",
         "owner:start_date": "2008-01-01T00:00:00Z"
       },
@@ -90,6 +91,7 @@
         "roof:levels": "0",
         "source": "Orthophoto Ville de Lausanne 2008",
         "id": "way/44675805",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q48282",
         "owner:website": "https://www.estudiantines.ch",
         "owner:start_date": "2008-01-01T00:00:00Z"
       },
@@ -160,6 +162,7 @@
         "roof:shape": "flat",
         "source": "Orthophoto Ville de Lausanne 2008",
         "id": "way/44675806",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q48282",
         "owner:website": "https://www.estudiantines.ch",
         "owner:start_date": "2008-01-01T00:00:00Z"
       },
@@ -225,6 +228,7 @@
         "roof:shape": "flat",
         "source": "Orthophoto Ville de Lausanne 2008",
         "id": "way/44675807",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q48282",
         "owner:website": "https://www.estudiantines.ch",
         "owner:start_date": "2008-01-01T00:00:00Z"
       },

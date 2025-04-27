@@ -22,6 +22,7 @@
         "roof:shape": "gabled",
         "source": "swisstopo SWISSIMAGE",
         "id": "way/258275426",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q2191986",
         "owner:website": "https://primavesta.ch/",
         "owner:start_date": "2009-01-01T00:00:00Z",
         "owner:swiss_business_uid": "CHE-101.286.294"
@@ -83,6 +84,7 @@
           }
         ],
         "id": "way/276299764",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q2191986",
         "owner:website": "https://primavesta.ch/",
         "owner:start_date": "2009-01-01T00:00:00Z",
         "owner:swiss_business_uid": "CHE-101.286.294"
@@ -160,6 +162,7 @@
         "roof:shape": "flat",
         "source": "Orthophoto Cartoriviera 2012",
         "id": "way/362745048",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q2191986",
         "owner:website": "https://primavesta.ch/",
         "owner:start_date": "2009-01-01T00:00:00Z",
         "owner:swiss_business_uid": "CHE-101.286.294"
@@ -227,6 +230,7 @@
         "owner:wikidata": "Q133460512",
         "roof:levels": "0",
         "id": "way/486583865",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q2191986",
         "owner:website": "https://primavesta.ch/",
         "owner:start_date": "2009-01-01T00:00:00Z",
         "owner:swiss_business_uid": "CHE-101.286.294"
@@ -288,6 +292,7 @@
         "roof:levels": "1",
         "roof:shape": "gabled",
         "id": "way/940184836",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q2191986",
         "owner:website": "https://primavesta.ch/",
         "owner:start_date": "2009-01-01T00:00:00Z",
         "owner:swiss_business_uid": "CHE-101.286.294"
@@ -344,6 +349,7 @@
         "roof:levels": "0",
         "roof:shape": "flat",
         "id": "way/1016679838",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q2191986",
         "owner:website": "https://primavesta.ch/",
         "owner:start_date": "2009-01-01T00:00:00Z",
         "owner:swiss_business_uid": "CHE-101.286.294"
@@ -421,6 +427,7 @@
           }
         ],
         "id": "way/1381474500",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q2191986",
         "owner:website": "https://primavesta.ch/",
         "owner:start_date": "2009-01-01T00:00:00Z",
         "owner:swiss_business_uid": "CHE-101.286.294"

@@ -43,6 +43,7 @@
         ],
         "id": "way/78409223",
         "start_date_parsed": "1975-01-01T00:00:00.000Z",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q7063944",
         "owner:website": "https://chcg-ge.ch/",
         "owner:swiss_business_uid": "CHE-106.000.393"
       },
@@ -196,6 +197,7 @@
         "id": "way/187861311",
         "start_date_parsed": "1963-01-01T00:00:00.000Z",
         "last_renovation_parsed": null,
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q7063944",
         "owner:website": "https://chcg-ge.ch/",
         "owner:swiss_business_uid": "CHE-106.000.393"
       },
@@ -297,6 +299,7 @@
         "id": "way/192240300",
         "start_date_parsed": "1965-01-01T00:00:00.000Z",
         "last_renovation_parsed": "2008-01-01T00:00:00.000Z",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q7063944",
         "owner:website": "https://chcg-ge.ch/",
         "owner:swiss_business_uid": "CHE-106.000.393"
       },

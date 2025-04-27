@@ -32,6 +32,7 @@ At the moment, data can be checked and viewed on
 <tr>
 <th rowspan="2" scope="col">Number of cooperative</th>
 <th rowspan="2" scope="col">Number of buildings</th>
+<th rowspan="2" scope="col">Number of flats</th>
 <th colspan="8" scope="colgroup">Completion rate</th>
 </tr>
 <tr>
@@ -47,8 +48,9 @@ At the moment, data can be checked and viewed on
 </thead>
 <tbody>
 <tr>
-<td>92</td>
-<td>858</td>
+<td>93</td>
+<td>868</td>
+<td></td>
 <td>54%
 </td>
 <td>52%
@@ -59,11 +61,11 @@ At the moment, data can be checked and viewed on
 </td>
 <td>7%
 </td>
-<td>55%
+<td>54%
 </td>
-<td>38%
+<td>37%
 </td>
-<td>38%
+<td>37%
 </td>
 </tr>
 </tbody>

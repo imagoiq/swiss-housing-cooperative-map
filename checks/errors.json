@@ -1,8 +1,20 @@
 [
   {
+    "id": "way/44969663",
+    "errors": [
+      "Partial address"
+    ]
+  },
+  {
     "id": "way/962229380",
     "errors": [
       "Address duplication"
+    ]
+  },
+  {
+    "id": "way/1381508686",
+    "errors": [
+      "Missing address"
     ]
   }
 ]

@@ -1,0 +1,657 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/44741412",
+      "properties": {
+        "addr:city": "Lausanne",
+        "addr:country": "CH",
+        "addr:housenumber": "29",
+        "addr:postcode": "1007",
+        "addr:street": "Chemin de Primerose",
+        "building": "apartments",
+        "building:flats": "8",
+        "copyright": "OpenAddresses",
+        "oa:imported_by": "sbrunner",
+        "oa:lat": "46.51457596",
+        "oa:lon": "6.61610842",
+        "oa:version": "oa2osm - 0.2 - sax",
+        "owner": "Société coopérative d'habitation Bellerive",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133463735",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "id": "way/44741412",
+        "owner:swiss_business_uid": "CHE-103.998.135"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.616178,
+              46.5144647
+            ],
+            [
+              6.6162245,
+              46.5145306
+            ],
+            [
+              6.6162139,
+              46.5145355
+            ],
+            [
+              6.616227,
+              46.5145585
+            ],
+            [
+              6.6162204,
+              46.5145699
+            ],
+            [
+              6.6162021,
+              46.5145786
+            ],
+            [
+              6.61619,
+              46.5145835
+            ],
+            [
+              6.6161947,
+              46.5145916
+            ],
+            [
+              6.6161054,
+              46.5146232
+            ],
+            [
+              6.6160968,
+              46.5146144
+            ],
+            [
+              6.6160796,
+              46.5146179
+            ],
+            [
+              6.6160567,
+              46.5146183
+            ],
+            [
+              6.6160391,
+              46.514611
+            ],
+            [
+              6.6160268,
+              46.5145971
+            ],
+            [
+              6.6160135,
+              46.5146016
+            ],
+            [
+              6.6159674,
+              46.5145379
+            ],
+            [
+              6.616178,
+              46.5144647
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44742123",
+      "properties": {
+        "addr:city": "Lausanne",
+        "addr:country": "CH",
+        "addr:housenumber": "1",
+        "addr:postcode": "1007",
+        "addr:street": "Chemin des Plaines",
+        "building": "apartments",
+        "building:flats": "12",
+        "owner": "Société coopérative d'habitation Bellerive",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133463735",
+        "source": "Orthophoto Ville de Lausanne 2008",
+        "id": "way/44742123",
+        "owner:swiss_business_uid": "CHE-103.998.135"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6160835,
+              46.5143573
+            ],
+            [
+              6.6158585,
+              46.5144314
+            ],
+            [
+              6.6157888,
+              46.5143313
+            ],
+            [
+              6.6160138,
+              46.5142571
+            ],
+            [
+              6.6160835,
+              46.5143573
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44783309",
+      "properties": {
+        "addr:city": "Lausanne",
+        "addr:country": "CH",
+        "addr:housenumber": "55B",
+        "addr:postcode": "1006",
+        "addr:street": "Avenue d'Ouchy",
+        "building": "apartments",
+        "building:flats": "10",
+        "copyright": "OpenAddresses",
+        "oa:imported_by": "sbrunner",
+        "oa:lat": "46.50878906",
+        "oa:lon": "6.62886477",
+        "oa:version": "oa2osm - 0.2 - sax",
+        "owner": "Société coopérative d'habitation Bellerive",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133463735",
+        "source": "Orthophotos Ville de Lausanne 2008",
+        "id": "way/44783309",
+        "owner:swiss_business_uid": "CHE-103.998.135"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6286786,
+              46.5087192
+            ],
+            [
+              6.6289925,
+              46.5086606
+            ],
+            [
+              6.6290386,
+              46.5087775
+            ],
+            [
+              6.6287248,
+              46.5088362
+            ],
+            [
+              6.6286786,
+              46.5087192
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44969661",
+      "properties": {
+        "building": "apartments",
+        "owner": "Société coopérative d'habitation Bellerive",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133463735",
+        "source": "Orthophotos Ville de Lausanne 2008",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1012",
+            "addr:street": "Chemin du Val-d'Angrogne",
+            "addr:housenumber": "12"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1012",
+            "addr:street": "Chemin du Val-d'Angrogne",
+            "addr:housenumber": "10"
+          }
+        ],
+        "id": "way/44969661",
+        "owner:swiss_business_uid": "CHE-103.998.135"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6532569,
+              46.5214063
+            ],
+            [
+              6.6531219,
+              46.5215159
+            ],
+            [
+              6.6528794,
+              46.5213744
+            ],
+            [
+              6.6530143,
+              46.5212649
+            ],
+            [
+              6.6530828,
+              46.5213048
+            ],
+            [
+              6.6531248,
+              46.5213293
+            ],
+            [
+              6.6532569,
+              46.5214063
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44969662",
+      "properties": {
+        "building": "apartments",
+        "owner": "Société coopérative d'habitation Bellerive",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133463735",
+        "source": "Orthophotos Ville de Lausanne 2008",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1012",
+            "addr:street": "Chemin du Val-d'Angrogne",
+            "addr:housenumber": "9"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1012",
+            "addr:street": "Chemin du Val-d'Angrogne",
+            "addr:housenumber": "11"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1012",
+            "addr:street": "Chemin du Val-d'Angrogne",
+            "addr:housenumber": "13"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1012",
+            "addr:street": "Chemin du Val-d'Angrogne",
+            "addr:housenumber": "15"
+          }
+        ],
+        "id": "way/44969662",
+        "owner:swiss_business_uid": "CHE-103.998.135"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6527404,
+              46.5210434
+            ],
+            [
+              6.6529754,
+              46.5211808
+            ],
+            [
+              6.6527617,
+              46.5213538
+            ],
+            [
+              6.6527487,
+              46.5213462
+            ],
+            [
+              6.6526267,
+              46.521445
+            ],
+            [
+              6.6526102,
+              46.5214354
+            ],
+            [
+              6.6525128,
+              46.5215142
+            ],
+            [
+              6.6524225,
+              46.5214617
+            ],
+            [
+              6.6523073,
+              46.521394
+            ],
+            [
+              6.6527404,
+              46.5210434
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44969663",
+      "properties": {
+        "building": "apartments",
+        "owner": "Société coopérative d'habitation Bellerive",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133463735",
+        "source": "Orthophotos Ville de Lausanne 2008",
+        "addr": [
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1012",
+            "addr:street": "Chemin du Val-d'Angrogne",
+            "addr:housenumber": "2"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:postcode": "1012",
+            "addr:street": "Chemin du Val-d'Angrogne",
+            "addr:housenumber": "4"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:street": "Chemin du Val-d'Angrogne",
+            "addr:housenumber": "6"
+          },
+          {
+            "addr:city": "Lausanne",
+            "addr:street": "Chemin du Val-d'Angrogne",
+            "addr:housenumber": "8"
+          }
+        ],
+        "id": "way/44969663",
+        "owner:swiss_business_uid": "CHE-103.998.135"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6527589,
+              46.5215297
+            ],
+            [
+              6.6529305,
+              46.5216313
+            ],
+            [
+              6.6528893,
+              46.5216642
+            ],
+            [
+              6.6527845,
+              46.521748
+            ],
+            [
+              6.6527126,
+              46.5218054
+            ],
+            [
+              6.6526255,
+              46.5217538
+            ],
+            [
+              6.6525789,
+              46.521791
+            ],
+            [
+              6.6525051,
+              46.52185
+            ],
+            [
+              6.6524789,
+              46.5218344
+            ],
+            [
+              6.6524267,
+              46.5218761
+            ],
+            [
+              6.6523826,
+              46.5219114
+            ],
+            [
+              6.6521973,
+              46.5218016
+            ],
+            [
+              6.6523644,
+              46.521668
+            ],
+            [
+              6.6524094,
+              46.521632
+            ],
+            [
+              6.6525365,
+              46.5217073
+            ],
+            [
+              6.6527589,
+              46.5215297
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/48501438",
+      "properties": {
+        "addr:city": "Lausanne",
+        "addr:country": "CH",
+        "addr:housenumber": "24",
+        "addr:postcode": "1012",
+        "addr:street": "Avenue Victor-Ruffy",
+        "building": "apartments",
+        "building:flats": "20",
+        "copyright": "OpenAddresses",
+        "oa:imported_by": "sbrunner",
+        "oa:lat": "46.52457047",
+        "oa:lon": "6.64861155",
+        "oa:version": "oa2osm - 0.2 - sax",
+        "owner": "Société coopérative d'habitation Bellerive",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133463735",
+        "source": "Orthophotos de la Ville de Lausanne (2008)",
+        "id": "way/48501438",
+        "owner:swiss_business_uid": "CHE-103.998.135"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6484718,
+              46.5245
+            ],
+            [
+              6.6486405,
+              46.5244189
+            ],
+            [
+              6.6488257,
+              46.5246011
+            ],
+            [
+              6.6487149,
+              46.5246544
+            ],
+            [
+              6.648657,
+              46.5246823
+            ],
+            [
+              6.6485496,
+              46.5245765
+            ],
+            [
+              6.6484718,
+              46.5245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100528142",
+      "properties": {
+        "addr:city": "Epalinges",
+        "addr:country": "CH",
+        "addr:housenumber": "1",
+        "addr:postcode": "1066",
+        "addr:street": "Chemin des Tuileries",
+        "building": "apartments",
+        "building:flats": "32",
+        "building:levels": "9",
+        "owner": "Société coopérative d'habitation Bellerive",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133463735",
+        "source": "OrthoPhoto PULLY swisstopo Level 2",
+        "id": "way/100528142",
+        "owner:swiss_business_uid": "CHE-103.998.135"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6575249,
+              46.5443811
+            ],
+            [
+              6.6575301,
+              46.5441508
+            ],
+            [
+              6.6577753,
+              46.5441535
+            ],
+            [
+              6.6577701,
+              46.5443838
+            ],
+            [
+              6.6575249,
+              46.5443811
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100528170",
+      "properties": {
+        "addr:city": "Epalinges",
+        "addr:country": "CH",
+        "addr:housenumber": "45",
+        "addr:postcode": "1066",
+        "addr:street": "Chemin des Roches",
+        "building": "apartments",
+        "building:flats": "32",
+        "building:levels": "9",
+        "owner": "Société coopérative d'habitation Bellerive",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133463735",
+        "source": "OrthoPhoto PULLY swisstopo Level 2",
+        "id": "way/100528170",
+        "owner:swiss_business_uid": "CHE-103.998.135"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6579203,
+              46.5438684
+            ],
+            [
+              6.6579221,
+              46.5436344
+            ],
+            [
+              6.6581707,
+              46.5436354
+            ],
+            [
+              6.6581688,
+              46.5438693
+            ],
+            [
+              6.6579203,
+              46.5438684
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100528350",
+      "properties": {
+        "addr:city": "Epalinges",
+        "addr:country": "CH",
+        "addr:housenumber": "3",
+        "addr:postcode": "1066",
+        "addr:street": "Chemin des Tuileries",
+        "building": "apartments",
+        "building:flats": "32",
+        "building:levels": "9",
+        "owner": "Société coopérative d'habitation Bellerive",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133463735",
+        "source": "OrthoPhoto PULLY swisstopo Level 2",
+        "id": "way/100528350",
+        "owner:swiss_business_uid": "CHE-103.998.135"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6569228,
+              46.5440799
+            ],
+            [
+              6.6569289,
+              46.5438469
+            ],
+            [
+              6.6571728,
+              46.5438499
+            ],
+            [
+              6.6571668,
+              46.5440829
+            ],
+            [
+              6.6569228,
+              46.5440799
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

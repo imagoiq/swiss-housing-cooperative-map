@@ -36,6 +36,7 @@
         ],
         "id": "way/45732344",
         "start_date_parsed": "1974-01-01T00:00:00.000Z",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q7063944",
         "owner:swiss_business_uid": "CHE-102.316.733",
         "operator:start_date": "1920-01-01T00:00:00Z",
         "operator:swiss_business_uid": "CHE-107.036.838"
@@ -118,6 +119,7 @@
         "id": "way/46344015",
         "start_date_parsed": "1965-01-01T00:00:00.000Z",
         "last_renovation_parsed": "2020-01-01T00:00:00.000Z",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q7063944",
         "owner:swiss_business_uid": "CHE-102.316.733",
         "operator:start_date": "1920-01-01T00:00:00Z",
         "operator:swiss_business_uid": "CHE-107.036.838"
@@ -204,6 +206,7 @@
         ],
         "id": "way/46344019",
         "start_date_parsed": "2019-01-01T00:00:00.000Z",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q7063944",
         "owner:swiss_business_uid": "CHE-102.316.733",
         "operator:start_date": "1920-01-01T00:00:00Z",
         "operator:swiss_business_uid": "CHE-107.036.838"
@@ -293,6 +296,7 @@
         "id": "way/1294344143",
         "start_date_parsed": "1965-01-01T00:00:00.000Z",
         "last_renovation_parsed": "2020-01-01T00:00:00.000Z",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q7063944",
         "owner:swiss_business_uid": "CHE-102.316.733"
       },
       "geometry": {
