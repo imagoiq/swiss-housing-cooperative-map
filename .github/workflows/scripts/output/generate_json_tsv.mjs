@@ -1,28 +1,42 @@
 import { readFileSync,writeFileSync } from 'node:fs';
-import { tsvFormat} from "d3-dsv";
+import { tsvFormat } from "d3-dsv";
 import { operatorFilter, ownerFilter, pickBy, unique } from "../utils.mjs";
+import { argv } from 'node:process';
 
-const identity = process.argv[2];
-const inputGeojsonPath = process.argv[3];
-const outputPath = process.argv[4];
+const identity = argv[2];
+const inputGeoJsonPath = argv[3];
+const outputPath = argv[4];
 
-const featuresFile = JSON.parse(await readFileSync(inputGeojsonPath, { encoding: 'utf8' }));
+/**
+ * Read an OSM GeoJSON file
+ * @type OsmGeoJSON
+ */
+const featuresFile = JSON.parse(await readFileSync(inputGeoJsonPath, { encoding: 'utf8' }));
 
+/**
+ * Process
+ */
 const filteredFeatures = featuresFile.features.filter(feature => (feature.properties.building || feature.properties["building:part"]) && identity === "operator" ? operatorFilter(feature) : ownerFilter(feature));
 
 const groupedByIdentity = Object.groupBy(filteredFeatures, feature => feature.properties[identity]);
 
-// Output
 const aggregatedData = Object.values(groupedByIdentity).map(features => getAggregatedIdentity(features, identity));
 const sortedAggregatedData = aggregatedData.sort((a,b) => a.name?.localeCompare(b.name));
 
+
+/**
+ * Output to file or to console
+ */
 if(outputPath) {
     writeFileSync(outputPath, outputPath.endsWith('.tsv') ? tsvFormat(sortedAggregatedData) : JSON.stringify(sortedAggregatedData));
 } else {
     console.log(JSON.stringify(sortedAggregatedData));
 }
 
-
+/**
+ * @param {Feature[]} features
+ * @param {Identity} identity
+ */
 function getAggregatedIdentity(features, identity) {
     const buildings_and_parts_count = features.length;
     const buildings_last_renovation_count = features.filter(feature => feature.properties.last_renovation).length;
@@ -55,6 +69,9 @@ function getAggregatedIdentity(features, identity) {
     };
 }
 
+/**
+ * @param {Feature[]} features
+ */
 function getAddresses(features) {
     const addresses = [];
 

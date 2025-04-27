@@ -1,5 +1,5 @@
 /**
- * @typedef FeatureProperties OpenStreetMap properties used in this project
+ * @typedef ElementTags OpenStreetMap properties used in this project
  * @property {string} [name] Name {@link https://wiki.openstreetmap.org/wiki/Key:name|Wiki OpenStreetMap Key:name}
  * @property {string} [building] Building type {@link https://wiki.openstreetmap.org/wiki/Key:building|Wiki OpenStreetMap Key:building}
  * @property {string} [building:part] Building part {@link https://wiki.openstreetmap.org/wiki/Key:building:part|Wiki OpenStreetMap Key:building:part}
@@ -21,25 +21,15 @@
  * @property {string} [architect:renovation] Name of the architect who conducted the renovation {@link https://taginfo.openstreetmap.org/keys/architect%renovation|Taginfo Key:architect:renovation}
  * @property {string} [subsidized] {@link https://taginfo.openstreetmap.org/keys/subsidized|Taginfo Key:subsidized}
  * @property {string} [rent:regulation] {@link https://taginfo.openstreetmap.org/keys/rent%3Aregulation|Taginfo Key:rent:regulation}
- * @property {string} [rooms] Number of rooms in a building (used for dormitory)
- * @property {Addr} [addr] Addresses nodes that are linked to a building
+ * @property {string} [__associated_id] Custom tag added in overpass to retrieved addresses nodes separated from the building way
  */
 
 /**
- * @typedef {array[]} Addr Addresses nodes that are linked to a building
- * @property {string} addr:city
- * @property {string} addr:postcode
- * @property {string} addr:street
- * @property {string} addr:housenumber
+ * @typedef Element OSM element
+ * @property {ElementTags[]} tags Element
  */
 
 /**
- * @typedef Feature GeoJSON feature
- * @property {string} id Feature's id
- * @property {FeatureProperties[]} properties Feature
- */
-
-/**
- * @typedef OsmGeoJSON OpenStreetMap data converted to GeoJSON schema
- * @property {Feature[]} features GeoJSON features collection
+ * @typedef OsmXml OpenStreetMap data
+ * @property {Element[]} elements OSM elements collection
  */

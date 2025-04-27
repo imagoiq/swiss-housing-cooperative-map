@@ -1,0 +1,9 @@
+SELECT ?coop_housing ?website ?date_foundation ?swiss_business_uid ?dedicated_to ?dedicated_toLabel WHERE {
+  ?coop_housing wdt:P31 wd:Q562166;
+    wdt:P17 wd:Q39.
+  OPTIONAL { ?coop_housing wdt:P856 ?website. }
+  OPTIONAL { ?coop_housing wdt:P571 ?date_foundation. }
+  OPTIONAL { ?coop_housing wdt:P4829 ?swiss_business_uid. }
+  OPTIONAL { ?coop_housing wdt:P825 ?dedicated_to. }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

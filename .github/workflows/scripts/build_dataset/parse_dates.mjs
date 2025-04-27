@@ -1,9 +1,18 @@
 import { readFileSync, writeFileSync } from 'node:fs';
+import { argv } from 'node:process';
 
-const inputGeojsonPath = process.argv[2];
+const inputGeoJsonPath = argv[2];
 
-const featuresFile = JSON.parse(await readFileSync(inputGeojsonPath, { encoding: 'utf8' }));
+/**
+ * Read an OSM GeoJSON file
+ * @type OsmGeoJSON
+ */
+const featuresFile = JSON.parse(await readFileSync(inputGeoJsonPath, { encoding: 'utf8' }));
 
+
+/**
+ * Parse date and copy properties
+ */
 for (let feature of featuresFile.features) {
     if(feature.properties.start_date) {
         feature.properties.start_date_parsed = new Date(feature.properties.start_date);
@@ -14,4 +23,7 @@ for (let feature of featuresFile.features) {
     }
 }
 
-writeFileSync(inputGeojsonPath, JSON.stringify(featuresFile));
+/**
+ * Output to file
+ */
+writeFileSync(inputGeoJsonPath, JSON.stringify(featuresFile));

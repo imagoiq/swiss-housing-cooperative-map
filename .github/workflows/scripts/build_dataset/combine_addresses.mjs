@@ -1,12 +1,28 @@
 import { readFileSync, writeFileSync } from 'node:fs';
+import { argv } from 'node:process';
 
-const inputGeojsonPath = process.argv[2];
+const inputOsmXmlPath = argv[2];
 
-const featuresFile = JSON.parse(await readFileSync(inputGeojsonPath, { encoding: 'utf8' }));
+/**
+ * Read an OSM XML file
+ * @type OsmXml
+ */
+const featuresFile = JSON.parse(await readFileSync(inputOsmXmlPath, { encoding: 'utf8' }));
 
-console.log('Merge addresses');
-mergeAddresses(featuresFile);
+/**
+ * Combine addresses with their associated id
+ */
+const output = mergeAddresses(featuresFile);
 
+/**
+ * Output to file
+ */
+writeFileSync(inputOsmXmlPath, JSON.stringify(output));
+
+/**
+ * Combine addresses with their associated id
+ * @param {OsmXml} featuresFile
+ */
 function mergeAddresses(featuresFile){
 
     const featuresIdsWithoutAddresses = featuresFile.elements.filter(feature => feature.type === "associated_addresses");
@@ -31,5 +47,5 @@ function mergeAddresses(featuresFile){
         delete element.tags[associatedAddressId];
     })
 
-    writeFileSync(inputGeojsonPath, JSON.stringify(featuresFile));
+    return featuresFile;
 }

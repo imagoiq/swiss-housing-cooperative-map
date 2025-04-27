@@ -1,11 +1,19 @@
 import { readFileSync, writeFileSync } from 'node:fs';
+import { argv } from 'node:process';
 
-const inputGeojsonPath = process.argv[2];
+const wikidataQuery = argv[2];
+const inputGeoJsonPath = argv[3];
 
-const featuresFile = JSON.parse(await readFileSync(inputGeojsonPath, { encoding: 'utf8' }));
+/**
+ * Read an OSM GeoJSON file
+ * @type OsmGeoJSON
+ */
+const featuresFile = JSON.parse(await readFileSync(inputGeoJsonPath, { encoding: 'utf8' }));
 
-const wikidataQueryUrl = "https://query.wikidata.org/sparql?query=SELECT%20%3Fcoop_housing%20%3Fwebsite%20%3Fdate_foundation%20%3Fswiss_business_uid%20WHERE%20%7B%0A%20%20%3Fcoop_housing%20wdt%3AP31%20wd%3AQ562166%3B%0A%20%20%20%20wdt%3AP17%20wd%3AQ39.%0A%20%20OPTIONAL%20%7B%20%3Fcoop_housing%20wdt%3AP856%20%3Fwebsite.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcoop_housing%20wdt%3AP571%20%3Fdate_foundation.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcoop_housing%20wdt%3AP4829%20%3Fswiss_business_uid.%20%7D%0A%7D&format=json";
-
+/**
+ * Fetch Wikidata API
+ */
+const wikidataQueryUrl = `https://query.wikidata.org/sparql?query=${encodeURIComponent(wikidataQuery)}&format=json`;
 const response =  await fetch(wikidataQueryUrl, {
     method: 'GET',
     headers: new Headers( {
@@ -14,24 +22,40 @@ const response =  await fetch(wikidataQueryUrl, {
 });
 const wikidataList = (await response.json()).results.bindings;
 
+/**
+ * Add properties from Wikidata
+ */
 for (let feature of featuresFile.features) {
-    setPropertiesFromWikidata("owner", feature);
-    setPropertiesFromWikidata("operator", feature);
+    aaPropertiesFromWikidata("owner", feature);
+    aaPropertiesFromWikidata("operator", feature);
 }
 
-writeFileSync(inputGeojsonPath, JSON.stringify(featuresFile));
+/**
+ * Output to file
+ */
+writeFileSync(inputGeoJsonPath, JSON.stringify(featuresFile));
 
-function setPropertiesFromWikidata(identity, feature) {
+/**
+ * @param {Identity} identity
+ * @param {Feature} feature
+ */
+function aaPropertiesFromWikidata(identity, feature) {
     const wikidataId = feature.properties[`${identity}:wikidata`];
-    const {website, date_foundation, swiss_business_uid} = getCorrespondingData(wikidataList, wikidataId);
+    const {website, date_foundation, swiss_business_uid, dedicated_to} = getCorrespondingData(wikidataList, wikidataId);
 
     if(wikidataId) {
+        feature.properties[`${identity}:dedicated_to`] = dedicated_to;
         feature.properties[`${identity}:website`] = website;
         feature.properties[`${identity}:start_date`] = date_foundation;
         feature.properties[`${identity}:swiss_business_uid`] = swiss_business_uid;
     }
 }
 
+/**
+ * @param {array} wikidataList
+ * @param {string} wikidataId
+ * @returns {{website:string, date_foundation: string, swiss_business_uid: string, dedicated_to: string}}
+ */
 function getCorrespondingData(wikidataList, wikidataId) {
     const correspondingData = wikidataList.find((element) => element.coop_housing.value.split('/').at(-1) === wikidataId);
 
@@ -39,5 +63,6 @@ function getCorrespondingData(wikidataList, wikidataId) {
         website: correspondingData?.website?.value,
         date_foundation: correspondingData?.date_foundation?.value,
         swiss_business_uid: correspondingData?.swiss_business_uid?.value,
+        dedicated_to: correspondingData?.dedicated_to?.value,
     }
 }

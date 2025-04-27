@@ -3,6 +3,7 @@
     <tr>
         <th rowspan="2" scope="col"><%= lang === "fr" ? `Nombre de coopératives` : 'Number of cooperative' %></th>
         <th rowspan="2" scope="col"><%= lang === "fr" ? `Nombre de bâtiments` : 'Number of buildings' %></th>
+        <th rowspan="2" scope="col"><%= lang === "fr" ? `Nombre d'appartements` : 'Number of flats' %></th>
         <th colspan="8" scope="colgroup"><%= lang === "fr" ? `Pourcentage de complétion` : 'Completion rate' %></th>
     </tr>
     <tr>
@@ -20,6 +21,7 @@
         <tr>
             <td><%= locals.number_cooperative _%></td>
             <td><%= locals.number_buildings _%></td>
+            <td><%= locals.number_flats _%></td>
             <td><%= displayCompletionRate(locals.completion_buildings_start_date_percentage) -%></td>
             <td><%= displayCompletionRate(locals.completion_buildings_flats_percentage) -%></td>
             <td><%= displayCompletionRate(locals.completion_buildings_heating_percentage) -%></td>

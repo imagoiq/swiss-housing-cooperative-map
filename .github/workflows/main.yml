@@ -75,7 +75,7 @@ jobs:
         run: node ./scripts/build_dataset/parse_dates.mjs "$output_dir/$cooperative_buildings_filename"
 
       - name: Enhance overpass data with wikidata
-        run: node ./scripts/build_dataset/add_wikidata.mjs "$output_dir/$cooperative_buildings_filename"
+        run: node ./scripts/build_dataset/add_wikidata.mjs "../../query/identity_wikidata.sparql" "$output_dir/$cooperative_buildings_filename"
 
       - name: Download areas overpass data and convert to geojson
         run: curl -sSd "$(<./query/areas.overpassql)" -X POST $overpass_server/api/interpreter | osmtogeojson > "$output_dir/$cooperative_areas_filename"
@@ -96,8 +96,7 @@ jobs:
 
       - name: Generate Checks
         run: |
-          node ./scripts/checks/generate_buildings_checks.mjs $output_dir/$cooperative_buildings_filename $checks_dir/buildings_errors.json
-          node ./scripts/checks/generate_wikidata_checks.mjs $output_dir/$cooperative_buildings_filename $checks_dir/wikidata_errors.json
+          node ./scripts/checks/checks.mjs $output_dir/$cooperative_buildings_filename $checks_dir/errors.json
 
       - name: Update readme data quality section
         run: |

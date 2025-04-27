@@ -1,29 +1,28 @@
 import { readFileSync,writeFileSync } from 'node:fs';
+import { argv } from 'node:process';
 
-/** @type string */
-const inputGeojsonPath = process.argv[2];
-/** @type string */
-const outputPath = process.argv[3];
+const inputGeoJsonPath = argv[2];
+const outputPath = argv[3];
 
 /**
  * Read GeoJSON file
  */
 
-/** @type GeoJSON **/
-const featuresFile = JSON.parse(await readFileSync(inputGeojsonPath, { encoding: 'utf8' }));
+/** @type OsmGeoJSON **/
+const featuresFile = JSON.parse(await readFileSync(inputGeoJsonPath, { encoding: 'utf8' }));
 
 /**
- * Group by identity
+ * Group by Wikidata id
  */
 
-const groupedByIdentity = Object.groupBy(featuresFile.features, feature => feature.properties["owner:wikidata"] || feature.properties["operator:wikidata"]);
-delete groupedByIdentity[undefined]
+const groupedByWikidataId = Object.groupBy(featuresFile.features, feature => feature.properties["owner:wikidata"] || feature.properties["operator:wikidata"]);
+delete groupedByWikidataId[undefined]
 
 /**
- * Output to files
+ * Output each Wikidata id to a file
  */
-for(const identity in groupedByIdentity) {
-    const outputGeoJson = JSON.stringify({type:"FeatureCollection",features: groupedByIdentity[identity]}, null, 2);
-    writeFileSync(`${outputPath}swiss_housing_cooperative_${identity}.geojson`, outputGeoJson);
+for(const id in groupedByWikidataId) {
+    const outputGeoJson = JSON.stringify({type:"FeatureCollection",features: groupedByWikidataId[id]}, null, 2);
+    writeFileSync(`${outputPath}swiss_housing_cooperative_${id}.geojson`, outputGeoJson);
 }
 
