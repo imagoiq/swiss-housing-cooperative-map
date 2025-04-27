@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 import { argv } from 'node:process';
 
-const wikidataQuery = argv[2];
+const inputWikidataQueryPath = argv[2];
 const inputGeoJsonPath = argv[3];
 
 /**
@@ -13,6 +13,7 @@ const featuresFile = JSON.parse(await readFileSync(inputGeoJsonPath, { encoding:
 /**
  * Fetch Wikidata API
  */
+const wikidataQuery = await readFileSync(inputWikidataQueryPath, { encoding: 'utf8' });
 const wikidataQueryUrl = `https://query.wikidata.org/sparql?query=${encodeURIComponent(wikidataQuery)}&format=json`;
 const response =  await fetch(wikidataQueryUrl, {
     method: 'GET',
