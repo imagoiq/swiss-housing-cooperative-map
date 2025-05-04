@@ -473,8 +473,7 @@
         "owner:type": "limited_company",
         "owner:wikidata": "Q131314825",
         "roof:levels": "0",
-        "roof:shape": "0",
-        "source": "Orthophotos2006sitn50cm",
+        "roof:shape": "flat",
         "start_date": "1974",
         "addr": [
           {

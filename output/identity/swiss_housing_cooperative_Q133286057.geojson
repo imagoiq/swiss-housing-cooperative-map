@@ -1,0 +1,299 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/303438275",
+      "properties": {
+        "addr:city": "Renens",
+        "addr:housenumber": "28",
+        "addr:postcode": "1020",
+        "addr:street": "Avenue de la Poste",
+        "building": "apartments",
+        "building:flats": "6",
+        "owner": "Coopérative Habitation Cheminots Renens",
+        "owner:short": "CHC Renens",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133286057",
+        "id": "way/303438275",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q7063944",
+        "owner:dedicated_to_label": "railway worker",
+        "owner:website": "https://chcrenens.ch/",
+        "owner:start_date": "1950-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-101.727.418"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5848418,
+              46.5396089
+            ],
+            [
+              6.585105,
+              46.539573
+            ],
+            [
+              6.5851315,
+              46.5396649
+            ],
+            [
+              6.5848683,
+              46.5397008
+            ],
+            [
+              6.5848418,
+              46.5396089
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303438276",
+      "properties": {
+        "addr:city": "Renens",
+        "addr:housenumber": "26",
+        "addr:postcode": "1020",
+        "addr:street": "Avenue de la Poste",
+        "building": "apartments",
+        "building:flats": "6",
+        "owner": "Coopérative Habitation Cheminots Renens",
+        "owner:short": "CHC Renens",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133286057",
+        "id": "way/303438276",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q7063944",
+        "owner:dedicated_to_label": "railway worker",
+        "owner:website": "https://chcrenens.ch/",
+        "owner:start_date": "1950-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-101.727.418"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5845891,
+              46.5395692
+            ],
+            [
+              6.5845637,
+              46.5394735
+            ],
+            [
+              6.5848213,
+              46.5394412
+            ],
+            [
+              6.5848467,
+              46.5395369
+            ],
+            [
+              6.5845891,
+              46.5395692
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303438277",
+      "properties": {
+        "addr:city": "Renens",
+        "addr:housenumber": "30",
+        "addr:postcode": "1020",
+        "addr:street": "Avenue de la Poste",
+        "building": "apartments",
+        "building:flats": "6",
+        "owner": "Coopérative Habitation Cheminots Renens",
+        "owner:short": "CHC Renens",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133286057",
+        "id": "way/303438277",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q7063944",
+        "owner:dedicated_to_label": "railway worker",
+        "owner:website": "https://chcrenens.ch/",
+        "owner:start_date": "1950-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-101.727.418"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5851266,
+              46.5397476
+            ],
+            [
+              6.5853887,
+              46.5397183
+            ],
+            [
+              6.5854106,
+              46.5398109
+            ],
+            [
+              6.5851485,
+              46.5398403
+            ],
+            [
+              6.5851266,
+              46.5397476
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303438278",
+      "properties": {
+        "addr:city": "Renens",
+        "addr:housenumber": "32",
+        "addr:postcode": "1020",
+        "addr:street": "Avenue de la Poste",
+        "building": "apartments",
+        "building:flats": "6",
+        "owner": "Coopérative Habitation Cheminots Renens",
+        "owner:short": "CHC Renens",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133286057",
+        "id": "way/303438278",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q7063944",
+        "owner:dedicated_to_label": "railway worker",
+        "owner:website": "https://chcrenens.ch/",
+        "owner:start_date": "1950-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-101.727.418"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5856964,
+              46.5399481
+            ],
+            [
+              6.5854354,
+              46.5399777
+            ],
+            [
+              6.585412,
+              46.53988
+            ],
+            [
+              6.585673,
+              46.5398504
+            ],
+            [
+              6.5856964,
+              46.5399481
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303438279",
+      "properties": {
+        "addr:city": "Renens",
+        "addr:housenumber": "34",
+        "addr:postcode": "1020",
+        "addr:street": "Avenue de la Poste",
+        "building": "apartments",
+        "building:flats": "6",
+        "owner": "Coopérative Habitation Cheminots Renens",
+        "owner:short": "CHC Renens",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133286057",
+        "id": "way/303438279",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q7063944",
+        "owner:dedicated_to_label": "railway worker",
+        "owner:website": "https://chcrenens.ch/",
+        "owner:start_date": "1950-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-101.727.418"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5856878,
+              46.5400175
+            ],
+            [
+              6.5859472,
+              46.5399827
+            ],
+            [
+              6.5859746,
+              46.5400792
+            ],
+            [
+              6.5857152,
+              46.540114
+            ],
+            [
+              6.5856878,
+              46.5400175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303438280",
+      "properties": {
+        "addr:city": "Renens",
+        "addr:housenumber": "36",
+        "addr:postcode": "1020",
+        "addr:street": "Avenue de la Poste",
+        "building": "apartments",
+        "building:flats": "6",
+        "owner": "Coopérative Habitation Cheminots Renens",
+        "owner:short": "CHC Renens",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133286057",
+        "id": "way/303438280",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q7063944",
+        "owner:dedicated_to_label": "railway worker",
+        "owner:website": "https://chcrenens.ch/",
+        "owner:start_date": "1950-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-101.727.418"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.585993,
+              46.5402485
+            ],
+            [
+              6.5859708,
+              46.5401554
+            ],
+            [
+              6.5862291,
+              46.5401263
+            ],
+            [
+              6.5862513,
+              46.5402194
+            ],
+            [
+              6.585993,
+              46.5402485
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

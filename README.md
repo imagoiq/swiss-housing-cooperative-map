@@ -48,14 +48,14 @@ At the moment, data can be checked and viewed on
 </thead>
 <tbody>
 <tr>
-<td>93</td>
-<td>868</td>
-<td>11784</td>
-<td>54%
+<td>94</td>
+<td>874</td>
+<td>11820</td>
+<td>53%
 </td>
-<td>52%
+<td>53%
 </td>
-<td>35%
+<td>34%
 </td>
 <td>19%
 </td>
@@ -328,9 +328,9 @@ Workflow](https://github.com/imagoiq/swiss-housing-cooperative/blob/main/.github
 - \[French\] [Temps Présent, Coopératives d’habitants, plus belle la
   vie?, RTS, 26 april
   2018](https://www.rts.ch/play/tv/temps-present/video/cooperatives-dhabitants-plus-belle-la-vie?urn=urn:rts:video:9536679&showUrn=urn%3Arts%3Ashow%3Atv%3A9536679)
-- \[French\]\[Mattia Lento, L’habitat participatif en Suisse: épargne et
+- \[French\] [Mattia Lento, L’habitat participatif en Suisse: épargne et
   nouvelles formes de sociabilité urbaine, Swissinfo, 5 october
-  2018\](https://www.swissinfo.ch/fre/economie/a-moiti%C3%A9-locataires-%C3%A0-moiti%C3%A9-propri%C3%A9taires_l-habitat-participatif-en-suisse-%C3%A9pargne-et-nouvelles-formes-de-sociabilit%C3%A9-urbaine/44431666)
+  2018](https://www.swissinfo.ch/fre/economie/a-moiti%C3%A9-locataires-%C3%A0-moiti%C3%A9-propri%C3%A9taires_l-habitat-participatif-en-suisse-%C3%A9pargne-et-nouvelles-formes-de-sociabilit%C3%A9-urbaine/44431666)
 - \[French/German/Italian\] [Office fédéral du logement OFL,
   Coopératives d’habitation du personnel de la Confédération,
   admin.ch](https://www.bwo.admin.ch/bwo/fr/home/wohnraumfoerderung/wbg-bundespersonal.html)

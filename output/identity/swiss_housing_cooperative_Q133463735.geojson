@@ -369,11 +369,13 @@
           },
           {
             "addr:city": "Lausanne",
+            "addr:postcode": "1012",
             "addr:street": "Chemin du Val-d'Angrogne",
             "addr:housenumber": "6"
           },
           {
             "addr:city": "Lausanne",
+            "addr:postcode": "1012",
             "addr:street": "Chemin du Val-d'Angrogne",
             "addr:housenumber": "8"
           }
