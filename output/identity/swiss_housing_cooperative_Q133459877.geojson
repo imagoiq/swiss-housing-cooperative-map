@@ -1033,10 +1033,6 @@
       "type": "Feature",
       "id": "way/791848464",
       "properties": {
-        "addr:city": "Genève",
-        "addr:housenumber": "14",
-        "addr:postcode": "1202",
-        "addr:street": "Rue Denis-de-Rougemont",
         "architect": "Burckhardt + Partner SA",
         "building": "apartments",
         "building:levels": "7",
@@ -1044,6 +1040,20 @@
         "owner:type": "cooperative",
         "owner:wikidata": "Q133459877",
         "start_date": "2016",
+        "addr": [
+          {
+            "addr:city": "Genève",
+            "addr:postcode": "1202",
+            "addr:street": "Rue Denis-De-Rougemont",
+            "addr:housenumber": "14"
+          },
+          {
+            "addr:city": "Genève",
+            "addr:postcode": "1202",
+            "addr:street": "Rue Denis-De-Rougemont",
+            "addr:housenumber": "16"
+          }
+        ],
         "id": "way/791848464",
         "start_date_parsed": "2016-01-01T00:00:00.000Z",
         "owner:website": "https://www.lesailes.ch/",

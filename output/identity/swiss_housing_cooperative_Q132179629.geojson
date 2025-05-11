@@ -388,25 +388,25 @@
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "40"
           },
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "38"
           },
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "36"
           },
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "34"
           }
         ],
@@ -458,25 +458,25 @@
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "32"
           },
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "30"
           },
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "28"
           },
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "26"
           }
         ],
@@ -590,25 +590,25 @@
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "56"
           },
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "54"
           },
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "52"
           },
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "50"
           }
         ],
@@ -658,13 +658,13 @@
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "58"
           },
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "60"
           }
         ],
@@ -718,25 +718,25 @@
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "48"
           },
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "46"
           },
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "44"
           },
           {
             "addr:city": "Genève",
             "addr:postcode": "1203",
-            "addr:street": "Cité Villars",
+            "addr:place": "Cité Villars",
             "addr:housenumber": "42"
           }
         ],

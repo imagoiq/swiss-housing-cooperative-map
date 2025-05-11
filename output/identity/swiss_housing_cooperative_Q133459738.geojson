@@ -1020,7 +1020,7 @@
         "addr:city": "Thônex",
         "addr:housenumber": "75",
         "addr:postcode": "1226",
-        "addr:street": "Chemin du Bois-des-Arts",
+        "addr:street": "Chemin du Bois-Des-Arts",
         "building": "apartments",
         "owner": "Fomhab",
         "owner:type": "cooperative",
@@ -1410,7 +1410,7 @@
         "addr:city": "Thônex",
         "addr:housenumber": "77",
         "addr:postcode": "1226",
-        "addr:street": "Chemin du Bois-des-Arts",
+        "addr:street": "Chemin du Bois-Des-Arts",
         "building": "apartments",
         "owner": "Fomhab",
         "owner:type": "cooperative",
@@ -1504,19 +1504,19 @@
           {
             "addr:city": "Thônex",
             "addr:postcode": "1226",
-            "addr:street": "Chemin du Bois-des-Arts",
+            "addr:street": "Chemin du Bois-Des-Arts",
             "addr:housenumber": "83"
           },
           {
             "addr:city": "Thônex",
             "addr:postcode": "1226",
-            "addr:street": "Chemin du Bois-des-Arts",
+            "addr:street": "Chemin du Bois-Des-Arts",
             "addr:housenumber": "81"
           },
           {
             "addr:city": "Thônex",
             "addr:postcode": "1226",
-            "addr:street": "Chemin du Bois-des-Arts",
+            "addr:street": "Chemin du Bois-Des-Arts",
             "addr:housenumber": "79"
           }
         ],
