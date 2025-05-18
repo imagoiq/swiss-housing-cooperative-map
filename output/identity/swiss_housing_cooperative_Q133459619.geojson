@@ -21,13 +21,13 @@
           {
             "addr:city": "Rolle",
             "addr:postcode": "1180",
-            "addr:street": "Avenue du Général Guisan",
+            "addr:street": "Avenue Général-Guisan",
             "addr:housenumber": "30"
           },
           {
             "addr:city": "Rolle",
             "addr:postcode": "1180",
-            "addr:street": "Avenue du Général Guisan",
+            "addr:street": "Avenue Général-Guisan",
             "addr:housenumber": "32"
           }
         ],
@@ -338,13 +338,13 @@
           {
             "addr:city": "Rolle",
             "addr:postcode": "1180",
-            "addr:street": "Avenue du Général Guisan",
+            "addr:street": "Avenue Général-Guisan",
             "addr:housenumber": "58"
           },
           {
             "addr:city": "Rolle",
             "addr:postcode": "1180",
-            "addr:street": "Avenue du Général Guisan",
+            "addr:street": "Avenue Général-Guisan",
             "addr:housenumber": "60"
           }
         ],
@@ -550,7 +550,7 @@
         "addr:city": "Mont-sur-Rolle",
         "addr:housenumber": "3",
         "addr:postcode": "1185",
-        "addr:street": "Chemin du Chauchery",
+        "addr:street": "Chemin du Chauchey",
         "building": "apartments",
         "heating": "pellets",
         "owner": "Société Coopérative d’Habitation de Rolle",

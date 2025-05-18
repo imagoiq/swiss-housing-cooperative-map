@@ -725,13 +725,13 @@
           {
             "addr:city": "Rolle",
             "addr:postcode": "1180",
-            "addr:street": "Avenue du Général Guisan",
+            "addr:street": "Avenue Général-Guisan",
             "addr:housenumber": "56"
           },
           {
             "addr:city": "Rolle",
             "addr:postcode": "1180",
-            "addr:street": "Avenue du Général Guisan",
+            "addr:street": "Avenue Général-Guisan",
             "addr:housenumber": "54"
           }
         ],

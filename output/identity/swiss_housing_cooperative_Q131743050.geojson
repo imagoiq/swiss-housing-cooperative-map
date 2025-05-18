@@ -6425,10 +6425,6 @@
       "type": "Feature",
       "id": "way/962229380",
       "properties": {
-        "addr:city": "Aigle",
-        "addr:housenumber": "2",
-        "addr:postcode": "1860",
-        "addr:street": "Rue de la Monneresse",
         "building": "apartments",
         "owner": "Coopérative Cité Derrière",
         "owner:type": "cooperative",
@@ -6439,6 +6435,12 @@
             "addr:postcode": "1860",
             "addr:street": "Rue de la Monneresse",
             "addr:housenumber": "4"
+          },
+          {
+            "addr:city": "Aigle",
+            "addr:postcode": "1860",
+            "addr:street": "Rue de la Monneresse",
+            "addr:housenumber": "2"
           }
         ],
         "id": "way/962229380",
