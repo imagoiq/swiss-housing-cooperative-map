@@ -59,6 +59,104 @@
     },
     {
       "type": "Feature",
+      "id": "way/273504802",
+      "properties": {
+        "amenity": "sheltered_housing",
+        "building": "apartments",
+        "building:flats": "51",
+        "building:levels": "7",
+        "name": "Le Pré de l'Oie",
+        "operator": "Alterimo",
+        "operator:type": "private",
+        "operator:wikidata": "Q134127896",
+        "owner": "Coopérative PrimaVesta",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460512",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "addr": [
+          {
+            "addr:city": "Nyon",
+            "addr:postcode": "1260",
+            "addr:street": "Route des Tattes d'Oie",
+            "addr:housenumber": "99"
+          },
+          {
+            "addr:city": "Nyon",
+            "addr:postcode": "1260",
+            "addr:street": "Route des Tattes d'Oie",
+            "addr:housenumber": "101"
+          }
+        ],
+        "id": "way/273504802",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q2191986",
+        "owner:dedicated_to_label": "elderly people",
+        "owner:website": "https://primavesta.ch/",
+        "owner:start_date": "2009-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-101.286.294"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.2213381,
+              46.3849106
+            ],
+            [
+              6.2212316,
+              46.3848139
+            ],
+            [
+              6.2215761,
+              46.3846243
+            ],
+            [
+              6.2216015,
+              46.3846469
+            ],
+            [
+              6.2219429,
+              46.3844637
+            ],
+            [
+              6.2220607,
+              46.3845681
+            ],
+            [
+              6.221944,
+              46.3846307
+            ],
+            [
+              6.2219666,
+              46.3846507
+            ],
+            [
+              6.2218722,
+              46.3847014
+            ],
+            [
+              6.2218483,
+              46.3846802
+            ],
+            [
+              6.221505,
+              46.3848644
+            ],
+            [
+              6.2214749,
+              46.3848377
+            ],
+            [
+              6.2213381,
+              46.3849106
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/276299764",
       "properties": {
         "building": "sheltered_housing",
@@ -274,6 +372,130 @@
             [
               6.5166725,
               46.6574402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/715568046",
+      "properties": {
+        "addr:city": "Cossonay",
+        "addr:housenumber": "2",
+        "addr:postcode": "1304",
+        "addr:street": "Chemin du Passoir",
+        "amenity": "sheltered_housing",
+        "architect": "Jean-Baptiste Ferrari & Associés",
+        "building": "apartments",
+        "building:flats": "41",
+        "building:levels": "4",
+        "operator": "Alterimo",
+        "operator:type": "private",
+        "operator:wikidata": "Q134127896",
+        "owner": "Coopérative PrimaVesta",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133460512",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "id": "way/715568046",
+        "owner:dedicated_to": "http://www.wikidata.org/entity/Q2191986",
+        "owner:dedicated_to_label": "elderly people",
+        "owner:website": "https://primavesta.ch/",
+        "owner:start_date": "2009-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-101.286.294"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5035333,
+              46.6107823
+            ],
+            [
+              6.5036536,
+              46.6107628
+            ],
+            [
+              6.5036768,
+              46.6108302
+            ],
+            [
+              6.5038191,
+              46.6108072
+            ],
+            [
+              6.5038755,
+              46.6109714
+            ],
+            [
+              6.5038634,
+              46.6109734
+            ],
+            [
+              6.5038778,
+              46.6110155
+            ],
+            [
+              6.5038893,
+              46.6110137
+            ],
+            [
+              6.5039341,
+              46.6111465
+            ],
+            [
+              6.5039686,
+              46.611141
+            ],
+            [
+              6.5040193,
+              46.6112913
+            ],
+            [
+              6.5038884,
+              46.6113121
+            ],
+            [
+              6.5038826,
+              46.611295
+            ],
+            [
+              6.5038441,
+              46.6113012
+            ],
+            [
+              6.5038471,
+              46.6113099
+            ],
+            [
+              6.5034815,
+              46.6113691
+            ],
+            [
+              6.5034403,
+              46.611249
+            ],
+            [
+              6.5037664,
+              46.6111962
+            ],
+            [
+              6.5037016,
+              46.6110073
+            ],
+            [
+              6.5036154,
+              46.6110213
+            ],
+            [
+              6.5035904,
+              46.6109405
+            ],
+            [
+              6.5035333,
+              46.6107823
             ]
           ]
         ]

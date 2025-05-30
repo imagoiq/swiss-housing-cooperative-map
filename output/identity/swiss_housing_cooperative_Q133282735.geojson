@@ -83,8 +83,14 @@
           {
             "addr:city": "Epalinges",
             "addr:postcode": "1066",
-            "addr:street": "Chemin Marcel Regamey",
-            "addr:housenumber": "1"
+            "addr:street": "Chemin de Mon-Repos",
+            "addr:housenumber": "10"
+          },
+          {
+            "addr:city": "Epalinges",
+            "addr:postcode": "1066",
+            "addr:street": "Chemin de Mon-Repos",
+            "addr:housenumber": "8"
           }
         ],
         "id": "way/110286739",
@@ -114,8 +120,16 @@
               46.548253
             ],
             [
-              6.6751181,
-              46.5482188
+              6.6751837,
+              46.5481855
+            ],
+            [
+              6.6753551,
+              46.5480986
+            ],
+            [
+              6.6754523,
+              46.5481899
             ],
             [
               6.6752153,

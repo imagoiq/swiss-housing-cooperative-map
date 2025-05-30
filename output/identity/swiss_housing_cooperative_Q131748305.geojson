@@ -4762,7 +4762,7 @@
       "properties": {
         "addr:city": "Crissier",
         "addr:housenumber": "69",
-        "addr:postcode": "1023m",
+        "addr:postcode": "1023",
         "addr:street": "Quartier Pré-Fontaine",
         "building": "apartments",
         "building:flats": "8",
@@ -4809,7 +4809,7 @@
       "properties": {
         "addr:city": "Crissier",
         "addr:housenumber": "65",
-        "addr:postcode": "1023m",
+        "addr:postcode": "1023",
         "addr:street": "Quartier Pré-Fontaine",
         "building": "apartments",
         "owner": "Logement Idéal",
@@ -4855,7 +4855,7 @@
       "properties": {
         "addr:city": "Crissier",
         "addr:housenumber": "67",
-        "addr:postcode": "1023m",
+        "addr:postcode": "1023",
         "addr:street": "Quartier Pré-Fontaine",
         "building": "apartments",
         "owner": "Logement Idéal",

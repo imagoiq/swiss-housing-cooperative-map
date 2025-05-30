@@ -4,10 +4,21 @@ Saviez-vous que les coopératives d’habitation sont une spécialité en
 Suisse depuis plus de 100 ans ? [^1] Il s’agit même d’une tradition
 vivante [^2] !
 
-D’après mes recherches, aucune carte des coopératives d’habitation
-n’existe pour l’ensemble des cantons [^3]. Ceci est un projet
-expérimental ayant pour but de cartographier et de lister les immeubles
-des coopératives d’habitation de Suisse avec un maximum de détails.
+L’association suisse des coopératives d’habitation dispose d’une \[carte
+publique\] (https://genossenschaften.wbg-schweiz.ch/) basée sur les
+données du gouvernement suisse et utilise Google Maps sans fournir
+malheureusement les données sous licence Open Data. Début 2025, le
+journal Tages-Anzeiger a également collecté des données pour créer une
+[carte
+interactive](https://www.tagesanzeiger.ch/genossenschaften-wo-die-wohnungen-in-der-schweiz-liegen-185999115531).
+Ces deux cartes ne fournissent que les emplacements des bâtiments, sans
+plus de détails. Dans certains cantons, de telles cartes détaillées
+semblent exister [^3], mais en utilisent des technologies propriétaires
+et ne proposent pas leurs données sous licence Open Data.
+
+Ce projet expérimental vise à cartographier et à répertorier les
+coopératives d’habitation en Suisse avec un maximum de détails et ce
+grâce aux communs du numérique.
 
 Ce projet n’a pas pour but de jouer les intermédiaires ou de construire
 un nouvel outil, mais de documenter et de montrer ce qui est possible,
@@ -48,8 +59,8 @@ Pour l’instant, les données peuvent être vérifiées et affichées sur
 <tbody>
 <tr>
 <td>94</td>
-<td>874</td>
-<td>11820</td>
+<td>876</td>
+<td>11912</td>
 <td>53%
 </td>
 <td>53%
