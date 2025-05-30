@@ -4,10 +4,18 @@
 
 Did you know that cooperative housing has been a specialty in Switzerland for over 100 years? [^1] In fact, it's even a living tradition [^2]!
 
-No cooperative housing map seems to exist across cantons [^3]. This experimental project aimed at mapping and listing the housing
-cooperatives in Switzerland with a maximum of details. 
+The Swiss housing cooperative association has a [public map](https://genossenschaften.wbg-schweiz.ch/) based on the data of the Swiss government
+and uses Google Maps without providing the data under Open Data license, sadly. Early 2025, the Tages-Anzeiger newspaper collected data to provide [an interactive map](https://www.tagesanzeiger.ch/genossenschaften-wo-die-wohnungen-in-der-schweiz-liegen-185999115531) as well.
+Both provide only the building's location without further details.
+In some canton such maps with details seem to exist [^3], but using proprietary technologies and still without Open Data license.
 
-This project does not aim at playing an intermediate or building new tool, but document shows what is possible and the limitations of using OpenStreetMap and Wikidata as well as using the minimum of tooling and target the minimum of maintenance.
+This experimental project aimed at mapping and listing the housing
+cooperatives in Switzerland with a maximum of details using digital commons platforms.
+
+This project does not aim at playing an intermediate or building new
+tool, but documenting and showing what is possible, what are the limitations of using
+OpenStreetMap and Wikidata as well as using the minimum of tooling and
+target the minimum of maintenance.
 
 At the moment, the name of this project might be misleading or deceptive as most of the data is from Western Switzerland, so feel free to add more data outside it!
 
