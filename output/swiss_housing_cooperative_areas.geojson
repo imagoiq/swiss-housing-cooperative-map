@@ -3,6 +3,76 @@
 "features": [
 {
   "type": "Feature",
+  "id": "way/26083323",
+  "properties": {
+    "addr:city": "Bern",
+    "addr:postcode": "3008",
+    "addr:street": "Huberstrasse",
+    "landuse": "residential",
+    "name": "WBG Huebergass",
+    "operator": "WBG Huebergass",
+    "operator:type": "cooperative",
+    "website": "http://www.huebergass.ch/",
+    "id": "way/26083323"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.4159059,
+          46.9455082
+        ],
+        [
+          7.4160242,
+          46.9451664
+        ],
+        [
+          7.4161324,
+          46.9448979
+        ],
+        [
+          7.4171057,
+          46.9448687
+        ],
+        [
+          7.4179006,
+          46.9449228
+        ],
+        [
+          7.4179138,
+          46.9453221
+        ],
+        [
+          7.4174424,
+          46.9454181
+        ],
+        [
+          7.4172398,
+          46.9454995
+        ],
+        [
+          7.4165108,
+          46.9456405
+        ],
+        [
+          7.4161435,
+          46.9455948
+        ],
+        [
+          7.4161008,
+          46.9455641
+        ],
+        [
+          7.4159059,
+          46.9455082
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/499832330",
   "properties": {
     "architect": "Farra zoumboula- kis & associés",
