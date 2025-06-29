@@ -368,12 +368,6 @@
           {
             "addr:city": "Clarens",
             "addr:postcode": "1815",
-            "addr:street": "Avenue Mayor-Vautier",
-            "addr:housenumber": "23"
-          },
-          {
-            "addr:city": "Clarens",
-            "addr:postcode": "1815",
             "addr:street": "Avenue Jean-Jacques Rousseau",
             "addr:housenumber": "22b"
           }
