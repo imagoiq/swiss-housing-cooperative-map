@@ -384,32 +384,6 @@
         "owner:abbr": "SCHG",
         "owner:type": "cooperative",
         "owner:wikidata": "Q132179629",
-        "addr": [
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:place": "Cité Villars",
-            "addr:housenumber": "40"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:place": "Cité Villars",
-            "addr:housenumber": "38"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:place": "Cité Villars",
-            "addr:housenumber": "36"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:place": "Cité Villars",
-            "addr:housenumber": "34"
-          }
-        ],
         "id": "way/82082876",
         "owner:website": "https://schg.ch/",
         "owner:start_date": "1919-01-01T00:00:00Z",
@@ -454,32 +428,6 @@
         "owner:type": "cooperative",
         "owner:wikidata": "Q132179629",
         "roof:levels": "0",
-        "addr": [
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:place": "Cité Villars",
-            "addr:housenumber": "32"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:place": "Cité Villars",
-            "addr:housenumber": "30"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:place": "Cité Villars",
-            "addr:housenumber": "28"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:place": "Cité Villars",
-            "addr:housenumber": "26"
-          }
-        ],
         "id": "way/82082894",
         "owner:website": "https://schg.ch/",
         "owner:start_date": "1919-01-01T00:00:00Z",
@@ -586,32 +534,6 @@
         "owner:abbr": "SCHG",
         "owner:type": "cooperative",
         "owner:wikidata": "Q132179629",
-        "addr": [
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:place": "Cité Villars",
-            "addr:housenumber": "56"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:place": "Cité Villars",
-            "addr:housenumber": "54"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:place": "Cité Villars",
-            "addr:housenumber": "52"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:place": "Cité Villars",
-            "addr:housenumber": "50"
-          }
-        ],
         "id": "way/82082965",
         "owner:website": "https://schg.ch/",
         "owner:start_date": "1919-01-01T00:00:00Z",
@@ -714,32 +636,6 @@
         "owner:abbr": "SCHG",
         "owner:type": "cooperative",
         "owner:wikidata": "Q132179629",
-        "addr": [
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:place": "Cité Villars",
-            "addr:housenumber": "48"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:place": "Cité Villars",
-            "addr:housenumber": "46"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:place": "Cité Villars",
-            "addr:housenumber": "44"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:place": "Cité Villars",
-            "addr:housenumber": "42"
-          }
-        ],
         "id": "way/82083013",
         "owner:website": "https://schg.ch/",
         "owner:start_date": "1919-01-01T00:00:00Z",
@@ -2576,86 +2472,6 @@
             [
               6.1203168,
               46.213352
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1249475210",
-      "properties": {
-        "building": "apartments",
-        "owner": "Société Coopérative d’Habitation Genève",
-        "owner:abbr": "SCHG",
-        "owner:type": "cooperative",
-        "owner:wikidata": "Q132179629",
-        "addr": [
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:street": "Rue Charles-Burklin",
-            "addr:housenumber": "2"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:street": "Rue Charles-Burklin",
-            "addr:housenumber": "4"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:street": "Rue Charles-Burklin",
-            "addr:housenumber": "6"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1203",
-            "addr:street": "Rue Charles-Burklin",
-            "addr:housenumber": "8"
-          }
-        ],
-        "id": "way/1249475210",
-        "owner:website": "https://schg.ch/",
-        "owner:start_date": "1919-01-01T00:00:00Z",
-        "owner:swiss_business_uid": "CHE-107.744.183"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1224334,
-              46.2149075
-            ],
-            [
-              6.122438,
-              46.2147312
-            ],
-            [
-              6.1230203,
-              46.2147297
-            ],
-            [
-              6.1231705,
-              46.2147677
-            ],
-            [
-              6.1235921,
-              46.2148738
-            ],
-            [
-              6.1235057,
-              46.2150398
-            ],
-            [
-              6.1229762,
-              46.2149075
-            ],
-            [
-              6.1224334,
-              46.2149075
             ]
           ]
         ]
