@@ -769,7 +769,7 @@
       "type": "Feature",
       "id": "way/940035490",
       "properties": {
-        "addr:city": "Lausanne",
+        "addr:city": "Lausanne 26",
         "addr:housenumber": "196a",
         "addr:postcode": "1000",
         "addr:street": "Route du Jorat",
@@ -828,7 +828,7 @@
       "type": "Feature",
       "id": "way/940035491",
       "properties": {
-        "addr:city": "Lausanne",
+        "addr:city": "Lausanne 26",
         "addr:housenumber": "196d",
         "addr:postcode": "1000",
         "addr:street": "Route du Jorat",
@@ -903,13 +903,13 @@
         "owner:wikidata": "Q86666680",
         "addr": [
           {
-            "addr:city": "Lausanne",
+            "addr:city": "Lausanne 26",
             "addr:postcode": "1000",
             "addr:street": "Route du Jorat",
             "addr:housenumber": "196b"
           },
           {
-            "addr:city": "Lausanne",
+            "addr:city": "Lausanne 26",
             "addr:postcode": "1000",
             "addr:street": "Route du Jorat",
             "addr:housenumber": "196c"
@@ -952,7 +952,7 @@
       "type": "Feature",
       "id": "way/940035493",
       "properties": {
-        "addr:city": "Lausanne",
+        "addr:city": "Lausanne 26",
         "addr:housenumber": "196e",
         "addr:postcode": "1000",
         "addr:street": "Route du Jorat",
@@ -1011,7 +1011,7 @@
       "type": "Feature",
       "id": "way/940035494",
       "properties": {
-        "addr:city": "Lausanne",
+        "addr:city": "Lausanne 26",
         "addr:housenumber": "196f",
         "addr:postcode": "1000",
         "addr:street": "Route du Jorat",
@@ -1070,7 +1070,7 @@
       "type": "Feature",
       "id": "way/940035495",
       "properties": {
-        "addr:city": "Lausanne",
+        "addr:city": "Lausanne 26",
         "addr:housenumber": "196l",
         "addr:postcode": "1000",
         "addr:street": "Route du Jorat",
@@ -1129,7 +1129,7 @@
       "type": "Feature",
       "id": "way/940035496",
       "properties": {
-        "addr:city": "Lausanne",
+        "addr:city": "Lausanne 26",
         "addr:housenumber": "196k",
         "addr:postcode": "1000",
         "addr:street": "Route du Jorat",
@@ -1188,7 +1188,7 @@
       "type": "Feature",
       "id": "way/940035497",
       "properties": {
-        "addr:city": "Lausanne",
+        "addr:city": "Lausanne 26",
         "addr:housenumber": "196m",
         "addr:postcode": "1000",
         "addr:street": "Route du Jorat",
@@ -1247,7 +1247,7 @@
       "type": "Feature",
       "id": "way/940035498",
       "properties": {
-        "addr:city": "Lausanne",
+        "addr:city": "Lausanne 26",
         "addr:housenumber": "196p",
         "addr:postcode": "1000",
         "addr:street": "Route du Jorat",
@@ -1322,13 +1322,13 @@
         "rent:regulation": "yes",
         "addr": [
           {
-            "addr:city": "Lausanne",
+            "addr:city": "Lausanne 26",
             "addr:postcode": "1000",
             "addr:street": "Route du Jorat",
             "addr:housenumber": "196b"
           },
           {
-            "addr:city": "Lausanne",
+            "addr:city": "Lausanne 26",
             "addr:postcode": "1000",
             "addr:street": "Route du Jorat",
             "addr:housenumber": "196i"
@@ -1401,13 +1401,13 @@
         "owner:wikidata": "Q86666680",
         "addr": [
           {
-            "addr:city": "Lausanne",
+            "addr:city": "Lausanne 26",
             "addr:postcode": "1000",
             "addr:street": "Route du Jorat",
             "addr:housenumber": "196g"
           },
           {
-            "addr:city": "Lausanne",
+            "addr:city": "Lausanne 26",
             "addr:postcode": "1000",
             "addr:street": "Route du Jorat",
             "addr:housenumber": "196h"
@@ -1470,13 +1470,13 @@
         "owner:wikidata": "Q86666680",
         "addr": [
           {
-            "addr:city": "Lausanne",
+            "addr:city": "Lausanne 26",
             "addr:postcode": "1000",
             "addr:street": "Route du Jorat",
             "addr:housenumber": "196n"
           },
           {
-            "addr:city": "Lausanne",
+            "addr:city": "Lausanne 26",
             "addr:postcode": "1000",
             "addr:street": "Route du Jorat",
             "addr:housenumber": "196o"
