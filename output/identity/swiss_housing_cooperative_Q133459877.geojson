@@ -993,6 +993,12 @@
             "addr:postcode": "1217",
             "addr:street": "Place de la Diversité",
             "addr:housenumber": "3"
+          },
+          {
+            "addr:city": "Meyrin",
+            "addr:postcode": "1217",
+            "addr:street": "Place de la Diversité",
+            "addr:housenumber": "1"
           }
         ],
         "id": "way/621297200",
