@@ -193,6 +193,7 @@
       "properties": {
         "building": "apartments",
         "building:flats": "69",
+        "building:levels": "7",
         "owner": "Coopérative d'habitation Le Jet d'Eau",
         "owner:type": "cooperative",
         "owner:wikidata": "Q133459866",
