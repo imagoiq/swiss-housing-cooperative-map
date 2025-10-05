@@ -34,5 +34,23 @@
     "errors": [
       "Missing owner:wikidata"
     ]
+  },
+  {
+    "id": "way/1339204138",
+    "errors": [
+      "Partial address"
+    ]
+  },
+  {
+    "id": "way/1339204139",
+    "errors": [
+      "Partial address"
+    ]
+  },
+  {
+    "id": "way/1339204140",
+    "errors": [
+      "Partial address"
+    ]
   }
 ]

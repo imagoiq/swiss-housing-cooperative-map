@@ -58,12 +58,12 @@ Pour l’instant, les données peuvent être vérifiées et affichées sur
 </thead>
 <tbody>
 <tr>
-<td>94</td>
-<td>876</td>
+<td>95</td>
+<td>879</td>
 <td>11802</td>
-<td>53%
+<td>54%
 </td>
-<td>53%
+<td>52%
 </td>
 <td>34%
 </td>

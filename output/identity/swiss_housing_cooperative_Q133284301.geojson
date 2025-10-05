@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1339204138",
+      "properties": {
+        "addr:housenumber": "10",
+        "addr:street": "Chemin du Bois-Ecard",
+        "building": "apartments",
+        "name": "D",
+        "owner": "Coopérative d’habitation écoresponsable La Bistoquette",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133284301",
+        "start_date": "2024",
+        "id": "way/1339204138",
+        "start_date_parsed": "2024-01-01T00:00:00.000Z",
+        "owner:website": "https://bistoquette.ch/",
+        "owner:start_date": "2018-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-199.716.421"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1323511,
+              46.167408
+            ],
+            [
+              6.1322125,
+              46.167252
+            ],
+            [
+              6.1324843,
+              46.1671363
+            ],
+            [
+              6.1326228,
+              46.1672923
+            ],
+            [
+              6.1323511,
+              46.167408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1339204139",
+      "properties": {
+        "addr:housenumber": "12",
+        "addr:street": "Chemin du Bois-Ecard",
+        "building": "apartments",
+        "building:levels": "7",
+        "name": "C",
+        "owner": "Coopérative d’habitation écoresponsable La Bistoquette",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133284301",
+        "start_date": "2024",
+        "id": "way/1339204139",
+        "start_date_parsed": "2024-01-01T00:00:00.000Z",
+        "owner:website": "https://bistoquette.ch/",
+        "owner:start_date": "2018-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-199.716.421"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1324899,
+              46.1678381
+            ],
+            [
+              6.1323579,
+              46.1676843
+            ],
+            [
+              6.1328349,
+              46.1674881
+            ],
+            [
+              6.1329667,
+              46.1676419
+            ],
+            [
+              6.1324899,
+              46.1678381
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1339204140",
+      "properties": {
+        "addr:housenumber": "14",
+        "addr:street": "Chemin du Bois-Ecard",
+        "building": "apartments",
+        "building:levels": "7",
+        "name": "B",
+        "owner": "Coopérative d’habitation écoresponsable La Bistoquette",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133284301",
+        "start_date": "2024",
+        "id": "way/1339204140",
+        "start_date_parsed": "2024-01-01T00:00:00.000Z",
+        "owner:website": "https://bistoquette.ch/",
+        "owner:start_date": "2018-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-199.716.421"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1331964,
+              46.167823
+            ],
+            [
+              6.1333439,
+              46.1680059
+            ],
+            [
+              6.1325798,
+              46.1683012
+            ],
+            [
+              6.1324324,
+              46.1681183
+            ],
+            [
+              6.1331964,
+              46.167823
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
