@@ -5,7 +5,9 @@
       "type": "Feature",
       "id": "way/1339204138",
       "properties": {
+        "addr:city": "Plan-les-Ouates",
         "addr:housenumber": "10",
+        "addr:postcode": "1228",
         "addr:street": "Chemin du Bois-Ecard",
         "building": "apartments",
         "name": "D",
@@ -51,7 +53,9 @@
       "type": "Feature",
       "id": "way/1339204139",
       "properties": {
+        "addr:city": "Plan-les-Ouates",
         "addr:housenumber": "12",
+        "addr:postcode": "1228",
         "addr:street": "Chemin du Bois-Ecard",
         "building": "apartments",
         "building:levels": "7",
@@ -98,7 +102,9 @@
       "type": "Feature",
       "id": "way/1339204140",
       "properties": {
+        "addr:city": "Plan-les-Ouates",
         "addr:housenumber": "14",
+        "addr:postcode": "1228",
         "addr:street": "Chemin du Bois-Ecard",
         "building": "apartments",
         "building:levels": "7",
