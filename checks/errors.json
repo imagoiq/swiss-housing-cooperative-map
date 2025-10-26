@@ -6,30 +6,6 @@
     ]
   },
   {
-    "id": "way/82082876",
-    "errors": [
-      "Missing address"
-    ]
-  },
-  {
-    "id": "way/82082894",
-    "errors": [
-      "Missing address"
-    ]
-  },
-  {
-    "id": "way/82082965",
-    "errors": [
-      "Missing address"
-    ]
-  },
-  {
-    "id": "way/82083013",
-    "errors": [
-      "Missing address"
-    ]
-  },
-  {
     "id": "way/94229074",
     "errors": [
       "Missing owner:wikidata"

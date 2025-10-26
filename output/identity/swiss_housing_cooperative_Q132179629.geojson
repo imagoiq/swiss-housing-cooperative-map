@@ -377,100 +377,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/82082876",
-      "properties": {
-        "building": "apartments",
-        "owner": "Société Coopérative d’Habitation Genève",
-        "owner:abbr": "SCHG",
-        "owner:type": "cooperative",
-        "owner:wikidata": "Q132179629",
-        "id": "way/82082876",
-        "owner:website": "https://schg.ch/",
-        "owner:start_date": "1919-01-01T00:00:00Z",
-        "owner:swiss_business_uid": "CHE-107.744.183"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1215128,
-              46.215454
-            ],
-            [
-              6.1213845,
-              46.2154782
-            ],
-            [
-              6.1211791,
-              46.214955
-            ],
-            [
-              6.1213073,
-              46.2149309
-            ],
-            [
-              6.1215128,
-              46.215454
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/82082894",
-      "properties": {
-        "building": "apartments",
-        "building:levels": "3",
-        "owner": "Société Coopérative d’Habitation Genève",
-        "owner:abbr": "SCHG",
-        "owner:type": "cooperative",
-        "owner:wikidata": "Q132179629",
-        "roof:levels": "0",
-        "id": "way/82082894",
-        "owner:website": "https://schg.ch/",
-        "owner:start_date": "1919-01-01T00:00:00Z",
-        "owner:swiss_business_uid": "CHE-107.744.183"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1216559,
-              46.2148696
-            ],
-            [
-              6.121778,
-              46.2148449
-            ],
-            [
-              6.1219931,
-              46.215354
-            ],
-            [
-              6.121948,
-              46.2153631
-            ],
-            [
-              6.1219528,
-              46.2153745
-            ],
-            [
-              6.1218759,
-              46.2153901
-            ],
-            [
-              6.1216559,
-              46.2148696
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/82082953",
       "properties": {
         "building": "apartments",
@@ -520,48 +426,6 @@
             [
               6.11995,
               46.2145902
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/82082965",
-      "properties": {
-        "building": "apartments",
-        "owner": "Société Coopérative d’Habitation Genève",
-        "owner:abbr": "SCHG",
-        "owner:type": "cooperative",
-        "owner:wikidata": "Q132179629",
-        "id": "way/82082965",
-        "owner:website": "https://schg.ch/",
-        "owner:start_date": "1919-01-01T00:00:00Z",
-        "owner:swiss_business_uid": "CHE-107.744.183"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1203869,
-              46.215663
-            ],
-            [
-              6.1201883,
-              46.2151332
-            ],
-            [
-              6.1203125,
-              46.2151109
-            ],
-            [
-              6.1205113,
-              46.2156407
-            ],
-            [
-              6.1203869,
-              46.215663
             ]
           ]
         ]
@@ -622,48 +486,6 @@
             [
               6.1201884,
               46.2148729
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/82083013",
-      "properties": {
-        "building": "apartments",
-        "owner": "Société Coopérative d’Habitation Genève",
-        "owner:abbr": "SCHG",
-        "owner:type": "cooperative",
-        "owner:wikidata": "Q132179629",
-        "id": "way/82083013",
-        "owner:website": "https://schg.ch/",
-        "owner:start_date": "1919-01-01T00:00:00Z",
-        "owner:swiss_business_uid": "CHE-107.744.183"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1206844,
-              46.215048
-            ],
-            [
-              6.1208073,
-              46.2150255
-            ],
-            [
-              6.1210084,
-              46.2155509
-            ],
-            [
-              6.1208853,
-              46.2155735
-            ],
-            [
-              6.1206844,
-              46.215048
             ]
           ]
         ]
