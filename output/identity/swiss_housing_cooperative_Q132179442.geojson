@@ -9,19 +9,16 @@
         "building": "apartments",
         "building:flats": "77",
         "building:flats:cluster": "1",
+        "building:levels": "8",
         "heating": "heat_pump",
         "owner": "Société coopérative de construction et d’habitation Le Bled",
         "owner:short": "SCCH Le Bled",
         "owner:type": "cooperative",
         "owner:wikidata": "Q132179442",
+        "roof:levels": "0",
+        "roof:shape": "flat",
         "start_date": "2023-07",
         "addr": [
-          {
-            "addr:city": "Lausanne",
-            "addr:postcode": "1018",
-            "addr:street": "Route des Plaines-du-Loup",
-            "addr:housenumber": "39b"
-          },
           {
             "addr:city": "Lausanne",
             "addr:postcode": "1018",
@@ -102,14 +99,6 @@
             [
               6.6220584,
               46.5383597
-            ],
-            [
-              6.6221397,
-              46.5382572
-            ],
-            [
-              6.6223057,
-              46.5383443
             ],
             [
               6.6222012,
