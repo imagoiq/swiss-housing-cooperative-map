@@ -75,7 +75,7 @@ At the moment, data can be checked and viewed on
 </td>
 <td>37%
 </td>
-<td>37%
+<td>38%
 </td>
 </tr>
 </tbody>

@@ -127,6 +127,7 @@
         "owner:type": "cooperative",
         "owner:wikidata": "Q133459721",
         "ref": "A24",
+        "roof:shape": "flat",
         "addr": [
           {
             "addr:city": "Meyrin",
@@ -185,6 +186,8 @@
         "owner:type": "cooperative",
         "owner:wikidata": "Q133459721",
         "ref": "A25",
+        "roof:levels": "0",
+        "roof:shape": "flat",
         "addr": [
           {
             "addr:city": "Meyrin",
