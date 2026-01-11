@@ -611,13 +611,13 @@
         "owner:wikidata": "Q133459738",
         "addr": [
           {
-            "addr:city": "Carouge",
+            "addr:city": "Carouge (GE)",
             "addr:postcode": "1227",
             "addr:street": "Rue de La-Tambourine",
             "addr:housenumber": "31"
           },
           {
-            "addr:city": "Carouge",
+            "addr:city": "Carouge (GE)",
             "addr:postcode": "1227",
             "addr:street": "Rue de La-Tambourine",
             "addr:housenumber": "33"
@@ -1196,7 +1196,7 @@
         "owner:wikidata": "Q133459738",
         "addr": [
           {
-            "addr:city": "Geneva",
+            "addr:city": "Genève",
             "addr:postcode": "1205",
             "addr:street": "Quai Capo d'Istria",
             "addr:housenumber": "17"

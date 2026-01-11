@@ -302,7 +302,7 @@
         "owner:wikidata": "Q133460016",
         "addr": [
           {
-            "addr:city": "Carouge",
+            "addr:city": "Carouge (GE)",
             "addr:postcode": "1227",
             "addr:street": "Rue de La-Tambourine",
             "addr:housenumber": "31"
@@ -779,7 +779,7 @@
         "owner:wikidata": "Q133460016",
         "addr": [
           {
-            "addr:city": "Geneva",
+            "addr:city": "Carouge (GE)",
             "addr:postcode": "1227",
             "addr:street": "Rue de La-Tambourine",
             "addr:housenumber": "20"

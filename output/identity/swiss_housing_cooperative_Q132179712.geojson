@@ -19,19 +19,19 @@
           {
             "addr:city": "Pully",
             "addr:postcode": "1009",
-            "addr:street": "Chemin du Pré de la Tour",
+            "addr:street": "Chemin du Pré-de-la-Tour",
             "addr:housenumber": "1b"
           },
           {
             "addr:city": "Pully",
             "addr:postcode": "1009",
-            "addr:street": "Chemin du Pré de la Tour",
+            "addr:street": "Chemin du Pré-de-la-Tour",
             "addr:housenumber": "1a"
           },
           {
             "addr:city": "Pully",
             "addr:postcode": "1009",
-            "addr:street": "Chemin du Pré de la Tour",
+            "addr:street": "Chemin du Pré-de-la-Tour",
             "addr:housenumber": "1c"
           }
         ],
