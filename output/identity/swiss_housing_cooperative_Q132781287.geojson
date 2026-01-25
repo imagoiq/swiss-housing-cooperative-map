@@ -8,7 +8,8 @@
         "building": "apartments",
         "building:flats": "42",
         "building:levels": "5",
-        "heating": "district_heating",
+        "heating": "yes",
+        "heating:input": "district_heating",
         "operator": "Société coopérative d'habitation Lausanne",
         "operator:abbr": "SCHL",
         "operator:type": "cooperative",
@@ -19,7 +20,6 @@
         "owner:wikidata": "Q132781287",
         "roof:levels": "0",
         "roof:shape": "flat",
-        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
         "start_date": "1998",
         "addr": [
           {

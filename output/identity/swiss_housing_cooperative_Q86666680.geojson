@@ -734,6 +734,10 @@
               46.2321878
             ],
             [
+              6.0707257,
+              46.2321817
+            ],
+            [
               6.071051,
               46.2319884
             ],
@@ -756,6 +760,10 @@
             [
               6.0712137,
               46.2321174
+            ],
+            [
+              6.0708847,
+              46.2323129
             ],
             [
               6.0708768,
@@ -2504,6 +2512,7 @@
       "properties": {
         "architect": "meier + associés architectes;tekhne",
         "building": "apartments",
+        "building:levels": "6",
         "check_date": "2024-08-11",
         "heating": "heat_pump",
         "opening_date": "2024-07",
@@ -2513,6 +2522,8 @@
         "owner:abbr": "CODHA",
         "owner:type": "cooperative",
         "owner:wikidata": "Q86666680",
+        "roof:levels": "0",
+        "roof:shape": "flat",
         "start_date": "2024-07",
         "addr": [
           {
@@ -2690,7 +2701,8 @@
         "building:flats": "120",
         "building:flats:cluster": "3",
         "building:part": "apartments",
-        "heating": "district_heating",
+        "heating": "yes",
+        "heating:input": "district_heating",
         "operator": "Association Havoca",
         "operator:type": "association",
         "owner": "Coopérative de l’habitat associatif",
@@ -2726,6 +2738,10 @@
               46.2325986
             ],
             [
+              6.0712306,
+              46.232592
+            ],
+            [
               6.071563,
               46.2323954
             ],
@@ -2740,6 +2756,10 @@
             [
               6.0715324,
               46.2326317
+            ],
+            [
+              6.0713869,
+              46.2327178
             ],
             [
               6.0713752,

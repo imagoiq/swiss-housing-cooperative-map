@@ -10,10 +10,14 @@
         "addr:postcode": "1450",
         "addr:street": "Avenue des Gittaz",
         "building": "apartments",
-        "heating": "wood",
+        "heating": "yes",
+        "heating:input": "wood",
+        "image": "http://domahabitare.ch/content/referencement/1/thumbnails/thumb.jpg",
+        "name": "Doma Habitare",
         "owner": "Coopérative DomaHabitare",
         "owner:type": "cooperative",
         "owner:wikidata": "Q133459653",
+        "website": "http://domahabitare.ch/",
         "id": "way/693834068",
         "owner:website": "http://domahabitare.ch/",
         "owner:swiss_business_uid": "CHE-115.843.396"
@@ -23,24 +27,36 @@
         "coordinates": [
           [
             [
-              6.4961406,
-              46.8217429
+              6.4961656,
+              46.8217251
             ],
             [
-              6.4959923,
-              46.8218215
+              6.4960017,
+              46.8218124
             ],
             [
-              6.4958229,
-              46.821672
+              6.495836,
+              46.8216724
             ],
             [
-              6.4959713,
-              46.8215933
+              6.495868,
+              46.8216307
             ],
             [
-              6.4961406,
-              46.8217429
+              6.4958858,
+              46.8216204
+            ],
+            [
+              6.4959437,
+              46.8216014
+            ],
+            [
+              6.4960009,
+              46.8215827
+            ],
+            [
+              6.4961656,
+              46.8217251
             ]
           ]
         ]

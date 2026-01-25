@@ -7,7 +7,8 @@
       "properties": {
         "building": "apartments",
         "building:levels": "4",
-        "heating": "gas",
+        "heating": "yes",
+        "heating:input": "gas",
         "operator": "Société coopérative d'habitation Lausanne",
         "operator:abbr": "SCHL",
         "operator:type": "cooperative",
@@ -19,7 +20,6 @@
         "owner:wikidata": "Q131314882",
         "roof:levels": "0",
         "roof:shape": "flat",
-        "source": "Orthophoto Yverdon 2011 / R-Pod @ HEIG-VD",
         "start_date": "2006",
         "addr": [
           {
@@ -150,7 +150,8 @@
       "properties": {
         "building": "apartments",
         "building:levels": "4",
-        "heating": "gas",
+        "heating": "yes",
+        "heating:input": "gas",
         "operator": "Société coopérative d'habitation Lausanne",
         "operator:abbr": "SCHL",
         "operator:type": "cooperative",
@@ -162,7 +163,6 @@
         "owner:wikidata": "Q131314882",
         "roof:levels": "0",
         "roof:shape": "flat",
-        "source": "Orthophoto Yverdon 2011 / R-Pod @ HEIG-VD",
         "start_date": "2006",
         "addr": [
           {
@@ -217,7 +217,8 @@
       "properties": {
         "building": "apartments",
         "building:levels": "4",
-        "heating": "gas",
+        "heating": "yes",
+        "heating:input": "gas",
         "operator": "Société coopérative d'habitation Lausanne",
         "operator:abbr": "SCHL",
         "operator:type": "cooperative",
@@ -229,7 +230,6 @@
         "owner:wikidata": "Q131314882",
         "roof:levels": "0",
         "roof:shape": "flat",
-        "source": "Orthophoto Yverdon 2011 / R-Pod @ HEIG-VD",
         "start_date": "2006",
         "addr": [
           {
