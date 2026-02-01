@@ -130,11 +130,11 @@
         "building": "apartments",
         "building:flats": "26",
         "building:levels": "2",
-        "heating": "gas",
+        "heating": "yes",
+        "heating:input": "gas",
         "owner": "Coopérative d'habitation Les Ailes",
         "owner:type": "cooperative",
         "owner:wikidata": "Q133459877",
-        "source": "Orthophotos 2009 du SITG (Système d'Information du Territoire Genevois)",
         "start_date": "1999",
         "addr": [
           {
@@ -246,11 +246,11 @@
         "building": "apartments",
         "building:flats": "12",
         "building:levels": "2",
-        "heating": "gas",
+        "heating": "yes",
+        "heating:input": "gas",
         "owner": "Coopérative d'habitation Les Ailes",
         "owner:type": "cooperative",
         "owner:wikidata": "Q133459877",
-        "source": "Orthophotos 2009 du SITG (Système d'Information du Territoire Genevois)",
         "start_date": "2001",
         "addr": [
           {
@@ -332,7 +332,8 @@
         "building": "apartments",
         "building:flats": "12",
         "building:levels": "2",
-        "heating": "gas",
+        "heating": "yes",
+        "heating:input": "gas",
         "owner": "Coopérative d'habitation Les Ailes",
         "owner:type": "cooperative",
         "owner:wikidata": "Q133459877",
@@ -992,6 +993,12 @@
             "addr:city": "Meyrin",
             "addr:postcode": "1217",
             "addr:street": "Place de la Diversité",
+            "addr:housenumber": "1"
+          },
+          {
+            "addr:city": "Meyrin",
+            "addr:postcode": "1217",
+            "addr:street": "Place de la Diversité",
             "addr:housenumber": "3"
           },
           {
@@ -1016,12 +1023,20 @@
               46.230778
             ],
             [
+              6.0673917,
+              46.230633
+            ],
+            [
               6.0675134,
               46.2304115
             ],
             [
               6.067755,
               46.2304751
+            ],
+            [
+              6.0676363,
+              46.2306935
             ],
             [
               6.0675536,

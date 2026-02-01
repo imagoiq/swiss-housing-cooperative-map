@@ -130,7 +130,8 @@
         "building:flats": "33",
         "building:flats:dog": "no",
         "building:levels": "3",
-        "heating": "district_heating",
+        "heating": "yes",
+        "heating:input": "district_heating",
         "operator": "Société coopérative d'habitation Lausanne",
         "operator:abbr": "SCHL",
         "operator:type": "cooperative",
@@ -140,7 +141,6 @@
         "owner:type": "cooperative",
         "owner:wikidata": "Q132179712",
         "roof:shape": "flat",
-        "source": "Orthophoto Pully swisstopo",
         "start_date": "2004",
         "addr": [
           {
