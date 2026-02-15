@@ -59,7 +59,7 @@ Pour l’instant, les données peuvent être vérifiées et affichées sur
 <tbody>
 <tr>
 <td>95</td>
-<td>874</td>
+<td>875</td>
 <td>11802</td>
 <td>54%
 </td>
@@ -73,7 +73,7 @@ Pour l’instant, les données peuvent être vérifiées et affichées sur
 </td>
 <td>55%
 </td>
-<td>38%
+<td>37%
 </td>
 <td>38%
 </td>

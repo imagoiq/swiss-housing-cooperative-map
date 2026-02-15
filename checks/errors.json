@@ -10,5 +10,11 @@
     "errors": [
       "Missing owner:wikidata"
     ]
+  },
+  {
+    "id": "way/1339204140",
+    "errors": [
+      "Address duplication"
+    ]
   }
 ]

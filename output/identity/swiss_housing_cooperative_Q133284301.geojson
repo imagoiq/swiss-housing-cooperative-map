@@ -112,6 +112,66 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1339204140",
+      "properties": {
+        "addr:city": "Plan-les-Ouates",
+        "addr:housenumber": "14",
+        "addr:postcode": "1128",
+        "addr:street": "CHemin du Bois-Ecard",
+        "building": "apartments",
+        "building:levels": "7",
+        "owner": "Coopérative d’habitation écoresponsable La Bistoquette",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133284301",
+        "start_date": "2024",
+        "addr": [
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Chemin du Bois-Ecard",
+            "addr:housenumber": "14"
+          }
+        ],
+        "id": "way/1339204140",
+        "start_date_parsed": "2024-01-01T00:00:00.000Z",
+        "owner:website": "https://bistoquette.ch/",
+        "owner:start_date": "2018-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-199.716.421"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1331964,
+              46.167823
+            ],
+            [
+              6.1333439,
+              46.1680059
+            ],
+            [
+              6.1329955,
+              46.168137
+            ],
+            [
+              6.1325798,
+              46.1683012
+            ],
+            [
+              6.1324324,
+              46.1681183
+            ],
+            [
+              6.1331964,
+              46.167823
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
