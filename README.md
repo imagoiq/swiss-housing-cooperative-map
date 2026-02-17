@@ -48,7 +48,7 @@ At the moment, data can be checked and viewed on
 <tr>
 <th scope="col"><code>start_date</code></th>
 <th scope="col"><code>building:flats</code></th>
-<th scope="col"><code>heating</code></th>
+<th scope="col"><code>heating:input</code></th>
 <th scope="col"><code>architect</code></th>
 <th scope="col"><code>architect:renovation</code></th>
 <th scope="col"><code>building:levels</code></th>
@@ -224,7 +224,7 @@ another cooperative:
   number of flats in total (including cluster)
 - [`building:flats:cluster`](https://taginfo.openstreetmap.org/keys/building%3Aflats%3Acluster)
   \[tag de facto\] - number of cluster flats
-- [`heating=gas|district_heating`](https://wiki.openstreetmap.org/wiki/Key:heating)
+- [`heating:input=gas|district_heating`](https://wiki.openstreetmap.org/wiki/Key:heating:input)
   r other \[de facto\] values
   [`heat_pump|oil|pellet|woodchip|biogas`](https://taginfo.openstreetmap.org/keys/heating#values) -
   Type of heating system

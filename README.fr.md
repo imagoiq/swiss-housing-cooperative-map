@@ -229,9 +229,9 @@ ou une autre coopérative :
   nombre d’appartements dans un bâtiment au total (inclus les clusters)
 - [`building:flats:cluster`](https://taginfo.openstreetmap.org/keys/building%3Aflats%3Acluster)
   \[tag de facto\] - nombre d’appartements de type cluster
-- [`heating=gas|district_heating`](https://wiki.openstreetmap.org/wiki/Key:heating)
+- [`heating:input=gas|district_heating`](https://wiki.openstreetmap.org/wiki/Key:heating:input)
   ou autres valeurs \[de facto\]
-  [`heat_pump|oil|pellet|woodchip|biogas`](https://taginfo.openstreetmap.org/keys/heating#values) -
+  [`heat_pump|oil|pellet|woodchip|biogas`](https://taginfo.openstreetmap.org/keys/heating:input#values) -
   Type de chauffage
 
 Un peu plus expérimental :
