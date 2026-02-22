@@ -4,12 +4,13 @@ Saviez-vous que les coopératives d’habitation sont une spécialité en
 Suisse depuis plus de 100 ans ? [^1] Il s’agit même d’une tradition
 vivante [^2] !
 
-L’association suisse des coopératives d’habitation dispose d’une \[carte
-publique\] (https://genossenschaften.wbg-schweiz.ch/) basée sur les
-données du gouvernement suisse et utilise Google Maps sans fournir
-malheureusement les données sous licence Open Data. Début 2025, le
-journal Tages-Anzeiger a également collecté des données pour créer une
-[carte
+L’association suisse des coopératives
+d’habitat[2025_05_07.md](../../../../../SynologyDrive/logseq/journals/2025_05_07.md)ion
+dispose d’une \[carte publique\]
+(https://genossenschaften.wbg-schweiz.ch/) basée sur les données du
+gouvernement suisse et utilise Google Maps sans fournir malheureusement
+les données sous licence Open Data. Début 2025, le journal
+Tages-Anzeiger a également collecté des données pour créer une [carte
 interactive](https://www.tagesanzeiger.ch/genossenschaften-wo-die-wohnungen-in-der-schweiz-liegen-185999115531).
 Ces deux cartes ne fournissent que les emplacements des bâtiments, sans
 plus de détails. Dans certains cantons, de telles cartes détaillées
@@ -229,9 +230,9 @@ ou une autre coopérative :
   nombre d’appartements dans un bâtiment au total (inclus les clusters)
 - [`building:flats:cluster`](https://taginfo.openstreetmap.org/keys/building%3Aflats%3Acluster)
   \[tag de facto\] - nombre d’appartements de type cluster
-- [`heating:input=gas|district_heating`](https://wiki.openstreetmap.org/wiki/Key:heating:input)
+- [`heating=gas|district_heating`](https://wiki.openstreetmap.org/wiki/Key:heating)
   ou autres valeurs \[de facto\]
-  [`heat_pump|oil|pellet|woodchip|biogas`](https://taginfo.openstreetmap.org/keys/heating:input#values) -
+  [`heat_pump|oil|pellet|woodchip|biogas`](https://taginfo.openstreetmap.org/keys/heating#values) -
   Type de chauffage
 
 Un peu plus expérimental :

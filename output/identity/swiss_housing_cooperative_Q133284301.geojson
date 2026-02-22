@@ -117,10 +117,6 @@
       "type": "Feature",
       "id": "way/1339204140",
       "properties": {
-        "addr:city": "Plan-les-Ouates",
-        "addr:housenumber": "14",
-        "addr:postcode": "1128",
-        "addr:street": "CHemin du Bois-Ecard",
         "building": "apartments",
         "building:levels": "7",
         "owner": "Coopérative d’habitation écoresponsable La Bistoquette",
