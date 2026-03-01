@@ -72,7 +72,13 @@
             "addr:city": "Plan-les-Ouates",
             "addr:postcode": "1228",
             "addr:street": "Chemin du Bois-Ecard",
-            "addr:housenumber": "12"
+            "addr:housenumber": "12a"
+          },
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Chemin du Bois-Ecard",
+            "addr:housenumber": "12b"
           }
         ],
         "id": "way/1339204139",
@@ -128,7 +134,19 @@
             "addr:city": "Plan-les-Ouates",
             "addr:postcode": "1228",
             "addr:street": "Chemin du Bois-Ecard",
-            "addr:housenumber": "14"
+            "addr:housenumber": "14a"
+          },
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Chemin du Bois-Ecard",
+            "addr:housenumber": "14b"
+          },
+          {
+            "addr:city": "Plan-les-Ouates",
+            "addr:postcode": "1228",
+            "addr:street": "Chemin du Bois-Ecard",
+            "addr:housenumber": "14c"
           }
         ],
         "id": "way/1339204140",

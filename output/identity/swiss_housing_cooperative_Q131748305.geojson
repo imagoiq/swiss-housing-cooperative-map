@@ -6,6 +6,7 @@
       "id": "way/44365370",
       "properties": {
         "building": "apartments",
+        "building:levels": "4",
         "owner": "Logement Idéal",
         "owner:type": "cooperative",
         "owner:wikidata": "Q131748305",

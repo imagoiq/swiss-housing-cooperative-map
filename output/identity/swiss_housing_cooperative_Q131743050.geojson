@@ -216,6 +216,7 @@
         "addr:street": "Avenue des Figuiers",
         "building": "apartments",
         "building:flats": "42",
+        "building:levels": "4",
         "owner": "Coopérative Cité Derrière",
         "owner:type": "cooperative",
         "owner:wikidata": "Q131743050",
