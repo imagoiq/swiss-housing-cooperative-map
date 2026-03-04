@@ -10,5 +10,17 @@
     "errors": [
       "Missing owner:wikidata"
     ]
+  },
+  {
+    "id": "way/193282818",
+    "errors": [
+      "Missing operator:wikidata"
+    ]
+  },
+  {
+    "id": "way/389430992",
+    "errors": [
+      "Missing operator:wikidata"
+    ]
   }
 ]
