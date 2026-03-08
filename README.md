@@ -58,8 +58,8 @@ At the moment, data can be checked and viewed on
 </thead>
 <tbody>
 <tr>
-<td>95</td>
-<td>877</td>
+<td>99</td>
+<td>878</td>
 <td>11802</td>
 <td>54%
 </td>

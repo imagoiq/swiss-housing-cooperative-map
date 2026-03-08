@@ -611,13 +611,13 @@
         "owner:wikidata": "Q133459738",
         "addr": [
           {
-            "addr:city": "Carouge (GE)",
+            "addr:city": "Carouge GE",
             "addr:postcode": "1227",
             "addr:street": "Rue de La-Tambourine",
             "addr:housenumber": "31"
           },
           {
-            "addr:city": "Carouge (GE)",
+            "addr:city": "Carouge GE",
             "addr:postcode": "1227",
             "addr:street": "Rue de La-Tambourine",
             "addr:housenumber": "33"

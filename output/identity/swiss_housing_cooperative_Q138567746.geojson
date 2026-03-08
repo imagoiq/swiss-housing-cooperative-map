@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/59261756",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "6",
+        "building:levels:underground": "3",
+        "name": "Warmbächli",
+        "owner": "Genossenschaft Warmbächli",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q138567746",
+        "roof:shape": "flat",
+        "start_date": "2022-11-01",
+        "wheelchair": "yes",
+        "addr": [
+          {
+            "addr:city": "Bern",
+            "addr:postcode": "3008",
+            "addr:street": "Holligerhof",
+            "addr:housenumber": "8"
+          }
+        ],
+        "id": "way/59261756",
+        "start_date_parsed": "2022-11-01T00:00:00.000Z",
+        "owner:website": "https://www.warmbaechli.ch/",
+        "owner:start_date": "2013-05-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-401.183.690"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.415728,
+              46.9475263
+            ],
+            [
+              7.4157382,
+              46.9475183
+            ],
+            [
+              7.4157769,
+              46.94752
+            ],
+            [
+              7.4157786,
+              46.9475156
+            ],
+            [
+              7.4158647,
+              46.9475356
+            ],
+            [
+              7.4159669,
+              46.947596
+            ],
+            [
+              7.4159578,
+              46.9476031
+            ],
+            [
+              7.4159593,
+              46.947604
+            ],
+            [
+              7.415916,
+              46.9476382
+            ],
+            [
+              7.4159449,
+              46.9476553
+            ],
+            [
+              7.4158537,
+              46.9477273
+            ],
+            [
+              7.4158522,
+              46.9477265
+            ],
+            [
+              7.4156872,
+              46.9478567
+            ],
+            [
+              7.4156243,
+              46.9479063
+            ],
+            [
+              7.4156813,
+              46.94794
+            ],
+            [
+              7.4154504,
+              46.9481222
+            ],
+            [
+              7.4152731,
+              46.9480175
+            ],
+            [
+              7.4151446,
+              46.9479416
+            ],
+            [
+              7.4154393,
+              46.947709
+            ],
+            [
+              7.4156953,
+              46.947507
+            ],
+            [
+              7.415728,
+              46.9475263
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/94011543",
+      "properties": {
+        "architect": "Mumenthaler & Meier",
+        "architect:wikidata": "Q136750867",
+        "building": "apartments",
+        "building:levels": "3",
+        "heritage": "6",
+        "old_name": "Moskauer Hof",
+        "owner": "Wohngenossenschaft Neuweg",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q138589426",
+        "roof:shape": "flat",
+        "wikidata": "Q136749007",
+        "wikimedia_commons": "Category:Wohngenossenschaft Neuweg (Basel)",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4058",
+            "addr:street": "Bäumlihofstrasse",
+            "addr:housenumber": "39"
+          }
+        ],
+        "id": "way/94011543"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.6124367,
+              47.5640003
+            ],
+            [
+              7.6127769,
+              47.5638166
+            ],
+            [
+              7.6131652,
+              47.5636069
+            ],
+            [
+              7.6132324,
+              47.5636632
+            ],
+            [
+              7.6125039,
+              47.5640573
+            ],
+            [
+              7.6124367,
+              47.5640003
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

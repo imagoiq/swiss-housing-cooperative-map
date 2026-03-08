@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/193282818",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "5",
+        "operator": "Wohnbaugenossenschaft der Stadtmusik Basel",
+        "operator:type": "cooperative",
+        "operator:wikidata": "Q138567790",
+        "roof:levels": "1",
+        "roof:orientation": "along",
+        "roof:shape": "gabled",
+        "source": "Geodaten Kanton Basel-Stadt",
+        "wikidata": "Q138498614",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4051",
+            "addr:street": "Schützenmattstrasse",
+            "addr:housenumber": "33"
+          }
+        ],
+        "id": "way/193282818",
+        "operator:swiss_business_uid": "CHE-101.476.498"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.580871,
+              47.5556894
+            ],
+            [
+              7.5810058,
+              47.5556172
+            ],
+            [
+              7.5810867,
+              47.5556885
+            ],
+            [
+              7.5811014,
+              47.5557014
+            ],
+            [
+              7.5810882,
+              47.5557083
+            ],
+            [
+              7.5810995,
+              47.5557183
+            ],
+            [
+              7.5811125,
+              47.5557298
+            ],
+            [
+              7.5809968,
+              47.5557998
+            ],
+            [
+              7.5809804,
+              47.5557854
+            ],
+            [
+              7.580871,
+              47.5556894
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389430992",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "5",
+        "loc_name": "Zum Basilisk",
+        "operator": "Wohnbaugenossenschaft der Stadtmusik Basel",
+        "operator:type": "cooperative",
+        "operator:wikidata": "Q138567790",
+        "roof:levels": "1",
+        "roof:orientation": "along",
+        "roof:shape": "gabled",
+        "source": "Geodaten Kanton Basel-Stadt",
+        "wikidata": "Q138498630",
+        "wikimedia_commons": "File:Schützenmattstr33-35 20260227 110656.jpg",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4051",
+            "addr:street": "Schützenmattstrasse",
+            "addr:housenumber": "35"
+          }
+        ],
+        "id": "way/389430992",
+        "operator:swiss_business_uid": "CHE-101.476.498"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5810058,
+              47.5556172
+            ],
+            [
+              7.580871,
+              47.5556894
+            ],
+            [
+              7.5808611,
+              47.5556807
+            ],
+            [
+              7.58074,
+              47.5555744
+            ],
+            [
+              7.5808381,
+              47.5555216
+            ],
+            [
+              7.5808606,
+              47.5555089
+            ],
+            [
+              7.5808881,
+              47.555533
+            ],
+            [
+              7.5809019,
+              47.5555259
+            ],
+            [
+              7.5810058,
+              47.5556172
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

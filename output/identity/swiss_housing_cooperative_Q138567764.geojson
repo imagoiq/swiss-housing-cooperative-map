@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/94229074",
+      "properties": {
+        "building": "apartments",
+        "building:flats": "11",
+        "building:levels": "3",
+        "ele": "564",
+        "owner": "Baugenossenschaft Pro Familia Kirchacker",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q138567764",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
+        "website": "https://pro-familia-kirchacker.ch/siedlungen/liebefeld",
+        "addr": [
+          {
+            "addr:city": "Liebefeld",
+            "addr:postcode": "3097",
+            "addr:street": "Gebhartstrasse",
+            "addr:housenumber": "17"
+          }
+        ],
+        "id": "way/94229074",
+        "owner:website": "https://pro-familia-kirchacker.ch/",
+        "owner:start_date": "1946-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-104.017.709"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.4303631,
+              46.9318526
+            ],
+            [
+              7.4302874,
+              46.9317512
+            ],
+            [
+              7.4302101,
+              46.9316477
+            ],
+            [
+              7.4303398,
+              46.9316026
+            ],
+            [
+              7.4304928,
+              46.9318075
+            ],
+            [
+              7.4303631,
+              46.9318526
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
