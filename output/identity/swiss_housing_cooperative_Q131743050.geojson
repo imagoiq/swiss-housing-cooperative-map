@@ -1578,13 +1578,13 @@
         "subsidized": "yes",
         "addr": [
           {
-            "addr:city": "Renens",
+            "addr:city": "Renens VD",
             "addr:postcode": "1020",
             "addr:street": "Rue du Simplon",
             "addr:housenumber": "7d"
           },
           {
-            "addr:city": "Renens",
+            "addr:city": "Renens VD",
             "addr:postcode": "1020",
             "addr:street": "Rue du Simplon",
             "addr:housenumber": "7e"
@@ -1640,19 +1640,19 @@
         "subsidized": "yes",
         "addr": [
           {
-            "addr:city": "Renens",
+            "addr:city": "Renens VD",
             "addr:postcode": "1020",
             "addr:street": "Rue du Simplon",
             "addr:housenumber": "7a"
           },
           {
-            "addr:city": "Renens",
+            "addr:city": "Renens VD",
             "addr:postcode": "1020",
             "addr:street": "Rue du Simplon",
             "addr:housenumber": "7b"
           },
           {
-            "addr:city": "Renens",
+            "addr:city": "Renens VD",
             "addr:postcode": "1020",
             "addr:street": "Rue du Simplon",
             "addr:housenumber": "7c"

@@ -60,7 +60,7 @@ At the moment, data can be checked and viewed on
 <tr>
 <td>99</td>
 <td>878</td>
-<td>11802</td>
+<td>11784</td>
 <td>54%
 </td>
 <td>53%

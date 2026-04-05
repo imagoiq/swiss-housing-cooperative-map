@@ -1673,9 +1673,13 @@
       "type": "Feature",
       "id": "way/259332196",
       "properties": {
+        "addr:city": "Ecublens VD",
+        "addr:housenumber": "14",
+        "addr:postcode": "1024",
+        "addr:street": "Chemin de la Forêt",
         "building": "apartments",
-        "building:flats": "54",
-        "building:levels": "4",
+        "building:flats": "36",
+        "building:levels": "5",
         "owner": "Société coopérative d’habitation La Maison Ouvrière",
         "owner:short": "La Maison Ouvrière",
         "owner:type": "cooperative",
@@ -1683,38 +1687,6 @@
         "roof:levels": "0",
         "roof:shape": "flat",
         "start_date": "2014",
-        "addr": [
-          {
-            "addr:city": "Ecublens",
-            "addr:postcode": "1024",
-            "addr:street": "Chemin de la Forêt",
-            "addr:housenumber": "14a"
-          },
-          {
-            "addr:city": "Ecublens",
-            "addr:postcode": "1024",
-            "addr:street": "Chemin de la Forêt",
-            "addr:housenumber": "14b"
-          },
-          {
-            "addr:city": "Ecublens",
-            "addr:postcode": "1024",
-            "addr:street": "Chemin de la Forêt",
-            "addr:housenumber": "14c"
-          },
-          {
-            "addr:city": "Ecublens",
-            "addr:postcode": "1024",
-            "addr:street": "Chemin de la Forêt",
-            "addr:housenumber": "14d"
-          },
-          {
-            "addr:city": "Ecublens",
-            "addr:postcode": "1024",
-            "addr:street": "Chemin de la Forêt",
-            "addr:housenumber": "14e"
-          }
-        ],
         "id": "way/259332196",
         "start_date_parsed": "2014-01-01T00:00:00.000Z",
         "owner:website": "https://la-maison-ouvriere.ch/",

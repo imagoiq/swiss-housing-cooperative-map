@@ -271,7 +271,7 @@
       "type": "Feature",
       "id": "way/293553154",
       "properties": {
-        "addr:city": "Renens",
+        "addr:city": "Renens VD",
         "addr:housenumber": "18a",
         "addr:postcode": "1020",
         "addr:street": "Rue du Lac",
@@ -838,7 +838,7 @@
       "type": "Feature",
       "id": "way/1265538640",
       "properties": {
-        "addr:city": "Renens",
+        "addr:city": "Renens VD",
         "addr:housenumber": "14",
         "addr:postcode": "1020",
         "addr:street": "Avenue des Paudex",
@@ -901,7 +901,7 @@
       "type": "Feature",
       "id": "way/1265538641",
       "properties": {
-        "addr:city": "Renens",
+        "addr:city": "Renens VD",
         "addr:housenumber": "12",
         "addr:postcode": "1020",
         "addr:street": "Avenue des Paudex",
@@ -976,7 +976,7 @@
       "type": "Feature",
       "id": "way/1265538642",
       "properties": {
-        "addr:city": "Renens",
+        "addr:city": "Renens VD",
         "addr:housenumber": "10",
         "addr:postcode": "1020",
         "addr:street": "Avenue des Paudex",
