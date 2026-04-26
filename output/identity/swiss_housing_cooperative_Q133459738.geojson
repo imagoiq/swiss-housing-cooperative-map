@@ -1070,32 +1070,21 @@
       "type": "Feature",
       "id": "way/180058868",
       "properties": {
+        "addr:city": "Genève",
+        "addr:country": "CH",
+        "addr:housenumber": "45",
+        "addr:postcode": "1202",
+        "addr:street": "Rue Liotard",
         "building": "apartments",
-        "building:flats": "54",
+        "building:flats": "18",
         "building:levels": "6",
-        "owner": "Fomhab",
+        "height": "21.1",
+        "owner": "Société Coopérative d'Habitation FOMHAB",
+        "owner:ref:CH:UID": "CHE-100.845.535",
         "owner:type": "cooperative",
         "owner:wikidata": "Q133459738",
-        "addr": [
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1201",
-            "addr:street": "Rue Lamartine",
-            "addr:housenumber": "41"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1201",
-            "addr:street": "Rue Lamartine",
-            "addr:housenumber": "43"
-          },
-          {
-            "addr:city": "Genève",
-            "addr:postcode": "1201",
-            "addr:street": "Rue Lamartine",
-            "addr:housenumber": "45"
-          }
-        ],
+        "ref:EGID": "1016020",
+        "source:height": "swisstopo/swissALTI3D;swissSURFACE3D",
         "id": "way/180058868",
         "owner:website": "https://gchg.ch/membre/fomhab/",
         "owner:start_date": "1947-01-01T00:00:00Z",
@@ -1110,12 +1099,16 @@
               46.2115958
             ],
             [
-              6.1296319,
-              46.212045
+              6.1296332,
+              46.2117455
             ],
             [
-              6.1294822,
-              46.2120446
+              6.1294836,
+              46.2117452
+            ],
+            [
+              6.129484,
+              46.2116646
             ],
             [
               6.1294843,
@@ -1926,6 +1919,118 @@
             [
               6.0911498,
               46.1571381
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1501685156",
+      "properties": {
+        "addr:city": "Genève",
+        "addr:country": "CH",
+        "addr:housenumber": "41",
+        "addr:postcode": "1202",
+        "addr:street": "Rue Liotard",
+        "building": "apartments",
+        "building:flats": "18",
+        "building:levels": "6",
+        "height": "21.4",
+        "owner": "Société Coopérative d'Habitation FOMHAB",
+        "owner:ref:CH:UID": "CHE-100.845.535",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133459738",
+        "ref:EGID": "1016022",
+        "source:height": "swisstopo/swissALTI3D;swissSURFACE3D",
+        "id": "way/1501685156",
+        "owner:website": "https://gchg.ch/membre/fomhab/",
+        "owner:start_date": "1947-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-100.845.535"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1296326,
+              46.2118953
+            ],
+            [
+              6.1296319,
+              46.212045
+            ],
+            [
+              6.1294822,
+              46.2120446
+            ],
+            [
+              6.1294826,
+              46.211969
+            ],
+            [
+              6.1294829,
+              46.2118949
+            ],
+            [
+              6.1296326,
+              46.2118953
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1501685157",
+      "properties": {
+        "addr:city": "Genève",
+        "addr:country": "CH",
+        "addr:housenumber": "43",
+        "addr:postcode": "1202",
+        "addr:street": "Rue Liotard",
+        "building": "apartments",
+        "building:flats": "18",
+        "building:levels": "6",
+        "height": "21.3",
+        "owner": "Société Coopérative d'Habitation FOMHAB",
+        "owner:ref:CH:UID": "CHE-100.845.535",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q133459738",
+        "ref:EGID": "1016021",
+        "source:height": "swisstopo/swissALTI3D;swissSURFACE3D",
+        "id": "way/1501685157",
+        "owner:website": "https://gchg.ch/membre/fomhab/",
+        "owner:start_date": "1947-01-01T00:00:00Z",
+        "owner:swiss_business_uid": "CHE-100.845.535"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1296332,
+              46.2117455
+            ],
+            [
+              6.1296326,
+              46.2118953
+            ],
+            [
+              6.1294829,
+              46.2118949
+            ],
+            [
+              6.1294833,
+              46.2118187
+            ],
+            [
+              6.1294836,
+              46.2117452
+            ],
+            [
+              6.1296332,
+              46.2117455
             ]
           ]
         ]
