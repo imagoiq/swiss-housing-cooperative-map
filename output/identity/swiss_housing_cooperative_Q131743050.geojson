@@ -6596,19 +6596,19 @@
         "subsidized": "yes",
         "addr": [
           {
-            "addr:city": "Lancy",
+            "addr:city": "Grand-Lancy",
             "addr:postcode": "1212",
             "addr:street": "Chemin de l'Adret",
             "addr:housenumber": "8"
           },
           {
-            "addr:city": "Lancy",
+            "addr:city": "Grand-Lancy",
             "addr:postcode": "1212",
             "addr:street": "Chemin de l'Adret",
             "addr:housenumber": "10"
           },
           {
-            "addr:city": "Lancy",
+            "addr:city": "Grand-Lancy",
             "addr:postcode": "1212",
             "addr:street": "Chemin de l'Adret",
             "addr:housenumber": "12"
