@@ -56,7 +56,7 @@ jobs:
 
       - name: Install optional dependencies
         run: |
-          npm install -g ejs
+          npm install -g ejs@5.0.2
           sudo apt-get install pandoc
           pip install --user pandoc-include
 
