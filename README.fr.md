@@ -60,8 +60,8 @@ Pour l’instant, les données peuvent être vérifiées et affichées sur
 <tbody>
 <tr>
 <td>99</td>
-<td>878</td>
-<td>11748</td>
+<td>880</td>
+<td>11784</td>
 <td>54%
 </td>
 <td>53%
