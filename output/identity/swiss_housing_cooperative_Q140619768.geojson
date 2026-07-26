@@ -1,0 +1,1939 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/318386589",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "2",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:levels": "1",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Bonfolstrasse",
+            "addr:housenumber": "10"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Bonfolstrasse",
+            "addr:housenumber": "8"
+          }
+        ],
+        "id": "way/318386589",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5593251,
+              47.5660838
+            ],
+            [
+              7.559197,
+              47.5661195
+            ],
+            [
+              7.5591906,
+              47.566109
+            ],
+            [
+              7.5591501,
+              47.5661202
+            ],
+            [
+              7.5591122,
+              47.5661308
+            ],
+            [
+              7.5591185,
+              47.5661412
+            ],
+            [
+              7.5590513,
+              47.56616
+            ],
+            [
+              7.5590038,
+              47.5660819
+            ],
+            [
+              7.5590836,
+              47.5660596
+            ],
+            [
+              7.5590902,
+              47.5660705
+            ],
+            [
+              7.5591444,
+              47.5660555
+            ],
+            [
+              7.5591379,
+              47.5660447
+            ],
+            [
+              7.5592907,
+              47.5660022
+            ],
+            [
+              7.5592973,
+              47.5660131
+            ],
+            [
+              7.5593511,
+              47.565998
+            ],
+            [
+              7.5593446,
+              47.5659873
+            ],
+            [
+              7.5594239,
+              47.5659652
+            ],
+            [
+              7.5594713,
+              47.566043
+            ],
+            [
+              7.5594039,
+              47.5660618
+            ],
+            [
+              7.5593972,
+              47.5660507
+            ],
+            [
+              7.5593612,
+              47.5660607
+            ],
+            [
+              7.5593183,
+              47.5660727
+            ],
+            [
+              7.5593251,
+              47.5660838
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318386590",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "2",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:levels": "1",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Rodersdorferstrasse",
+            "addr:housenumber": "1"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Rodersdorferstrasse",
+            "addr:housenumber": "3"
+          }
+        ],
+        "id": "way/318386590",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5602878,
+              47.5659264
+            ],
+            [
+              7.5604206,
+              47.5658678
+            ],
+            [
+              7.5604359,
+              47.5658752
+            ],
+            [
+              7.5604793,
+              47.565856
+            ],
+            [
+              7.560475,
+              47.5658437
+            ],
+            [
+              7.5605444,
+              47.5658131
+            ],
+            [
+              7.5606129,
+              47.5658837
+            ],
+            [
+              7.5605519,
+              47.5659108
+            ],
+            [
+              7.5605421,
+              47.5659007
+            ],
+            [
+              7.5605006,
+              47.5659191
+            ],
+            [
+              7.5604711,
+              47.5659322
+            ],
+            [
+              7.5604808,
+              47.5659422
+            ],
+            [
+              7.5603646,
+              47.5659934
+            ],
+            [
+              7.5603548,
+              47.5659834
+            ],
+            [
+              7.5603163,
+              47.5660004
+            ],
+            [
+              7.5602834,
+              47.566015
+            ],
+            [
+              7.5602931,
+              47.566025
+            ],
+            [
+              7.5602324,
+              47.5660519
+            ],
+            [
+              7.560164,
+              47.5659811
+            ],
+            [
+              7.5602336,
+              47.5659502
+            ],
+            [
+              7.5602484,
+              47.5659581
+            ],
+            [
+              7.560292,
+              47.5659386
+            ],
+            [
+              7.5602878,
+              47.5659264
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318386591",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "2",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:levels": "1",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Michelbacherstrasse",
+            "addr:housenumber": "21"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Michelbacherstrasse",
+            "addr:housenumber": "23"
+          }
+        ],
+        "id": "way/318386591",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5606611,
+              47.5663314
+            ],
+            [
+              7.5608277,
+              47.5662583
+            ],
+            [
+              7.5608413,
+              47.5662662
+            ],
+            [
+              7.5608872,
+              47.5662459
+            ],
+            [
+              7.5608822,
+              47.5662342
+            ],
+            [
+              7.5609682,
+              47.5661965
+            ],
+            [
+              7.5610363,
+              47.5662671
+            ],
+            [
+              7.5609585,
+              47.5663014
+            ],
+            [
+              7.5609487,
+              47.5662912
+            ],
+            [
+              7.5609029,
+              47.5663114
+            ],
+            [
+              7.5608773,
+              47.5663226
+            ],
+            [
+              7.5608868,
+              47.5663328
+            ],
+            [
+              7.5608124,
+              47.5663656
+            ],
+            [
+              7.5607374,
+              47.5663984
+            ],
+            [
+              7.5607278,
+              47.5663883
+            ],
+            [
+              7.560686,
+              47.5664067
+            ],
+            [
+              7.5606564,
+              47.5664197
+            ],
+            [
+              7.5606659,
+              47.5664299
+            ],
+            [
+              7.5605886,
+              47.5664639
+            ],
+            [
+              7.5605205,
+              47.5663933
+            ],
+            [
+              7.5606064,
+              47.5663553
+            ],
+            [
+              7.5606195,
+              47.5663631
+            ],
+            [
+              7.5606659,
+              47.5663428
+            ],
+            [
+              7.5606611,
+              47.5663314
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318386594",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "2",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:levels": "1",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Rodersdorferstrasse",
+            "addr:housenumber": "5"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Rodersdorferstrasse",
+            "addr:housenumber": "7"
+          }
+        ],
+        "id": "way/318386594",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5600078,
+              47.5661431
+            ],
+            [
+              7.5598877,
+              47.5661892
+            ],
+            [
+              7.5598789,
+              47.5661787
+            ],
+            [
+              7.5598356,
+              47.5661953
+            ],
+            [
+              7.5598041,
+              47.5662073
+            ],
+            [
+              7.559813,
+              47.5662179
+            ],
+            [
+              7.5597497,
+              47.5662421
+            ],
+            [
+              7.5596877,
+              47.5661685
+            ],
+            [
+              7.5597596,
+              47.5661409
+            ],
+            [
+              7.5597741,
+              47.5661489
+            ],
+            [
+              7.5598192,
+              47.5661315
+            ],
+            [
+              7.5598165,
+              47.5661194
+            ],
+            [
+              7.5599546,
+              47.5660661
+            ],
+            [
+              7.5599687,
+              47.5660744
+            ],
+            [
+              7.5600143,
+              47.5660568
+            ],
+            [
+              7.5600114,
+              47.5660446
+            ],
+            [
+              7.560083,
+              47.566017
+            ],
+            [
+              7.5601445,
+              47.5660902
+            ],
+            [
+              7.5600816,
+              47.5661145
+            ],
+            [
+              7.5600728,
+              47.566104
+            ],
+            [
+              7.5600341,
+              47.5661189
+            ],
+            [
+              7.5599989,
+              47.5661324
+            ],
+            [
+              7.5600078,
+              47.5661431
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318386598",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "2",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:levels": "1",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Bonfolstrasse",
+            "addr:housenumber": "2"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Bonfolstrasse",
+            "addr:housenumber": "4"
+          }
+        ],
+        "id": "way/318386598",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5602773,
+              47.5657494
+            ],
+            [
+              7.5601612,
+              47.5658004
+            ],
+            [
+              7.5601509,
+              47.5657897
+            ],
+            [
+              7.5601198,
+              47.5658033
+            ],
+            [
+              7.5600798,
+              47.5658209
+            ],
+            [
+              7.5600901,
+              47.5658317
+            ],
+            [
+              7.5600287,
+              47.5658587
+            ],
+            [
+              7.559961,
+              47.5657879
+            ],
+            [
+              7.5600337,
+              47.5657561
+            ],
+            [
+              7.560043,
+              47.5657658
+            ],
+            [
+              7.5600919,
+              47.5657444
+            ],
+            [
+              7.5600825,
+              47.5657346
+            ],
+            [
+              7.5602208,
+              47.565674
+            ],
+            [
+              7.5602302,
+              47.5656838
+            ],
+            [
+              7.5602798,
+              47.5656621
+            ],
+            [
+              7.5602705,
+              47.5656524
+            ],
+            [
+              7.5603424,
+              47.5656208
+            ],
+            [
+              7.5604099,
+              47.5656913
+            ],
+            [
+              7.5603492,
+              47.5657179
+            ],
+            [
+              7.5603399,
+              47.5657082
+            ],
+            [
+              7.5603052,
+              47.5657234
+            ],
+            [
+              7.560268,
+              47.5657397
+            ],
+            [
+              7.5602773,
+              47.5657494
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318386608",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "2",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:levels": "1",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Rodersdorferstrasse",
+            "addr:housenumber": "2"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Rodersdorferstrasse",
+            "addr:housenumber": "4"
+          }
+        ],
+        "id": "way/318386608",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5606766,
+              47.5661424
+            ],
+            [
+              7.5605275,
+              47.5662082
+            ],
+            [
+              7.5605181,
+              47.5661984
+            ],
+            [
+              7.5604854,
+              47.5662128
+            ],
+            [
+              7.5604464,
+              47.56623
+            ],
+            [
+              7.5604559,
+              47.5662399
+            ],
+            [
+              7.5603787,
+              47.5662739
+            ],
+            [
+              7.5603106,
+              47.5662032
+            ],
+            [
+              7.5603986,
+              47.5661643
+            ],
+            [
+              7.560408,
+              47.5661741
+            ],
+            [
+              7.5604585,
+              47.5661518
+            ],
+            [
+              7.560449,
+              47.5661419
+            ],
+            [
+              7.5606192,
+              47.5660669
+            ],
+            [
+              7.5606285,
+              47.5660765
+            ],
+            [
+              7.5606789,
+              47.5660543
+            ],
+            [
+              7.5606697,
+              47.5660447
+            ],
+            [
+              7.5607578,
+              47.5660059
+            ],
+            [
+              7.5608259,
+              47.5660766
+            ],
+            [
+              7.5607484,
+              47.5661107
+            ],
+            [
+              7.5607395,
+              47.5661015
+            ],
+            [
+              7.5607046,
+              47.5661169
+            ],
+            [
+              7.5606678,
+              47.5661331
+            ],
+            [
+              7.5606766,
+              47.5661424
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318386613",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "2",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:levels": "1",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Rodersdorferstrasse",
+            "addr:housenumber": "11"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Rodersdorferstrasse",
+            "addr:housenumber": "9"
+          }
+        ],
+        "id": "way/318386613",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5594376,
+              47.5663386
+            ],
+            [
+              7.5593126,
+              47.5663773
+            ],
+            [
+              7.559305,
+              47.5663661
+            ],
+            [
+              7.5592587,
+              47.5663805
+            ],
+            [
+              7.5592274,
+              47.5663902
+            ],
+            [
+              7.559235,
+              47.5664014
+            ],
+            [
+              7.5591687,
+              47.5664218
+            ],
+            [
+              7.5591163,
+              47.566345
+            ],
+            [
+              7.559192,
+              47.5663214
+            ],
+            [
+              7.5592053,
+              47.5663303
+            ],
+            [
+              7.559253,
+              47.5663157
+            ],
+            [
+              7.5592509,
+              47.5663034
+            ],
+            [
+              7.5593942,
+              47.5662588
+            ],
+            [
+              7.5594084,
+              47.5662675
+            ],
+            [
+              7.5594557,
+              47.5662528
+            ],
+            [
+              7.5594543,
+              47.5662405
+            ],
+            [
+              7.5595294,
+              47.5662172
+            ],
+            [
+              7.5595817,
+              47.566294
+            ],
+            [
+              7.5595155,
+              47.5663145
+            ],
+            [
+              7.5595082,
+              47.5663036
+            ],
+            [
+              7.5594668,
+              47.5663163
+            ],
+            [
+              7.5594302,
+              47.5663275
+            ],
+            [
+              7.5594376,
+              47.5663386
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318386614",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "2",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:levels": "1",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Michelbacherstrasse",
+            "addr:housenumber": "25"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Michelbacherstrasse",
+            "addr:housenumber": "27"
+          }
+        ],
+        "id": "way/318386614",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5603126,
+              47.5665854
+            ],
+            [
+              7.5601632,
+              47.566651
+            ],
+            [
+              7.5601537,
+              47.5666411
+            ],
+            [
+              7.5601104,
+              47.56666
+            ],
+            [
+              7.560082,
+              47.5666724
+            ],
+            [
+              7.5600917,
+              47.5666826
+            ],
+            [
+              7.5600143,
+              47.5667168
+            ],
+            [
+              7.559946,
+              47.5666461
+            ],
+            [
+              7.5600324,
+              47.566608
+            ],
+            [
+              7.5600457,
+              47.5666159
+            ],
+            [
+              7.5600915,
+              47.5665956
+            ],
+            [
+              7.5600866,
+              47.5665842
+            ],
+            [
+              7.5602532,
+              47.566511
+            ],
+            [
+              7.5602665,
+              47.5665188
+            ],
+            [
+              7.5603128,
+              47.5664984
+            ],
+            [
+              7.5603076,
+              47.5664869
+            ],
+            [
+              7.5603938,
+              47.566449
+            ],
+            [
+              7.560462,
+              47.5665197
+            ],
+            [
+              7.5603847,
+              47.5665539
+            ],
+            [
+              7.5603747,
+              47.5665435
+            ],
+            [
+              7.56033,
+              47.5665634
+            ],
+            [
+              7.5603033,
+              47.5665752
+            ],
+            [
+              7.5603126,
+              47.5665854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318386633",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "2",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:levels": "1",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Michelbacherstrasse",
+            "addr:housenumber": "29"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Michelbacherstrasse",
+            "addr:housenumber": "31"
+          }
+        ],
+        "id": "way/318386633",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5597213,
+              47.5668345
+            ],
+            [
+              7.5595647,
+              47.5668923
+            ],
+            [
+              7.5595561,
+              47.5668816
+            ],
+            [
+              7.559515,
+              47.5668967
+            ],
+            [
+              7.5594811,
+              47.5669092
+            ],
+            [
+              7.5594895,
+              47.5669199
+            ],
+            [
+              7.5594083,
+              47.5669499
+            ],
+            [
+              7.5593485,
+              47.5668757
+            ],
+            [
+              7.559438,
+              47.5668426
+            ],
+            [
+              7.5594517,
+              47.5668512
+            ],
+            [
+              7.5594992,
+              47.5668337
+            ],
+            [
+              7.5594963,
+              47.566821
+            ],
+            [
+              7.5596701,
+              47.5667569
+            ],
+            [
+              7.5596827,
+              47.5667658
+            ],
+            [
+              7.5597314,
+              47.5667479
+            ],
+            [
+              7.5597272,
+              47.5667364
+            ],
+            [
+              7.5598173,
+              47.5667031
+            ],
+            [
+              7.559877,
+              47.5667771
+            ],
+            [
+              7.5597962,
+              47.5668069
+            ],
+            [
+              7.5597877,
+              47.5667964
+            ],
+            [
+              7.5597462,
+              47.5668117
+            ],
+            [
+              7.5597127,
+              47.5668241
+            ],
+            [
+              7.5597213,
+              47.5668345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318386640",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "2",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:levels": "1",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Rodersdorferstrasse",
+            "addr:housenumber": "6"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Rodersdorferstrasse",
+            "addr:housenumber": "8"
+          }
+        ],
+        "id": "way/318386640",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5601342,
+              47.566376
+            ],
+            [
+              7.5600157,
+              47.566424
+            ],
+            [
+              7.5600063,
+              47.5664133
+            ],
+            [
+              7.5599734,
+              47.5664266
+            ],
+            [
+              7.5599327,
+              47.5664431
+            ],
+            [
+              7.5599421,
+              47.5664537
+            ],
+            [
+              7.5598799,
+              47.5664789
+            ],
+            [
+              7.5598159,
+              47.5664064
+            ],
+            [
+              7.55989,
+              47.5663765
+            ],
+            [
+              7.5598988,
+              47.5663865
+            ],
+            [
+              7.5599494,
+              47.566366
+            ],
+            [
+              7.5599406,
+              47.5663561
+            ],
+            [
+              7.5600111,
+              47.5663276
+            ],
+            [
+              7.560082,
+              47.566299
+            ],
+            [
+              7.5600906,
+              47.5663088
+            ],
+            [
+              7.5601407,
+              47.5662886
+            ],
+            [
+              7.5601318,
+              47.5662786
+            ],
+            [
+              7.5602056,
+              47.5662487
+            ],
+            [
+              7.5602696,
+              47.5663212
+            ],
+            [
+              7.5602076,
+              47.5663462
+            ],
+            [
+              7.5601987,
+              47.5663362
+            ],
+            [
+              7.5601664,
+              47.5663492
+            ],
+            [
+              7.5601253,
+              47.5663659
+            ],
+            [
+              7.5601342,
+              47.566376
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318386642",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "2",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:levels": "1",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Rodersdorferstrasse",
+            "addr:housenumber": "10"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Rodersdorferstrasse",
+            "addr:housenumber": "12"
+          }
+        ],
+        "id": "way/318386642",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5596048,
+              47.5665775
+            ],
+            [
+              7.5594469,
+              47.5666328
+            ],
+            [
+              7.5594391,
+              47.5666226
+            ],
+            [
+              7.5594023,
+              47.5666355
+            ],
+            [
+              7.5593632,
+              47.5666492
+            ],
+            [
+              7.5593713,
+              47.5666597
+            ],
+            [
+              7.5592892,
+              47.5666885
+            ],
+            [
+              7.5592316,
+              47.5666133
+            ],
+            [
+              7.5593253,
+              47.5665805
+            ],
+            [
+              7.5593331,
+              47.5665906
+            ],
+            [
+              7.5593868,
+              47.5665718
+            ],
+            [
+              7.5593789,
+              47.5665614
+            ],
+            [
+              7.559559,
+              47.5664983
+            ],
+            [
+              7.5595669,
+              47.5665085
+            ],
+            [
+              7.55962,
+              47.5664899
+            ],
+            [
+              7.5596122,
+              47.5664796
+            ],
+            [
+              7.5597057,
+              47.5664468
+            ],
+            [
+              7.5597631,
+              47.5665218
+            ],
+            [
+              7.5596807,
+              47.5665507
+            ],
+            [
+              7.5596726,
+              47.5665401
+            ],
+            [
+              7.5596316,
+              47.5665544
+            ],
+            [
+              7.5595965,
+              47.5665667
+            ],
+            [
+              7.5596048,
+              47.5665775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318386659",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "5",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:levels": "1",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Hegenheimerstrasse",
+            "addr:housenumber": "254"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Hegenheimerstrasse",
+            "addr:housenumber": "256"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Hegenheimerstrasse",
+            "addr:housenumber": "258"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Hegenheimerstrasse",
+            "addr:housenumber": "260"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Hegenheimerstrasse",
+            "addr:housenumber": "262"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Hegenheimerstrasse",
+            "addr:housenumber": "264"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Hegenheimerstrasse",
+            "addr:housenumber": "266"
+          }
+        ],
+        "id": "way/318386659",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5600361,
+              47.5652466
+            ],
+            [
+              7.5588113,
+              47.5655856
+            ],
+            [
+              7.5587466,
+              47.5654782
+            ],
+            [
+              7.5588207,
+              47.5654578
+            ],
+            [
+              7.5589995,
+              47.5654084
+            ],
+            [
+              7.5591714,
+              47.565361
+            ],
+            [
+              7.5593469,
+              47.5653126
+            ],
+            [
+              7.5595213,
+              47.5652643
+            ],
+            [
+              7.5596928,
+              47.5652169
+            ],
+            [
+              7.55987,
+              47.5651681
+            ],
+            [
+              7.5599722,
+              47.5651399
+            ],
+            [
+              7.5600361,
+              47.5652466
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318386661",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "2",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:levels": "1",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Bonfolstrasse",
+            "addr:housenumber": "3"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Bonfolstrasse",
+            "addr:housenumber": "5"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Bonfolstrasse",
+            "addr:housenumber": "7"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Bonfolstrasse",
+            "addr:housenumber": "9"
+          }
+        ],
+        "id": "way/318386661",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5600022,
+              47.5656039
+            ],
+            [
+              7.5598847,
+              47.5656454
+            ],
+            [
+              7.5597631,
+              47.5656883
+            ],
+            [
+              7.5596384,
+              47.5657324
+            ],
+            [
+              7.5595805,
+              47.5657529
+            ],
+            [
+              7.5595313,
+              47.5656891
+            ],
+            [
+              7.5600324,
+              47.5655117
+            ],
+            [
+              7.5600812,
+              47.5655759
+            ],
+            [
+              7.5600022,
+              47.5656039
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318386699",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "2",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:levels": "1",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Bonfolstrasse",
+            "addr:housenumber": "11"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Bonfolstrasse",
+            "addr:housenumber": "13"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Bonfolstrasse",
+            "addr:housenumber": "15"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Bonfolstrasse",
+            "addr:housenumber": "17"
+          }
+        ],
+        "id": "way/318386699",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5588985,
+              47.5658355
+            ],
+            [
+              7.5594216,
+              47.5656909
+            ],
+            [
+              7.5594619,
+              47.5657578
+            ],
+            [
+              7.5593808,
+              47.5657802
+            ],
+            [
+              7.5592573,
+              47.5658144
+            ],
+            [
+              7.5591236,
+              47.5658514
+            ],
+            [
+              7.5589914,
+              47.565888
+            ],
+            [
+              7.558939,
+              47.5659025
+            ],
+            [
+              7.5588985,
+              47.5658355
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318386713",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "2",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:levels": "1",
+        "source": "Geodaten Kanton Basel-Stadt",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Bonfolstrasse",
+            "addr:housenumber": "1"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Oltingerstrasse",
+            "addr:housenumber": "56"
+          }
+        ],
+        "id": "way/318386713",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5602001,
+              47.565463
+            ],
+            [
+              7.5601427,
+              47.5654833
+            ],
+            [
+              7.5600909,
+              47.5655016
+            ],
+            [
+              7.559985,
+              47.5653642
+            ],
+            [
+              7.5600938,
+              47.5653255
+            ],
+            [
+              7.5601267,
+              47.565368
+            ],
+            [
+              7.5602001,
+              47.565463
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318386808",
+      "properties": {
+        "building": "apartments",
+        "building:levels": "2",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:levels": "1",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Bonfolstrasse",
+            "addr:housenumber": "6"
+          }
+        ],
+        "id": "way/318386808",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5597064,
+              47.5658848
+            ],
+            [
+              7.55988,
+              47.5658246
+            ],
+            [
+              7.559895,
+              47.5658444
+            ],
+            [
+              7.55991,
+              47.5658392
+            ],
+            [
+              7.5599194,
+              47.5658516
+            ],
+            [
+              7.5599044,
+              47.5658568
+            ],
+            [
+              7.5599283,
+              47.5658884
+            ],
+            [
+              7.5599067,
+              47.5658959
+            ],
+            [
+              7.5597547,
+              47.5659486
+            ],
+            [
+              7.5597064,
+              47.5658848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318389001",
+      "properties": {
+        "building": "apartments",
+        "owner": "Wohngenossenschaft Belforterstrasse",
+        "owner:type": "cooperative",
+        "owner:wikidata": "Q140619768",
+        "roof:shape": "hipped",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Felsplattenstrasse",
+            "addr:housenumber": "23"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Felsplattenstrasse",
+            "addr:housenumber": "25"
+          },
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
+            "addr:street": "Felsplattenstrasse",
+            "addr:housenumber": "27"
+          }
+        ],
+        "id": "way/318389001",
+        "owner:website": "https://www.wg-belforter.ch/",
+        "owner:swiss_business_uid": "CHE-107.302.454"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5599457,
+              47.5639921
+            ],
+            [
+              7.559999,
+              47.5640936
+            ],
+            [
+              7.5600058,
+              47.5640918
+            ],
+            [
+              7.5600282,
+              47.564129
+            ],
+            [
+              7.5598717,
+              47.5641723
+            ],
+            [
+              7.5598183,
+              47.5640835
+            ],
+            [
+              7.559735,
+              47.563945
+            ],
+            [
+              7.5596583,
+              47.5638176
+            ],
+            [
+              7.5596336,
+              47.5637765
+            ],
+            [
+              7.5597897,
+              47.563733
+            ],
+            [
+              7.5598181,
+              47.56378
+            ],
+            [
+              7.5598113,
+              47.5637819
+            ],
+            [
+              7.5598985,
+              47.5639136
+            ],
+            [
+              7.5598917,
+              47.5639155
+            ],
+            [
+              7.5599457,
+              47.5639921
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
