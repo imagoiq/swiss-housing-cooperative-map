@@ -13,50 +13,74 @@
         "wikidata": "Q140615918",
         "addr": [
           {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
             "addr:street": "Burgfelderstrasse",
             "addr:housenumber": "226"
           },
           {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
             "addr:street": "Burgfelderstrasse",
             "addr:housenumber": "240"
           },
           {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
             "addr:street": "Burgfelderstrasse",
             "addr:housenumber": "238"
           },
           {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
             "addr:street": "Burgfelderstrasse",
             "addr:housenumber": "236"
           },
           {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
             "addr:street": "Burgfelderstrasse",
             "addr:housenumber": "234"
           },
           {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
             "addr:street": "Burgfelderstrasse",
             "addr:housenumber": "232"
           },
           {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
             "addr:street": "Burgfelderstrasse",
             "addr:housenumber": "230"
           },
           {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
             "addr:street": "Burgfelderstrasse",
             "addr:housenumber": "228"
           },
           {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
             "addr:street": "Burgfelderstrasse",
             "addr:housenumber": "224"
           },
           {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
             "addr:street": "Burgfelderstrasse",
             "addr:housenumber": "222"
           },
           {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
             "addr:street": "Burgfelderstrasse",
             "addr:housenumber": "220"
           },
           {
+            "addr:city": "Basel",
+            "addr:postcode": "4055",
             "addr:street": "Burgfelderstrasse",
             "addr:housenumber": "218"
           }
