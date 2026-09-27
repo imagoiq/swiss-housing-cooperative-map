@@ -59,13 +59,13 @@ At the moment, data can be checked and viewed on
 <tbody>
 <tr>
 <td>101</td>
-<td>898</td>
+<td>899</td>
 <td>11784</td>
 <td>52%
 </td>
 <td>52%
 </td>
-<td>34%
+<td>33%
 </td>
 <td>18%
 </td>

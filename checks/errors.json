@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "way/448844030",
+    "errors": [
+      "Missing owner:wikidata"
+    ]
+  }
+]
