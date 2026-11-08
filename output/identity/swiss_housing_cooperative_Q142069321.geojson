@@ -1,0 +1,327 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/345981044",
+      "properties": {
+        "architect": "Arnold Gfeller;Hans Mähly",
+        "architect:wikidata": "Q15438259;Q15428705",
+        "building": "apartments",
+        "building:levels": "13",
+        "heritage": "6",
+        "operator": "Wohngenossenschaft Entenweid",
+        "operator:type": "cooperative",
+        "operator:wikidata": "Q142069321",
+        "roof:shape": "flat",
+        "source": "Geodaten Basel-Stadt",
+        "wikidata": "Q142069216",
+        "wikimedia_commons": "File:Entenweid1 20261106 162023.jpg",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4056",
+            "addr:street": "Flughafenstrasse",
+            "addr:housenumber": "4"
+          }
+        ],
+        "id": "way/345981044",
+        "operator:website": "https://www.wohngenossenschaft-entenweid.ch/",
+        "operator:swiss_business_uid": "CHE-107.302.460"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5728927,
+              47.5665049
+            ],
+            [
+              7.5730401,
+              47.5665245
+            ],
+            [
+              7.5730949,
+              47.5665411
+            ],
+            [
+              7.5730788,
+              47.5665824
+            ],
+            [
+              7.5730888,
+              47.5665842
+            ],
+            [
+              7.5730495,
+              47.5666852
+            ],
+            [
+              7.5730394,
+              47.5666834
+            ],
+            [
+              7.5730232,
+              47.566725
+            ],
+            [
+              7.5729645,
+              47.5667185
+            ],
+            [
+              7.5729636,
+              47.5667207
+            ],
+            [
+              7.572821,
+              47.5666885
+            ],
+            [
+              7.5728373,
+              47.5666471
+            ],
+            [
+              7.5728272,
+              47.5666453
+            ],
+            [
+              7.5728425,
+              47.5666063
+            ],
+            [
+              7.5728665,
+              47.5665446
+            ],
+            [
+              7.5728765,
+              47.5665464
+            ],
+            [
+              7.5728927,
+              47.5665049
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/345981045",
+      "properties": {
+        "architect": "Arnold Gfeller;Hans Mähly",
+        "architect:wikidata": "Q15438259;Q15428705",
+        "building": "apartments",
+        "building:levels": "13",
+        "heritage": "6",
+        "operator": "Wohngenossenschaft Entenweid",
+        "operator:type": "cooperative",
+        "operator:wikidata": "Q142069321",
+        "roof:shape": "flat",
+        "source": "Geodaten Basel-Stadt",
+        "wikidata": "Q142069350",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4056",
+            "addr:street": "Flughafenstrasse",
+            "addr:housenumber": "6"
+          }
+        ],
+        "id": "way/345981045",
+        "operator:website": "https://www.wohngenossenschaft-entenweid.ch/",
+        "operator:swiss_business_uid": "CHE-107.302.460"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5725057,
+              47.5670456
+            ],
+            [
+              7.5723624,
+              47.5670131
+            ],
+            [
+              7.5723787,
+              47.5669718
+            ],
+            [
+              7.5723687,
+              47.56697
+            ],
+            [
+              7.5723818,
+              47.5669364
+            ],
+            [
+              7.5724081,
+              47.566869
+            ],
+            [
+              7.572418,
+              47.5668708
+            ],
+            [
+              7.5724338,
+              47.5668294
+            ],
+            [
+              7.5724935,
+              47.566833
+            ],
+            [
+              7.5726364,
+              47.5668654
+            ],
+            [
+              7.5726203,
+              47.5669067
+            ],
+            [
+              7.5726303,
+              47.5669085
+            ],
+            [
+              7.5725911,
+              47.5670097
+            ],
+            [
+              7.5725811,
+              47.5670079
+            ],
+            [
+              7.5725648,
+              47.5670494
+            ],
+            [
+              7.5725064,
+              47.5670433
+            ],
+            [
+              7.5725057,
+              47.5670456
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/345981046",
+      "properties": {
+        "architect": "Arnold Gfeller;Hans Mähly",
+        "architect:wikidata": "Q15438259;Q15428705",
+        "building": "apartments",
+        "building:levels": "13",
+        "heritage": "6",
+        "operator": "Wohngenossenschaft Entenweid",
+        "operator:type": "cooperative",
+        "operator:wikidata": "Q142069321",
+        "roof:shape": "flat",
+        "source": "Geodaten Basel-Stadt",
+        "wikidata": "Q142069372",
+        "addr": [
+          {
+            "addr:city": "Basel",
+            "addr:postcode": "4056",
+            "addr:street": "Flughafenstrasse",
+            "addr:housenumber": "8"
+          }
+        ],
+        "id": "way/345981046",
+        "operator:website": "https://www.wohngenossenschaft-entenweid.ch/",
+        "operator:swiss_business_uid": "CHE-107.302.460"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5719098,
+              47.5672945
+            ],
+            [
+              7.5719255,
+              47.5672546
+            ],
+            [
+              7.5719494,
+              47.5671936
+            ],
+            [
+              7.5719596,
+              47.5671953
+            ],
+            [
+              7.5719756,
+              47.5671541
+            ],
+            [
+              7.5720345,
+              47.5671602
+            ],
+            [
+              7.5720352,
+              47.5671578
+            ],
+            [
+              7.5721779,
+              47.5671899
+            ],
+            [
+              7.5721616,
+              47.5672314
+            ],
+            [
+              7.5721718,
+              47.5672332
+            ],
+            [
+              7.5721323,
+              47.5673343
+            ],
+            [
+              7.5721222,
+              47.5673325
+            ],
+            [
+              7.5721065,
+              47.5673739
+            ],
+            [
+              7.5720474,
+              47.5673677
+            ],
+            [
+              7.5720465,
+              47.5673699
+            ],
+            [
+              7.5719587,
+              47.5673541
+            ],
+            [
+              7.5719596,
+              47.5673516
+            ],
+            [
+              7.5719042,
+              47.5673375
+            ],
+            [
+              7.5719203,
+              47.5672961
+            ],
+            [
+              7.5719098,
+              47.5672945
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
